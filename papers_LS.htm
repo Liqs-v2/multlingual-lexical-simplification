@@ -1,0 +1,3381 @@
+<!DOCTYPE html>
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="Content-Security-Policy" content="script-src 'none'; media-src 'none'">
+		<title>Zotero-Bericht</title>
+		<link rel="stylesheet" type="text/css" href="data:text/css;base64,Ym9keSB7CgliYWNrZ3JvdW5kOiB3aGl0ZTsKfQoKYSB7Cgl0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsKfQoKYm9keSB7CglwYWRkaW5nOiAwOwp9Cgp1bC5yZXBvcnQgbGkuaXRlbSB7Cglib3JkZXItdG9wOiA0cHggc29saWQgIzU1NTsKCXBhZGRpbmctdG9wOiAxZW07CglwYWRkaW5nLWxlZnQ6IDFlbTsKCXBhZGRpbmctcmlnaHQ6IDFlbTsKCW1hcmdpbi1ib3R0b206IDJlbTsKfQoKaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7Cglmb250LXdlaWdodDogbm9ybWFsOwp9CgpoMiB7CgltYXJnaW46IDAgMCAuNWVtOwp9CgpoMi5wYXJlbnRJdGVtIHsKCWZvbnQtd2VpZ2h0OiBib2xkOwoJZm9udC1zaXplOiAxZW07CglwYWRkaW5nOiAwIDAgLjVlbTsKCWJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwp9CgovKiBJZiBjb21iaW5pbmcgY2hpbGRyZW4sIGRpc3BsYXkgcGFyZW50IHNsaWdodGx5IGxhcmdlciAqLwp1bC5yZXBvcnQuY29tYmluZUNoaWxkSXRlbXMgaDIucGFyZW50SXRlbSB7Cglmb250LXNpemU6IDEuMWVtOwoJcGFkZGluZy1ib3R0b206IC43NWVtOwoJbWFyZ2luLWJvdHRvbTogLjRlbTsKfQoKaDIucGFyZW50SXRlbSAudGl0bGUgewoJZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKaDMgewoJbWFyZ2luLWJvdHRvbTogLjZlbTsKCWZvbnQtd2VpZ2h0OiBib2xkICFpbXBvcnRhbnQ7Cglmb250LXNpemU6IDFlbTsKCWRpc3BsYXk6IGJsb2NrOwp9CgovKiBNZXRhZGF0YSB0YWJsZSAqLwp0aCB7Cgl2ZXJ0aWNhbC1hbGlnbjogdG9wOwoJdGV4dC1hbGlnbjogcmlnaHQ7Cgl3aWR0aDogMTUlOwoJd2hpdGUtc3BhY2U6IG5vd3JhcDsKfQoKdGQgewoJcGFkZGluZy1sZWZ0OiAuNWVtOwp9CgoKdWwucmVwb3J0LCB1bC5ub3RlcywgdWwudGFncyB7CglsaXN0LXN0eWxlOiBub25lOwoJbWFyZ2luLWxlZnQ6IDA7CglwYWRkaW5nLWxlZnQ6IDA7Cn0KCi8qIFRhZ3MgKi8KaDMudGFncyB7Cglmb250LXNpemU6IDEuMWVtOwp9Cgp1bC50YWdzIHsKCWxpbmUtaGVpZ2h0OiAxLjc1ZW07CglsaXN0LXN0eWxlOiBub25lOwp9Cgp1bC50YWdzIGxpIHsKCWRpc3BsYXk6IGlubGluZTsKfQoKdWwudGFncyBsaTpub3QoOmxhc3QtY2hpbGQpOmFmdGVyIHsKCWNvbnRlbnQ6ICcsICc7Cn0KCgovKiBDaGlsZCBub3RlcyAqLwpoMy5ub3RlcyB7Cglmb250LXNpemU6IDEuMWVtOwp9Cgp1bC5ub3RlcyB7CgltYXJnaW4tYm90dG9tOiAxLjJlbTsKfQoKdWwubm90ZXMgPiBsaTpmaXJzdC1jaGlsZCBwIHsKCW1hcmdpbi10b3A6IDA7Cn0KCnVsLm5vdGVzID4gbGkgewoJcGFkZGluZzogLjdlbSAwOwp9Cgp1bC5ub3RlcyA+IGxpOm5vdCg6bGFzdC1jaGlsZCkgewoJYm9yZGVyLWJvdHRvbTogMXB4ICNjY2Mgc29saWQ7Cn0KCgp1bC5ub3RlcyA+IGxpIHA6Zmlyc3QtY2hpbGQgewoJbWFyZ2luLXRvcDogMDsKfQoKdWwubm90ZXMgPiBsaSBwOmxhc3QtY2hpbGQgewoJbWFyZ2luLWJvdHRvbTogMDsKfQoKLyogQWRkIHF1b3RhdGlvbiBtYXJrcyBhcm91bmQgYmxvY2txdW90ZSAqLwp1bC5ub3RlcyA+IGxpIGJsb2NrcXVvdGUgcDpub3QoOmVtcHR5KTpiZWZvcmUsCmxpLm5vdGUgYmxvY2txdW90ZSBwOm5vdCg6ZW1wdHkpOmJlZm9yZSB7Cgljb250ZW50OiAn4oCcJzsKfQoKdWwubm90ZXMgPiBsaSBibG9ja3F1b3RlIHA6bm90KDplbXB0eSk6bGFzdC1jaGlsZDphZnRlciwKbGkubm90ZSBibG9ja3F1b3RlIHA6bm90KDplbXB0eSk6bGFzdC1jaGlsZDphZnRlciB7Cgljb250ZW50OiAn4oCdJzsKfQoKLyogUHJlc2VydmUgd2hpdGVzcGFjZSBvbiBwbGFpbnRleHQgbm90ZXMgKi8KdWwubm90ZXMgbGkgcC5wbGFpbnRleHQsIGxpLm5vdGUgcC5wbGFpbnRleHQsIGRpdi5ub3RlIHAucGxhaW50ZXh0IHsKCXdoaXRlLXNwYWNlOiBwcmUtd3JhcDsKfQoKLyogRGlzcGxheSB0YWdzIHdpdGhpbiBjaGlsZCBub3RlcyBpbmxpbmUgKi8KdWwubm90ZXMgaDMudGFncyB7CglkaXNwbGF5OiBpbmxpbmU7Cglmb250LXNpemU6IDFlbTsKfQoKdWwubm90ZXMgaDMudGFnczphZnRlciB7Cgljb250ZW50OiAnICc7Cn0KCnVsLm5vdGVzIHVsLnRhZ3MgewoJZGlzcGxheTogaW5saW5lOwp9Cgp1bC5ub3RlcyB1bC50YWdzIGxpOm5vdCg6bGFzdC1jaGlsZCk6YWZ0ZXIgewoJY29udGVudDogJywgJzsKfQoKCi8qIENoaWxkIGF0dGFjaG1lbnRzICovCmgzLmF0dGFjaG1lbnRzIHsKCWZvbnQtc2l6ZTogMS4xZW07Cn0KCnVsLmF0dGFjaG1lbnRzIGxpIHsKCXBhZGRpbmctdG9wOiAuNWVtOwp9Cgp1bC5hdHRhY2htZW50cyBkaXYubm90ZSB7CgltYXJnaW4tbGVmdDogMmVtOwp9Cgp1bC5hdHRhY2htZW50cyBkaXYubm90ZSBwOmZpcnN0LWNoaWxkIHsKCW1hcmdpbi10b3A6IC43NWVtOwp9CgpkaXYgdGFibGUgewoJYm9yZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTsKfQoKZGl2IHRhYmxlIHRkLCBkaXYgdGFibGUgdGggewoJYm9yZGVyOiAxcHggI2NjYyBzb2xpZDsKCWJvcmRlci1jb2xsYXBzZTogY29sbGFwc2U7Cgl3b3JkLWJyZWFrOiBicmVhay1hbGw7Cn0KCmRpdiB0YWJsZSB0ZCBwOmVtcHR5OjphZnRlciwgZGl2IHRhYmxlIHRoIHA6ZW1wdHk6OmFmdGVyIHsKCWNvbnRlbnQ6ICJcMDBhMCI7Cn0KCmRpdiB0YWJsZSB0ZCAqOmZpcnN0LWNoaWxkLCBkaXYgdGFibGUgdGggKjpmaXJzdC1jaGlsZCB7CgltYXJnaW4tdG9wOiAwOwp9CgpkaXYgdGFibGUgdGQgKjpsYXN0LWNoaWxkLCBkaXYgdGFibGUgdGggKjpsYXN0LWNoaWxkIHsKCW1hcmdpbi1ib3R0b206IDA7Cn0K">
+		<link rel="stylesheet" type="text/css" media="screen,projection" href="data:text/css;base64,LyogR2VuZXJpYyBzdHlsZXMgKi8KYm9keSB7Cglmb250OiA2Mi41JSBHZW9yZ2lhLCBUaW1lcywgc2VyaWY7Cgl3aWR0aDogNzgwcHg7CgltYXJnaW46IDAgYXV0bzsKfQoKaDIgewoJZm9udC1zaXplOiAxLjVlbTsKCWxpbmUtaGVpZ2h0OiAxLjVlbTsKCWZvbnQtZmFtaWx5OiBHZW9yZ2lhLCBUaW1lcywgc2VyaWY7Cn0KCnAgewoJbGluZS1oZWlnaHQ6IDEuNWVtOwp9CgphOmxpbmssIGE6dmlzaXRlZCB7Cgljb2xvcjogIzkwMDsKfQoKYTpob3ZlciwgYTphY3RpdmUgewoJY29sb3I6ICM3Nzc7Cn0KCgp1bC5yZXBvcnQgewoJZm9udC1zaXplOiAxLjRlbTsKCXdpZHRoOiA2ODBweDsKCW1hcmdpbjogMCBhdXRvOwoJcGFkZGluZzogMjBweCAyMHB4Owp9CgovKiBNZXRhZGF0YSB0YWJsZSAqLwp0YWJsZSB7Cglib3JkZXI6IDFweCAjY2NjIHNvbGlkOwoJb3ZlcmZsb3c6IGF1dG87Cgl3aWR0aDogMTAwJTsKCW1hcmdpbjogLjFlbSBhdXRvIC43NWVtOwoJcGFkZGluZzogMC41ZW07Cn0K">
+		<link rel="stylesheet" type="text/css" media="print" href="data:text/css;base64,Ym9keSB7Cglmb250OiAxMnB0ICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgR2VvcmdpYSwgc2VyaWY7CgltYXJnaW46IDA7Cgl3aWR0aDogYXV0bzsKCWNvbG9yOiBibGFjazsKfQoKLyogUGFnZSBCcmVha3MgKHBhZ2UtYnJlYWstaW5zaWRlIG9ubHkgcmVjb2duaXplZCBieSBPcGVyYSkgKi8KaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7CglwYWdlLWJyZWFrLWFmdGVyOiBhdm9pZDsKCXBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsKfQoKdWwsIG9sLCBkbCB7CglwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Cgljb2xvci1hZGp1c3Q6IGV4YWN0Owp9CgpoMiB7Cglmb250LXNpemU6IDEuM2VtOwoJbGluZS1oZWlnaHQ6IDEuM2VtOwp9CgphIHsKCWNvbG9yOiAjMDAwOwoJdGV4dC1kZWNvcmF0aW9uOiBub25lOwp9Cg==">
+	</head>
+	<body>
+		<ul class="report combineChildItems">
+			<li id="item_5F34RMJG" class="item conferencePaper">
+			<h2>A Dive into Lexical Simplification with Pre-trained Model</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Konferenz-Paper</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Chengxue Yang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Zhijuan Wang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yu Zhang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xiaobing Zhao</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-10-27</td>
+					</tr>
+					<tr>
+					<th>Sprache</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>DOI.org (Crossref)</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://dl.acm.org/doi/10.1145/3650215.3650233">https://dl.acm.org/doi/10.1145/3650215.3650233</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>23.4.2024, 15:10:01</td>
+					</tr>
+					<tr>
+					<th>Ort</th>
+						<td>Hangzhou China</td>
+					</tr>
+					<tr>
+					<th>Verlag</th>
+						<td>ACM</td>
+					</tr>
+					<tr>
+					<th>ISBN</th>
+						<td>9798400709449</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>92-95</td>
+					</tr>
+					<tr>
+					<th>Titel des Konferenzbandes</th>
+						<td>2023 4th International Conference on Machine Learning and Computer Application</td>
+					</tr>
+					<tr>
+					<th>Name der Konferenz</th>
+						<td>ICMLCA 2023: 2023 4th International Conference on Machine Learning and Computer Application</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1145/3650215.3650233">10.1145/3650215.3650233</a></td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>23.4.2024, 15:10:01</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 15:10:43</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Prompting</li>
+					<li>Simplification</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_QWZFHFCK">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_6XCIBGPZ" class="item preprint">
+			<h2>An LLM-Enhanced Adversarial Editing System for Lexical Simplification</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Keren Tan</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kangyang Luo</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yunshi Lan</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Zheng Yuan</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jinlong Shu</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Lexical Simplification (LS) aims to simplify text at the 
+lexical level. Existing methods rely heavily on annotated data, making 
+it challenging to apply in low-resource scenarios. In this paper, we 
+propose a novel LS method without parallel corpora. This method employs 
+an Adversarial Editing System with guidance from a confusion loss and an
+ invariance loss to predict lexical edits in the original sentences. 
+Meanwhile, we introduce an innovative LLM-enhanced loss to enable the 
+distillation of knowledge from Large Language Models (LLMs) into a 
+small-size LS system. From that, complex words within sentences are 
+masked and a Difficulty-aware Filling module is crafted to replace 
+masked positions with simpler words. At last, extensive experimental 
+results and analyses on three benchmark LS datasets demonstrate the 
+effectiveness of our proposed method.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2024-03-22</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2402.14704">http://arxiv.org/abs/2402.14704</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 08:36:56</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2402.14704 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2402.14704">10.48550/arXiv.2402.14704</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2402.14704</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 11:00:08</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>LLMs</li>
+					<li>Tobias</li>
+					<li>Simplification</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_KCXEL6U2">
+<div><div data-schema-version="8"><p>LLMs are biased to predicting 
+answers wrt what is towards the end of the prompt (recency and 
+vanishing) and prominence in training data. </p>
+<p><strong>Prompt format and training examples</strong> can cause the <strong>model performance to vary from near chance to SOTA</strong>.</p>
+<p>Three factors affecting this:</p>
+<ul>
+<li>
+Promptformat
+</li>
+<li>
+Set of fewshot examples
+</li>
+<li>
+Permutation/Ordering of fewshot examples
+</li>
+</ul>
+</div></div>
+					</li>
+					<li id="item_DKFYVJFI">
+<p class="plaintext">Comment: Accepted by COLING 2024 main conference</p>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_EYBBY68Z">arXiv Fulltext PDF					</li>
+					<li id="item_5WNUNRDX">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_XFPPRNKL" class="item preprint">
+			<h2>Automatic Chain of Thought Prompting in Large Language Models</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Zhuosheng Zhang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Aston Zhang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Mu Li</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Alex Smola</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Large language models (LLMs) can perform complex reasoning by 
+generating intermediate reasoning steps. Providing these steps for 
+prompting demonstrations is called chain-of-thought (CoT) prompting. CoT
+ prompting has two major paradigms. One leverages a simple prompt like 
+"Let's think step by step" to facilitate step-by-step thinking before 
+answering a question. The other uses a few manual demonstrations one by 
+one, each composed of a question and a reasoning chain that leads to an 
+answer. The superior performance of the second paradigm hinges on the 
+hand-crafting of task-specific demonstrations one by one. We show that 
+such manual efforts may be eliminated by leveraging LLMs with the "Let's
+ think step by step" prompt to generate reasoning chains for 
+demonstrations one by one, i.e., let's think not just step by step, but 
+also one by one. However, these generated chains often come with 
+mistakes. To mitigate the effect of such mistakes, we find that 
+diversity matters for automatically constructing demonstrations. We 
+propose an automatic CoT prompting method: Auto-CoT. It samples 
+questions with diversity and generates reasoning chains to construct 
+demonstrations. On ten public benchmark reasoning tasks with GPT-3, 
+Auto-CoT consistently matches or exceeds the performance of the CoT 
+paradigm that requires manual designs of demonstrations. Code is 
+available at https://github.com/amazon-research/auto-cot</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2022-10-07</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2210.03493">http://arxiv.org/abs/2210.03493</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 13:26:43</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2210.03493 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2210.03493">10.48550/arXiv.2210.03493</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2210.03493</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 13:26:43</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 13:27:10</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Few-shot</li>
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Reasoning</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_9UTFLQQZ">arXiv Fulltext PDF					</li>
+					<li id="item_RWU8SNEE">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_JYPG6G65" class="item conferencePaper">
+			<h2>Benchmarking Lexical Simplification Systems</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Konferenz-Paper</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Gustavo Paetzold</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Lucia Specia</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Nicoletta Calzolari</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Khalid Choukri</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Thierry Declerck</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Sara Goggi</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Marko Grobelnik</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Bente Maegaard</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Joseph Mariani</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Helene Mazo</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Asuncion Moreno</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Jan Odijk</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Stelios Piperidis</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Lexical Simplification is the task of replacing complex words 
+in a text with simpler alternatives. A variety of strategies have been 
+devised for this challenge, yet there has been little effort in 
+comparing their performance. In this contribution, we present a 
+benchmarking of several Lexical Simplification systems. By combining 
+resources created in previous work with automatic spelling and 
+inflection correction techniques, we introduce BenchLS: a new evaluation
+ dataset for the task. Using BenchLS, we evaluate the performance of 
+solutions for various steps in the typical Lexical Simplification 
+pipeline, both individually and jointly. This is the first time Lexical 
+Simplification systems are compared in such fashion on the same data, 
+and the findings introduce many contributions to the field, revealing 
+several interesting properties of the systems evaluated.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2016-05</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>ACLWeb</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://aclanthology.org/L16-1491">https://aclanthology.org/L16-1491</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 08:50:05</td>
+					</tr>
+					<tr>
+					<th>Ort</th>
+						<td>Portorož, Slovenia</td>
+					</tr>
+					<tr>
+					<th>Verlag</th>
+						<td>European Language Resources Association (ELRA)</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>3074–3080</td>
+					</tr>
+					<tr>
+					<th>Titel des Konferenzbandes</th>
+						<td>Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16)</td>
+					</tr>
+					<tr>
+					<th>Name der Konferenz</th>
+						<td>LREC 2016</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 11:00:04</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Tobias</li>
+					<li>Simplification</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_DPWG8H7B">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_GIJ5KMLN" class="item preprint">
+			<h2>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jacob Devlin</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Ming-Wei Chang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kenton Lee</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kristina Toutanova</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>We introduce a new language representation model called BERT, 
+which stands for Bidirectional Encoder Representations from 
+Transformers. Unlike recent language representation models, BERT is 
+designed to pre-train deep bidirectional representations from unlabeled 
+text by jointly conditioning on both left and right context in all 
+layers. As a result, the pre-trained BERT model can be fine-tuned with 
+just one additional output layer to create state-of-the-art models for a
+ wide range of tasks, such as question answering and language inference,
+ without substantial task-specific architecture modifications. BERT is 
+conceptually simple and empirically powerful. It obtains new 
+state-of-the-art results on eleven natural language processing tasks, 
+including pushing the GLUE score to 80.5% (7.7% point absolute 
+improvement), MultiNLI accuracy to 86.7% (4.6% absolute improvement), 
+SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
+improvement) and SQuAD v2.0 Test F1 to 83.1 (5.1 point absolute 
+improvement).</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2019-05-24</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>BERT</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/1810.04805">http://arxiv.org/abs/1810.04805</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 11:14:22</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:1810.04805 [cs]</td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:1810.04805</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 11:14:22</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 09:39:35</td>
+					</tr>
+				</tbody></table>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_JVDNKTFV">arXiv.org Snapshot					</li>
+					<li id="item_FCF8HKA4">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_XKIVFXCP" class="item preprint">
+			<h2>Calibrate Before Use: Improving Few-Shot Performance of Language Models</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Tony Z. Zhao</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Eric Wallace</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Shi Feng</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Dan Klein</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Sameer Singh</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>GPT-3 can perform numerous tasks when provided a natural 
+language prompt that contains a few training examples. We show that this
+ type of few-shot learning can be unstable: the choice of prompt format,
+ training examples, and even the order of the training examples can 
+cause accuracy to vary from near chance to near state-of-the-art. We 
+demonstrate that this instability arises from the bias of language 
+models towards predicting certain answers, e.g., those that are placed 
+near the end of the prompt or are common in the pre-training data. To 
+mitigate this, we first estimate the model's bias towards each answer by
+ asking for its prediction when given the training prompt and a 
+content-free test input such as "N/A". We then fit calibration 
+parameters that cause the prediction for this input to be uniform across
+ answers. On a diverse set of tasks, this contextual calibration 
+procedure substantially improves GPT-3 and GPT-2's average accuracy (up 
+to 30.0% absolute) and reduces variance across different choices of the 
+prompt.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2021-06-10</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>Calibrate Before Use</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2102.09690">http://arxiv.org/abs/2102.09690</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 09:52:06</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2102.09690 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2102.09690">10.48550/arXiv.2102.09690</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2102.09690</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 11:00:01</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Few-shot</li>
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_IH6SLJKP">
+<div><div data-schema-version="8"><p>Prompt format, set of training examples and their ordering/permutation matter a lot in few-shot settings.</p>
+<p>They investigate the models bias towards a certain output by passing a context-free token such as N/A.</p>
+<p>Main pitfalls are: recency bias, majority label bias, and common token bias wrt LM performance.</p>
+<p>With this, we can also improve the performance of smaller LLMs to 
+match that of huge ones. LLMs with contextual calibration ofc are even 
+better.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_F9TSA7L8">arXiv Fulltext PDF					</li>
+					<li id="item_AAY2ZAW6">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_UV5MCIBX" class="item preprint">
+			<h2>Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jason Wei</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xuezhi Wang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Dale Schuurmans</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Maarten Bosma</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Brian Ichter</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Fei Xia</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Ed Chi</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Quoc Le</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Denny Zhou</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>We explore how generating a chain of thought -- a series of 
+intermediate reasoning steps -- significantly improves the ability of 
+large language models to perform complex reasoning. In particular, we 
+show how such reasoning abilities emerge naturally in sufficiently large
+ language models via a simple method called chain of thought prompting, 
+where a few chain of thought demonstrations are provided as exemplars in
+ prompting. Experiments on three large language models show that chain 
+of thought prompting improves performance on a range of arithmetic, 
+commonsense, and symbolic reasoning tasks. The empirical gains can be 
+striking. For instance, prompting a 540B-parameter language model with 
+just eight chain of thought exemplars achieves state of the art accuracy
+ on the GSM8K benchmark of math word problems, surpassing even finetuned
+ GPT-3 with a verifier.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-01-10</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2201.11903">http://arxiv.org/abs/2201.11903</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 10:55:02</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2201.11903 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2201.11903">10.48550/arXiv.2201.11903</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2201.11903</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:55:02</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 11:20:09</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Reasoning</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_E9TEFS2M">
+<div><div data-schema-version="8"><p>Chain of thought prompts consist of
+ a triple &lt;input, CoT, output&gt; where CoT are natural language 
+intermediate steps guiding towards the output.</p>
+<p>CoT significantly outperformed the baseline, but is an emergent 
+property only of LLMs &gt; ~100B parameters. This suggests compounding 
+effects with increases model size.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_ZJ58ABHG">arXiv Fulltext PDF					</li>
+					<li id="item_MAIF33EV">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_EPWZEPM2" class="item journalArticle">
+			<h2>“Cloze Procedure”: A New Tool for Measuring Readability</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Zeitschriftenartikel</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Wilson L. Taylor</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Here is the first comprehensive statement of a research method
+ and its theory which were introduced briefly during a workshop at the 
+1953 AEJ convention. Included are findings from three pilot studies and 
+two experiments in which “cloze procedure” results are compared with 
+those of two readability formulas.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>1953-09-01</td>
+					</tr>
+					<tr>
+					<th>Sprache</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>“Cloze Procedure”</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>SAGE Journals</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://doi.org/10.1177/107769905303000401">https://doi.org/10.1177/107769905303000401</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 08:55:14</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>Publisher: SAGE Publications</td>
+					</tr>
+					<tr>
+					<th>Band</th>
+						<td>30</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>415-433</td>
+					</tr>
+					<tr>
+					<th>Publikation</th>
+						<td>Journalism Quarterly</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1177/107769905303000401">10.1177/107769905303000401</a></td>
+					</tr>
+					<tr>
+					<th>Ausgabe</th>
+						<td>4</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>0022-5533</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 10:59:51</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Tobias</li>
+					<li>Psychology</li>
+					<li>Technique</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_85EULPQ6">SAGE PDF Full Text					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_GIX6GCC3" class="item preprint">
+			<h2>Deep Learning Approaches to Lexical Simplification: A Survey</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kai North</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Tharindu Ranasinghe</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Matthew Shardlow</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Marcos Zampieri</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Lexical Simplification (LS) is the task of replacing complex 
+for simpler words in a sentence whilst preserving the sentence's 
+original meaning. LS is the lexical component of Text Simplification 
+(TS) with the aim of making texts more accessible to various target 
+populations. A past survey (Paetzold and Specia, 2017) has provided a 
+detailed overview of LS. Since this survey, however, the AI/NLP 
+community has been taken by storm by recent advances in deep learning, 
+particularly with the introduction of large language models (LLM) and 
+prompt learning. The high performance of these models sparked renewed 
+interest in LS. To reflect these recent advances, we present a 
+comprehensive survey of papers published between 2017 and 2023 on LS and
+ its sub-tasks with a special focus on deep learning. We also present 
+benchmark datasets for the future development of LS systems.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-05-19</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>Deep Learning Approaches to Lexical Simplification</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2305.12000">http://arxiv.org/abs/2305.12000</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 13:33:32</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2305.12000 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2305.12000">10.48550/arXiv.2305.12000</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2305.12000</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>20.4.2024, 12:39:50</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 09:39:19</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Tobias</li>
+					<li>Simplification</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_UGGQFSK2">
+<div><div data-schema-version="8"><p>Overall not that great of a paper, 
+restates a lot of the stuff in the TSAR-2022 results paper and contains 
+mistakes, missing tables, …. Dont recommend reading.</p>
+<p>Prompt based LS is SOTA in 2022.</p>
+<p>The prompt combinations that produced the best candidate 
+substitutions were “easier word” for English, “palabra simple” and 
+“palabra fácil” for Spanish, and “palavra simples” and “sinônimo 
+simples” for Portuguese. (Vásquez-Rodríguez et al. (2022))</p>
+<p>TSAR-shared task 2022 winner used GPT-3 and “Given the above con 
+text, list ten alternative words for that are easier to understand.” in 
+an ensemble of zero- and few-shot prompting that were aggregated using 
+plurality voting.</p>
+<p>Traditional methods can still be used for post-processing and 
+substitution suggestion, after generating suggestions from LLMs. These 
+include POS-tag and antonym filtering or semantic and sentence 
+thresholds.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_X5G6JMIB">arXiv Fulltext PDF					</li>
+					<li id="item_SNVRR2H4">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_MQ54EPWT" class="item preprint">
+			<h2>Emergent Abilities of Large Language Models</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jason Wei</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yi Tay</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Rishi Bommasani</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Colin Raffel</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Barret Zoph</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Sebastian Borgeaud</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Dani Yogatama</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Maarten Bosma</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Denny Zhou</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Donald Metzler</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Ed H. Chi</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Tatsunori Hashimoto</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Oriol Vinyals</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Percy Liang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jeff Dean</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>William Fedus</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Scaling up language models has been shown to predictably 
+improve performance and sample efficiency on a wide range of downstream 
+tasks. This paper instead discusses an unpredictable phenomenon that we 
+refer to as emergent abilities of large language models. We consider an 
+ability to be emergent if it is not present in smaller models but is 
+present in larger models. Thus, emergent abilities cannot be predicted 
+simply by extrapolating the performance of smaller models. The existence
+ of such emergence implies that additional scaling could further expand 
+the range of capabilities of language models.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2022-10-26</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2206.07682">http://arxiv.org/abs/2206.07682</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>23.4.2024, 10:10:14</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2206.07682 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2206.07682">10.48550/arXiv.2206.07682</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2206.07682</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>23.4.2024, 10:10:14</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 10:10:32</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>To Read</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_C77XEP25">
+<p class="plaintext">Comment: Transactions on Machine Learning Research (TMLR), 2022</p>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_73FA8H8K">arXiv Fulltext PDF					</li>
+					<li id="item_FAHFCQSE">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_5JHG44HX" class="item preprint">
+			<h2>Findings of the TSAR-2022 Shared Task on Multilingual Lexical Simplification</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Horacio Saggion</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Sanja Štajner</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Daniel Ferrés</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kim Cheng Sheang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Matthew Shardlow</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kai North</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Marcos Zampieri</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>We report findings of the TSAR-2022 shared task on 
+multilingual lexical simplification, organized as part of the Workshop 
+on Text Simplification, Accessibility, and Readability TSAR-2022 held in
+ conjunction with EMNLP 2022. The task called the Natural Language 
+Processing research community to contribute with methods to advance the 
+state of the art in multilingual lexical simplification for English, 
+Portuguese, and Spanish. A total of 14 teams submitted the results of 
+their lexical simplification systems for the provided test data. Results
+ of the shared task indicate new benchmarks in Lexical Simplification 
+with English lexical simplification quantitative results noticeably 
+higher than those obtained for Spanish and (Brazilian) Portuguese.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-02-06</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2302.02888">http://arxiv.org/abs/2302.02888</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 13:33:29</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2302.02888 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2302.02888">10.48550/arXiv.2302.02888</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2302.02888</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 13:33:29</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 08:54:34</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Simplification</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_IHYYLHQB">
+<div><div data-schema-version="8"><p>The baseline was LSBert. Models 
+outperforming it typically used MLM with a better model than BERT (or 
+with extra finetuning) and enhanced the substitution ranking with 
+additional features (semantic similarity, word frequency, external 
+resources). </p>
+<p>In English, among the best performing models only 4 beat LSBert, 
+three of which used prompting in some way and 2 of which used prompt 
+engineering with GPT-3.</p>
+<p>This suggests that the LLM path is highly relevant and a good 
+direction (as can also be seen in Tan et al). However, Tan et al 
+(LLM-Enhanced Adv. Gen.) isnt directly comparable, because they didnt 
+provide metrics on the TSAR-2022 dataset.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_LMXT4PCL">arXiv Fulltext PDF					</li>
+					<li id="item_X7EJPM5Y">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_7N7Q67KH" class="item preprint">
+			<h2>How FaR Are Large Language Models From Agents with Theory-of-Mind?</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Pei Zhou</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Aman Madaan</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Srividya Pranavi Potharaju</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Aditya Gupta</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kevin R. McKee</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Ari Holtzman</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jay Pujara</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xiang Ren</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Swaroop Mishra</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Aida Nematzadeh</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Shyam Upadhyay</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Manaal Faruqui</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>"Thinking is for Doing." Humans can infer other people's 
+mental states from observations--an ability called Theory-of-Mind 
+(ToM)--and subsequently act pragmatically on those inferences. Existing 
+question answering benchmarks such as ToMi ask models questions to make 
+inferences about beliefs of characters in a story, but do not test 
+whether models can then use these inferences to guide their actions. We 
+propose a new evaluation paradigm for large language models (LLMs): 
+Thinking for Doing (T4D), which requires models to connect inferences 
+about others' mental states to actions in social scenarios. Experiments 
+on T4D demonstrate that LLMs such as GPT-4 and PaLM 2 seemingly excel at
+ tracking characters' beliefs in stories, but they struggle to translate
+ this capability into strategic action. Our analysis reveals the core 
+challenge for LLMs lies in identifying the implicit inferences about 
+mental states without being explicitly asked about as in ToMi, that lead
+ to choosing the correct action in T4D. To bridge this gap, we introduce
+ a zero-shot prompting framework, Foresee and Reflect (FaR), which 
+provides a reasoning structure that encourages LLMs to anticipate future
+ challenges and reason about potential actions. FaR boosts GPT-4's 
+performance from 50% to 71% on T4D, outperforming other prompting 
+methods such as Chain-of-Thought and Self-Ask. Moreover, FaR generalizes
+ to diverse out-of-distribution story structures and scenarios that also
+ require ToM inferences to choose an action, consistently outperforming 
+other methods including few-shot in-context learning.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-10-04</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2310.03051">http://arxiv.org/abs/2310.03051</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 10:23:10</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2310.03051 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2310.03051">10.48550/arXiv.2310.03051</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2310.03051</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:23:51</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 10:38:12</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>To Read</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_MLP9VY4D">
+<div><div data-schema-version="8"><p>Mentioned in Self-discovery paper as source for JSON format helping LLMs be consistent and avoid hallucinating when reasoning.</p>
+</div></div>
+					</li>
+					<li id="item_8Q25F4UG">
+<p class="plaintext">Comment: Preprint, 18 pages, 6 figures, 6 tables</p>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_7QRLP3YN">arXiv Fulltext PDF					</li>
+					<li id="item_ZTBP7QKA">arXiv.org Snapshot					</li>
+					<li id="item_5VZGP5AR">JSON improves reasoning performance, OPENAI docs					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_2FS9Y43L" class="item document">
+			<h2>How to read a paper</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Dokument</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>20.4.2024, 12:54:31</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>20.4.2024, 13:11:05</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>To Read</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_TZU4PXZC">How to read a paper.pdf					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_NEKKB9B8" class="item preprint">
+			<h2>Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yunshi Lan</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xiang Li</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xin Liu</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yang Li</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Wei Qin</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Weining Qian</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Zero-shot Visual Question Answering (VQA) is a prominent 
+vision-language task that examines both the visual and textual 
+understanding capability of systems in the absence of training data. 
+Recently, by converting the images into captions, information across 
+multi-modalities is bridged and Large Language Models (LLMs) can apply 
+their strong zero-shot generalization capability to unseen questions. To
+ design ideal prompts for solving VQA via LLMs, several studies have 
+explored different strategies to select or generate question-answer 
+pairs as the exemplar prompts, which guide LLMs to answer the current 
+questions effectively. However, they totally ignore the role of question
+ prompts. The original questions in VQA tasks usually encounter ellipses
+ and ambiguity which require intermediate reasoning. To this end, we 
+present Reasoning Question Prompts for VQA tasks, which can further 
+activate the potential of LLMs in zero-shot scenarios. Specifically, for
+ each question, we first generate self-contained questions as reasoning 
+question prompts via an unsupervised question edition module considering
+ sentence fluency, semantic integrity and syntactic invariance. Each 
+reasoning question prompt clearly indicates the intent of the original 
+question. This results in a set of candidate answers. Then, the 
+candidate answers associated with their confidence scores acting as 
+answer heuristics are fed into LLMs and produce the final answer. We 
+evaluate reasoning question prompts on three VQA challenges, 
+experimental results demonstrate that they can significantly improve the
+ results of LLMs on zero-shot setting and outperform existing 
+state-of-the-art zero-shot methods on three out of four data sets. Our 
+source code is publicly released at 
+\url{https://github.com/ECNU-DASE-NLP/RQP}.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-11-15</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2311.09050">http://arxiv.org/abs/2311.09050</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 08:52:04</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2311.09050 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2311.09050">10.48550/arXiv.2311.09050</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2311.09050</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 10:59:44</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Reasoning</li>
+					<li>Tobias</li>
+					<li>Zero-shot</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_JQJ8L4F8">arXiv Fulltext PDF					</li>
+					<li id="item_NIA7CZRM">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_PXRDGWQP" class="item preprint">
+			<h2>Large Language Models are Zero-Shot Reasoners</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Takeshi Kojima</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Shixiang Shane Gu</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Machel Reid</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yutaka Matsuo</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yusuke Iwasawa</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Pretrained large language models (LLMs) are widely used in 
+many sub-fields of natural language processing (NLP) and generally known
+ as excellent few-shot learners with task-specific exemplars. Notably, 
+chain of thought (CoT) prompting, a recent technique for eliciting 
+complex multi-step reasoning through step-by-step answer examples, 
+achieved the state-of-the-art performances in arithmetics and symbolic 
+reasoning, difficult system-2 tasks that do not follow the standard 
+scaling laws for LLMs. While these successes are often attributed to 
+LLMs' ability for few-shot learning, we show that LLMs are decent 
+zero-shot reasoners by simply adding "Let's think step by step" before 
+each answer. Experimental results demonstrate that our Zero-shot-CoT, 
+using the same single prompt template, significantly outperforms 
+zero-shot LLM performances on diverse benchmark reasoning tasks 
+including arithmetics (MultiArith, GSM8K, AQUA-RAT, SVAMP), symbolic 
+reasoning (Last Letter, Coin Flip), and other logical reasoning tasks 
+(Date Understanding, Tracking Shuffled Objects), without any 
+hand-crafted few-shot examples, e.g. increasing the accuracy on 
+MultiArith from 17.7% to 78.7% and GSM8K from 10.4% to 40.7% with large 
+InstructGPT model (text-davinci-002), as well as similar magnitudes of 
+improvements with another off-the-shelf large model, 540B parameter 
+PaLM. The versatility of this single prompt across very diverse 
+reasoning tasks hints at untapped and understudied fundamental zero-shot
+ capabilities of LLMs, suggesting high-level, multi-task broad cognitive
+ capabilities may be extracted by simple prompting. We hope our work not
+ only serves as the minimal strongest zero-shot baseline for the 
+challenging reasoning benchmarks, but also highlights the importance of 
+carefully exploring and analyzing the enormous zero-shot knowledge 
+hidden inside LLMs before crafting finetuning datasets or few-shot 
+exemplars.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-01-29</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2205.11916">http://arxiv.org/abs/2205.11916</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 12:26:07</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2205.11916 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2205.11916">10.48550/arXiv.2205.11916</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2205.11916</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 12:26:07</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 13:07:49</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Few-shot</li>
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Reasoning</li>
+					<li>Tobias</li>
+					<li>Zero-shot</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_93URW2YG">
+<div><div data-schema-version="8"><p>Instead of handcrafting few-shot 
+exemplars in CoT, a two step prompting process can be used in a 
+zero-shot CoT manner to elicit worse, but comparable performance, that 
+even outperforms standard few-shot prompting.</p>
+<p>This is particularly useful, because generating reasoning chains 
+manually can be costly and not much data are available in this regard. </p>
+<p>Overall this yields the tradeoff: Prompt twice with less engineering 
+effort and slightly worse performance OR prompt once with more 
+engineering and better performance.</p>
+<p>Confirms that CoT only benefits large models.</p>
+</div></div>
+					</li>
+					<li id="item_UJQFDAM2">
+<p class="plaintext">Comment: Accepted to NeurIPS2022. Our code is available at https://github.com/kojima-takeshi188/zero_shot_cot</p>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_4F7IDCDU">arXiv Fulltext PDF					</li>
+					<li id="item_F8X5G2LQ">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_P3WYH83Z" class="item preprint">
+			<h2>Let's Verify Step by Step</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Hunter Lightman</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Vineet Kosaraju</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yura Burda</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Harri Edwards</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Bowen Baker</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Teddy Lee</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jan Leike</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>John Schulman</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Ilya Sutskever</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Karl Cobbe</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>In recent years, large language models have greatly improved 
+in their ability to perform complex multi-step reasoning. However, even 
+state-of-the-art models still regularly produce logical mistakes. To 
+train more reliable models, we can turn either to outcome supervision, 
+which provides feedback for a final result, or process supervision, 
+which provides feedback for each intermediate reasoning step. Given the 
+importance of training reliable models, and given the high cost of human
+ feedback, it is important to carefully compare the both methods. Recent
+ work has already begun this comparison, but many questions still 
+remain. We conduct our own investigation, finding that process 
+supervision significantly outperforms outcome supervision for training 
+models to solve problems from the challenging MATH dataset. Our 
+process-supervised model solves 78% of problems from a representative 
+subset of the MATH test set. Additionally, we show that active learning 
+significantly improves the efficacy of process supervision. To support 
+related research, we also release PRM800K, the complete dataset of 
+800,000 step-level human feedback labels used to train our best reward 
+model.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-05-31</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2305.20050">http://arxiv.org/abs/2305.20050</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 09:24:51</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2305.20050 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2305.20050">10.48550/arXiv.2305.20050</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2305.20050</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 10:59:41</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Reasoning</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_B9IEHWRV">
+<div><div data-schema-version="8"><p style="padding-left: 40px" data-indent="1">Process supervision leads to better performance as we get feedback in each step of the chain of thought.</p>
+<p style="padding-left: 40px" data-indent="1">Active Learning leads to a 2.6* improvement in data efficiency. Very useful in settings where data are sparse.</p>
+<p style="padding-left: 40px" data-indent="1">Uses a teacher-student setup where a large model supervises a small model to get around costly human feedback.</p>
+<p style="padding-left: 40px" data-indent="1">Would suggest that 
+breaking up the task even more (instead of just CWI and SG) with extra 
+losses allows us to be more precise and get better performance with 
+respect to the result.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_XAZYAJKS">arXiv Fulltext PDF					</li>
+					<li id="item_K3GIY25P">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_7V7IDW3W" class="item journalArticle">
+			<h2>Lexical Complexity Prediction: An Overview</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Zeitschriftenartikel</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kai North</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Marcos Zampieri</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Matthew Shardlow</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>The occurrence of unknown words in texts significantly hinders
+ reading comprehension. To improve accessibility for specific target 
+populations, computational modelling has been applied to identify 
+complex words in texts and substitute them for simpler alternatives. In 
+this paper, we present an overview of computational approaches to 
+lexical complexity prediction focusing on the work carried out on 
+English data. We survey relevant approaches to this problem which 
+include traditional machine learning classifiers (e.g. SVMs, logistic 
+regression) and deep neural networks as well as a variety of features, 
+such as those inspired by literature in psycholinguistics as well as 
+word frequency, word length, and many others. Furthermore, we introduce 
+readers to past competitions and available datasets created on this 
+topic. Finally, we include brief sections on applications of lexical 
+complexity prediction, such as readability and text simplification, 
+together with related studies on languages other than English.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-09-30</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>Lexical Complexity Prediction</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2303.04851">http://arxiv.org/abs/2303.04851</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>23.4.2024, 13:55:32</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2303.04851 [cs]</td>
+					</tr>
+					<tr>
+					<th>Band</th>
+						<td>55</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>1-42</td>
+					</tr>
+					<tr>
+					<th>Publikation</th>
+						<td>ACM Computing Surveys</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1145/3557885">10.1145/3557885</a></td>
+					</tr>
+					<tr>
+					<th>Ausgabe</th>
+						<td>9</td>
+					</tr>
+					<tr>
+					<th>Zeitschriften-Abkürzung</th>
+						<td>ACM Comput. Surv.</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>0360-0300, 1557-7341</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>23.4.2024, 13:55:32</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 14:07:37</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Simplification</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_PZDNIJW5">arXiv Fulltext PDF					</li>
+					<li id="item_4JQA6C8P">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_7Q5YKJMF" class="item journalArticle">
+			<h2>Lexical Simplification with Pretrained Encoders</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Zeitschriftenartikel</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jipeng Qiang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yun Li</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yi Zhu</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yunhao Yuan</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xindong Wu</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Lexical simplification (LS) aims to replace complex words in a
+ given sentence with their simpler alternatives of equivalent meaning. 
+Recently unsupervised lexical simplification approaches only rely on the
+ complex word itself regardless of the given sentence to generate 
+candidate substitutions, which will inevitably produce a large number of
+ spurious candidates. We present a simple LS approach that makes use of 
+the Bidirectional Encoder Representations from Transformers (BERT) which
+ can consider both the given sentence and the complex word during 
+generating candidate substitutions for the complex word. Specifically, 
+we mask the complex word of the original sentence for feeding into the 
+BERT to predict the masked token. The predicted results will be used as 
+candidate substitutions. Despite being entirely unsupervised, 
+experimental results show that our approach obtains obvious improvement 
+compared with these baselines leveraging linguistic databases and 
+parallel corpus, outperforming the state-of-the-art by more than 12 
+Accuracy points on three well-known benchmarks.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2020-04-03</td>
+					</tr>
+					<tr>
+					<th>Sprache</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>ojs.aaai.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/6389">https://ojs.aaai.org/index.php/AAAI/article/view/6389</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 13:33:17</td>
+					</tr>
+					<tr>
+					<th>Rechte</th>
+						<td>Copyright (c) 2020 Association for the Advancement of Artificial Intelligence</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>Number: 05</td>
+					</tr>
+					<tr>
+					<th>Band</th>
+						<td>34</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>8649-8656</td>
+					</tr>
+					<tr>
+					<th>Publikation</th>
+						<td>Proceedings of the AAAI Conference on Artificial Intelligence</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1609/aaai.v34i05.6389">10.1609/aaai.v34i05.6389</a></td>
+					</tr>
+					<tr>
+					<th>Ausgabe</th>
+						<td>05</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>2374-3468</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 13:33:17</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 14:31:16</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Simplification</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_YXNM5JNU">
+<div><div data-schema-version="8"><p>This is the basis for the LSBert paper. Their introductions read like duplicates, just read the LSBert paper.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_XRCTLVDH">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_TXQEUTYW" class="item journalArticle">
+			<h2>LSBert: Lexical Simplification Based on BERT</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Zeitschriftenartikel</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jipeng Qiang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yun Li</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yi Zhu</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yunhao Yuan</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yang Shi</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xindong Wu</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Lexical simpliﬁcation (LS) aims at replacing complex words 
+with simpler alternatives. LS commonly consists of three main steps: 
+complex word identiﬁcation, substitute generation, and substitute 
+ranking. Existing LS methods focus on the contextual information of the 
+complex word in the last step (substitute ranking). However, they miss 
+out the following two facts: (1) The word complexity of a polysemous 
+word is very closely related to its context; (2) The step of substitute 
+generation regardless of the context will inevitably produce a large 
+number of spurious candidates. Therefore, we propose a novel LS system 
+LSBert based on pretrained language model BERT to address the 
+aforementioned issues, which is capable of making use of the wider 
+context when both identifying the words in need of simpliﬁcation and 
+generating substitute candidates for the complex words. Speciﬁcally, 
+LSBert consists of a network for complex word identiﬁcation by 
+ﬁne-tuning BERT and a network for substitute generation based on BERT. 
+Experimental results show that LSBert performs well in both complex word
+ identiﬁcation and substitute generation, achieving state-of-the-art 
+results in three benchmarks. To facilitate reproducibility, the code of 
+the LSBert system is available at https://github.com/qiang2100/BERTLS.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2021</td>
+					</tr>
+					<tr>
+					<th>Sprache</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>LSBert</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>DOI.org (Crossref)</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://ieeexplore.ieee.org/document/9534478/">https://ieeexplore.ieee.org/document/9534478/</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>21.4.2024, 16:58:54</td>
+					</tr>
+					<tr>
+					<th>Rechte</th>
+						<td>https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html</td>
+					</tr>
+					<tr>
+					<th>Band</th>
+						<td>29</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>3064-3076</td>
+					</tr>
+					<tr>
+					<th>Publikation</th>
+						<td>IEEE/ACM Transactions on Audio, Speech, and Language Processing</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1109/TASLP.2021.3111589">10.1109/TASLP.2021.3111589</a></td>
+					</tr>
+					<tr>
+					<th>Zeitschriften-Abkürzung</th>
+						<td>IEEE/ACM Trans. Audio Speech Lang. Process.</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>2329-9290, 2329-9304</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>21.4.2024, 16:58:54</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 16:02:55</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>LLMs</li>
+					<li>Tobias</li>
+					<li>Simplification</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_59WENJLN">
+<div><div data-schema-version="8"><p>Utilize BERT to model SG and SR as 
+MLM task and fine-tuned BERT for binary classification of (complex, not 
+complex). Recursively simplifies one word a t a time.</p>
+<p>Selects a word as complex if the probability is &gt; threshold. This 
+is a great lever for contextual calibration. See Zhao et.al Calibrate 
+before use.</p>
+<p>When fine tuning BERT for CWI they only use the first portion of then
+ word tokenization. This can lead to issues, a span based approach could
+ alleviate this.</p>
+<p>They choose to exclude entities. This is a design choice and might be
+ wrong. Is United States of America simpler than USA? This might be 
+causing problems for people that we aim to help with this simplification
+ to begin with.</p>
+<p>If two different sentences in language A translate to the same sentence in language B, they have the same meaning.</p>
+<p>Quite an intricate loss for substitution ranking. Take care to only 
+replace the complex word when there actually are better alternatives. 
+Some words are complex, but still simple compared to the alternatives.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_YD6DJEWH">Qiang et al. - 2021 - LSBert Lexical Simplification Based on BERT.pdf					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_GMTSCISB" class="item conferencePaper">
+			<h2>MANTIS at TSAR-2022 Shared Task: Improved Unsupervised Lexical Simplification with Pretrained Encoders</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Konferenz-Paper</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xiaofei Li</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Daniel Wiechmann</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yu Qiao</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Elma Kerz</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Sanja Štajner</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Horacio Saggion</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Daniel Ferrés</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Matthew Shardlow</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Kim Cheng Sheang</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Kai North</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Marcos Zampieri</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Wei Xu</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>In this paper we present our contribution to the TSAR-2022 
+Shared Task on Lexical Simplification of the EMNLP 2022 Workshop on Text
+ Simplification, Accessibility, and Readability. Our approach builds on 
+and extends the unsupervised lexical simplification system with 
+pretrained encoders (LSBert) system introduced in Qiang et al. (2020) in
+ the following ways: For the subtask of simplification candidate 
+selection, it utilizes a RoBERTa transformer language model and expands 
+the size of the generated candidate list. For subsequent substitution 
+ranking, it introduces a new feature weighting scheme and adopts a 
+candidate filtering method based on textual entailment to maximize 
+semantic similarity between the target word and its simplification. Our 
+best-performing system improves LSBert by 5.9% accuracy and achieves 
+second place out of 33 ranked solutions.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2022-12</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>MANTIS at TSAR-2022 Shared Task</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>ACLWeb</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://aclanthology.org/2022.tsar-1.27">https://aclanthology.org/2022.tsar-1.27</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>23.4.2024, 09:38:49</td>
+					</tr>
+					<tr>
+					<th>Ort</th>
+						<td>Abu Dhabi, United Arab Emirates (Virtual)</td>
+					</tr>
+					<tr>
+					<th>Verlag</th>
+						<td>Association for Computational Linguistics</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>243–250</td>
+					</tr>
+					<tr>
+					<th>Titel des Konferenzbandes</th>
+						<td>Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022)</td>
+					</tr>
+					<tr>
+					<th>Name der Konferenz</th>
+						<td>TSAR 2022</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.18653/v1/2022.tsar-1.27">10.18653/v1/2022.tsar-1.27</a></td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>23.4.2024, 09:38:49</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 10:56:02</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Prompting</li>
+					<li>Tobias</li>
+					<li>Simplification</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_X8YIFZZA">
+<div><div data-schema-version="8"><p>Use RoBERTa to generate scores. Very similar to LSBert. </p>
+<p>Main difference is that 2 features were dropped and the weighting 
+scheme was changed. Also they filter suggestions by textual entailment, 
+the sentences must be logically equivalent.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_JI88NTTA">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_EX3HFVC9" class="item preprint">
+			<h2>MultiLS: A Multi-task Lexical Simplification Framework</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kai North</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Tharindu Ranasinghe</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Matthew Shardlow</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Marcos Zampieri</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Lexical Simplification (LS) automatically replaces difficult 
+to read words for easier alternatives while preserving a sentence's 
+original meaning. LS is a precursor to Text Simplification with the aim 
+of improving text accessibility to various target demographics, 
+including children, second language learners, individuals with reading 
+disabilities or low literacy. Several datasets exist for LS. These LS 
+datasets specialize on one or two sub-tasks within the LS pipeline. 
+However, as of this moment, no single LS dataset has been developed that
+ covers all LS sub-tasks. We present MultiLS, the first LS framework 
+that allows for the creation of a multi-task LS dataset. We also present
+ MultiLS-PT, the first dataset to be created using the MultiLS 
+framework. We demonstrate the potential of MultiLS-PT by carrying out 
+all LS sub-tasks of (1). lexical complexity prediction (LCP), (2). 
+substitute generation, and (3). substitute ranking for Portuguese. Model
+ performances are reported, ranging from transformer-based models to 
+more recent large language models (LLMs).</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2024-02-22</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>MultiLS</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2402.14972">http://arxiv.org/abs/2402.14972</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>23.4.2024, 14:41:12</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2402.14972 [cs]</td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2402.14972</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>23.4.2024, 14:41:12</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 14:41:35</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Prompting</li>
+					<li>Simplification</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_TDCX95YK">arXiv.org Snapshot					</li>
+					<li id="item_9WYWNGTZ">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_A2FH2P2L" class="item preprint">
+			<h2>Self-Discover: Large Language Models Self-Compose Reasoning Structures</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Pei Zhou</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jay Pujara</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xiang Ren</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xinyun Chen</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Heng-Tze Cheng</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Quoc V. Le</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Ed H. Chi</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Denny Zhou</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Swaroop Mishra</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Huaixiu Steven Zheng</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>We introduce SELF-DISCOVER, a general framework for LLMs to 
+self-discover the task-intrinsic reasoning structures to tackle complex 
+reasoning problems that are challenging for typical prompting methods. 
+Core to the framework is a self-discovery process where LLMs select 
+multiple atomic reasoning modules such as critical thinking and 
+step-by-step thinking, and compose them into an explicit reasoning 
+structure for LLMs to follow during decoding. SELF-DISCOVER 
+substantially improves GPT-4 and PaLM 2's performance on challenging 
+reasoning benchmarks such as BigBench-Hard, grounded agent reasoning, 
+and MATH, by as much as 32% compared to Chain of Thought (CoT). 
+Furthermore, SELF-DISCOVER outperforms inference-intensive methods such 
+as CoT-Self-Consistency by more than 20%, while requiring 10-40x fewer 
+inference compute. Finally, we show that the self-discovered reasoning 
+structures are universally applicable across model families: from PaLM 
+2-L to GPT-4, and from GPT-4 to Llama2, and share commonalities with 
+human reasoning patterns.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2024-02-05</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>Self-Discover</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2402.03620">http://arxiv.org/abs/2402.03620</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 08:54:10</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2402.03620 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2402.03620">10.48550/arXiv.2402.03620</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2402.03620</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 10:59:35</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Reasoning</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_NJC24JZH">
+<p class="plaintext">Comment: 17 pages, 11 figures, 5 tables</p>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_7FXS6N5M">arXiv Fulltext PDF					</li>
+					<li id="item_9HKBZGMX">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_NQJZ94F9" class="item preprint">
+			<h2>Teaching the Pre-trained Model to Generate Simple Texts for Text Simplification</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Renliang Sun</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Wei Xu</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Xiaojun Wan</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Randomly masking text spans in ordinary texts in the 
+pre-training stage hardly allows models to acquire the ability to 
+generate simple texts. It can hurt the performance of pre-trained models
+ on text simplification tasks. In this paper, we propose a new continued
+ pre-training strategy to teach the pre-trained model to generate simple
+ texts. We continue pre-training BART, a representative model, to obtain
+ SimpleBART. It consistently and significantly improves the results on 
+lexical simplification, sentence simplification, and document-level 
+simplification tasks over BART. At the end, we compare SimpleBART with 
+several representative large language models (LLMs).</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-05-21</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2305.12463">http://arxiv.org/abs/2305.12463</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>23.4.2024, 16:56:31</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2305.12463 [cs]</td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2305.12463</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>23.4.2024, 16:56:31</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 16:56:31</td>
+					</tr>
+				</tbody></table>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_M5DSG3RW">
+<p class="plaintext">Comment: Accepted by ACL Findings: 2023</p>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_35ZMPL2W">arXiv.org Snapshot					</li>
+					<li id="item_SY3URAH4">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_PVEBN7Z7" class="item preprint">
+			<h2>Text Simplification by Tagging</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Kostiantyn Omelianchuk</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Vipul Raheja</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Oleksandr Skurzhanskyi</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Edit-based approaches have recently shown promising results on
+ multiple monolingual sequence transduction tasks. In contrast to 
+conventional sequence-to-sequence (Seq2Seq) models, which learn to 
+generate text from scratch as they are trained on parallel corpora, 
+these methods have proven to be much more effective since they are able 
+to learn to make fast and accurate transformations while leveraging 
+powerful pre-trained language models. Inspired by these ideas, we 
+present TST, a simple and efficient Text Simplification system based on 
+sequence Tagging, leveraging pre-trained Transformer-based encoders. Our
+ system makes simplistic data augmentations and tweaks in training and 
+inference on a pre-existing system, which makes it less reliant on large
+ amounts of parallel training data, provides more control over the 
+outputs and enables faster inference speeds. Our best model achieves 
+near state-of-the-art performance on benchmark test datasets for the 
+task. Since it is fully non-autoregressive, it achieves faster inference
+ speeds by over 11 times than the current state-of-the-art text 
+simplification system.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2021-03-08</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2103.05070">http://arxiv.org/abs/2103.05070</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 08:50:29</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2103.05070 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2103.05070">10.48550/arXiv.2103.05070</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2103.05070</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 10:59:32</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Simplification</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_YNJ4QRC9">
+<p class="plaintext">Comment: 15 pages. Accepted to BEA @ EACL 2021</p>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_5ERKIRYW">arXiv Fulltext PDF					</li>
+					<li id="item_KK9Z7D8B">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_TW6VAEGA" class="item conferencePaper">
+			<h2>Text Style Transferring via Adversarial Masking and Styled Filling</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Konferenz-Paper</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jiarui Wang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Richong Zhang</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Junfan Chen</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Jaein Kim</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Yongyi Mao</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Yoav Goldberg</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Zornitsa Kozareva</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Yue Zhang</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Text style transfer is an important task in natural language 
+processing with broad applications. Existing models following the 
+masking and filling scheme suffer two challenges: the word masking 
+procedure may mistakenly remove unexpected words and the selected words 
+in the word filling procedure may lack diversity and semantic 
+consistency. To tackle both challenges, in this study, we propose a 
+style transfer model, with an adversarial masking approach and a styled 
+filling technique (AMSF). Specifically, AMSF first trains a mask 
+predictor by adversarial training without manual configuration. Then two
+ additional losses, i.e. an entropy maximization loss and a consistency 
+regularization loss, are introduced in training the word filling module 
+to guarantee the diversity and semantic consistency of the transferred 
+texts. Experimental results and analysis on two benchmark text style 
+transfer data sets demonstrate the effectiveness of the proposed 
+approaches.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2022-12</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>ACLWeb</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://aclanthology.org/2022.emnlp-main.521">https://aclanthology.org/2022.emnlp-main.521</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 08:49:06</td>
+					</tr>
+					<tr>
+					<th>Ort</th>
+						<td>Abu Dhabi, United Arab Emirates</td>
+					</tr>
+					<tr>
+					<th>Verlag</th>
+						<td>Association for Computational Linguistics</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>7654–7663</td>
+					</tr>
+					<tr>
+					<th>Titel des Konferenzbandes</th>
+						<td>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing</td>
+					</tr>
+					<tr>
+					<th>Name der Konferenz</th>
+						<td>EMNLP 2022</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.18653/v1/2022.emnlp-main.521">10.18653/v1/2022.emnlp-main.521</a></td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 10:59:27</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Tobias</li>
+					<li>Simplification</li>
+					<li>Style Transfer</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_QI5LV29Y">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_9USXQ337" class="item conferencePaper">
+			<h2>TextSimplifier: A Modular, Extensible, and Context Sensitive 
+Simplification Framework for Improved Natural Language Understanding</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Konferenz-Paper</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Sandaru Seneviratne</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Eleni Daskalaki</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Hanna Suominen</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Sanja Štajner</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Horacio Saggio</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Matthew Shardlow</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Fernando Alva-Manchego</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Natural language understanding is fundamental to knowledge 
+acquisition in today's information society. However, natural language is
+ often ambiguous with frequent occurrences of complex terms, acronyms, 
+and abbreviations that require substitution and disambiguation, for 
+example, by “translation” from complex to simpler text for better 
+understanding. These tasks are usually difficult for people with limited
+ reading skills, second language learners, and non-native speakers. 
+Hence, the development of text simplification systems that are capable 
+of simplifying complex text is of paramount importance. Thus, we 
+conducted a user study to identify which components are essential in a 
+text simplification system. Based on our findings, we proposed an 
+improved text simplification framework, covering a broader range of 
+aspects related to lexical simplification — from complexity 
+identification to lexical substitution and disambiguation — while 
+supplementing the simplified outputs with additional information for 
+better understandability. Based on the improved framework, we developed 
+TextSimplifier, a modularised, context-sensitive, end-to-end 
+simplification framework, and engineered its web implementation. This 
+system targets lexical simplification that identifies complex terms and 
+acronyms followed by their simplification through substitution and 
+disambiguation for better understanding of complex language.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-09</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>TextSimplifier</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>ACLWeb</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://aclanthology.org/2023.tsar-1.3">https://aclanthology.org/2023.tsar-1.3</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>23.4.2024, 15:05:17</td>
+					</tr>
+					<tr>
+					<th>Ort</th>
+						<td>Varna, Bulgaria</td>
+					</tr>
+					<tr>
+					<th>Verlag</th>
+						<td>INCOMA Ltd., Shoumen, Bulgaria</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>21–32</td>
+					</tr>
+					<tr>
+					<th>Titel des Konferenzbandes</th>
+						<td>Proceedings of the Second Workshop on Text Simplification, Accessibility and Readability</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>23.4.2024, 15:05:17</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 15:05:33</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Prompting</li>
+					<li>Simplification</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_I66YVAVF">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_PQCDG2Y7" class="item preprint">
+			<h2>UniHD at TSAR-2022 Shared Task: Is Compute All We Need for Lexical Simplification?</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Preprint</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Dennis Aumiller</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Michael Gertz</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Previous state-of-the-art models for lexical simplification 
+consist of complex pipelines with several components, each of which 
+requires deep technical knowledge and fine-tuned interaction to achieve 
+its full potential. As an alternative, we describe a frustratingly 
+simple pipeline based on prompted GPT-3 responses, beating competing 
+approaches by a wide margin in settings with few training instances. Our
+ best-performing submission to the English language track of the 
+TSAR-2022 shared task consists of an ``ensemble'' of six different 
+prompt templates with varying context levels. As a late-breaking result,
+ we further detail a language transfer technique that allows 
+simplification in languages other than English. Applied to the Spanish 
+and Portuguese subset, we achieve state-of-the-art results with only 
+minor modification to the original prompts. Aside from detailing the 
+implementation and setup, we spend the remainder of this work discussing
+ the particularities of prompting and implications for future work. Code
+ for the experiments is available online at 
+https://github.com/dennlinger/TSAR-2022-Shared-Task</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2023-01-05</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>UniHD at TSAR-2022 Shared Task</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>arXiv.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="http://arxiv.org/abs/2301.01764">http://arxiv.org/abs/2301.01764</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 16:05:45</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>arXiv:2301.01764 [cs]</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.48550/arXiv.2301.01764">10.48550/arXiv.2301.01764</a></td>
+					</tr>
+					<tr>
+					<th>Repositorium</th>
+						<td>arXiv</td>
+					</tr>
+					<tr>
+					<th>Archiv-ID</th>
+						<td>arXiv:2301.01764</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 16:05:45</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 10:37:00</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>LLMs</li>
+					<li>Prompting</li>
+					<li>Simplification</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_VRP9VZDG">
+<div><div data-schema-version="8"><p>Achieve <strong>SOTA in TSAR-shared task 2022 </strong>with <strong>prompting ensemble using GPT-3</strong>. After the shared task they <strong>expand this to Spanish and Portuguese, also achieving SOTA by a huge margin (30+ points)</strong></p>
+<p>Prompting is the way to go, without LLM integration it wont do better.</p>
+<p>Suggests reporting resource spend in addition to performance since budget is a realistic constraint.</p>
+<p>Mentions automatic prompt generation as an avenue to quickly adapt to different domains (Auto-CoT direction).</p>
+<p><strong>To adjust to another language they simply alter the prompt: </strong></p>
+<p>Transferring the prompts to Spanish or Portuguese is su prisingly 
+simple. We alter the prompt to: “Given the above context, list ten 
+alternative Spanish words for ‘complex_word’ that are easier to 
+understand.”</p>
+</div></div>
+					</li>
+					<li id="item_FJPV6FHE">
+<p class="plaintext">Comment: Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022) at EMNLP 2022</p>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_LVCT7DI6">arXiv Fulltext PDF					</li>
+					<li id="item_F5RYV2VA">arXiv.org Snapshot					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_5ABZNEAS" class="item journalArticle">
+			<h2>Unsupervised Lexical Simplification for Non-Native Speakers</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Zeitschriftenartikel</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Gustavo Paetzold</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Lucia Specia</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>Lexical Simplification is the task of replacing complex words 
+with simpler alternatives. We propose a novel, unsupervised approach for
+ the task. It relies on two resources: a corpus of subtitles and a new 
+type of word embeddings model that accounts for the ambiguity of words. 
+We compare the performance of our approach and many others over a new 
+evaluation dataset, which accounts for the simplification needs of 400 
+non-native English speakers. The experiments show that our approach 
+outperforms state-of-the-art work in Lexical Simplification.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2016-03-05</td>
+					</tr>
+					<tr>
+					<th>Sprache</th>
+						<td>en</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>ojs.aaai.org</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/9885">https://ojs.aaai.org/index.php/AAAI/article/view/9885</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>22.4.2024, 08:47:07</td>
+					</tr>
+					<tr>
+					<th>Rechte</th>
+						<td>Copyright (c)</td>
+					</tr>
+					<tr>
+					<th>Extra</th>
+						<td>Number: 1</td>
+					</tr>
+					<tr>
+					<th>Band</th>
+						<td>30</td>
+					</tr>
+					<tr>
+					<th>Publikation</th>
+						<td>Proceedings of the AAAI Conference on Artificial Intelligence</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.1609/aaai.v30i1.9885">10.1609/aaai.v30i1.9885</a></td>
+					</tr>
+					<tr>
+					<th>Ausgabe</th>
+						<td>1</td>
+					</tr>
+					<tr>
+					<th>ISSN</th>
+						<td>2374-3468</td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>22.4.2024, 10:07:58</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>22.4.2024, 10:59:21</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Dataset</li>
+					<li>Simplification</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_3XLD2CH5">Full Text PDF					</li>
+				</ul>
+			</li>
+
+
+			<li id="item_ZJ647LK7" class="item conferencePaper">
+			<h2>UoM&amp;MMU at TSAR-2022 Shared Task: Prompt Learning for Lexical Simplification</h2>
+				<table>
+					<tbody><tr>
+						<th>Eintragsart</th>
+						<td>Konferenz-Paper</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Laura Vásquez-Rodríguez</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Nhung Nguyen</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Matthew Shardlow</td>
+					</tr>
+					<tr>
+						<th class="author">Autor</th>
+						<td>Sophia Ananiadou</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Sanja Štajner</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Horacio Saggion</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Daniel Ferrés</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Matthew Shardlow</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Kim Cheng Sheang</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Kai North</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Marcos Zampieri</td>
+					</tr>
+					<tr>
+						<th class="editor">Herausgeber</th>
+						<td>Wei Xu</td>
+					</tr>
+					<tr>
+					<th>Zusammenfassung</th>
+						<td>We present PromptLS, a method for fine-tuning large 
+pre-trained Language Models (LM) to perform the task of Lexical 
+Simplification. We use a predefined template to attain appropriate 
+replacements for a term, and fine-tune a LM using this template on 
+language specific datasets. We filter candidate lists in post-processing
+ to improve accuracy. We demonstrate that our model can work in a) a 
+zero shot setting (where we only require a pre-trained LM), b) a 
+fine-tuned setting (where language-specific data is required), and c) a 
+multilingual setting (where the model is pre-trained across multiple 
+languages and fine-tuned in an specific language). Experimental results 
+show that, although the zero-shot setting is competitive, its 
+performance is still far from the fine-tuned setting. Also, the 
+multilingual is unsurprisingly worse than the fine-tuned model. Among 
+all TSAR-2022 Shared Task participants, our team was ranked second in 
+Spanish and third in English.</td>
+					</tr>
+					<tr>
+					<th>Datum</th>
+						<td>2022-12</td>
+					</tr>
+					<tr>
+					<th>Kurztitel</th>
+						<td>UoM&amp;MMU at TSAR-2022 Shared Task</td>
+					</tr>
+					<tr>
+					<th>Bibliothekskatalog</th>
+						<td>ACLWeb</td>
+					</tr>
+					<tr>
+					<th>URL</th>
+						<td><a href="https://aclanthology.org/2022.tsar-1.23">https://aclanthology.org/2022.tsar-1.23</a></td>
+					</tr>
+					<tr>
+					<th>Heruntergeladen am</th>
+						<td>23.4.2024, 09:38:46</td>
+					</tr>
+					<tr>
+					<th>Ort</th>
+						<td>Abu Dhabi, United Arab Emirates (Virtual)</td>
+					</tr>
+					<tr>
+					<th>Verlag</th>
+						<td>Association for Computational Linguistics</td>
+					</tr>
+					<tr>
+					<th>Seiten</th>
+						<td>218–224</td>
+					</tr>
+					<tr>
+					<th>Titel des Konferenzbandes</th>
+						<td>Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022)</td>
+					</tr>
+					<tr>
+					<th>Name der Konferenz</th>
+						<td>TSAR 2022</td>
+					</tr>
+					<tr>
+					<th>DOI</th>
+						<td><a href="http://doi.org/10.18653/v1/2022.tsar-1.23">10.18653/v1/2022.tsar-1.23</a></td>
+					</tr>
+					<tr>
+					<th>Hinzugefügt am</th>
+						<td>23.4.2024, 09:38:46</td>
+					</tr>
+					<tr>
+					<th>Geändert am</th>
+						<td>23.4.2024, 11:11:56</td>
+					</tr>
+				</tbody></table>
+				<h3 class="tags">Tags:</h3>
+				<ul class="tags">
+					<li>Prompting</li>
+					<li>Tobias</li>
+				</ul>
+				<h3 class="notes">Notizen:</h3>
+				<ul class="notes">
+					<li id="item_HPZS7URK">
+<div><div data-schema-version="8"><p>Hybrid approach of fine-tuning on 
+other datasets with semi-synthetic data and then generating candidates 
+with prompt injection given the context.</p>
+<p>How they actually fine-tuned is quite poorly described. I think they 
+passed in the [CLS] &lt;original sentence&gt; [SEP] &lt;sentence with a 
+candidate repalcement&gt; where the candidate replacement already stems 
+from BERT and they do this 3 times per complex word, so overfit a little
+ on purpose.</p>
+</div></div>
+					</li>
+				</ul>
+				<h3 class="attachments">Anhänge</h3>
+				<ul class="attachments">
+					<li id="item_R8MKZTTQ">Full Text PDF					</li>
+				</ul>
+			</li>
+
+		</ul>
+	
+</body></html>
