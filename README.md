@@ -12,3 +12,35 @@ Have a look at their task description and provided material. Then come up with y
 
 ## Recommended literature
 - [An LLM-Enhanced Adversarial Editing System for Lexical Simplification](https://arxiv.org/abs/2402.14704)
+
+# Approach
+
+Implementation and evaluation of open-source and low resource Lexical Simplification Pipeline.
+
+Evaluate whether we can find a "working" approach that does not have SOTA performance but adds value to the community.
+
+Approach: 
+
+1. set up an evaluation pipeline: How does performance change when using small open-source models or incorporating more complex architectures?
+2. iterations of the architectures:
+    1. models: 
+        1. GermanBERT
+        2. phi-3
+        3. tinyLlama
+    2. architectures:
+        1. prompting only e.g. "Identify and replace the difficult word in this sentence with an easier synonym: ..."
+        2. fine-tuning of the underlying model with easy language dataset (https://live.european-language-grid.eu/catalogue/corpus/22646/overview/)
+        3. fine-tuning of the underlying model with Lexical Substitution Dataset (https://live.european-language-grid.eu/catalogue/corpus/14292/download/)
+        4. adaptation of "**An LLM-Enhanced Adversarial Editing System for Lexical Simplification "**
+    
+    ⇒ should be realisable with existing resources
+    
+    ⇒ Combinations of different models / architectures that we can iterate and benchmark through the evaluation pipeline
+    
+    ⇒ Does a low resource / open source approach make sense for the specific task
+    
+    Outcome: Comparison of the performance of systems consisting of small models 
+    
+    (model alone vs. fine-tuning vs. architecture enhancements vs. combinations of all)
+
+Translated with DeepL.com (free version)
