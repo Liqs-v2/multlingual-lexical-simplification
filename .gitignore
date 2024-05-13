@@ -5,3 +5,5 @@
 .idea
 .vscode
 
+# Personal Colab Setup
+colab_setup/
