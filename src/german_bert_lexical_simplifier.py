@@ -1,6 +1,8 @@
 from lexical_simplifier import LexicalSimplifier
 import torch
 
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
+
 
 class GermanBertLexicalSimplifier(LexicalSimplifier):
     """

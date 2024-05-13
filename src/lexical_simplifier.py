@@ -2,6 +2,8 @@ import abc
 from typing import List
 from abc import ABCMeta
 
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
+
 
 class LexicalSimplifier(metaclass=ABCMeta):
     """
