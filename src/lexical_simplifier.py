@@ -30,7 +30,7 @@ class LexicalSimplifier(metaclass=ABCMeta):
                              "A pattern should be a format string that can take at least one argument.")
 
         if exemplars is None or len(exemplars) == 0:
-            raise UserWarning("No exemplars provided, using zero-shot mode.")
+            print("No exemplars provided, using zero-shot mode.")
 
         self.model = model
         self.pattern = pattern
