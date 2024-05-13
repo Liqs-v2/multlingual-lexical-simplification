@@ -1,3 +1,7 @@
 # Environments
 .env
 
+# IDE metadata
+.idea
+.vscode
+
