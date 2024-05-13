@@ -11,6 +11,7 @@ class LexicalSimplifier(metaclass=ABCMeta):
 
     Attributes:
         model: The model used for generating substitutions.
+        tokenizer: The tokenizer used for tokenizing the input sentence. Must be the model tokenizer.
         pattern: The format string used to dynamically build prompts for generating substitutions. In the simplest
             case this could be a string with one placeholder, into which the input sentence with the masked complex
             word is inserted (eg. for a BERT model).
@@ -18,11 +19,15 @@ class LexicalSimplifier(metaclass=ABCMeta):
             prompt.
     """
     model = None
+    tokenizer = None
     pattern: str = None
     exemplars: List[str] = None
 
-    def __init__(self, model, pattern, exemplars):
+    def __init__(self, model, tokenizer, pattern, exemplars):
         if model is None:
+            raise ValueError("Please initialize the model for this LexicalSimplifier.")
+
+        if tokenizer is None:
             raise ValueError("Please initialize the model for this LexicalSimplifier.")
 
         if pattern is None or pattern == "":
@@ -33,11 +38,15 @@ class LexicalSimplifier(metaclass=ABCMeta):
             print("No exemplars provided, using zero-shot mode.")
 
         self.model = model
+        self.tokenizer = tokenizer
         self.pattern = pattern
         self.exemplars = exemplars
 
     def set_model(self, model):
         self.model = model
+
+    def set_tokenizer(self, tokenizer):
+        self.tokenizer = tokenizer
 
     def set_pattern(self, pattern):
         self.pattern = pattern
