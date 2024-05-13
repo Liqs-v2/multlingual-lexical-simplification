@@ -52,6 +52,19 @@ class LexicalSimplifier(metaclass=ABCMeta):
         self.pattern = pattern
 
     @abc.abstractmethod
-    def generate_substitutions_for(self, complex_word: str, original_sentence: str) -> List[str]:
-        """Generates a list of substitutions via the model predictions for the given complex word in the context of the sentence."""
+    def generate_substitutions_for(self, complex_word: str, original_sentence: str,  top_k: int = 10) -> List[str]:
+        """
+        Generates a list of substitutions via the model predictions for the given complex word in the context of the sentence.
+
+        The input sentence specified by the original_sentence parameter should contain the complex word to be simplified and
+        might need require further preprocessing (e.g. tokenization, masking) before being passed to the model.
+
+        Args:
+            complex_word: The complex word to be simplified. This is given in our case, we do not tackle complex word identification.
+            original_sentence: The sentence containing the complex word.
+            top_k: The number of top predictions to return.
+
+        Returns:
+            A list of possible substitutions for the complex word.
+        """
         raise NotImplementedError("Please implement this method in the subclass.")
