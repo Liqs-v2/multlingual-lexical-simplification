@@ -43,6 +43,6 @@ class LexicalSimplifier(metaclass=ABCMeta):
         self.pattern = pattern
 
     @abc.abstractmethod
-    def generate_substitutions_for(self, complex_word) -> List[str]:
-        """Generates a list of substitutions via the model predictions for the given complex word."""
+    def generate_substitutions_for(self, complex_word: str, original_sentence: str) -> List[str]:
+        """Generates a list of substitutions via the model predictions for the given complex word in the context of the sentence."""
         raise NotImplementedError("Please implement this method in the subclass.")
