@@ -1,6 +1,7 @@
 from lexical_simplifier import LexicalSimplifier
 import torch
 
+
 class GermanBertLexicalSimplifier(LexicalSimplifier):
     """
     A German BERT based implementation of lexical simplification. Masks the given complex word with [MASK], adds other
@@ -53,10 +54,10 @@ class GermanBertLexicalSimplifier(LexicalSimplifier):
 
         # Forward pass through the model
         with torch.no_grad():
-            outputs = model(**inputs)
+            outputs = self.model(**inputs)
 
         # Get predicted probabilities for the masked token
-        masked_index = inputs["input_ids"].squeeze().tolist().index(tokenizer.mask_token_id)
+        masked_index = inputs["input_ids"].squeeze().tolist().index(self.tokenizer.mask_token_id)
         probs = torch.nn.functional.softmax(outputs.logits[0, masked_index], dim=-1)
 
         # Get the top predictions
@@ -64,6 +65,6 @@ class GermanBertLexicalSimplifier(LexicalSimplifier):
         top_k_tokens = torch.topk(probs, k=top_k).indices.tolist()
 
         # Convert token IDs back to tokens
-        predicted_tokens = [tokenizer.decode(token).strip() for token in top_k_tokens]
+        predicted_tokens = [self.tokenizer.decode(token).strip() for token in top_k_tokens]
 
         return predicted_tokens
