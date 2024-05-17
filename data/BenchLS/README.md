@@ -4,7 +4,7 @@
 
 2) Content
 
-	- README.txt: This file:
+	- README.md: This file:
 	- BenchLS.txt: The BenchLS benchmarking dataset.
 	
 3) Format
