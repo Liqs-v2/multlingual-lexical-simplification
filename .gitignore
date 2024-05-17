@@ -5,5 +5,8 @@
 .idea
 .vscode
 
+# Pychache
+__pycache__/
+
 # Personal Colab Setup
 colab_setup/
