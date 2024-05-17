@@ -33,10 +33,9 @@ def read_file_to_array(filename):
 
 
 # Example usage
-"""
 filename = r"data\BenchLS\BenchLS.txt"
 array = read_file_to_array(filename)
-"""
+print(len(array[0][3]))
 
 # Example output of first line:
 """
