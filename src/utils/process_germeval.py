@@ -51,7 +51,26 @@ def readSubstituesIn(path):
     with open(path, 'r') as file:
         # Remove newline characters and store each line as an element in a list
         lines = [line.strip() for line in file.readlines()]
-    return lines
+
+    substitutions_list = []
+    for line in lines:
+        line = line.split("::")
+        line = line[1].split(";")
+        substitutes = line[1:]
+        substitutes = [s for s in substitutes if s!=""]
+        # Parse the substitutions into a dictionary
+        substitution_dict = {}
+        for substitute in substitutes:
+            substitute = substitute.strip()
+            rank = int(substitute[len(substitute)-1:])  
+            substitute = substitute[:len(substitute)-2] 
+            if rank in substitution_dict:
+                substitution_dict[rank].append(substitute)
+            else:
+                substitution_dict[rank] = [substitute]
+        substitutions_list.append(substitution_dict)
+    
+    return substitutions_list
 
 # Get the proocessed Dataset and Substitutes
 def processData():
@@ -59,17 +78,13 @@ def processData():
     complexWords = getComplexWords(root)
     sentences = getSentences(root)
 
-    sub_array = readSubstituesIn('data/germeval/train-dataset.gold')
-    print(sub_array[0])
+    subsitutes = readSubstituesIn('data/germeval/train-dataset.gold')
     processedDate = []
-    for index,subsitute in enumerate(sub_array):
-        print(subsitute)
-        line = subsitute.split(' ')
-        subsitutes = [value for index, value in enumerate(line) if index % 2 != 0 and index > 2]
-        string = sentences[index] + '\n' + complexWords[index] + '\n' + str(getPosition(complexWords[index],sentences[index])) + '\n' + str(subsitutes)
-        processedDate.append(string)    
+    for index,subsitute in enumerate(subsitutes):
+        processedLine = [sentences[index],complexWords[index],getPosition(complexWords[index],sentences[index]),subsitute]
+        processedDate.append(processedLine)    
 
-    return np.array(processedDate)  
+    return np.array(processedDate, dtype=object)  
 
 array = processData()
 print(array[0])
