@@ -73,12 +73,12 @@ def readSubstituesIn(path):
     return substitutions_list
 
 # Get the proocessed Dataset and Substitutes
-def processData():
-    root = readDatasetIn('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.xml')
+def processData(pathData, pathSubstitutes):
+    root = readDatasetIn(pathData)
     complexWords = getComplexWords(root)
     sentences = getSentences(root)
 
-    subsitutes = readSubstituesIn('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.gold')
+    subsitutes = readSubstituesIn(pathSubstitutes)
     processedDate = []
     for index,subsitute in enumerate(subsitutes):
         processedLine = [sentences[index],complexWords[index],getPosition(complexWords[index],sentences[index]),subsitute]
