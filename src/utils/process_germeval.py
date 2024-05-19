@@ -74,11 +74,11 @@ def readSubstituesIn(path):
 
 # Get the proocessed Dataset and Substitutes
 def processData(pathData, pathSubstitutes):
+    subsitutes = readSubstituesIn(pathSubstitutes)
     root = readDatasetIn(pathData)
     complexWords = getComplexWords(root)
     sentences = getSentences(root)
 
-    subsitutes = readSubstituesIn(pathSubstitutes)
     processedDate = []
     for index,subsitute in enumerate(subsitutes):
         processedLine = [sentences[index],complexWords[index],getPosition(complexWords[index],sentences[index]),subsitute]
