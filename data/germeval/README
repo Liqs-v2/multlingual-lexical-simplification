@@ -1,0 +1,58 @@
+Lexical substitution data set for German
+and GermEval 2015: LexSub shared task results
+=============================================
+
+
+Contents
+--------
+
+This archive contains the complete German lexical substitution data
+set by Kostadin Cholakov et al., which was used for the GermEval 2015:
+LexSub shared task at GSCL 2015.  The archive also contains the system
+output and scoring software used in the task.  The files are grouped
+into the following subdirectories:
+
+dataset - The complete data set, split into "test" and "train" subsets.
+          The data set is described in the paper by Cholakov et al. (see
+	  below).
+
+output  - Output for all baselines and systems at GermEval 2015: LexSub.
+          These are described in the paper by Miller et al. (see below).
+
+scorer  - Scoring software for calculating the "best", "OOT", and "GAP"
+          metrics.  Documentation is provided in the subdirectory.
+
+
+Licence
+-------
+
+The data set, which is derived from text from the German edition of
+Wikipedia <https://de.wikipedia.org/>, is licensed under the Creative
+Commons Attribution-ShareAlike 3.0 Unported licence
+<https://creativecommons.org/licenses/by-sa/3.0/>.
+
+The scoring programs are governed by their own licences as described
+in the source code.
+
+
+Citation
+--------
+
+To reference the data set and system output, please use the following
+citations:
+
+Kostadin Cholakov, Chris Biemann, Judith Eckle-Kohler, and Iryna
+Gurevych. Lexical Substitution Dataset for German. In: Proceedings of
+the 9th International Conference on Language Resources and Evaluation
+(LREC 2014), pages 1406-1411, May 2014.
+<http://www.lrec-conf.org/proceedings/lrec2014/pdf/545_Paper.pdf>
+
+Tristan Miller, Darina Benikova, and Sallam Abualhaija. GermEval 2015:
+LexSub -- A Shared Task for German-language Lexical Substitution.  In:
+Proceedings of GermEval 2015: LexSub, pages 1-9, September 2015.
+<https://sites.google.com/site/germeval2015/program/2015_GermEval_LexSub.pdf?attredirects=0&d=1>
+
+
+
+Tristan Miller
+28 September 2015
