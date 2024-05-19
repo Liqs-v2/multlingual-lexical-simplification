@@ -85,6 +85,3 @@ def processData(pathData, pathSubstitutes):
         processedDate.append(processedLine)    
 
     return np.array(processedDate, dtype=object)  
-
-array = processData()
-print(array[0])
