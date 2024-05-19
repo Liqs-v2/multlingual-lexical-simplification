@@ -39,7 +39,7 @@ def getSentences(root):
 
 def readDatasetIn(path):
     # Parse the XML file
-    tree = ET.parse('data/germeval/train-dataset.xml')
+    tree = ET.parse(path)
     return tree.getroot()
 
     
