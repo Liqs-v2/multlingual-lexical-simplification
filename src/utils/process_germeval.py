@@ -74,7 +74,7 @@ def readSubstituesIn(path):
 
 # Get the proocessed Dataset and Substitutes
 def processData():
-    root = readDatasetIn('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification//data/germeval/train-dataset.xml')
+    root = readDatasetIn('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.xml')
     complexWords = getComplexWords(root)
     sentences = getSentences(root)
 
