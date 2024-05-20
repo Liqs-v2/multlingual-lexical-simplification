@@ -55,8 +55,7 @@ def readSubstituesIn(path):
     substitutions_list = []
     for line in lines:
         line = line.split("::")
-        line = line[1].split(";")
-        substitutes = line[1:]
+        substitutes = line[1].split(";")
         substitutes = [s for s in substitutes if s!=""]
         # Parse the substitutions into a dictionary
         substitution_dict = {}
@@ -68,7 +67,16 @@ def readSubstituesIn(path):
                 substitution_dict[rank].append(substitute)
             else:
                 substitution_dict[rank] = [substitute]
-        substitutions_list.append(substitution_dict)
+        # ranks in wrong order
+
+        # Step 2: Assign new rank
+        new_rankings = {}
+        current_rank = 1
+        previous_value = None
+        for index,(rank,substitutes) in enumerate(substitution_dict.items()):
+            new_rankings[index+1] = substitutes
+
+        substitutions_list.append(new_rankings)
     
     return substitutions_list
 
