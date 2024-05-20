@@ -7,8 +7,8 @@ from src.utils.data_provider import DataProvider
 
 class GermanEvalDataProvider(DataProvider):
 
-    path_to_data = 'data/germeval/train-dataset.gold'
-    path_to_substitutes = 'data/germeval/substitutes.txt'
+    path_to_data = 'data/germeval/train-dataset.xml'
+    path_to_substitutes = 'data/germeval/train-dataset.gold'
 
     def __init__(self, path_to_data, path_to_substitutes):
         self.path_to_data = path_to_data
@@ -106,3 +106,5 @@ class GermanEvalDataProvider(DataProvider):
             processedDate.append(processedLine)
 
         return np.array(processedDate, dtype=object)
+
+provide_data = GermanEvalDataProvider.provide_data_as_numpy_array()
