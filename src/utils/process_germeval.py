@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import numpy as np
 import numpy as np
 
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
 #find position of the word in the sentence
 def getPosition(word, sentence):

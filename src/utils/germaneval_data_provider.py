@@ -3,6 +3,7 @@ import numpy as np
 
 from src.utils.data_provider import DataProvider
 
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
 class GermanEvalDataProvider(DataProvider):
 
@@ -60,9 +61,8 @@ class GermanEvalDataProvider(DataProvider):
         tree = ET.parse(path)
         return tree.getroot()
 
-    #'data/germeval/train-dataset.gold'
     def read_substitues_in(self, path):
-        # Read the file
+        # Read the substitues file
         with open(path, 'r') as file:
             # Remove newline characters and store each line as an element in a list
             lines = [line.strip() for line in file.readlines()]
@@ -72,6 +72,7 @@ class GermanEvalDataProvider(DataProvider):
             line = line.split("::")
             substitutes = line[1].split(";")
             substitutes = [s for s in substitutes if s!=""]
+
             # Parse the substitutions into a dictionary
             substitution_dict = {}
             for substitute in substitutes:
@@ -83,9 +84,8 @@ class GermanEvalDataProvider(DataProvider):
                 else:
                     substitution_dict[rank] = [substitute]
             # ranks in wrong order
-            # Assign new rank
+            # Assign correct ranks
             new_rankings = {}
-
             for index,(rank,substitutes) in enumerate(substitution_dict.items()):
                 new_rankings[index+1] = substitutes
 
