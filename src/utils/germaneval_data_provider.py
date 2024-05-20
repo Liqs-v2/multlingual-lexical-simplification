@@ -70,20 +70,26 @@ class GermanEvalDataProvider(DataProvider):
         substitutions_list = []
         for line in lines:
             line = line.split("::")
-            line = line[1].split(";")
-            substitutes = line[1:]
-            substitutes = [s for s in substitutes if s != ""]
+            substitutes = line[1].split(";")
+            substitutes = [s for s in substitutes if s!=""]
             # Parse the substitutions into a dictionary
             substitution_dict = {}
             for substitute in substitutes:
                 substitute = substitute.strip()
-                rank = int(substitute[len(substitute) - 1:])
-                substitute = substitute[:len(substitute) - 2]
+                rank = int(substitute[len(substitute)-1:])  
+                substitute = substitute[:len(substitute)-2] 
                 if rank in substitution_dict:
                     substitution_dict[rank].append(substitute)
                 else:
                     substitution_dict[rank] = [substitute]
-            substitutions_list.append(substitution_dict)
+            # ranks in wrong order
+            # Assign new rank
+            new_rankings = {}
+
+            for index,(rank,substitutes) in enumerate(substitution_dict.items()):
+                new_rankings[index+1] = substitutes
+
+            substitutions_list.append(new_rankings)
 
         return substitutions_list
 

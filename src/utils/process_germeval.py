@@ -68,11 +68,9 @@ def readSubstituesIn(path):
             else:
                 substitution_dict[rank] = [substitute]
         # ranks in wrong order
-
-        # Step 2: Assign new rank
+        # Assign new rank
         new_rankings = {}
-        current_rank = 1
-        previous_value = None
+
         for index,(rank,substitutes) in enumerate(substitution_dict.items()):
             new_rankings[index+1] = substitutes
 
