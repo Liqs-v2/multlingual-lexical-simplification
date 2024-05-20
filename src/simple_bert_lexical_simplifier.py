@@ -5,7 +5,7 @@ import torch
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
 
-class EnglishBertLexicalSimplifier(LexicalSimplifier):
+class SimpleBertLexicalSimplifier(LexicalSimplifier):
     """
     A simple BERT based implementation of lexical simplification. Masks the given complex word with [MASK], adds other
     BERT specific tokens and generates a list of possible substitutions via the model predictions based on the prompt.
