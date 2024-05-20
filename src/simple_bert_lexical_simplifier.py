@@ -57,6 +57,7 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
 
         # Tokenize input text
         inputs = self.tokenizer(input_text, return_tensors="pt", padding=True, truncation=True)
+        inputs.to(self.model.device) # Use GPU if available
 
         # Forward pass through the model
         with torch.no_grad():
