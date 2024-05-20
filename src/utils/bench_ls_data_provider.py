@@ -1,7 +1,7 @@
 # Preprocess the BenchLS dataset into a numpy array
 import numpy as np
 
-from data_provider import DataProvider
+from src.utils.data_provider import DataProvider
 
 
 class BenchLSDataProvider(DataProvider):
