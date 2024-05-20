@@ -5,16 +5,16 @@ import torch
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
 
-class GermanBertLexicalSimplifier(LexicalSimplifier):
+class EnglishBertLexicalSimplifier(LexicalSimplifier):
     """
-    A German BERT based implementation of lexical simplification. Masks the given complex word with [MASK], adds other
+    A simple BERT based implementation of lexical simplification. Masks the given complex word with [MASK], adds other
     BERT specific tokens and generates a list of possible substitutions via the model predictions based on the prompt.
 
     The prompt is dynamically built using the pattern attribute, which should be a format string that can take at least
     one argument - the original sentence with the masked complex word.
 
     Attributes:
-        model: The model used for generating substitutions, in this case a GermanBERT instance.
+        model: The model used for generating substitutions, in this case a BERT instance.
         tokenizer: The tokenizer used for tokenizing the input sentence. Must be the model tokenizer.
         pattern: The format string used to dynamically build prompts for generating substitutions. For this implementation,
             the pattern should contain placeholders for the original sentence and the sentence with the masked complex word.
