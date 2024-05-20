@@ -48,6 +48,10 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
         """
 
         # Setup prompt
+        # Assumes that complex_word is in the original_sentence, in the same case
+        if complex_word not in original_sentence:
+            # This covers the edge case of the complex word being the first word in the sentence
+            complex_word = complex_word.capitalize() if complex_word.capitalize() in original_sentence else complex_word
         sentence_with_complex_word_masked = original_sentence.replace(complex_word, '[MASK]')
         input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked)
 
