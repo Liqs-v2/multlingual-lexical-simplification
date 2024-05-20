@@ -1,6 +1,7 @@
 from lexical_simplifier import LexicalSimplifier
 import torch
 
+
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
 
@@ -24,6 +25,10 @@ class GermanBertLexicalSimplifier(LexicalSimplifier):
     def __init__(self, model, tokenizer, pattern, exemplars):
         super().__init__(model, tokenizer, pattern, exemplars)
 
+    def apply_pattern_to(self, original_sentence: str, sentence_with_complex_word_masked: str) -> str:
+        return self.pattern.format(original_sentence=original_sentence,
+                                   sentence_with_complex_word_masked=sentence_with_complex_word_masked)
+
     def generate_substitutions_for(self, complex_word: str, original_sentence: str, top_k: int = 10):
         """
         Generates a list of substitutions via the model predictions for the given complex word in the context of the sentence.
@@ -43,13 +48,8 @@ class GermanBertLexicalSimplifier(LexicalSimplifier):
         """
 
         # Setup prompt
-        # TODO The preprocessing needed depends on the pattern passed. Since the pattern can be dynamically passed,
-        # I'm not sure this is the most stable and best approach.
-        # Perhaps it would be better to just have a function that sets the pattern based on a passed template
-        # and arguments, then this is baked into the prompt generation.
         sentence_with_complex_word_masked = original_sentence.replace(complex_word, '[MASK]')
-        input_text = self.pattern.format(original_sentence=original_sentence,
-                                         sentence_with_complex_word_masked=sentence_with_complex_word_masked)
+        input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked)
 
         # Tokenize input text
         inputs = self.tokenizer(input_text, return_tensors="pt", padding=True, truncation=True)
