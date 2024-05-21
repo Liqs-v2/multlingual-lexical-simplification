@@ -106,5 +106,3 @@ class GermanEvalDataProvider(DataProvider):
             processedDate.append(processedLine)
 
         return np.array(processedDate, dtype=object)
-
-provide_data = GermanEvalDataProvider.provide_data_as_numpy_array()
