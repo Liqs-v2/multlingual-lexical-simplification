@@ -67,7 +67,6 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
         probs = torch.nn.functional.softmax(outputs.logits[0, masked_index], dim=-1)
 
         # Get the top predictions
-        top_k = 10
         top_k_tokens = torch.topk(probs, k=top_k).indices.tolist()
 
         # Convert token IDs back to tokens
