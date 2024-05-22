@@ -13,14 +13,18 @@ Have a look at their task description and provided material. Then come up with y
 ## Recommended literature
 - [An LLM-Enhanced Adversarial Editing System for Lexical Simplification](https://arxiv.org/abs/2402.14704)
 
+## Identified pain points
+- Datasets are small and of mixed quality
+- Proprietary models exhibit SOTA performance with simple prompt engineering techniques, but their **cost and privacy issues** make their use in public domain projects difficult
+
 # Approach
+We have decided to focus on the latter pain point and build a comprehensive benchmarking suite to **speed up research** 
+by reducing the need to re-implement boilerplate code and **evaluate existing approaches on open-source models** to
+enable transfer of SOTA techniques to production.
 
-Implementation and evaluation of open-source and low resource Lexical Simplification Pipeline.
+With, we aim find a "working" approach that does not have SOTA performance but adds value to the community.
 
-Evaluate whether we can find a "working" approach that does not have SOTA performance but adds value to the community.
-
-Approach: 
-
+## Goals
 1. set up an evaluation pipeline: How does performance change when using small open-source models or incorporating more complex architectures?
 2. iterations of the architectures:
     1. models: 
