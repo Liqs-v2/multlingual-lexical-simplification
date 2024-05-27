@@ -78,7 +78,7 @@ class BenchmarkSuite:
         recall = 0
         f1 = 0
 
-        for sample in tqdm(benchmark_data[:10], desc='Benchmarking ...'):
+        for sample in tqdm(benchmark_data, desc='Benchmarking'):
             sentence = sample[0]
             complex_word = sample[1]
             ground_truth_substitutions = sample[3]
