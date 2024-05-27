@@ -2,6 +2,7 @@ from typing import List, Dict, Set
 
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 
 from evaluator import Evaluator
 from language import Language
@@ -60,7 +61,9 @@ class BenchmarkSuite:
         results = pd.DataFrame()
 
         for language in self.languages:
+            print(f'Benchmarking model on {language.name} ...')
             for dataset in self._enabled_datasets[language]:
+                print(f'Benchmarking model on {dataset.__class__.__name__}...')
                 benchmark_data = dataset.provide_data_as_numpy_array()
 
                 results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on(benchmark_data)
@@ -75,7 +78,7 @@ class BenchmarkSuite:
         recall = 0
         f1 = 0
 
-        for sample in benchmark_data[:10]:
+        for sample in tqdm(benchmark_data[:10], desc='Benchmarking ...'):
             sentence = sample[0]
             complex_word = sample[1]
             ground_truth_substitutions = sample[3]
