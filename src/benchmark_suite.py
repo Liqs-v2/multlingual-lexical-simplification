@@ -7,6 +7,7 @@ from utils.germaneval_data_provider import GermanEvalDataProvider
 from language import Language
 
 import numpy as np
+import pandas as pd
 
 
 class BenchmarkSuite:
@@ -31,9 +32,9 @@ class BenchmarkSuite:
     # are constrained to lazily fetch the datasets via provide_data_as_numpy_array,
     # these objects are very lightweight.
     _AVAILABLE_DATASETS: Dict[Language, List[DataProvider]] = {
-            Language.DE: [GermanEvalDataProvider()],
-            Language.EN: [BenchLSDataProvider()]
-        }
+        Language.DE: [GermanEvalDataProvider()],
+        Language.EN: [BenchLSDataProvider()]
+    }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
     def __init__(self, testee_model: LexicalSimplifier, languages: Set[Language]):
@@ -51,14 +52,16 @@ class BenchmarkSuite:
         self.__enable_datasets_by_languages()
 
     def run(self):
+        results = pd.DataFrame()
+
         for language in self.languages:
             for dataset in self._enabled_datasets[language]:
                 benchmark_data = dataset.provide_data_as_numpy_array()
 
-                results = self.__benchmark_model_on(benchmark_data)
-                # TODO accumulate results
+                results.loc[f'{language.name}-{dataset.__name__}'] = self.__benchmark_model_on(benchmark_data)
 
-        # TODO Persist results (CSV or JSON)
+        results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/benchmark_results.csv',
+                       index=True, index_label='run', header=True)
 
     def __benchmark_model_on(self, benchmark_data: np.ndarray):
         # TODO: Generate substitutions for each entry in benchmark_data
