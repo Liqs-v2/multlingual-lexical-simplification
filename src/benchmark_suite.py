@@ -63,7 +63,7 @@ class BenchmarkSuite:
             for dataset in self._enabled_datasets[language]:
                 benchmark_data = dataset.provide_data_as_numpy_array()
 
-                results.loc[f'{language.name}-{dataset.__name__}'] = self.__benchmark_model_on(benchmark_data)
+                results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on(benchmark_data)
 
         results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
                        f'benchmark_results_{self.testee_model.__name__}.csv',
