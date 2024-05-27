@@ -9,8 +9,8 @@ from src.language import Language
 
 class GermanEvalDataProvider(DataProvider):
 
-    path_to_data = 'data/germeval/train-dataset.xml'
-    path_to_substitutes = 'data/germeval/train-dataset.gold'
+    _path_to_data = 'data/germeval/train-dataset.xml'
+    _path_to_substitutes = 'data/germeval/train-dataset.gold'
 
     applicable_languages = [Language.DE]
 
@@ -94,8 +94,8 @@ class GermanEvalDataProvider(DataProvider):
         return substitutions_list
 
     def provide_data_as_numpy_array(self):
-        substitutes = self.read_substitues_in(self.path_to_substitutes)
-        root = self.read_dataset_in(self.path_to_data)
+        substitutes = self.read_substitues_in(self._path_to_substitutes)
+        root = self.read_dataset_in(self._path_to_data)
         complexWords = self.get_complex_words(root)
         sentences = self.get_sentences(root)
 

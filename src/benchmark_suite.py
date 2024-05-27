@@ -10,13 +10,22 @@ from language import Language
 class BenchmarkSuite:
     testee_model: LexicalSimplifier = None
     languages: List[Language] = None
-    datasets: Dict[Language: List[DataProvider]] = None
+    _datasets: Dict[Language: List[DataProvider]] = None
 
     def __init__(self, testee_model: LexicalSimplifier, languages: List[Language]):
         self.testee_model = testee_model
         self.languages = languages
 
-        self.datasets = {
+        # TODO this should be dynamically created based on the languages passed
+
+        self._datasets = {}
+        for language in self.languages:
+            self._datasets[language] = [
+
+            ]
+
+
+        self._datasets = {
             Language.DE: [GermanEvalDataProvider(
                 '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.xml',
                 '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.gold')],
@@ -28,26 +37,16 @@ class BenchmarkSuite:
         # run the benchmark suite with the specified config (ie attrs)
         pass
 
-    def add_language(self, language: Language):
-        # add a language to the benchmark suite
-        pass
+    def enable_language(self, language: Language):
+        self.languages.append(language)
 
-    def add_languages(self, languages: List[Language]):
-        # add multiple languages to the benchmark suite
-        pass
+    def enable_languages(self, languages: List[Language]):
+        for language in languages:
+            self.enable_language(language)
 
-    def remove_language(self, language: Language):
-        # remove a language from the benchmark suite
-        pass
+    def disable_language(self, language: Language):
+        self.languages.remove(language)
 
-    def remove_languages(self, languages: List[Language]):
-        # remove multiple languages from the benchmark suite
-        pass
-
-    def disable_dataset(self, dataset: str):
-        # disable a dataset from the benchmark suite
-        pass
-
-    def disable_datasets(self, datasets: List[str]):
-        # disable multiple datasets from the benchmark suite
-        pass
+    def disable_languages(self, languages: List[Language]):
+        for language in languages:
+            self.disable_language(language)
