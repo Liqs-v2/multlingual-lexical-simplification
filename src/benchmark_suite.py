@@ -99,7 +99,6 @@ class BenchmarkSuite:
 
         return pd.Series({'potential': potential, 'precision': precision, 'recall': recall, 'f1': f1})
 
-
     def enable_language(self, language: Language):
         """
         Enables the specified language and related datasets for benchmarking.
