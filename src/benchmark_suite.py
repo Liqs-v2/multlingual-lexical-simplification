@@ -6,6 +6,8 @@ from utils.bench_ls_data_provider import BenchLSDataProvider
 from utils.germaneval_data_provider import GermanEvalDataProvider
 from language import Language
 
+import numpy as np
+
 
 class BenchmarkSuite:
     """
@@ -49,7 +51,18 @@ class BenchmarkSuite:
         self.__enable_datasets_by_languages()
 
     def run(self):
-        # run the benchmark suite with the specified config (ie attrs)
+        for language in self.languages:
+            for dataset in self._enabled_datasets[language]:
+                benchmark_data = dataset.provide_data_as_numpy_array()
+
+                results = self.__benchmark_model_on(benchmark_data)
+                # TODO accumulate results
+
+        # TODO Persist results (CSV or JSON)
+
+    def __benchmark_model_on(self, benchmark_data: np.ndarray):
+        # TODO: Generate substitutions for each entry in benchmark_data
+        #   Then evaluate and return in the same format across all models
         pass
 
     def enable_language(self, language: Language):
