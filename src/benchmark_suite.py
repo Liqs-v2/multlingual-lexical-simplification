@@ -1,13 +1,14 @@
 from typing import List, Dict, Set
 
-from lexical_simplifier import LexicalSimplifier
-from utils.data_provider import DataProvider
-from utils.bench_ls_data_provider import BenchLSDataProvider
-from utils.germaneval_data_provider import GermanEvalDataProvider
-from language import Language
-
 import numpy as np
 import pandas as pd
+
+from evaluator import Evaluator
+from language import Language
+from lexical_simplifier import LexicalSimplifier
+from utils.bench_ls_data_provider import BenchLSDataProvider
+from utils.data_provider import DataProvider
+from utils.germaneval_data_provider import GermanEvalDataProvider
 
 
 class BenchmarkSuite:
