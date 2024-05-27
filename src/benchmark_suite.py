@@ -1,4 +1,4 @@
-from typing import List, Dict
+from typing import List, Dict, Set
 
 from lexical_simplifier import LexicalSimplifier
 from utils.data_provider import DataProvider
@@ -9,44 +9,60 @@ from language import Language
 
 class BenchmarkSuite:
     testee_model: LexicalSimplifier = None
-    languages: List[Language] = None
-    _datasets: Dict[Language, List[DataProvider]] = None
+    languages: Set[Language] = None
+    _available_datasets: Dict[Language, List[DataProvider]] = None
+    _enabled_datasets: Dict[Language, List[DataProvider]] = None
 
-    def __init__(self, testee_model: LexicalSimplifier, languages: List[Language]):
+    def __init__(self, testee_model: LexicalSimplifier, languages: Set[Language]):
         self.testee_model = testee_model
         self.languages = languages
 
-        # TODO this should be dynamically created based on the languages passed
-
-        self._datasets = {}
-        for language in self.languages:
-            self._datasets[language] = [
-
-            ]
-
-
-        self._datasets = {
-            Language.DE: [GermanEvalDataProvider(
-                '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.xml',
-                '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.gold')],
-            Language.EN: [BenchLSDataProvider(
-                '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/BenchLS/BenchLS.txt')]
+        # Rather than dynamically initializing self._datasets right away via self inspection and the like,
+        # I decided to simply remove unused languages after the fact.
+        # This tradeoff is essentially compute vs memory bound and since the DataProvider implementations
+        # are constrained to lazily fetch the datasets via provide_data_as_numpy_array,
+        # these objects are very lightweight.
+        self._available_datasets = {
+            Language.DE: [GermanEvalDataProvider()],
+            Language.EN: [BenchLSDataProvider()]
         }
+
+        self.__enable_datasets_by_languages()
 
     def run(self):
         # run the benchmark suite with the specified config (ie attrs)
         pass
 
     def enable_language(self, language: Language):
-        self.languages.append(language)
+        self.languages.add(language)
+
+        self.__enable_datasets_by_languages()
 
     def enable_languages(self, languages: List[Language]):
         for language in languages:
             self.enable_language(language)
 
+        self.__enable_datasets_by_languages()
+
     def disable_language(self, language: Language):
         self.languages.remove(language)
+
+        self.__disable_datasets_by_languages()
 
     def disable_languages(self, languages: List[Language]):
         for language in languages:
             self.disable_language(language)
+
+        self.__disable_datasets_by_languages()
+
+    def __enable_datasets_by_languages(self):
+        languages_to_enable = self.languages.difference(set(self._enabled_datasets.keys()))
+
+        for language_to_enable in languages_to_enable:
+            self._enabled_datasets[language_to_enable] = self._available_datasets[language_to_enable]
+
+    def __disable_datasets_by_languages(self):
+        languages_to_disable = self.languages.difference(set(self._enabled_datasets.keys()))
+
+        for language_to_disable in languages_to_disable:
+            del self._enabled_datasets[language_to_disable]
