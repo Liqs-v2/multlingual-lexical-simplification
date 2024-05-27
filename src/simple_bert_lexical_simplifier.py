@@ -40,6 +40,8 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
         and a prompt is generated. This prompt is then tokenization before being passed to the model. The top_k predictions
         are returned.
 
+        Will use CUDA if available.
+
         Args:
             complex_word: The complex word to be simplified. This is given in our case, we do not tackle complex word identification.
             original_sentence: The sentence containing the complex word.
@@ -60,6 +62,7 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
         # Tokenize input text
         inputs = self.tokenizer(input_text, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
 
+        # Since the tokenizer returns a dict, we need to unpack to correctly move the tensors to CUDA
         inputs = {name: tensor.to(self.device) for name, tensor in inputs.items()}
 
         # Forward pass through the model
