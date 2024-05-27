@@ -2,6 +2,9 @@ import abc
 import numpy as np
 from abc import ABCMeta
 
+from src.language import Language
+from typing import List
+
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
 
@@ -11,7 +14,13 @@ class DataProvider(metaclass=ABCMeta):
     a numpy array for further processing. Note that the variables relating to the path to the dataset should be
     stored as attributes in the implementing subclass and accessed this way. This is to allow for the flexibility of
     changing the path to the dataset without changing the method signature.
+
+    Attributes:
+        applicable_languages (List[Language]): Languages which are supported by this dataset.
     """
+
+    applicable_languages: List[Language] = None
+
 
     @abc.abstractmethod
     def provide_data_as_numpy_array(self) -> np.ndarray:

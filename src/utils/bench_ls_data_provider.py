@@ -2,6 +2,7 @@
 import numpy as np
 
 from src.utils.data_provider import DataProvider
+from src.language import Language
 
 
 class BenchLSDataProvider(DataProvider):
@@ -20,6 +21,7 @@ class BenchLSDataProvider(DataProvider):
     """
 
     filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/BenchLS/BenchLS.txt'
+    applicable_languages = [Language.EN]
 
     def __init__(self, filename):
         self.filename = filename

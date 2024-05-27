@@ -2,17 +2,17 @@ import xml.etree.ElementTree as ET
 import numpy as np
 
 from src.utils.data_provider import DataProvider
+from src.language import Language
 
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
+
 
 class GermanEvalDataProvider(DataProvider):
 
     path_to_data = 'data/germeval/train-dataset.xml'
     path_to_substitutes = 'data/germeval/train-dataset.gold'
 
-    def __init__(self, path_to_data, path_to_substitutes):
-        self.path_to_data = path_to_data
-        self.path_to_substitutes = path_to_substitutes
+    applicable_languages = [Language.DE]
 
     def get_position(self, word, sentence):
         """
