@@ -10,7 +10,7 @@ from language import Language
 class BenchmarkSuite:
     testee_model: LexicalSimplifier = None
     languages: List[Language] = None
-    _datasets: Dict[Language: List[DataProvider]] = None
+    _datasets: Dict[Language, List[DataProvider]] = None
 
     def __init__(self, testee_model: LexicalSimplifier, languages: List[Language]):
         self.testee_model = testee_model
