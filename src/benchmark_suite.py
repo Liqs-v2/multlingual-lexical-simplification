@@ -71,9 +71,35 @@ class BenchmarkSuite:
                        index=True, index_label='run', header=True)
 
     def __benchmark_model_on(self, benchmark_data: np.ndarray) -> pd.Series:
-        # TODO: Generate substitutions for each entry in benchmark_data
-        #   Then evaluate and return in the same format across all models
-        pass
+        potential = 0
+        precision = 0
+        recall = 0
+        f1 = 0
+
+        for sample in benchmark_data:
+            sentence = sample[0]
+            complex_word = sample[1]
+            ground_truth_substitutions = sample[3]
+
+            predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
+
+            sample_potential, sample_precision, sample_recall, sample_f1 = Evaluator.evaluate(
+                ground_truth_substitutions, predicted_substitutions
+            )
+
+            if sample_potential:
+                potential += 1
+            precision += sample_precision
+            recall += sample_recall
+            f1 += sample_f1
+
+        potential = potential / len(benchmark_data)
+        precision = precision / len(benchmark_data)
+        recall = recall / len(benchmark_data)
+        f1 = f1 / len(benchmark_data)
+
+        return pd.Series({'potential': potential, 'precision': precision, 'recall': recall, 'f1': f1})
+
 
     def enable_language(self, language: Language):
         """
