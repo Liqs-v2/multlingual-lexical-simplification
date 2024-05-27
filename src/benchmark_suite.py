@@ -9,9 +9,9 @@ class BenchmarkSuite:
 
     testee_model: LexicalSimplifier = None
     languages: List[Language] = None
-    datasets: Dict[str: List[DataProvider]] = {
-        "de": ["germeval, germeval2015"],
-        "en": ["benchls"]
+    datasets: Dict[Language: List[DataProvider]] = {
+        Language.DE: ["germeval, germeval2015"],
+        Language.EN: ["benchls"]
     }
 
     def __init__(self, testee_model: LexicalSimplifier, languages: List[Language]):
