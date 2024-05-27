@@ -58,7 +58,7 @@ class BenchmarkSuite:
         Runs the benchmark pipeline and evaluates self.testee_model on the datasets that are currently enabled.
         The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
         """
-        results = pd.DataFrame()
+        results = pd.DataFrame(columns=['potential', 'precision', 'recall', 'f1'])
 
         for language in self.languages:
             print(f'Benchmarking model on {language.name} ...')
