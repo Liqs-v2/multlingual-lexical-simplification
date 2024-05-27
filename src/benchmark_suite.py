@@ -11,7 +11,7 @@ class BenchmarkSuite:
     testee_model: LexicalSimplifier = None
     languages: Set[Language] = None
     _available_datasets: Dict[Language, List[DataProvider]] = None
-    _enabled_datasets: Dict[Language, List[DataProvider]] = None
+    _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
     def __init__(self, testee_model: LexicalSimplifier, languages: Set[Language]):
         self.testee_model = testee_model
@@ -62,7 +62,13 @@ class BenchmarkSuite:
             self._enabled_datasets[language_to_enable] = self._available_datasets[language_to_enable]
 
     def __disable_datasets_by_languages(self):
-        languages_to_disable = self.languages.difference(set(self._enabled_datasets.keys()))
+        languages_to_disable = set(self._enabled_datasets.keys()).difference(self.languages)
 
         for language_to_disable in languages_to_disable:
             del self._enabled_datasets[language_to_disable]
+
+
+suite = BenchmarkSuite(LexicalSimplifier, {Language.EN})
+suite.disable_language(Language.EN)
+suite.enable_languages([Language.EN, Language.DE])
+suite.disable_languages([Language.DE])
