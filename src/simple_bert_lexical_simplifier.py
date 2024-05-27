@@ -1,5 +1,6 @@
-from lexical_simplifier import LexicalSimplifier
 import torch
+
+from lexical_simplifier import LexicalSimplifier
 
 
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
@@ -21,9 +22,10 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
             Between these, an instruction is injected to guide the model towards simplifying the complex word.
         exemplars: A list of exemplar words used for zero-shot learning. Unused for this implementation.
     """
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     def __init__(self, model, tokenizer, pattern, exemplars):
-        super().__init__(model, tokenizer, pattern, exemplars)
+        super().__init__(model.to(self.device), tokenizer, pattern, exemplars)
 
     def apply_pattern_to(self, original_sentence: str, sentence_with_complex_word_masked: str) -> str:
         return self.pattern.format(original_sentence=original_sentence,
@@ -57,6 +59,8 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
 
         # Tokenize input text
         inputs = self.tokenizer(input_text, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
+
+        inputs = {name: tensor.to(self.device) for name, tensor in inputs.items()}
 
         # Forward pass through the model
         with torch.no_grad():
