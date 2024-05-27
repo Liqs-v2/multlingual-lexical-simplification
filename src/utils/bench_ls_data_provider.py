@@ -19,11 +19,7 @@ class BenchLSDataProvider(DataProvider):
      {1: ['parts'], 2: ['bits'], 3: ['components'], 4: ['information', 'elements', 'items', 'component', 'part', 'sections']}]
     """
 
-    filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/BenchLS/BenchLS.txt'
-
-    def __init__(self, filename):
-        self.filename = filename
-
+    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/BenchLS/BenchLS.txt'
 
     def process_line(self, line):
         """Process a line from the BenchLS dataset into a numpy array"""
@@ -46,7 +42,7 @@ class BenchLSDataProvider(DataProvider):
         return [sentence, complex_word, position, substitution_dict]
 
     def provide_data_as_numpy_array(self):
-        with open(self.filename, "r", encoding="utf-8") as file:
+        with open(self._filename, "r", encoding="utf-8") as file:
             lines = file.readlines()
 
         processed_lines = [self.process_line(line) for line in lines]
