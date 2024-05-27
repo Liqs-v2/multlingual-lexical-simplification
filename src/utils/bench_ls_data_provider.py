@@ -2,7 +2,6 @@
 import numpy as np
 
 from src.utils.data_provider import DataProvider
-from src.language import Language
 
 
 class BenchLSDataProvider(DataProvider):

@@ -1,8 +1,9 @@
 import xml.etree.ElementTree as ET
+
 import numpy as np
 
 from src.utils.data_provider import DataProvider
-from src.language import Language
+
 
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
