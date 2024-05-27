@@ -52,6 +52,12 @@ class BenchmarkSuite:
         self.__enable_datasets_by_languages()
 
     def run(self):
+        """
+        Runs the benchmark pipeline and evaluates self.testee_model on the datasets that are currently enabled.
+        The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
+
+        :return:
+        """
         results = pd.DataFrame()
 
         for language in self.languages:
@@ -60,10 +66,11 @@ class BenchmarkSuite:
 
                 results.loc[f'{language.name}-{dataset.__name__}'] = self.__benchmark_model_on(benchmark_data)
 
-        results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/benchmark_results.csv',
+        results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
+                       f'benchmark_results_{self.testee_model.__name__}.csv',
                        index=True, index_label='run', header=True)
 
-    def __benchmark_model_on(self, benchmark_data: np.ndarray):
+    def __benchmark_model_on(self, benchmark_data: np.ndarray) -> pd.Series:
         # TODO: Generate substitutions for each entry in benchmark_data
         #   Then evaluate and return in the same format across all models
         pass
@@ -145,5 +152,3 @@ class BenchmarkSuite:
 
         for language_to_disable in languages_to_disable:
             del self._enabled_datasets[language_to_disable]
-
-
