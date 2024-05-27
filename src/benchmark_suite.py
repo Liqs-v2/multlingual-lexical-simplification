@@ -56,8 +56,6 @@ class BenchmarkSuite:
         """
         Runs the benchmark pipeline and evaluates self.testee_model on the datasets that are currently enabled.
         The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
-
-        :return:
         """
         results = pd.DataFrame()
 
