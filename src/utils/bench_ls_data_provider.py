@@ -21,8 +21,6 @@ class BenchLSDataProvider(DataProvider):
     """
 
     _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/BenchLS/BenchLS.txt'
-    applicable_languages = [Language.EN]
-
 
     def process_line(self, line):
         """Process a line from the BenchLS dataset into a numpy array"""
