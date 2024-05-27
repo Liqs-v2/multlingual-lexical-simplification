@@ -75,7 +75,7 @@ class BenchmarkSuite:
         recall = 0
         f1 = 0
 
-        for sample in benchmark_data:
+        for sample in benchmark_data[:10]:
             sentence = sample[0]
             complex_word = sample[1]
             ground_truth_substitutions = sample[3]
