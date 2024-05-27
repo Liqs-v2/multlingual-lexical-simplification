@@ -69,7 +69,7 @@ class BenchmarkSuite:
                 results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on(benchmark_data)
 
         results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
-                       f'benchmark_results_{self.testee_model.__name__}.csv',
+                       f'benchmark_results_{self.testee_model.__class__.__name__}.csv',
                        index=True, index_label='run', header=True)
 
     def __benchmark_model_on(self, benchmark_data: np.ndarray) -> pd.Series:
