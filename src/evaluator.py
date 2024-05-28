@@ -1,3 +1,5 @@
+import utils.evaluation_metrics_shared_task as evaluation_metrics_shared_task
+
 class Evaluator:
     """
     Provides evaluation functionality on a sample level. Every metric that is to be reported on the
@@ -6,7 +8,7 @@ class Evaluator:
 
     # TODO Typing for args
     @classmethod
-    def evaluate(cls, ground_truth_substitutions, predicted_substitutions):
+    def evaluate(cls, ground_truth_substitutions, predicted_substitutions, k=10):
         """
         Evaluates the predicted substitutions for a complex word with the provided ground truth
         substitutions with the metrics defined in the class.
@@ -15,7 +17,8 @@ class Evaluator:
             ground_truth_substitutions: The ground truths which we evaluate with.
             predicted_substitutions: The model's substitution predictions.
         Returns:
-            Tuple containing all implemented metrics. Currently: Potential, Precision, Recall, F1 (in this order).
+            Tuple containing all implemented metrics. Currently: Potential, Precision, Recall, F1, MAP@K, 
+            Potential at K, Accuracy at K top 1  (in this order).
         """
 
         sample_potential = False
@@ -40,4 +43,13 @@ class Evaluator:
         if sample_precision + sample_recall != 0:
             sample_f1 = 2 * (sample_precision * sample_recall) / (sample_precision + sample_recall)
 
-        return sample_potential, sample_precision, sample_recall, sample_f1
+        #Calculate MAP@K
+        map_at_k = evaluation_metrics_shared_task.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, k) 
+
+        #Calculate potential_at_k
+        potential_at_k = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, k)
+
+        #Calculate accuracy_at_k_top_1
+        accuracy_at_k_top_1 = evaluation_metrics_shared_task.accuracy_at_k_top_1(predicted_substitutions, ground_truth_substitutions, k)
+
+        return sample_potential, sample_precision, sample_recall, sample_f1, map_at_k, potential_at_k, accuracy_at_k_top_1

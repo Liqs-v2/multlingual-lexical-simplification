@@ -58,7 +58,7 @@ class BenchmarkSuite:
         Runs the benchmark pipeline and evaluates self.testee_model on the datasets that are currently enabled.
         The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
         """
-        results = pd.DataFrame(columns=['potential', 'precision', 'recall', 'f1'])
+        results = pd.DataFrame(columns=['potential', 'precision', 'recall', 'f1', 'map_at_k', 'potential_at_k', 'accuracy_at_k_top_1'])
 
         for language in self.languages:
             print(f'Benchmarking model on {language.name} ...')
@@ -77,6 +77,9 @@ class BenchmarkSuite:
         precision = 0
         recall = 0
         f1 = 0
+        map_at_k = 0
+        potential_at_k = 0
+        accuracy_at_k_top_1 = 0
 
         for sample in tqdm(benchmark_data, desc='Benchmarking'):
             sentence = sample[0]
@@ -85,7 +88,7 @@ class BenchmarkSuite:
 
             predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
 
-            sample_potential, sample_precision, sample_recall, sample_f1 = Evaluator.evaluate(
+            sample_potential, sample_precision, sample_recall, sample_f1, sample_map_at_k, sample_potential_at_k, sample_accuracy_at_k_top_1 = Evaluator.evaluate(
                 ground_truth_substitutions, predicted_substitutions
             )
 
@@ -94,13 +97,22 @@ class BenchmarkSuite:
             precision += sample_precision
             recall += sample_recall
             f1 += sample_f1
+            map_at_k += sample_map_at_k
+            if sample_potential_at_k:
+                potential_at_k += 1
+            if sample_accuracy_at_k_top_1:
+                accuracy_at_k_top_1 += 1
 
         potential = potential / len(benchmark_data)
         precision = precision / len(benchmark_data)
         recall = recall / len(benchmark_data)
         f1 = f1 / len(benchmark_data)
+        map_at_k = map_at_k / len(benchmark_data)
+        potential_at_k = potential_at_k / len(benchmark_data)
+        accuracy_at_k_top_1 = accuracy_at_k_top_1 / len(benchmark_data)
 
-        return pd.Series({'potential': potential, 'precision': precision, 'recall': recall, 'f1': f1})
+        return pd.Series({'potential': potential, 'precision': precision, 'recall': recall, 'f1': f1, 
+                          'map_at_k': map_at_k, 'potential_at_k': potential_at_k, 'accuracy_at_k_top_1': accuracy_at_k_top_1})
 
     def enable_language(self, language: Language):
         """
