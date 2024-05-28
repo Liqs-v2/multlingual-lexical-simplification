@@ -1,18 +1,17 @@
 import xml.etree.ElementTree as ET
+
 import numpy as np
 
 from src.utils.data_provider import DataProvider
 
+
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
+
 
 class GermanEvalDataProvider(DataProvider):
 
-    path_to_data = 'data/germeval/train-dataset.xml'
-    path_to_substitutes = 'data/germeval/train-dataset.gold'
-
-    def __init__(self, path_to_data, path_to_substitutes):
-        self.path_to_data = path_to_data
-        self.path_to_substitutes = path_to_substitutes
+    _path_to_data = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.xml'
+    _path_to_substitutes = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.gold'
 
     def get_position(self, word, sentence):
         """
@@ -94,8 +93,8 @@ class GermanEvalDataProvider(DataProvider):
         return substitutions_list
 
     def provide_data_as_numpy_array(self):
-        substitutes = self.read_substitues_in(self.path_to_substitutes)
-        root = self.read_dataset_in(self.path_to_data)
+        substitutes = self.read_substitues_in(self._path_to_substitutes)
+        root = self.read_dataset_in(self._path_to_data)
         complexWords = self.get_complex_words(root)
         sentences = self.get_sentences(root)
 
