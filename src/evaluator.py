@@ -50,6 +50,6 @@ class Evaluator:
         potential_at_k = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, k)
 
         #Calculate accuracy_at_k_top_1
-        accuracy_at_k_top_1 = evaluation_metrics_shared_task.potentials_at_k(predicted_substitutions, ground_truth_substitutions, k)
+        accuracy_at_k_top_1 = evaluation_metrics_shared_task.accuracy_at_k_top_1(predicted_substitutions, ground_truth_substitutions, k)
 
         return sample_potential, sample_precision, sample_recall, sample_f1, map_at_k, potential_at_k, accuracy_at_k_top_1
