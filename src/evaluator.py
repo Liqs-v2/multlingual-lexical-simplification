@@ -1,4 +1,4 @@
-from utils.evaluation_metrics_shared_task import EvaluationMetricsSharedTask as EvaluationMetricsST
+import utils.evaluation_metrics_shared_task as evaluation_metrics_shared_task
 
 class Evaluator:
     """
@@ -44,12 +44,12 @@ class Evaluator:
             sample_f1 = 2 * (sample_precision * sample_recall) / (sample_precision + sample_recall)
 
         #Calculate MAP@K
-        map_at_k = EvaluationMetricsST.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, k) 
+        map_at_k = evaluation_metrics_shared_task.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, k) 
 
         #Calculate potential_at_k
-        potential_at_k = EvaluationMetricsST.potential_at_k(predicted_substitutions, ground_truth_substitutions, k)
+        potential_at_k = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, k)
 
         #Calculate accuracy_at_k_top_1
-        accuracy_at_k_top_1 = EvaluationMetricsST.potentials_at_k(predicted_substitutions, ground_truth_substitutions, k)
+        accuracy_at_k_top_1 = evaluation_metrics_shared_task.potentials_at_k(predicted_substitutions, ground_truth_substitutions, k)
 
         return sample_potential, sample_precision, sample_recall, sample_f1, map_at_k, potential_at_k, accuracy_at_k_top_1
