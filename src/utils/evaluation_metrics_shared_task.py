@@ -53,21 +53,34 @@ def potential_at_k(substitues, gold_standard, k=10):
         k (int): The value of k.
 
     Returns:
-        float: The potential at k.
+        bool: The potential at k.
     """
-    # TODO: Implement the calculation
-    pass
+    if len(substitues) > k:
+        substitues = substitues[:k]
+
+    for substitute in substitues:
+        if any (substitute== value for value in gold_standard):
+            return True   
+        
+    return False
 
 
-def accuracy_at_k_top_1(substitues, gold_standard, k):
+def accuracy_at_k_top_1(substitues, gold_standard, k=3):
     """
     Calculates the accuracy at k at top 1.
 
     Args:
+        substitues (List[str]): The list of substitutes.
+        gold_standard (List[str]): The list of gold standard substitutes.
         k (int): The value of k.
 
     Returns:
-        float: The accuracy at k at top 1.
+        bool: The accuracy at k at top 1.
     """
-    # TODO: Implement the calculation
-    pass
+    if len(substitues) > k:
+        substitues = substitues[:k] 
+    
+    if gold_standard[0] in substitues:
+        return True
+    
+    return False
