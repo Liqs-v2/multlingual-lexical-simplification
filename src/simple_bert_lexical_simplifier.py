@@ -23,6 +23,7 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
         exemplars: A list of exemplar words used for zero-shot learning. Unused for this implementation.
     """
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    print(f"Using {device} for model inference.")
 
     def __init__(self, model, tokenizer, pattern, exemplars):
         super().__init__(model.to(self.device), tokenizer, pattern, exemplars)
