@@ -1,4 +1,4 @@
-from typing import List, Dict, Set
+from typing import List, Dict
 
 import numpy as np
 import pandas as pd
@@ -18,7 +18,7 @@ class BenchmarkSuite:
 
     Attributes:
         testee_model (LexicalSimplifier): The lexical simplification model which an instance of this class will benchmark.
-        languages: (Set[Language]): The languages for which testee_model will be benchmarked.
+        language_configurations: (Set[Language]): The languages for which testee_model will be benchmarked.
         _AVAILABLE_DATASETS (Dict[Language, List[DataProvider]]): The currently implemented and available datasets.
             This is constant and serves as a baseline to compare against when synchronizing the enabled languages and
             datasets.
@@ -27,7 +27,7 @@ class BenchmarkSuite:
     """
 
     testee_model: LexicalSimplifier = None
-    languages: Set[Language] = None
+    language_configurations: Dict[Language, str] = None
     # Rather than dynamically initializing self._datasets right away via self inspection and the like,
     # I decided to simply remove unused languages after the fact.
     # This tradeoff is essentially compute vs memory bound and since the DataProvider implementations
@@ -39,17 +39,18 @@ class BenchmarkSuite:
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
-    def __init__(self, testee_model: LexicalSimplifier, languages: Set[Language]):
+    def __init__(self, testee_model: LexicalSimplifier, language_configurations: Dict[Language, str]):
         """
         Creates a BenchmarkSuite instance for a specific LexicalSimplifier model. The model is going to be benchmarked
         on the languages configured in this class.
 
         Args:
             testee_model (LexicalSimplifier): The lexical simplification model to benchmark.
-            languages: (Set[Language]): The languages for which testee_model will be benchmarked.
+            languages: (Dict[Language, str]): A dictionary where the keys are the languages for which testee_model
+                will be benchmarked and the values are the prompts used for the benchmarking of the models.
         """
         self.testee_model = testee_model
-        self.languages = languages
+        self.language_configurations = language_configurations
 
         self.__enable_datasets_by_languages()
 
@@ -58,10 +59,13 @@ class BenchmarkSuite:
         Runs the benchmark pipeline and evaluates self.testee_model on the datasets that are currently enabled.
         The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
         """
-        results = pd.DataFrame(columns=['potential', 'precision', 'recall', 'f1', 'map_at_k', 'potential_at_k', 'accuracy_at_k_top_1'])
+        results = pd.DataFrame(columns=['potential', 'precision', 'recall', 'f1', 'map_at_k', 'potential_at_k',
+                                        'accuracy_at_k_top_1'])
 
-        for language in self.languages:
+        for language in self.language_configurations.keys():
             print(f'Benchmarking model on {language.name} ...')
+            self.testee_model.set_pattern(self.language_configurations[language])
+
             for dataset in self._enabled_datasets[language]:
                 print(f'Benchmarking model on {dataset.__class__.__name__}...')
                 benchmark_data = dataset.provide_data_as_numpy_array()
@@ -112,30 +116,32 @@ class BenchmarkSuite:
         accuracy_at_k_top_1 = accuracy_at_k_top_1 / len(benchmark_data)
 
         return pd.Series({'potential': potential, 'precision': precision, 'recall': recall, 'f1': f1, 
-                          'map_at_k': map_at_k, 'potential_at_k': potential_at_k, 'accuracy_at_k_top_1': accuracy_at_k_top_1})
+                          'map_at_k': map_at_k, 'potential_at_k': potential_at_k,
+                          'accuracy_at_k_top_1': accuracy_at_k_top_1})
 
-    def enable_language(self, language: Language):
+    def enable_language(self, language: Language, prompt: str):
         """
         Enables the specified language and related datasets for benchmarking.
         Updates the state of self.__enabled_datasets.
 
         Args:
             language (Language): The language to enable for benchmarking.
+            prompt (str): The prompt to use for the benchmarking of the model on the specified language.
         """
-        self.languages.add(language)
+        self.language_configurations[language] = prompt
 
         self.__enable_datasets_by_languages()
 
-    def enable_languages(self, languages: List[Language]):
+    def enable_languages(self, language_configuration: Dict[Language, str]):
         """
             Enables the specified languages and related datasets for benchmarking.
             Updates the state of self.__enabled_datasets.
 
             Args:
-                languages (List[Language]): The languages to enable for benchmarking.
+                language_configuration (Dict[Language, str]): The languages to enable for benchmarking and
+                    the prompts to use for the benchmarking of the model.
         """
-        for language in languages:
-            self.enable_language(language)
+        self.language_configurations.update(language_configuration)
 
         self.__enable_datasets_by_languages()
 
@@ -147,7 +153,7 @@ class BenchmarkSuite:
             Args:
                 language (Language): The language to disable for benchmarking.
         """
-        self.languages.remove(language)
+        del self.language_configurations[language]
 
         self.__disable_datasets_by_languages()
 
@@ -160,7 +166,8 @@ class BenchmarkSuite:
                 languages (List[Language]): The languages to disable for benchmarking.
         """
         for language in languages:
-            self.disable_language(language)
+            if language in self.language_configurations:
+                del self.language_configurations[language]
 
         self.__disable_datasets_by_languages()
 
@@ -173,7 +180,7 @@ class BenchmarkSuite:
             whenever additional languages are enabled. Thus follows:
             | languages | > | enabled_datasets.keys |
         """
-        languages_to_enable = self.languages.difference(set(self._enabled_datasets.keys()))
+        languages_to_enable = set(self.language_configurations.keys()).difference(set(self._enabled_datasets.keys()))
 
         for language_to_enable in languages_to_enable:
             self._enabled_datasets[language_to_enable] = self._AVAILABLE_DATASETS[language_to_enable]
@@ -187,7 +194,7 @@ class BenchmarkSuite:
             whenever languages are disabled. Thus follows:
             | languages | < | enabled_datasets.keys |
         """
-        languages_to_disable = set(self._enabled_datasets.keys()).difference(self.languages)
+        languages_to_disable = set(self._enabled_datasets.keys()).difference(set(self.language_configurations.keys()))
 
         for language_to_disable in languages_to_disable:
             del self._enabled_datasets[language_to_disable]
