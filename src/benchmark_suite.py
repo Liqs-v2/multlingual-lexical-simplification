@@ -11,6 +11,7 @@ from utils.data_provider import DataProvider
 from utils.bench_ls_data_provider import BenchLSDataProvider
 from utils.germaneval_data_provider import GermanEvalDataProvider
 from utils.lexmturk_data_provider import LexMTurkDataProvider
+from utils.nnseval_data_provider import NNSevalDataProvider
 
 
 class BenchmarkSuite:
@@ -36,7 +37,7 @@ class BenchmarkSuite:
     # these objects are very lightweight.
     _AVAILABLE_DATASETS: Dict[Language, List[DataProvider]] = {
         Language.DE: [GermanEvalDataProvider()],
-        Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider()]
+        Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider(), NNSevalDataProvider()]
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
