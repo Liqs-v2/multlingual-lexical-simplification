@@ -6,7 +6,7 @@ from src.utils.data_provider import DataProvider
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
 class TsarENDataProvider(DataProvider):
-    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/tsar_en/tsar_en.txt'
+    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/tsar_en/tsar_en.txt'
 
     def get_position(self, word, sentence):
         """
