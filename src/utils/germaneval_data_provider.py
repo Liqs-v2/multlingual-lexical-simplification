@@ -51,8 +51,6 @@ class GermanEvalDataProvider(DataProvider):
             text.extend(filtered_list)
         # Convert the list to a NumPy array
         sentences = np.array(text)
-        #print(sentences)
-
         return sentences
 
     def read_dataset_in(self, path):
