@@ -117,9 +117,15 @@ class BenchmarkSuite:
         potential_at_k = potential_at_k / len(benchmark_data)
         accuracy_at_k_top_1 = accuracy_at_k_top_1 / len(benchmark_data)
 
-        return pd.Series({'potential': potential, 'precision': precision, 'recall': recall, 'f1': f1, 
-                          'map_at_k': map_at_k, 'potential_at_k': potential_at_k,
-                          'accuracy_at_k_top_1': accuracy_at_k_top_1})
+        return pd.Series({
+                    'potential': round(potential, 4),
+                    'precision': round(precision, 4),
+                    'recall': round(recall, 4),
+                    'f1': round(f1, 4),
+                    'map_at_k': round(map_at_k, 4),
+                    'potential_at_k': round(potential_at_k, 4),
+                    'accuracy_at_k_top_1': round(accuracy_at_k_top_1, 4)
+                })
 
     def enable_language(self, language: Language, prompt: str):
         """
