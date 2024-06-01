@@ -7,9 +7,10 @@ from tqdm import tqdm
 from evaluator import Evaluator
 from language import Language
 from lexical_simplifier import LexicalSimplifier
-from utils.bench_ls_data_provider import BenchLSDataProvider
 from utils.data_provider import DataProvider
+from utils.bench_ls_data_provider import BenchLSDataProvider
 from utils.germaneval_data_provider import GermanEvalDataProvider
+from utils.lexmturk_data_provider import LexMTurkDataProvider
 
 
 class BenchmarkSuite:
@@ -35,7 +36,7 @@ class BenchmarkSuite:
     # these objects are very lightweight.
     _AVAILABLE_DATASETS: Dict[Language, List[DataProvider]] = {
         Language.DE: [GermanEvalDataProvider()],
-        Language.EN: [BenchLSDataProvider()]
+        Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider()]
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
