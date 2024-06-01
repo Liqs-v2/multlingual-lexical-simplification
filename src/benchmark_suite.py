@@ -7,9 +7,12 @@ from tqdm import tqdm
 from evaluator import Evaluator
 from language import Language
 from lexical_simplifier import LexicalSimplifier
-from utils.bench_ls_data_provider import BenchLSDataProvider
 from utils.data_provider import DataProvider
+from utils.bench_ls_data_provider import BenchLSDataProvider
 from utils.germaneval_data_provider import GermanEvalDataProvider
+from utils.lexmturk_data_provider import LexMTurkDataProvider
+from utils.nnseval_data_provider import NNSevalDataProvider
+from utils.tsar_en_data_provider import TsarENDataProvider
 
 
 class BenchmarkSuite:
@@ -35,7 +38,7 @@ class BenchmarkSuite:
     # these objects are very lightweight.
     _AVAILABLE_DATASETS: Dict[Language, List[DataProvider]] = {
         Language.DE: [GermanEvalDataProvider()],
-        Language.EN: [BenchLSDataProvider()]
+        Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider(), NNSevalDataProvider(), TsarENDataProvider()]
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
@@ -116,9 +119,15 @@ class BenchmarkSuite:
         potential_at_k = potential_at_k / len(benchmark_data)
         accuracy_at_k_top_1 = accuracy_at_k_top_1 / len(benchmark_data)
 
-        return pd.Series({'potential': potential, 'precision': precision, 'recall': recall, 'f1': f1, 
-                          'map_at_k': map_at_k, 'potential_at_k': potential_at_k,
-                          'accuracy_at_k_top_1': accuracy_at_k_top_1})
+        return pd.Series({
+                    'potential': round(potential, 4),
+                    'precision': round(precision, 4),
+                    'recall': round(recall, 4),
+                    'f1': round(f1, 4),
+                    'map_at_k': round(map_at_k, 4),
+                    'potential_at_k': round(potential_at_k, 4),
+                    'accuracy_at_k_top_1': round(accuracy_at_k_top_1, 4)
+                })
 
     def enable_language(self, language: Language, prompt: str):
         """
