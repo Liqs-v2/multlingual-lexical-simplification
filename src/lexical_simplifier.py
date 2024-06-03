@@ -25,7 +25,7 @@ class LexicalSimplifier(metaclass=ABCMeta):
     model = None
     tokenizer = None
     pattern: str = None
-    exemplars: List[str] = None
+    exemplars: List[dict] = None
     mask_token = '[MASK]'
 
     def __init__(self, model, tokenizer, pattern, exemplars, mask_token):
