@@ -68,8 +68,8 @@ class LLMLexicalSimplifier(LexicalSimplifier):
             original_sentence: The sentence containing the complex word.
 
         Returns:
-            A list of possible substitutions for the complex word. Might not adhere to the specified format,
-            since this implementation uses an LLM.
+            A list of possible substitutions for the complex word. None if the model does not adhere to the format
+            specified (parsing fails).
         """
 
         # Setup prompt
@@ -84,4 +84,6 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
         output = self._pipe(self.exemplars, **self._generation_args)
 
-        return output[0]['generated_text']
+        substitutions = output[0]['generated_text']
+
+        return substitutions
