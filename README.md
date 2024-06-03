@@ -48,3 +48,13 @@ With, we aim find a "working" approach that does not have SOTA performance but a
     (model alone vs. fine-tuning vs. architecture enhancements vs. combinations of all)
 
 Translated with DeepL.com (free version)
+
+## Investigated models
+### German
+- [GermanBERT](https://huggingface.co/dbmdz/bert-base-german-cased)
+- [DistilGermanBERT](https://huggingface.co/distilbert/distilbert-base-german-cased): Distilled version of the above model
+### English
+- [BERT](https://huggingface.co/google-bert/bert-base-cased)
+### Multilingual
+- [BERT multilingual](https://huggingface.co/google-bert/bert-base-multilingual-cased)
+- [XLM-RoBERTa](https://huggingface.co/FacebookAI/xlm-roberta-base)
