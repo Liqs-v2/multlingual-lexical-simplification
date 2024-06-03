@@ -25,8 +25,8 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using {device} for model inference.")
 
-    def __init__(self, model, tokenizer, pattern, exemplars):
-        super().__init__(model.to(self.device), tokenizer, pattern, exemplars)
+    def __init__(self, model, tokenizer, pattern, exemplars, mask_token):
+        super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
 
     def apply_pattern_to(self, original_sentence: str, sentence_with_complex_word_masked: str) -> str:
         return self.pattern.format(original_sentence=original_sentence,
