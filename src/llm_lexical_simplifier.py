@@ -50,10 +50,9 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         Args:
             complex_word: The complex word to be simplified. This is given in our case, we do not tackle complex word identification.
             original_sentence: The sentence containing the complex word.
-            top_k: The number of top predictions to return.
 
         Returns:
-            A list of the top_k possible substitutions for the complex word. Might not adhere to the specified format,
+            A list of possible substitutions for the complex word. Might not adhere to the specified format,
             since this implementation uses an LLM.
         """
 

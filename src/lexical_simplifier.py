@@ -74,7 +74,7 @@ class LexicalSimplifier(metaclass=ABCMeta):
                                    sentence_with_complex_word_masked=sentence_with_complex_word_masked)
 
     @abc.abstractmethod
-    def generate_substitutions_for(self, complex_word: str, original_sentence: str, top_k: int = 10) -> List[str]:
+    def generate_substitutions_for(self, complex_word: str, original_sentence: str) -> List[str]:
         """
         Generates a list of substitutions via the model predictions for the given complex word in the context of the sentence.
 
@@ -84,7 +84,6 @@ class LexicalSimplifier(metaclass=ABCMeta):
         Args:
             complex_word: The complex word to be simplified. This is given in our case, we do not tackle complex word identification.
             original_sentence: The sentence containing the complex word.
-            top_k: The number of top predictions to return.
 
         Returns:
             A list of possible substitutions for the complex word.

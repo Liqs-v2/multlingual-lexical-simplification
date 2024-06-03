@@ -7,8 +7,8 @@ from tqdm import tqdm
 from evaluator import Evaluator
 from language import Language
 from lexical_simplifier import LexicalSimplifier
-from utils.data_provider import DataProvider
 from utils.bench_ls_data_provider import BenchLSDataProvider
+from utils.data_provider import DataProvider
 from utils.germaneval_data_provider import GermanEvalDataProvider
 from utils.lexmturk_data_provider import LexMTurkDataProvider
 from utils.nnseval_data_provider import NNSevalDataProvider
@@ -94,6 +94,8 @@ class BenchmarkSuite:
             complex_word = sample[1]
             ground_truth_substitutions = sample[3]
 
+            # To easily capture implementations not supporting a specific number of substitutions,
+            # we do not pass top_k here and simply use the default in those cases.
             predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
 
             sample_potential, sample_precision, sample_recall, sample_f1, sample_map_at_k, sample_potential_at_k, sample_accuracy_at_k_top_1 = Evaluator.evaluate(
