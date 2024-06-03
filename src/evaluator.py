@@ -16,6 +16,8 @@ class Evaluator:
         Args:
             ground_truth_substitutions: The ground truths which we evaluate with.
             predicted_substitutions: The model's substitution predictions.
+            k: For evaluation metrics that require a top-k value. Specified how many of the substitutions
+                to consider.
         Returns:
             Tuple containing all implemented metrics. Currently: Potential, Precision, Recall, F1, MAP@K, 
             Potential at K, Accuracy at K top 1  (in this order).
@@ -44,7 +46,7 @@ class Evaluator:
             sample_f1 = 2 * (sample_precision * sample_recall) / (sample_precision + sample_recall)
 
         #Calculate MAP@K
-        map_at_k = evaluation_metrics_shared_task.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, k) 
+        map_at_k = evaluation_metrics_shared_task.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, k)
 
         #Calculate potential_at_k
         potential_at_k = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, k)
