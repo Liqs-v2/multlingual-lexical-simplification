@@ -36,7 +36,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
         super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
 
-    def generate_substitutions_for(self, complex_word: str, original_sentence: str, top_k: int = 10):
+    def generate_substitutions_for(self, complex_word: str, original_sentence: str):
         """
         Generates a list of substitutions via the model predictions for the given complex word in the context of the sentence.
 
