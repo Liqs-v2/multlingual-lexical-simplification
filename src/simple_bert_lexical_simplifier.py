@@ -21,6 +21,7 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
             the pattern should contain placeholders for the original sentence and the sentence with the masked complex word.
             Between these, an instruction is injected to guide the model towards simplifying the complex word.
         exemplars: A list of exemplar words used for zero-shot learning. Unused for this implementation.
+        mask_token: The token used to mask the complex word in the input sentence. Defaults to '[MASK]'.
     """
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using {device} for model inference.")
