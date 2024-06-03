@@ -1,6 +1,7 @@
 import abc
-from typing import List
 from abc import ABCMeta
+from typing import List
+
 
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
@@ -19,13 +20,15 @@ class LexicalSimplifier(metaclass=ABCMeta):
             word is inserted (eg. for a BERT model).
         exemplars: A list of exemplar words used for zero-shot learning. If provided, these will be prepended to the every
             prompt.
+        mask_token: The token used to mask the complex word in the input sentence. Defaults to '[MASK]'.
     """
     model = None
     tokenizer = None
     pattern: str = None
     exemplars: List[str] = None
+    mask_token = '[MASK]'
 
-    def __init__(self, model, tokenizer, pattern, exemplars):
+    def __init__(self, model, tokenizer, pattern, exemplars, mask_token):
         if model is None:
             raise ValueError("Please initialize the model for this LexicalSimplifier.")
 
@@ -43,6 +46,11 @@ class LexicalSimplifier(metaclass=ABCMeta):
         self.tokenizer = tokenizer
         self.pattern = pattern
         self.exemplars = exemplars
+
+        if mask_token is not None:
+            self.mask_token = mask_token
+        else:
+            print('No mask token provided, using default mask token [MASK].')
 
     def set_model(self, model):
         self.model = model
