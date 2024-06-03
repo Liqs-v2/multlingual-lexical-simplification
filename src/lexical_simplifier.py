@@ -49,8 +49,9 @@ class LexicalSimplifier(metaclass=ABCMeta):
 
         if mask_token is not None:
             self.mask_token = mask_token
+            print(f'Using mask token: "{mask_token}".')
         else:
-            print('No mask token provided, using default mask token [MASK].')
+            print('No mask token provided, using default mask token "[MASK]".')
 
     def set_model(self, model):
         self.model = model
