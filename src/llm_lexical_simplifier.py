@@ -1,3 +1,6 @@
+import ast
+from typing import List
+
 import torch
 from transformers import pipeline
 
@@ -70,6 +73,9 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         Returns:
             A list of possible substitutions for the complex word. None if the model does not adhere to the format
             specified (parsing fails).
+
+        Raises:
+            ValueError: If the string returned by the LLM is not a valid list representation and parsing fails.
         """
 
         # Setup prompt
@@ -86,4 +92,30 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
         substitutions = output[0]['generated_text']
 
-        return substitutions
+        try:
+            parsed_substitutions = self.__parse_llm_output(substitutions)
+        except ValueError as e:
+            print(f"Failed to parse the output from the LLM: {e}"
+                  f"Returning empty list.")
+            return []
+
+        return parsed_substitutions
+
+    def __parse_llm_output(self, llm_output: str) -> List[str]:
+        """
+        Parses the string returned by the LLM into a list of possible substitutions.
+
+        Args:
+            llm_output (str): The string returned by the LLM.
+
+        Returns:
+            A list of possible substitutions for the complex word, if parsing succeeded.
+
+        Raises:
+            ValueError: If the provided string is not a valid list representation.
+        """
+
+        try:
+            return ast.literal_eval(llm_output.strip())
+        except (ValueError, SyntaxError):
+            raise ValueError(f"The provided string is not a valid list representation: {llm_output}")
