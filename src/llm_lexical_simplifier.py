@@ -51,6 +51,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
             "text-generation",
             model=self.model,
             tokenizer=self.tokenizer,
+            batch_size=16
         )
 
         self._generation_args = generation_args
