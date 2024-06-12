@@ -136,7 +136,7 @@ class BenchmarkSuite:
         Runs the benchmark pipeline and evaluates self.testee_model on the datasets that are currently enabled.
         The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
         """
-        results = pd.DataFrame(columns=['potential at 10', 'potential at 5', 'potential at 1'])
+        results = pd.DataFrame(columns=['potential at 10', 'potential at 5', 'potential at 1', 'map at 10', 'map at 5', 'map at 1'])
 
         for language in self.language_configurations.keys():
             print(f'Benchmarking model on {language.name} ...')
@@ -158,6 +158,10 @@ class BenchmarkSuite:
         potential_at_5 = 0
         potential_at_1 = 0
 
+        map_at_10 = 0
+        map_at_5 = 0
+        map_at_1 = 0
+
         for sample in tqdm(benchmark_data, desc='Benchmarking'):
             sentence = sample[0]
             complex_word = sample[1]
@@ -167,37 +171,46 @@ class BenchmarkSuite:
             # we do not pass top_k here and simply use the default in those cases.
             predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
 
-            _, _, _, _, _, sample_potential_at_10, _ = Evaluator.evaluate(
+            _, _, _, _, sample_map_at_10, sample_potential_at_10, _ = Evaluator.evaluate(
                 ground_truth_substitutions, predicted_substitutions, 10
             )
 
             if sample_potential_at_10:
                 potential_at_10 += 1
+            map_at_10 += sample_map_at_10
 
-            _, _, _, _, _, sample_potential_at_5, _ = Evaluator.evaluate(  
+            _, _, _, _, sample_map_at_5, sample_potential_at_5, _ = Evaluator.evaluate(  
                 ground_truth_substitutions, predicted_substitutions, 5  
             )
 
             if sample_potential_at_5:   
                 potential_at_5 += 1
+            map_at_5 += sample_map_at_5
 
-            _, _, _, _, _, sample_potential_at_1, _ = Evaluator.evaluate(
+            _, _, _, _, sample_map_at_1, sample_potential_at_1, _ = Evaluator.evaluate(
                 ground_truth_substitutions, predicted_substitutions, 1
             )
 
             if sample_potential_at_1:   
                 potential_at_1 += 1
+            map_at_1 += sample_map_at_1
 
 
         potential_at_10 = potential_at_10 / len(benchmark_data)
         potential_at_5 = potential_at_5 / len(benchmark_data)
         potential_at_1 = potential_at_1 / len(benchmark_data)
         
+        map_at_10 = map_at_10 / len(benchmark_data)
+        map_at_5 = map_at_5 / len(benchmark_data)
+        map_at_1 = map_at_1 / len(benchmark_data)
 
         return pd.Series({
                     'potential at 10': round(potential_at_10, 4),
                     'potential at 5': round(potential_at_5, 4),
-                    'potential at 1': round(potential_at_1, 4)
+                    'potential at 1': round(potential_at_1, 4),
+                    'map at 10': round(map_at_10, 4),
+                    'map at 5': round(map_at_5, 4),
+                    'map at 1': round(map_at_1, 4)
                 })   
 
     def enable_language(self, language: Language, prompt: str):
