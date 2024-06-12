@@ -130,6 +130,75 @@ class BenchmarkSuite:
                     'potential_at_k': round(potential_at_k, 4),
                     'accuracy_at_k_top_1': round(accuracy_at_k_top_1, 4)
                 })
+    
+    def run_shared_task(self):
+        """
+        Runs the benchmark pipeline and evaluates self.testee_model on the datasets that are currently enabled.
+        The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
+        """
+        results = pd.DataFrame(columns=['potential at 10', 'potential at 5', 'potential at 1'])
+
+        for language in self.language_configurations.keys():
+            print(f'Benchmarking model on {language.name} ...')
+            self.testee_model.set_pattern(self.language_configurations[language])
+
+            for dataset in self._enabled_datasets[language]:
+                print(f'Benchmarking model on {dataset.__class__.__name__}...')
+                benchmark_data = dataset.provide_data_as_numpy_array()
+
+                results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on_shared_task(benchmark_data)
+
+        results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
+                       f'benchmark_results_{self.testee_model.__class__.__name__}_'
+                       f'{self.testee_model.model.config.name_or_path.replace("/", "-")}.csv',
+                       index=True, index_label='run', header=True)
+
+    def __benchmark_model_on_shared_task(self, benchmark_data: np.ndarray) -> pd.Series:
+        potential_at_10 = 0
+        potential_at_5 = 0
+        potential_at_1 = 0
+
+        for sample in tqdm(benchmark_data, desc='Benchmarking'):
+            sentence = sample[0]
+            complex_word = sample[1]
+            ground_truth_substitutions = sample[3]
+
+            # To easily capture implementations not supporting a specific number of substitutions,
+            # we do not pass top_k here and simply use the default in those cases.
+            predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
+
+            _, _, _, _, _, sample_potential_at_10, _ = Evaluator.evaluate(
+                ground_truth_substitutions, predicted_substitutions, 10
+            )
+
+            if sample_potential_at_10:
+                potential_at_10 += 1
+
+            _, _, _, _, _, sample_potential_at_5, _ = Evaluator.evaluate(  
+                ground_truth_substitutions, predicted_substitutions, 5  
+            )
+
+            if sample_potential_at_5:   
+                potential_at_5 += 1
+
+            _, _, _, _, _, sample_potential_at_1, _ = Evaluator.evaluate(
+                ground_truth_substitutions, predicted_substitutions, 1
+            )
+
+            if sample_potential_at_1:   
+                potential_at_1 += 1
+
+
+        potential_at_10 = potential_at_10 / len(benchmark_data)
+        potential_at_5 = potential_at_5 / len(benchmark_data)
+        potential_at_1 = potential_at_1 / len(benchmark_data)
+        
+
+        return pd.Series({
+                    'potential at 10': round(potential_at_10, 4),
+                    'potential at 5': round(potential_at_5, 4),
+                    'potential at 1': round(potential_at_1, 4)
+                })   
 
     def enable_language(self, language: Language, prompt: str):
         """

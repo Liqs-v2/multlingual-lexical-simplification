@@ -1,6 +1,6 @@
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
-def mean_average_precision_at_k(substitues, gold_standard, k=10):
+def mean_average_precision_at_k(substitues, gold_standard, k):
     """
     Calculates the mean average precision at k.
 
@@ -17,7 +17,7 @@ def mean_average_precision_at_k(substitues, gold_standard, k=10):
     else:
         return 0
 
-def average_precision_at_k(substitues, gold_standard, k=10):
+def average_precision_at_k(substitues, gold_standard, k):
 
     """
     Calculates the average precision at k.
@@ -46,7 +46,7 @@ def average_precision_at_k(substitues, gold_standard, k=10):
     
     return score / min(len(gold_standard), k)    
 
-def potential_at_k(substitues, gold_standard, k=10):
+def potential_at_k(substitues, gold_standard, k):
     """
     Calculates the potential at k.
 
@@ -68,7 +68,7 @@ def potential_at_k(substitues, gold_standard, k=10):
     return False
 
 
-def accuracy_at_k_top_1(substitues, gold_standard, k=3):
+def accuracy_at_k_top_1(substitues, gold_standard, k):
     """
     Calculates the accuracy at k at top 1.
 
