@@ -46,7 +46,7 @@ def average_precision_at_k(substitues, gold_standard, k):
         return 0.0
     
     if k == 1:
-        print(score / min(len(gold_standard)))
+        print(score / min(len(gold_standard),k))
     return score / min(len(gold_standard), k)    
 
 def potential_at_k(substitues, gold_standard, k):
