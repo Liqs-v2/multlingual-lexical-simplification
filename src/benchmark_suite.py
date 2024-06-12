@@ -195,7 +195,9 @@ class BenchmarkSuite:
                 potential_at_1 += 1
             map_at_1 += sample_map_at_1
 
-
+        print(f'Potential at 1: {potential_at_1}')
+        print(f'MAP at 1: {map_at_1}')
+        
         potential_at_10 = potential_at_10 / len(benchmark_data)
         potential_at_5 = potential_at_5 / len(benchmark_data)
         potential_at_1 = potential_at_1 / len(benchmark_data)
