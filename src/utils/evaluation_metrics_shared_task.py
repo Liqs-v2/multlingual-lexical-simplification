@@ -14,7 +14,8 @@ def mean_average_precision_at_k(substitues, gold_standard, k):
     """
 
     if len(substitues) > 0:
-        return sum(average_precision_at_k(substitues, gold_standard, k) for substitues, gold_standard in zip(substitues, gold_standard)) / len(substitues)
+        #return sum(average_precision_at_k(substitues, gold_standard, k) for substitues, gold_standard in zip(substitues, gold_standard)) / len(substitues)
+        return average_precision_at_k(substitues, gold_standard, k)
     else:
         return 0
 
@@ -45,7 +46,7 @@ def average_precision_at_k(substitues, gold_standard, k):
     if not gold_standard:
         return 0.0
     
-    if k == 1:
+    if k == 5:
         print(score / min(len(gold_standard),k))
     return score / min(len(gold_standard), k)    
 
