@@ -12,6 +12,7 @@ def mean_average_precision_at_k(substitues, gold_standard, k):
     Returns:
         float: The mean average precision at k.
     """
+
     if len(substitues) > 0:
         return sum(average_precision_at_k(substitues, gold_standard, k) for substitues, gold_standard in zip(substitues, gold_standard)) / len(substitues)
     else:
@@ -44,6 +45,8 @@ def average_precision_at_k(substitues, gold_standard, k):
     if not gold_standard:
         return 0.0
     
+    if k == 1:
+        print(score / min(len(gold_standard)))
     return score / min(len(gold_standard), k)    
 
 def potential_at_k(substitues, gold_standard, k):
