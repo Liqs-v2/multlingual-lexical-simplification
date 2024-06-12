@@ -162,6 +162,10 @@ class BenchmarkSuite:
         map_at_5 = 0
         map_at_1 = 0
 
+        accuracy_at_10_top_1 = 0
+        accuracy_at_5_top_1 = 0
+        accuracy_at_1_top_1 = 0
+
         for sample in tqdm(benchmark_data, desc='Benchmarking'):
             sentence = sample[0]
             complex_word = sample[1]
@@ -171,32 +175,39 @@ class BenchmarkSuite:
             # we do not pass top_k here and simply use the default in those cases.
             predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
 
-            _, _, _, _, sample_map_at_10, sample_potential_at_10, _ = Evaluator.evaluate(
+            _, _, _, _, sample_map_at_10, sample_potential_at_10, sample_accuracy_at_10_top_1 = Evaluator.evaluate(
                 ground_truth_substitutions, predicted_substitutions, 10
             )
 
             if sample_potential_at_10:
                 potential_at_10 += 1
             map_at_10 += sample_map_at_10
+            if sample_accuracy_at_10_top_1:
+                accuracy_at_10_top_1 += 1
 
-            _, _, _, _, sample_map_at_5, sample_potential_at_5, _ = Evaluator.evaluate(  
+            _, _, _, _, sample_map_at_5, sample_potential_at_5, sample_accuracy_at_5_top_1 = Evaluator.evaluate(  
                 ground_truth_substitutions, predicted_substitutions, 5  
             )
 
             if sample_potential_at_5:   
                 potential_at_5 += 1
             map_at_5 += sample_map_at_5
+            if sample_accuracy_at_5_top_1:
+                accuracy_at_5_top_1 += 1
 
-            _, _, _, _, sample_map_at_1, sample_potential_at_1, _ = Evaluator.evaluate(
+            _, _, _, _, sample_map_at_1, sample_potential_at_1, sample_accuracy_at_1_top_1 = Evaluator.evaluate(
                 ground_truth_substitutions, predicted_substitutions, 1
             )
 
             if sample_potential_at_1:   
                 potential_at_1 += 1
             map_at_1 += sample_map_at_1
+            if sample_accuracy_at_1_top_1:
+                accuracy_at_1_top_1 += 1
 
         print(f'Potential at 1: {potential_at_1}')
         print(f'MAP at 1: {map_at_1}')
+        print(f'Accuracy at 1 top 1: {accuracy_at_1_top_1}')
 
         potential_at_10 = potential_at_10 / len(benchmark_data)
         potential_at_5 = potential_at_5 / len(benchmark_data)
@@ -206,13 +217,20 @@ class BenchmarkSuite:
         map_at_5 = map_at_5 / len(benchmark_data)
         map_at_1 = map_at_1 / len(benchmark_data)
 
+        accuracy_at_10_top_1 = accuracy_at_10_top_1 / len(benchmark_data)
+        accuracy_at_5_top_1 = accuracy_at_5_top_1 / len(benchmark_data)
+        accuracy_at_1_top_1 = accuracy_at_1_top_1 / len(benchmark_data)
+
         return pd.Series({
                     'potential at 10': round(potential_at_10, 4),
                     'potential at 5': round(potential_at_5, 4),
                     'potential at 1': round(potential_at_1, 4),
                     'map at 10': round(map_at_10, 4),
                     'map at 5': round(map_at_5, 4),
-                    'map at 1': round(map_at_1, 4)
+                    'map at 1': round(map_at_1, 4),
+                    'accuracy at 10 top 1': round(accuracy_at_10_top_1, 4),
+                    'accuracy at 5 top 1': round(accuracy_at_5_top_1, 4),
+                    'accuracy at 1 top 1': round(accuracy_at_1_top_1, 4)
                 })   
 
     def enable_language(self, language: Language, prompt: str):

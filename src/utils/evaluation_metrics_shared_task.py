@@ -2,26 +2,6 @@
 
 def mean_average_precision_at_k(substitues, gold_standard, k):
     """
-    Calculates the mean average precision at k.
-
-    Args:
-        substitues (List[str]): The list of substitutes.
-        gold_standard (List[str]): The list of gold standard substitutes.
-        k (int): The value of k.
-
-    Returns:
-        float: The mean average precision at k.
-    """
-
-    if len(substitues) > 0:
-        #return sum(average_precision_at_k(substitues, gold_standard, k) for substitues, gold_standard in zip(substitues, gold_standard)) / len(substitues)
-        return average_precision_at_k(substitues, gold_standard, k)
-    else:
-        return 0
-
-def average_precision_at_k(substitues, gold_standard, k):
-
-    """
     Calculates the average precision at k.
 
     Args:
@@ -31,7 +11,7 @@ def average_precision_at_k(substitues, gold_standard, k):
 
     Returns:
         float: The average precision at k.
-    """ 
+    """
     if len(substitues) > k:
         substitues = substitues[:k]
 
@@ -45,10 +25,9 @@ def average_precision_at_k(substitues, gold_standard, k):
     
     if not gold_standard:
         return 0.0
-    
-    if k == 5:
-        print(score / min(len(gold_standard),k))
-    return score / min(len(gold_standard), k)    
+ 
+    return score / min(len(gold_standard), k)
+
 
 def potential_at_k(substitues, gold_standard, k):
     """
