@@ -1,0 +1,282 @@
+﻿1	Fach·leute	Fach·leute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	warnen	warnen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	vor	vor	_	APPR	_	2	PP	_	_
+4	Sturm	Sturm	_	NN	acc|sg|masc	3	PN	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Sturm	Sturm	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	nach	nach	_	APPR	_	3	PP	_	_
+5	Nord·deutschland	Nord·deutschland	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|masc	3	DET	_	_
+3	Sturm	Sturm	_	NN	dat|sg|masc	1	PN	_	_
+4	weht	wehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	starker	stark	_	ADJA	nom|sg|masc|pos	7	ATTR	_	_
+7	Wind	Wind	_	NN	nom|sg|masc	4	PAR	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	manche	mancher	_	PIAT	nom|pl|neut	4	DET	_	_
+4	Stürme	Sturm	_	NN	nom|pl|neut	2	PRED	_	_
+5	gefährlich	gefährlich	_	ADJD	pos	4	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieser	dieser	_	PDAT	nom|sg|masc	2	DET	_	_
+2	Sturm	Sturm	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	wahrscheinlich	wahrscheinlich	_	ADJD	pos	3	ADV	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	stark	stark	_	ADJD	pos	3	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	5	DET	_	_
+4	Deutsche	deutsch	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Wetter·dienst	Wetter·dienst	_	NN	nom|sg|masc	9	OBJA	_	_
+6	vor	vor	_	APPR	_	9	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Sturm	Sturm	_	NN	dat|sg|neut	6	PN	_	_
+9	gewarnt	warnen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beim	bei	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Deutschen	deutsche	_	ADJA	dat|sg|neut|pos	3	ATTR	_	_
+3	Wetter·dienst	Wetter·dienst	_	NN	dat|sg|neut	1	PN	_	_
+4	arbeiten	arbeit	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	Fach·leute	Fach·leute	_	NN	nom|pl|*	4	SUBJ	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	Wetter	Wetter	_	NN	acc|pl|masc	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Fach·leute	Fach·leute	_	NN	nom|sg|fem	3	OBJD	_	_
+3	beobachten	beobachten	_	VVFIN	_	0	S	_	_
+4	jeden	jeder	_	PIAT	acc|sg|masc	5	DET	_	_
+5	Tag	Tag	_	NN	acc|sg|masc	3	ZEIT	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Wetter	Wetter	_	NN	acc|sg|neut	3	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|*	4	DET	_	_
+4	Fach·leute	Fach·leute	_	NN	nom|pl|*	5	S	_	_
+5	sagen	sagen	_	VVINF	pl|3|pres|ind	2	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	So	so	_	ADV	_	8	ADV	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	das	der	_	ART	nom|sg|neut	10	DET	_	_
+10	Wetter	Wetter	_	NN	nom|sg|neut	8	SUBJ	_	_
+11	in	in	_	APPR	_	8	PRED	_	_
+12	den	der	_	ART	dat|pl|neut	14	DET	_	_
+13	nächsten	nächster	_	ADJA	dat|pl|neut|pos	14	ATTR	_	_
+14	Tagen	Tag	_	NN	dat|pl|neut	11	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	Deutsche	deutsch	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Wetter·dienst	Wetter·dienst	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	am	an	_	APPRART	dat|sg|masc	7	PP	_	_
+6	Mittwoch	Mittwoch	_	NN	dat|sg|masc	5	PN	_	_
+7	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Achtung	Achtung	_	NN	nom|sg|fem	0	S	_	_
+10	!	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	wahrscheinlich	wahrscheinlich	_	ADJD	pos	2	ADV	_	_
+4	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+5	gefährlicher	gefährlich	_	ADJA	nom|sg|masc|pos	6	ATTR	_	_
+6	Sturm	Sturm	_	NN	nom|sg|masc	2	ZEIT	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	7	ETH	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	vorsichtig	vorsichtig	_	ADJD	pos	7	ADV	_	_
+7	sein	sein	_	VAINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Starker	starker	_	ADJA	nom|sg|masc|pos	2	ATTR	_	_
+2	Wind	Wind	_	NN	nom|sg|masc	0	S	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	Deutsche	deutsche	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Wetter·dienst	Wetter·dienst	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Der	der	_	ART	nom|sg|masc	9	DET	_	_
+9	Sturm	Sturm	_	NN	nom|sg|masc	10	SUBJ	_	_
+10	kommt	kommen	_	VVFIN	sg|3|pres|ind	6	S	_	_
+11	wahrscheinlich	wahrscheinlich	_	ADJD	pos	10	ADV	_	_
+12	nach	nach	_	APPR	_	10	PP	_	_
+13	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	12	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Sturm	Sturm	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	kommt	kommen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	wahrscheinlich	wahrscheinlich	_	ADJD	pos	4	ADV	_	_
+6	nach	nach	_	APPR	_	4	PP	_	_
+7	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Sturm	Sturm	_	NN	dat|sg|masc	1	PN	_	_
+4	weht	wehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	wahrscheinlich	wahrscheinlich	_	ADJD	pos	4	ADV	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	starker	stark	_	ADJA	nom|sg|masc|pos	8	ATTR	_	_
+8	Wind	Wind	_	NN	nom|sg|masc	4	OBJG	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	5	DET	_	_
+2	fliegen	fliegen	_	VVFIN	pl|3|pres|ind	1	DET	_	_
+3	wahrscheinlich	wahrscheinlich	_	ADJD	pos	2	ADV	_	_
+4	viele	vieler	_	PIAT	acc|pl|fem	5	DET	_	_
+5	Sachen	Sache	_	NN	acc|pl|fem	0	S	_	_
+6	durch	durch	_	APPR	_	2	PP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Luft	Luft	_	NN	acc|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	Dach·ziegel	Dach·ziegel	_	NE	nom|sg|masc	0	S	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wahrscheinlich	wahrscheinlich	_	ADJD	pos	2	ADV	_	_
+2	fallen	fallen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	5	ADV	_	_
+4	einige	einiger	_	PIAT	acc|pl|masc	5	DET	_	_
+5	Bäume	Baum	_	NN	acc|pl|masc	2	OBJA	_	_
+6	um	um	_	PTKVZ	_	2	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	am	an	_	PTKA	_	6	ADV	_	_
+6	besten	gut	_	ADJD	sup	9	ADV	_	_
+7	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+8	draußen	draußen	_	ADV	_	9	ADV	_	_
+9	sein	sein	_	VAINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	Deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Bahn	Bahn	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Vielleicht	vielleicht	_	ADV	_	8	ADV	_	_
+8	fallen	fallen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+9	bei	bei	_	APPR	_	8	PP	_	_
+10	dem	der	_	ART	dat|sg|masc	11	DET	_	_
+11	Sturm	Sturm	_	NN	dat|sg|masc	9	PN	_	_
+12	auch	auch	_	ADV	_	14	ADV	_	_
+13	einige	einiger	_	PIAT	acc|pl|masc	14	DET	_	_
+14	Bäume	Baum	_	NN	acc|pl|masc	8	OBJA	_	_
+15	auf	auf	_	APPR	_	14	PP	_	_
+16	Zug·strecken	Zug·strecke	_	NN	acc|pl|masc	15	PN	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	auf	auf	_	APPR	_	8	PP	_	_
+4	diesen	dieser	_	PDAT	acc|sg|masc	5	DET	_	_
+5	Zug·strecken	Zug·strecke	_	NN	acc|sg|masc	3	PN	_	_
+6	keine	kein	_	PIAT	nom|sg|fem	7	DET	_	_
+7	Züge	Zug	_	NN	nom|sg|fem	8	OBJA	_	_
+8	fahren	fahren	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	müssen	müssen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+4	vielleicht	vielleicht	_	ADV	_	8	ADV	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+7	lange	lange	_	ADV	_	8	ADV	_	_
+8	warten	warten	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fähren	Fähre	_	NN	nom|pl|fem	2	SUBJ	_	_
+2	fahren	fahren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Sturm	Sturm	_	NN	dat|sg|masc	1	PN	_	_
+4	konnten	können	_	VMFIN	pl|3|past|ind	0	S	_	_
+5	Fähren	Fähre	_	NN	nom|pl|fem	8	OBJA	_	_
+6	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+7	gut	gut	_	ADJD	pos	8	ADV	_	_
+8	fahren	fahren	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Fähre	Fähre	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+5	Schiff	Schiff	_	NN	nom|sg|masc	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Fähre	Fähre	_	NN	nom|sg|fem	3	OBJA	_	_
+3	transportiert	transportieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	Autos	Auto	_	NN	acc|pl|neut	1	CJ	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	an	an	_	APPR	_	8	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Nordsee	Nordsee	_	NE	dat|sg|fem	3	PN	_	_
+6	einige	einiger	_	PIAT	acc|pl|fem	7	DET	_	_
+7	Fähren	Fähre	_	NN	acc|pl|fem	0	S	_	_
+8	ausgefallen	ausfallen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Fähre	Fähre	_	NN	nom|sg|fem	0	S	_	_
+5	nach	nach	_	APPR	_	4	PP	_	_
+6	Wangerooge	Wangerooge	_	NN	dat|sg|fem	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wangerooge	Wangerooge	_	NE	nom|sg|*	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Insel	Insel	_	NN	nom|sg|fem	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Wangerooge	Wangerooge	_	NE	nom|sg|*	3	OBJD	_	_
+3	gehört	gehören	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	zu	zu	_	APPR	_	3	OBJP	_	_
+5	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+

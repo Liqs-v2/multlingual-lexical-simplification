@@ -1,0 +1,237 @@
+﻿1	Alte	alt	_	ADJA	nom|sg|fem|pos	2	ATTR	_	_
+2	Frau	Frau	_	NN	nom|sg|fem	3	PN	_	_
+3	stirbt	sterben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	bei	bei	_	APPR	_	3	PP	_	_
+5	Feuer	Feuer	_	NN	dat|sg|neut	4	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Langenhagen	Langenhagen	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	5	DET	_	_
+5	Feuer	Feuer	_	NN	nom|sg|neut	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Langenhagen	Langenhagen	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Feuer	Feuer	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PRED	_	_
+5	einem	ein	_	ART	dat|sg|neut	6	DET	_	_
+6	Wohn·haus	Wohn·haus	_	NN	dat|sg|neut	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Wohn·haus	Wohn·haus	_	NN	dat|sg|neut	1	PN	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+6	Frau	Frau	_	NN	nom|sg|fem	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Frau	Frau	_	NN	nom|sg|fem	3	PRED	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	102	102	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	6	GRAD	_	_
+6	alt	alt	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+3	Frau	Frau	_	NN	nom|sg|fem	4	OBJG	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	bei	bei	_	APPR	_	8	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+7	Feuer	Feuer	_	NN	dat|sg|masc	5	PN	_	_
+8	gestorben	sterben	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	3	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	3	REL	_	_
+3	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Feuer	Feuer	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|neut	6	DET	_	_
+6	Winter·garten	Winter·gart	_	NN	dat|sg|neut	4	PN	_	_
+7	von	von	_	APPR	_	3	PRED	_	_
+8	dem	der	_	ART	dat|sg|neut	9	DET	_	_
+9	Wohn·haus	Wohn·haus	_	NN	dat|sg|neut	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Winter·garten	Winter·garten	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+5	Raum	Raum	_	NN	nom|sg|masc	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Winter·garten	Winter·gart	_	NN	nom|sg|neut	3	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	oft	oft	_	ADV	_	3	ADV	_	_
+5	Wände	Wand	_	NN	acc|pl|fem	3	OBJA	_	_
+6	aus	aus	_	APPR	_	5	PP	_	_
+7	Glas	Glas	_	NN	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	große	groß	_	ADJA	nom|pl|neut|pos	3	ATTR	_	_
+3	Fenster	Fenster	_	NN	nom|pl|neut	1	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Frau	Frau	_	NN	nom|sg|fem	7	OBJA	_	_
+5	um	um	_	APPR	_	7	PP	_	_
+6	Hilfe	Hilfe	_	NN	acc|sg|fem	5	PN	_	_
+7	gerufen	rufen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nachbarn	Nachbar	_	NN	nom|pl|masc	5	OBJA	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	der	der	_	ART	dat|sg|fem	4	DET	_	_
+4	Frau	Frau	_	NN	dat|sg|fem	2	PN	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	die	der	_	ART	acc|sg|fem	7	DET	_	_
+7	Frau	Frau	_	NN	acc|sg|fem	8	OBJD	_	_
+8	gehört	gehören	_	VVPP	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Nachbarn	Nachbar	_	NN	nom|sg|fem	4	OBJA	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	das	der	_	ART	acc|sg|neut	6	DET	_	_
+6	Feuer	Feuer	_	NN	acc|sg|neut	7	OBJA	_	_
+7	gesehen	sehen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|*	4	DET	_	_
+4	Nachbarn	Nachbar	_	NN	nom|pl|*	7	OBJD	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Feuerwehr	Feuerwehr	_	NN	acc|sg|fem	4	GMOD	_	_
+7	gerufen	rufen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Feuerwehr	Feuerwehr	_	NN	nom|sg|fem	4	OBJD	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Wir	wir	_	PPER	nom|pl|*|1	7	SUBJ	_	_
+7	sind	sein	_	VAFIN	pl|1|pres|ind	0	S	_	_
+8	schnell	schnell	_	ADJD	pos	9	ADV	_	_
+9	gekommen	kommen	_	VVPP	_	7	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Feuer	Feuer	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+5	schon	schon	_	ADV	_	4	ADV	_	_
+6	im	in	_	APPRART	dat|sg|neut	4	PRED	_	_
+7	ganzen	ganz	_	ADJA	dat|sg|neut|pos	8	ATTR	_	_
+8	Winter·garten	Winter·garten	_	NN	dat|sg|neut	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Feuer	Feuer	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+5	schon	schon	_	ADV	_	4	ADV	_	_
+6	im	in	_	APPRART	dat|sg|masc	4	PRED	_	_
+7	Dach	Dach	_	NN	dat|sg|masc	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	ETH	_	_
+4	in	in	_	APPR	_	2	PP	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Wohn·haus	Wohn·haus	_	NN	dat|sg|masc	4	PN	_	_
+7	sehr	sehr	_	ADV	_	8	ADV	_	_
+8	heiß	heiß	_	ADJD	pos	2	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Wohn·haus	Wohn·haus	_	NN	dat|sg|masc	4	PN	_	_
+7	viel	viel	_	PIAT	*|*|*	8	ATTR	_	_
+8	Rauch	Rauch	_	NN	acc|sg|masc	3	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	konnten	können	_	VMFIN	pl|1|past|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+5	sofort	sofort	_	ADV	_	9	ADV	_	_
+6	in	in	_	APPR	_	9	PP	_	_
+7	das	der	_	ART	acc|sg|neut	8	DET	_	_
+8	Wohn·haus	Wohn·haus	_	NN	acc|sg|neut	6	PN	_	_
+9	gehen	gehen	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Später	spät	_	ADJD	comp	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Feuerwehr	Feuerwehr	_	NN	nom|sg|fem	8	ETH	_	_
+5	in	in	_	APPR	_	8	PP	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Wohn·haus	Wohn·haus	_	NN	acc|sg|neut	5	PN	_	_
+8	gegangen	gehen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Feuerwehr	Feuerwehr	_	NN	nom|sg|fem	4	OBJA	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	das	der	_	ART	acc|sg|neut	6	DET	_	_
+6	Feuer	Feuer	_	NN	acc|sg|neut	7	OBJG	_	_
+7	gelöscht	löschen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	4	DET	_	_
+3	alte	alt	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+4	Frau	Frau	_	NN	nom|sg|fem	5	SUBJ	_	_
+5	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+6	schon	schon	_	ADV	_	7	ADV	_	_
+7	tot	tot	_	ADJD	pos	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	ermittelt	ermitteln	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+5	wissen	wissen	_	VVINF	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Warum	warum	_	PWAV	_	8	ADV	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	5	OBJC	_	_
+9	das	der	_	ART	nom|sg|neut	10	DET	_	_
+10	Feuer	Feuer	_	NN	nom|sg|neut	0	S	_	_
+11	ausgebrochen	ausbrechen	_	VVPP	_	5	ADV	_	_
+12	?	--	_	$.	_	0	ROOT	_	_
+

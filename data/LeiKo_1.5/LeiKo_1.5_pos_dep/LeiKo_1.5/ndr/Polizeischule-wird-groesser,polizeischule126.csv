@@ -1,0 +1,236 @@
+1	Polizei·schule	Polizei·schule	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	größer	groß	_	ADJD	comp	2	ADV	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	5	OBJD	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+5	braucht	brauchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	viele	vieler	_	PIAT	acc|pl|*	8	DET	_	_
+7	neue	neu	_	ADJA	acc|pl|fem|pos	8	ATTR	_	_
+8	Polizisten	Polizist	_	NN	acc|pl|masc	5	PAR	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	8	PP	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+5	viele	vieler	_	PIAT	acc|pl|masc	7	DET	_	_
+6	neue	neu	_	ADJA	acc|pl|masc|pos	7	ATTR	_	_
+7	Polizisten	Polizist	_	NN	acc|pl|masc	2	SUBJ	_	_
+8	ausgebildet	ausbilden	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Ausbildung	Ausbildung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PRED	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Polizei·schule	Polizei·schule	_	NN	dat|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Polizei·schule	Polizei·schule	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	zu	zu	_	PTKA	_	6	ADV	_	_
+6	klein	klein	_	ADJD	pos	4	PRED	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	die	der	_	ART	acc|pl|fem	10	DET	_	_
+9	neuen	neu	_	ADJA	acc|pl|fem|pos	10	ATTR	_	_
+10	Polizisten	Polizist	_	NN	acc|pl|fem	7	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Polizei·schule	Polizei·schule	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+6	zu	zu	_	PTKA	_	8	ADV	_	_
+7	wenig	wenig	_	PIAT	*|*|*	8	ATTR	_	_
+8	Räume	Raum	_	NN	acc|pl|masc	4	PRED	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	die	der	_	ART	acc|pl|neut	12	DET	_	_
+11	neuen	neu	_	ADJA	acc|pl|neut|pos	12	ATTR	_	_
+12	Polizisten	Polizist	_	NN	acc|pl|masc	9	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	7	DET	_	_
+2	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei·schule	Polizei·schule	_	NN	nom|sg|fem	2	OBJA	_	_
+5	bald	bald	_	ADV	_	2	ADV	_	_
+6	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+7	Räume	Raum	_	NN	acc|pl|masc	2	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|neut	2	DET	_	_
+2	Polizei·schule	Polizei·schule	_	NN	nom|pl|neut	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+
+1	Die	der	_	ART	nom|pl|neut	2	DET	_	_
+2	Polizei·schule	Polizei·schule	_	NN	nom|pl|neut	5	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	in	in	_	APPR	_	5	PRED	_	_
+7	Winterhude	Winterhude	_	NN	dat|sg|fem	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Winterhude	Winterhude	_	NN	nom|sg|fem	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Stadt·teil	Stadt·teil	_	NN	nom|sg|masc	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Hamburg	Hamburg	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|neut	2	DET	_	_
+2	Polizei·schule	Polizei·schule	_	NN	nom|pl|neut	5	OBJD	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+5	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	Polizei·akademie	Polizei·akademie	_	NN	acc|sg|fem	5	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Akademie	Akademie	_	NN	nom|sg|fem	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	5	DET	_	_
+4	anderes	anderer	_	ADJA	nom|sg|neut|pos	5	ATTR	_	_
+5	Wort	Wort	_	NN	nom|sg|neut	2	PRED	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	Schule	Schule	_	NN	acc|sg|fem	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Polizei·schule	Polizei·schule	_	NN	dat|sg|fem	1	PN	_	_
+4	lernen	lernen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|fem	7	DET	_	_
+6	neuen	neu	_	ADJA	nom|pl|fem|pos	7	ATTR	_	_
+7	Polizisten	Polizist	_	NN	nom|pl|fem	4	SUBJ	_	_
+8	viele	vieler	_	PIAT	acc|pl|masc	9	DET	_	_
+9	Dinge	Ding	_	NN	acc|pl|masc	4	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|pl|neut|pos	0	ROOT	_	_
+2	Gesetze	Gesetz	_	NN	nom|pl|neut	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Oder	Oder	_	KON	_	0	S	_	_
+3	Schießen	schießen	_	NN	nom|sg|neut	2	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Ausbildung	Ausbildung	_	NN	nom|sg|fem	6	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Polizei·schule	Polizei·schule	_	NN	dat|sg|fem	3	PN	_	_
+6	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	3	3	_	CARD	_	8	ATTR	_	_
+8	Jahre	Jahr	_	NN	acc|pl|neut	6	ZEIT	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	30	30	_	CARD	_	3	ATTR	_	_
+2	neue	neu	_	ADJA	acc|pl|masc|pos	3	ATTR	_	_
+3	Räume	Raum	_	NN	acc|pl|masc	0	S	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Polizei·schule	Polizei·schule	_	NN	acc|sg|fem	4	PN	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Sprecher	Sprecher	_	NN	nom|sg|masc	8	PRED	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Polizei	Polizei	_	NN	dat|sg|fem	3	PN	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	Timo	Timo	_	NE	nom|sg|masc	8	PRED	_	_
+10	Zill	Zill	_	NE	nom|sg|masc	9	APP	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Timo	Timo	_	NE	nom|sg|*	3	SUBJ	_	_
+2	Zill	Zill	_	NE	nom|sg|*	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	In	in	_	APPR	_	9	PP	_	_
+7	diesem	dieser	_	PDAT	dat|sg|neut	8	DET	_	_
+8	Jahr	Jahr	_	NN	dat|sg|neut	6	PN	_	_
+9	bilden	bilden	_	VVFIN	pl|1|pres|ind	0	S	_	_
+10	wir	wir	_	PPER	nom|pl|*|1	9	SUBJ	_	_
+11	600	600	_	CARD	_	9	OBJD	_	_
+12	neue	neu	_	ADJA	acc|pl|masc|pos	13	ATTR	_	_
+13	Polizisten	Polizist	_	NN	acc|pl|masc	9	OBJA	_	_
+14	aus	aus	_	PTKVZ	_	9	AVZ	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	im	in	_	APPRART	dat|sg|neut	5	PP	_	_
+3	nächsten	nächster	_	ADJA	dat|sg|neut|pos	4	ATTR	_	_
+4	Jahr	Jahr	_	NN	dat|sg|neut	2	PN	_	_
+5	bilden	bilden	_	VVFIN	pl|1|pres|ind	1	CJ	_	_
+6	wir	wir	_	PPER	nom|pl|*|1	5	SUBJ	_	_
+7	noch	noch	_	ADV	_	8	ADV	_	_
+8	mehr	mehr	_	PIAT	*|*|*	10	DET	_	_
+9	neue	neu	_	ADJA	acc|pl|fem|pos	10	ATTR	_	_
+10	Polizisten	Polizist	_	NN	acc|pl|fem	5	OBJD	_	_
+11	aus	aus	_	PTKVZ	_	5	AVZ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Polizei·schule	Polizei·schule	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	zu	zu	_	PTKA	_	6	ADV	_	_
+6	klein	klein	_	ADJD	pos	4	PRED	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	noch	noch	_	ADV	_	9	ADV	_	_
+9	mehr	mehr	_	PIAT	*|*|*	11	DET	_	_
+10	neue	neu	_	ADJA	acc|pl|fem|pos	11	ATTR	_	_
+11	Polizisten	Polizist	_	NN	acc|pl|masc	7	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	bauen	bauen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Polizei·schule	Polizei·schule	_	NN	acc|sg|fem	2	OBJA	_	_
+6	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	8	DET	_	_
+3	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Polizei·schule	Polizei·schule	_	NN	acc|sg|fem	3	OBJA	_	_
+6	3	3	_	CARD	_	5	APP	_	_
+7	neue	neu	_	ADJA	acc|pl|fem|pos	8	ATTR	_	_
+8	Etagen	Etage	_	NN	acc|pl|fem	3	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	6	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	5	DET	_	_
+3	3	3	_	CARD	_	5	ATTR	_	_
+4	neuen	neu	_	ADJA	dat|pl|fem|pos	5	ATTR	_	_
+5	Etagen	Etage	_	NN	dat|pl|fem	1	PN	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	dann	dann	_	ADV	_	6	ADV	_	_
+8	30	30	_	CARD	_	10	ATTR	_	_
+9	neue	neu	_	ADJA	acc|pl|masc|pos	10	ATTR	_	_
+10	Räume	Raum	_	NN	acc|pl|masc	6	PRED	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Bau·arbeiten	Bau·arbeit	_	NN	nom|pl|fem	5	OBJA	_	_
+3	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	2019	2019	_	CARD	_	5	ZEIT	_	_
+5	beginnen	beginnen	_	VVINF	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_

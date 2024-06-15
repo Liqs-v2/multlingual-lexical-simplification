@@ -1,0 +1,110 @@
+﻿1	Einsatz	Einsatz	_	NN	nom|sg|masc	0	S	_	_
+2	gegen	gegen	_	APPR	_	1	PP	_	_
+3	Juden·feindlichkeit	Juden·feindlichkeit	_	NN	acc|sg|fem	2	PN	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	im	in	_	APPRART	dat|sg|masc	4	PP	_	_
+3	Saarland	Saarland	_	NE	dat|sg|masc	2	PN	_	_
+4	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Juden	Jude	_	NN	nom|pl|masc	8	OBJA	_	_
+6	wieder	wieder	_	ADV	_	8	ADV	_	_
+7	häufiger	häufig	_	ADJD	comp	8	ADV	_	_
+8	abgelehnt	ablehnen	_	VVPP	_	4	AUX	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	beschimpft	beschimpfen	_	VVPP	_	8	KON	_	_
+11	oder	oder	_	KON	_	10	KON	_	_
+12	sogar	sogar	_	ADV	_	13	ADV	_	_
+13	angegriffen	angreifen	_	VVPP	_	11	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Politik	Politik	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	dagegen	dagegen	_	PROAV	_	5	DET	_	_
+5	etwas	etwas	_	PIS	*|*|neut	6	OBJA	_	_
+6	tun	tun	_	VVINF	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Land·tag	Land·tag	_	NN	nom|sg|masc	6	ETH	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	einen	ein	_	ART	acc|sg|masc	5	DET	_	_
+5	Anti·semitismus·beauftragten	anti·semitismus·beauftragter	_	NN	acc|sg|masc	6	OBJG	_	_
+6	gewählt	wählen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Saarland	Saarland	_	NE	dat|sg|masc	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	jetzt	jetzt	_	ADV	_	6	ADV	_	_
+6	erstmals	erstmals	_	ADV	_	3	ADV	_	_
+7	eine	ein	_	ART	acc|sg|fem	9	DET	_	_
+8	offizielle	offiziell	_	ADJA	acc|sg|fem|pos	9	ATTR	_	_
+9	Stelle	Stelle	_	NN	acc|sg|fem	3	OBJA	_	_
+10	,	--	_	$,	_	0	ROOT	_	_
+11	die	der	_	PRELS	nom|sg|fem	15	SUBJ	_	_
+12	sich	sich	_	PRF	acc|sg|3	15	OBJA	_	_
+13	gegen	gegen	_	APPR	_	15	PP	_	_
+14	Juden·feindlichkeit	Juden·feindlichkeit	_	NN	acc|sg|fem	13	PN	_	_
+15	einsetzt	einsetzen	_	VVFIN	_	9	REL	_	_
+16	:	--	_	$.	_	0	ROOT	_	_
+
+1	Einen	ein	_	ART	acc|sg|masc	2	DET	_	_
+2	Anti·semitismus·beauftragten	anti·semitismus·beauftragter	_	NN	acc|sg|masc	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jüdische	jüdisch	_	ADJA	nom|pl|masc|pos	2	ATTR	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	5	SUBJ	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Organisationen	Organisation	_	NN	nom|pl|fem	3	CJ	_	_
+5	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+6	sich	sich	_	PRF	acc|pl|3	10	OBJA	_	_
+7	an	an	_	APPR	_	10	PP	_	_
+8	den	der	_	ART	dat|pl|masc	9	DET	_	_
+9	Beauftragten	beauftragter	_	NN	dat|pl|masc	7	PN	_	_
+10	wenden	wenden	_	VVINF	pl|3|pres|ind	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	mit	mit	_	APPR	_	8	PP	_	_
+4	ihm	ihm	_	PPER	dat|sg|masc|3	3	PN	_	_
+5	über	über	_	APPR	_	8	PP	_	_
+6	ihre	ihr	_	PPOSAT	acc|pl|fem	7	DET	_	_
+7	Erfahrungen	Erfahrung	_	NN	acc|pl|fem	5	PN	_	_
+8	reden	reden	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	Vorschläge	Vorschlag	_	NN	acc|pl|masc	5	OBJA	_	_
+5	machen	machen	_	VVINF	_	2	AUX	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	wie	wie	_	PWAV	_	10	ADV	_	_
+8	man	man	_	PIS	nom|sg|*	11	SUBJ	_	_
+9	Anti·semitimus	Anti·semitimus	_	NN	acc|sg|masc	10	OBJA	_	_
+10	bekämpfen	bekämpfen	_	VVINF	_	11	AUX	_	_
+11	kann	können	_	VMFIN	sg|3|pres|ind	5	OBJC	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	erste	erster	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Anti·semitismus·beauftragte	Anti·semitismus·beauftragter	_	NN	nom|sg|masc	6	PRED	_	_
+4	des	der	_	ART	gen|sg|neut	5	DET	_	_
+5	Saarlandes	Saarland	_	NN	gen|sg|neut	6	PRED	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	Roland	Roland	_	NE	nom|sg|masc	6	PRED	_	_
+8	Rixecker	Rixecker	_	NE	nom|sg|masc	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	Präsident	Präsident	_	NN	nom|sg|masc	2	PRED	_	_
+5	des	der	_	ART	gen|sg|masc	7	DET	_	_
+6	saarländischen	saarländisch	_	ADJA	gen|sg|masc|pos	7	ATTR	_	_
+7	Verfassungs·gerichts	Verfassungs·gericht	_	NN	gen|sg|masc	4	GMOD	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+

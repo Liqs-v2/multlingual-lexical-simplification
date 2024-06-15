@@ -1,0 +1,169 @@
+1	Austausch	Austausch	_	NN	nom|sg|masc	0	S	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	Gefangenen	gefangener	_	NN	dat|pl|*	2	PN	_	_
+
+1	In	in	_	APPR	_	8	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Konflikt	Konflikt	_	NN	dat|sg|masc	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|neut	6	DET	_	_
+6	Land	Land	_	NN	dat|sg|neut	4	PN	_	_
+7	Ukraine	Ukraine	_	NE	nom|sg|fem	6	APP	_	_
+8	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	es	es	_	PPER	nom|sg|neut|3	8	SUBJ	_	_
+10	eine	ein	_	ART	acc|sg|fem	12	DET	_	_
+11	neue	neu	_	ADJA	acc|sg|fem|pos	12	ATTR	_	_
+12	Entwicklung	Entwicklung	_	NN	acc|sg|fem	8	OBJA	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Aufständischen	aufständische	_	NN	nom|pl|fem	11	SUBJ	_	_
+3	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Osten	Osten	_	NN	dat|sg|masc	3	PN	_	_
+5	und	und	_	KON	_	2	KON	_	_
+6	die	der	_	ART	acc|sg|fem	7	DET	_	_
+7	Armee	Armee	_	NN	acc|sg|fem	5	NP2	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Ukraine	Ukraine	_	NE	dat|sg|fem	8	PN	_	_
+11	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+12	Gefangene	gefangener	_	NN	nom|pl|masc	13	OBJA	_	_
+13	ausgetauscht	austauschen	_	VVPP	_	11	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Aufständischen	aufständische	_	NN	nom|pl|fem	6	ETH	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	73	73	_	CARD	_	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	6	OBJA	_	_
+6	freigelassen	freilassen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Ukraine	Ukraine	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	233	233	_	CARD	_	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	acc|pl|masc	6	OBJA	_	_
+6	freigelassen	freilassen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Gefangene	gefangener	_	NN	nom|pl|*	3	PRED	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	Soldaten	Soldat	_	NN	nom|pl|masc	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Austausch	Austausch	_	NN	nom|sg|masc	3	PRED	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	schon	schon	_	ADV	_	5	ADV	_	_
+5	lange	lange	_	ADV	_	6	ADV	_	_
+6	geplant	planen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Vertrag	Vertrag	_	NN	dat|sg|masc	3	PN	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Minsk	Minsk	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Friedens-Vertrag	Friedens-Vertrag	_	NN	nom|sg|masc	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Minsk	Minsk	_	NE	nom|sg|masc	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Haupt-Stadt	Haupt-Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	dem	der	_	ART	dat|sg|neut	7	DET	_	_
+7	Land	Land	_	NN	dat|sg|neut	5	PN	_	_
+8	Weiß-Russland	Weiß-Russland	_	NE	nom|sg|neut	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Politiker	Politiker	_	NN	nom|pl|masc	7	ADV	_	_
+4	über	über	_	APPR	_	7	PP	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	Vertrag	Vertrag	_	NN	acc|sg|masc	4	PN	_	_
+7	verhandelt	verhandeln	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Konflikt	Konflikt	_	NN	nom|sg|masc	9	SUBJ	_	_
+3	um	um	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Osten	Osten	_	NN	acc|sg|masc	3	PN	_	_
+6	von	von	_	APPR	_	2	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Ukraine	Ukraine	_	NE	dat|sg|fem	6	PN	_	_
+9	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+10	schon	schon	_	ADV	_	9	ADV	_	_
+11	mehrere	mehrere	_	PIAT	acc|pl|neut	12	DET	_	_
+12	Jahre	Jahr	_	NN	acc|pl|neut	9	ZEIT	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	eigentlich	eigentlich	_	ADV	_	2	ADV	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Waffen-Ruhe	Waffen-Ruhe	_	NN	acc|sg|fem	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	trotzdem	trotzdem	_	PROAV	_	3	DET	_	_
+3	kämpfen	kämpfen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|pl|fem	5	DET	_	_
+5	Aufständischen	aufständische	_	NN	nom|pl|fem	3	SUBJ	_	_
+6	weiter	weiter	_	ADV	_	3	ADV	_	_
+7	gegen	gegen	_	APPR	_	3	PP	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Armee	Armee	_	NN	acc|sg|fem	7	PN	_	_
+10	von	von	_	APPR	_	9	PP	_	_
+11	der	der	_	ART	dat|sg|fem	12	DET	_	_
+12	Regierung	Regierung	_	NN	dat|sg|fem	10	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Aufständischen	aufständische	_	NN	nom|pl|fem	12	OBJA	_	_
+3	wollen	wollen	_	VMFIN	pl|3|pres|ind	2	REL	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	dass	dass	_	KOUS	_	0	S	_	_
+6	das	der	_	ART	nom|sg|neut	7	DET	_	_
+7	Kriegs-Gebiet	Kriegs-Gebiet	_	NN	nom|sg|neut	0	S	_	_
+8	nicht	nicht	_	PTKNEG	_	12	ADV	_	_
+9	mehr	mehr	_	ADV	_	8	ADV	_	_
+10	zur	zu	_	APPRART	dat|sg|fem	12	OBJP	_	_
+11	Ukraine	Ukraine	_	NE	dat|sg|fem	10	PN	_	_
+12	gehört	gehören	_	VVPP	_	7	ADV	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Russland	Russland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	unterstützt	unterstützen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|fem	4	DET	_	_
+4	Aufständischen	aufständische	_	NN	acc|pl|fem	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Regierung	Regierung	_	NN	nom|sg|fem	8	OBJA	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Ukraine	Ukraine	_	NE	dat|sg|fem	3	PN	_	_
+6	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+7	aber	aber	_	ADV	_	8	ADV	_	_
+8	verhindern	verhindern	_	VVINF	_	6	AUX	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	dass	daß	_	KOUS	_	16	KONJ	_	_
+11	der	der	_	ART	nom|sg|masc	12	DET	_	_
+12	Osten	Osten	_	NN	nom|sg|masc	16	SUBJ	_	_
+13	ein	ein	_	ART	acc|sg|neut	15	DET	_	_
+14	eigenes	eigen	_	ADJA	acc|sg|neut|pos	15	ATTR	_	_
+15	Land	Land	_	NN	acc|sg|neut	16	PRED	_	_
+16	wird	werden	_	VAFIN	sg|3|pres|ind	8	OBJC	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+

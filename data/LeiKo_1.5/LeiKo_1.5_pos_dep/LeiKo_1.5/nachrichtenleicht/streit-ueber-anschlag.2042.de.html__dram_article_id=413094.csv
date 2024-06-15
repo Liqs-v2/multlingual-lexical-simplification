@@ -1,0 +1,190 @@
+1	Streit	Streit	_	NN	nom|sg|masc	0	S	_	_
+2	über	über	_	APPR	_	1	PP	_	_
+3	Anschlag	Anschlag	_	NN	acc|sg|masc	2	PN	_	_
+
+1	Zwischen	zwischen	_	APPR	_	7	PP	_	_
+2	den	der	_	ART	dat|pl|neut	3	DET	_	_
+3	Ländern	Land	_	NN	dat|pl|neut	1	PN	_	_
+4	Groß-Britannien	Groß-Britannie	_	NE	dat|pl|neut	3	GMOD	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Russland	Russland	_	NE	dat|sg|neut	5	CJ	_	_
+7	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	es	es	_	PPER	nom|sg|neut|3	7	SUBJ	_	_
+9	großen	groß	_	ADJA	acc|pl|masc|pos	10	ATTR	_	_
+10	Ärger	Ärger	_	NN	acc|pl|masc	7	OBJA	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	10	DET	_	_
+2	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	um	um	_	APPR	_	2	PP	_	_
+5	einen	ein	_	ART	acc|sg|masc	6	DET	_	_
+6	Anschlag	Anschlag	_	NN	acc|sg|masc	4	PN	_	_
+7	auf	auf	_	APPR	_	2	PP	_	_
+8	einen	ein	_	ART	acc|sg|masc	10	DET	_	_
+9	früheren	früh	_	ADJA	acc|sg|masc|comp	10	ATTR	_	_
+10	Spion	Spion	_	NN	acc|sg|masc	7	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Groß-Britannien	Groß-Britannien	_	NE	nom|sg|neut	2	OBJA	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Russland	Russland	_	NE	nom|sg|neut	5	PRED	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	2	S	_	_
+6	dafür	dafür	_	PROAV	_	5	DET	_	_
+7	verantwortlich	verantwortlich	_	ADJD	pos	5	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zur	zu	_	APPRART	dat|sg|fem	3	PP	_	_
+2	Strafe	Strafe	_	NN	dat|sg|fem	1	PN	_	_
+3	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	23	23	_	CARD	_	6	ATTR	_	_
+5	russische	russisch	_	ADJA	nom|pl|fem|pos	6	ATTR	_	_
+6	Diplomaten	Diplomat	_	NN	nom|pl|fem	3	SUBJ	_	_
+7	Groß-Britannien	Groß-Britannie	_	NE	acc|sg|neut	6	APP	_	_
+8	jetzt	jetzt	_	ADV	_	9	ADV	_	_
+9	verlassen	verlassen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	russische	russisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Regierung	Regierung	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	zornig	zornig	_	ADJD	pos	4	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Das	der	_	PDS	nom|sg|neut	5	SUBJ	_	_
+5	geht	gehen	_	VVFIN	sg|3|pres|ind	2	S	_	_
+6	gar	gar	_	ADV	_	5	ADV	_	_
+7	nicht	nicht	_	PTKNEG	_	5	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+3	mit	mit	_	APPR	_	8	PP	_	_
+4	dem	der	_	ART	dat|sg|masc	5	DET	_	_
+5	Anschlag	Anschlag	_	NN	dat|sg|masc	3	PN	_	_
+6	nichts	nichts	_	PIS	*|*|neut	8	OBJA	_	_
+7	zu	zu	_	PTKZU	_	8	PART	_	_
+8	tun	tun	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Ex-Spion	Ex-Spion	_	NN	nom|sg|masc	3	PRED	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Sergej	Sergej	_	NE	nom|sg|masc	3	PRED	_	_
+5	Skripal	Skripal	_	NE	nom|sg|masc	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	lebt	leben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Groß-Britannien	Groß-Britannien	_	NE	dat|sg|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Skripal	Skripal	_	NE	nom|sg|masc	5	PRED	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	seine	sein	_	PPOSAT	nom|sg|fem	4	DET	_	_
+4	Tochter	Tochter	_	NN	nom|sg|fem	2	CJ	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	am	an	_	APPRART	dat|sg|masc	14	PP	_	_
+7	4.	4.	_	ADJA	dat|sg|masc|pos	8	ATTR	_	_
+8	März	März	_	NN	dat|sg|masc	6	PN	_	_
+9	sehr	sehr	_	ADV	_	10	ADV	_	_
+10	krank	krank	_	ADJD	pos	14	ADV	_	_
+11	in	in	_	APPR	_	14	PP	_	_
+12	einem	ein	_	ART	dat|sg|masc	13	DET	_	_
+13	Park	Park	_	NN	dat|sg|masc	11	PN	_	_
+14	gefunden	finden	_	VVPP	_	15	AUX	_	_
+15	worden	werden	_	VAPP	_	5	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	OBJA	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Sie	sie	_	PPER	nom|pl|*|3	6	SUBJ	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	vergiftet	vergiften	_	VVPP	_	8	AUX	_	_
+8	worden	werden	_	VAPP	_	6	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	Nerven-Gift	Nerven-Gift	_	NN	nom|sg|masc	2	PRED	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	andere	anderer	_	ADJA	nom|pl|neut|pos	3	ATTR	_	_
+3	Länder	Land	_	NN	nom|pl|neut	4	OBJA	_	_
+4	glauben	glauben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	dass	daß	_	KOUS	_	9	KONJ	_	_
+7	Russland	Russland	_	NE	nom|sg|neut	9	SUBJ	_	_
+8	schuld	schuld	_	ADJD	pos	9	ADV	_	_
+9	ist	sein	_	VAFIN	sg|3|pres|ind	4	OBJC	_	_
+10	-	--	_	$(	_	0	ROOT	_	_
+11	zum	zu	_	APPRART	dat|sg|neut	14	PP	_	_
+12	Beispiel	Beispiel	_	NN	dat|sg|neut	11	PN	_	_
+13	das	der	_	ART	nom|sg|neut	14	DET	_	_
+14	Land	Land	_	NN	nom|sg|neut	9	PAR	_	_
+15	USA	USA	_	NE	nom|pl|*	14	APP	_	_
+16	und	und	_	KON	_	9	KON	_	_
+17	das	der	_	ART	nom|sg|neut	18	DET	_	_
+18	Land	Land	_	NN	nom|sg|neut	16	CJ	_	_
+19	Frankreich	Frankreich	_	NE	nom|sg|neut	16	CJ	_	_
+20	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zusammen	zusammen	_	ADV	_	2	ADV	_	_
+2	mit	mit	_	APPR	_	6	PP	_	_
+3	Groß-Britannien	Groß-Britannie	_	NE	dat|sg|neut	2	PN	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	Deutschland	Deutschland	_	NE	dat|sg|neut	4	CJ	_	_
+6	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	sie	sie	_	PPER	nom|pl|*|3	8	OBJA	_	_
+8	erklärt	erklären	_	VVPP	_	6	AUX	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Wir	wir	_	PPER	nom|pl|*|1	11	SUBJ	_	_
+11	finden	finden	_	VVFIN	pl|1|pres|ind	0	S	_	_
+12	den	der	_	ART	acc|sg|masc	13	DET	_	_
+13	Anschlag	Anschlag	_	NN	acc|sg|masc	11	OBJA	_	_
+14	abscheulich	abscheulich	_	ADJD	pos	11	ADV	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Verstoß	Verstoß	_	NN	nom|sg|neut	2	PRED	_	_
+5	gegen	gegen	_	APPR	_	4	PP	_	_
+6	internationales	international	_	ADJA	acc|sg|neut|pos	7	ATTR	_	_
+7	Recht	Recht	_	NN	acc|sg|neut	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Experten	Experte	_	NN	nom|pl|masc	2	PRED	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	4	ADV	_	_
+4	besorgt	besorgt	_	ADJD	pos	2	ADV	_	_
+5	über	über	_	APPR	_	2	PRED	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Streit	Streit	_	NN	acc|sg|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	befürchten	befürchten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	acc|pl|fem	5	DET	_	_
+5	Beziehungen	Beziehung	_	NN	acc|pl|fem	2	APP	_	_
+6	zwischen	zwischen	_	APPR	_	5	PP	_	_
+7	Russland	Russland	_	NE	dat|sg|neut	6	PN	_	_
+8	und	und	_	KON	_	2	KON	_	_
+9	dem	der	_	ART	dat|sg|masc	10	DET	_	_
+10	Westen	Westen	_	NN	dat|sg|masc	8	CJ	_	_
+11	könnten	können	_	VMFIN	pl|3|past|subj	8	CJ	_	_
+12	sehr	sehr	_	ADV	_	13	ADV	_	_
+13	schlecht	schlecht	_	ADJD	pos	14	ADV	_	_
+14	werden	werden	_	VAINF	_	11	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+

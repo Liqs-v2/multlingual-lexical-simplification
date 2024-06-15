@@ -1,0 +1,342 @@
+1	Hamburg	Hamburg	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	braucht	brauchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	einen	ein	_	ART	acc|sg|masc	5	DET	_	_
+4	neuen	neu	_	ADJA	acc|sg|masc|pos	5	ATTR	_	_
+5	Bürger·meister	Bürger·meister	_	NN	acc|sg|masc	2	OBJA	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	bald	bald	_	ADV	_	2	ADV	_	_
+4	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+5	neue	neu	_	ADJA	acc|sg|fem|pos	6	ATTR	_	_
+6	Regierung	Regierung	_	NN	acc|sg|fem	2	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	acc|sg|fem	2	DET	_	_
+2	Regierung	Regierung	_	NN	acc|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	viele	vieler	_	PIAT	acc|pl|masc	5	DET	_	_
+5	Minister	Minister	_	NN	acc|pl|masc	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Minister	Minister	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+5	wichtiger	wichtig	_	ADJA	nom|sg|masc|pos	6	ATTR	_	_
+6	Politiker	Politiker	_	NN	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	ein	ein	_	ART	nom|sg|masc	3	DET	_	_
+3	Minister	Minister	_	NN	nom|sg|masc	4	OBJA	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	bestimmte	bestimmt	_	ADJA	acc|pl|masc|pos	6	ATTR	_	_
+6	Aufgaben	Aufgabe	_	NN	acc|pl|masc	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Minister	Minister	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Chef	Chef	_	NN	nom|sg|masc	3	PRED	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	einem	ein	_	ART	dat|sg|masc	10	DET	_	_
+9	bestimmten	bestimmt	_	ADJA	dat|sg|masc|pos	10	ATTR	_	_
+10	Bereich	Bereich	_	NN	dat|sg|masc	7	PN	_	_
+11	in	in	_	APPR	_	10	PP	_	_
+12	der	der	_	ART	dat|sg|fem	13	DET	_	_
+13	Politik	Politik	_	NN	dat|sg|fem	11	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	ART	nom|sg|fem	2	ROOT	_	_
+2	Wirtschaft	Wirtschaft	_	NN	nom|sg|fem	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Oder	oder	_	KON	_	0	S	_	_
+3	Finanzen	Finanz	_	NN	nom|pl|fem	2	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einer	einer	_	PIS	nom|sg|masc	2	PN	_	_
+2	von	von	_	APPR	_	5	PRED	_	_
+3	den	der	_	ART	dat|pl|masc	4	DET	_	_
+4	Ministern	Minister	_	NN	dat|pl|masc	2	PN	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	Olaf	Olaf	_	NE	nom|sg|masc	5	PRED	_	_
+7	Scholz	Scholz	_	NE	nom|sg|masc	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Olaf	Olaf	_	NE	nom|sg|masc	3	PRED	_	_
+2	Scholz	Scholz	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Bürger·meister	Bürger·meister	_	NN	nom|sg|masc	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Bürger·meister	Bürger·meister	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Chef	Chef	_	NN	nom|sg|masc	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+8	Stadt	Stadt	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Olaf	Olaf	_	NE	nom|sg|masc	4	SUBJ	_	_
+3	Scholz	Scholz	_	NE	nom|sg|masc	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	von	von	_	APPR	_	4	PRED	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	SPD	SPD	_	NE	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	SPD	SPD	_	NE	nom|sg|fem	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Sozial·demokratische	sozial·demokratisch	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Partei	Partei	_	NN	nom|sg|fem	5	PN	_	_
+8	Deutschlands	Deutschland	_	NE	gen|sg|neut	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Olaf	Olaf	_	NE	nom|sg|masc	3	S	_	_
+2	Scholz	Scholz	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	neuer	neu	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Finanz·minister	Finanz·minister	_	NN	nom|sg|masc	3	PRED	_	_
+
+1	Olaf	Olaf	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Scholz	Scholz	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Finanz·minister	Finanz·minister	_	NN	nom|sg|masc	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	9	DET	_	_
+8	neuen	neu	_	ADJA	dat|sg|fem|pos	9	ATTR	_	_
+9	Regierung	Regierung	_	NN	dat|sg|fem	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Finanz·minister	Finanz·minister	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	kümmert	kümmern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|sg|3	3	OBJA	_	_
+5	um	um	_	APPR	_	3	PP	_	_
+6	die	der	_	ART	acc|pl|fem	7	DET	_	_
+7	Finanzen	Finanz	_	NN	acc|pl|fem	5	PN	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	einem	ein	_	ART	dat|sg|neut	10	DET	_	_
+10	Land	Land	_	NN	dat|sg|neut	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Finanzen	Finanz	_	NN	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	5	DET	_	_
+4	anderes	anderer	_	ADJA	nom|sg|neut|pos	5	ATTR	_	_
+5	Wort	Wort	_	NN	nom|sg|neut	2	PRED	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	Geld	Geld	_	NN	acc|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Finanz·minister	Finanz·minister	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	neuen	neu	_	ADJA	dat|sg|fem|pos	6	ATTR	_	_
+6	Regierung	Regierung	_	NN	dat|sg|fem	3	PN	_	_
+7	arbeitet	arbeiten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	in	in	_	APPR	_	7	PP	_	_
+9	Berlin	Berlin	_	NE	dat|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Berlin	Berlin	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Hauptstadt	Hauptstadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Deutschland	Deutschland	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	muss	muss	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	Olaf	Olaf	_	NN	nom|sg|masc	6	OBJA	_	_
+4	Scholz	Scholz	_	NE	nom|sg|masc	3	APP	_	_
+5	Hamburg	Hamburg	_	NE	nom|sg|masc	4	APP	_	_
+6	verlassen	verlassen	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Olaf	Olaf	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Scholz	Scholz	_	NE	nom|sg|masc	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Ich	ich	_	PPER	nom|sg|*|1	7	SUBJ	_	_
+7	war	sein	_	VAFIN	sg|1|past|ind	0	S	_	_
+8	gerne	gerne	_	ADJA	_	9	ATTR	_	_
+9	Bürger·meister	Bürger·meister	_	NN	nom|sg|masc	7	PRED	_	_
+10	von	von	_	APPR	_	9	PP	_	_
+11	Hamburg	Hamburg	_	NE	dat|sg|neut	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Arbeit	Arbeit	_	NN	nom|sg|fem	10	OBJA	_	_
+3	als	als	_	APPR	_	2	PP	_	_
+4	Bürger·meister	Bürger·meister	_	NN	nom|sg|masc	3	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	mir	sich	_	PPER	dat|sg|*|1	10	OBJD	_	_
+7	nämlich	nämlich	_	ADV	_	10	ADV	_	_
+8	viel	viel	_	PIAT	*|*|*	9	ATTR	_	_
+9	Spaß	Spaß	_	NN	acc|sg|masc	10	OBJA	_	_
+10	gemacht	machen	_	VVPP	_	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+3	freue	freuen	_	VVFIN	sg|1|pres|ind	1	CJ	_	_
+4	ich	ich	_	PPER	nom|sg|*|1	3	SUBJ	_	_
+5	mich	mich	_	PRF	acc|sg|1	3	OBJA	_	_
+6	auf	auf	_	APPR	_	3	PP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Arbeit	Arbeit	_	NN	acc|sg|fem	6	PN	_	_
+9	als	als	_	APPR	_	8	PP	_	_
+10	Finanz·minister	Finanz·minister	_	NN	nom|sg|masc	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hamburg	Hamburg	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	braucht	brauchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	jetzt	jetzt	_	ADV	_	2	ADV	_	_
+4	einen	ein	_	ART	acc|sg|masc	6	DET	_	_
+5	neuen	neu	_	ADJA	acc|sg|masc|pos	6	ATTR	_	_
+6	Bürger·meister	Bürger·meister	_	NN	acc|sg|masc	2	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fach·leute	Fach·leute	_	NN	nom|pl|*	6	PRED	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Vielleicht	vielleicht	_	ADV	_	6	ADV	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	Andreas	Andreas	_	NE	nom|sg|masc	6	ETH	_	_
+8	Dressel	Dressel	_	NE	nom|sg|masc	7	APP	_	_
+9	bald	bald	_	ADV	_	6	ADV	_	_
+10	der	der	_	ART	nom|sg|masc	12	DET	_	_
+11	neue	neu	_	ADJA	nom|sg|masc|pos	12	ATTR	_	_
+12	Bürger·meister	Bürger·meister	_	NN	nom|sg|masc	6	PRED	_	_
+13	von	von	_	APPR	_	12	PP	_	_
+14	Hamburg	Hamburg	_	NE	dat|sg|neut	13	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|masc	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Andreas	Andreas	_	NE	nom|sg|masc	2	PRED	_	_
+4	Dressel	Dressel	_	NE	nom|sg|masc	3	APP	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Andreas	Andreas	_	NE	nom|sg|masc	3	PRED	_	_
+2	Dressel	Dressel	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	43	43	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	6	GRAD	_	_
+6	alt	alt	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Andreas	Andreas	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Dressel	Dressel	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	verheiratet	verheiraten	_	VVPP	_	3	AUX	_	_
+5	und	und	_	KON	_	3	KON	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	5	CJ	_	_
+7	3	3	_	CARD	_	8	ATTR	_	_
+8	Kinder	Kind	_	NN	acc|pl|neut	6	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Andreas	Andreas	_	NE	nom|sg|masc	4	PRED	_	_
+3	Dressel	Dressel	_	NE	nom|sg|masc	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+6	wichtiger	wichtig	_	ADJA	nom|sg|masc|pos	7	ATTR	_	_
+7	Politiker	Politiker	_	NN	nom|sg|masc	4	PRED	_	_
+8	in	in	_	APPR	_	7	PP	_	_
+9	Hamburg	Hamburg	_	NE	dat|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Andreas	Andreas	_	NE	nom|sg|masc	3	OBJA	_	_
+2	Dressel	Dressel	_	NE	nom|sg|masc	1	APP	_	_
+3	kennt	kennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Politik	Politik	_	NN	acc|sg|fem	3	OBJA	_	_
+6	in	in	_	APPR	_	3	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	schon	schon	_	ADV	_	9	ADV	_	_
+9	sehr	sehr	_	ADV	_	3	ADV	_	_
+10	lange	lange	_	ADV	_	3	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Andreas	Andreas	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Dressel	Dressel	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+5	seit	seit	_	APPR	_	3	PP	_	_
+6	7	7	_	CARD	_	7	ATTR	_	_
+7	Jahren	Jahr	_	NN	dat|pl|neut	5	PN	_	_
+8	der	der	_	ART	nom|sg|masc	9	DET	_	_
+9	Chef	Chef	_	NN	nom|sg|masc	3	PRED	_	_
+10	von	von	_	APPR	_	9	PP	_	_
+11	der	der	_	ART	dat|sg|fem	12	DET	_	_
+12	SPD	SPD	_	NE	dat|sg|fem	10	PN	_	_
+13	in	in	_	APPR	_	3	PRED	_	_
+14	der	der	_	ART	dat|sg|fem	15	DET	_	_
+15	Bürger·schaft	Bürger·schaft	_	NN	dat|sg|fem	13	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bürger·schaft	Bürger·schaft	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Parlament	Parlament	_	NN	nom|sg|neut	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Bürger·schaft	Bürger·schaft	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Politiker	Politiker	_	NN	nom|pl|masc	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	SPD	SPD	_	NE	nom|sg|fem	5	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	gesagt	sagen	_	VVPP	_	5	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Am	an	_	APPRART	dat|sg|masc	11	PP	_	_
+9	24.	24.	_	ADJA	dat|sg|masc|pos	10	ATTR	_	_
+10	März	März	_	NN	dat|sg|masc	8	PN	_	_
+11	entscheiden	entscheiden	_	VVFIN	pl|1|past|ind	0	S	_	_
+12	wir	wir	_	PPER	nom|pl|*|1	11	SUBJ	_	_
+13	:	--	_	$.	_	0	ROOT	_	_
+14	Dieser	dieser	_	PDAT	nom|sg|masc	15	DET	_	_
+15	Politiker	Politiker	_	NN	nom|sg|masc	11	ADV	_	_
+16	von	von	_	APPR	_	11	PP	_	_
+17	der	der	_	ART	dat|sg|fem	18	DET	_	_
+18	SPD	SPD	_	NE	dat|sg|fem	16	PN	_	_
+19	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+20	neuer	neu	_	ADJA	gen|pl|masc|pos	21	ATTR	_	_
+21	Bürger·meister	Bürger·meister	_	NN	gen|pl|masc	22	PRED	_	_
+22	werden	werden	_	VAINF	_	19	AUX	_	_
+23	.	--	_	$.	_	0	ROOT	_	_

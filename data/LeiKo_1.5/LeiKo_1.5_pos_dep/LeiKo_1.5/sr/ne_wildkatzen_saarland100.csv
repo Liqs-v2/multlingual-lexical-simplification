@@ -1,0 +1,93 @@
+﻿1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Wild·katzen	Wild·katze	_	NN	nom|pl|*	0	S	_	_
+3	im	in	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Saarland	Saarland	_	NE	dat|sg|neut	3	PN	_	_
+
+1	Wild·katzen	Wild·katze	_	NN	nom|pl|fem	2	SUBJ	_	_
+2	fühlen	fühlen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	2	OBJA	_	_
+4	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+5	Saarland	Saarland	_	NE	dat|sg|masc	4	PN	_	_
+6	besonders	besonders	_	ADV	_	2	ADV	_	_
+7	wohl	wohl	_	ADV	_	2	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Naturschutz·bund	Naturschutz·bund	_	NN	nom|sg|masc	4	OBJA	_	_
+3	BUND	BUND	_	NE	nom|sg|masc	2	APP	_	_
+4	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Inzwischen	inzwischen	_	ADV	_	7	ADV	_	_
+7	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+8	die	der	_	ART	nom|pl|masc	9	DET	_	_
+9	Wild·katzen	Wild·katze	_	NN	nom|pl|masc	7	SUBJ	_	_
+10	in	in	_	APPR	_	7	PP	_	_
+11	allen	aller	_	PIAT	dat|pl|fem	13	DET	_	_
+12	größeren	groß	_	ADJA	dat|pl|masc|comp	13	ATTR	_	_
+13	Wäldern	Wald	_	NN	dat|pl|masc	10	PN	_	_
+14	des	der	_	ART	gen|sg|neut	15	DET	_	_
+15	Saarlandes	Saarland	_	NE	gen|sg|neut	13	GMOD	_	_
+16	zu	zu	_	APPR	_	7	PRED	_	_
+17	Hause	Haus	_	NN	dat|sg|neut	16	PN	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Saarland	Saarland	_	NE	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	damit	damit	_	PROAV	_	3	DET	_	_
+5	das	der	_	ART	acc|sg|neut	8	DET	_	_
+6	erste	erster	_	ADJA	acc|sg|neut|pos	8	ATTR	_	_
+7	deutsche	deutsch	_	ADJA	acc|sg|neut|pos	8	ATTR	_	_
+8	Bundes·land	Bundes·land	_	NN	acc|sg|neut	3	PRED	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	in	in	_	APPR	_	16	PP	_	_
+11	dem	der	_	PRELS	dat|sg|neut	10	PN	_	_
+12	überall	überall	_	ADV	_	16	ADV	_	_
+13	im	in	_	APPRART	dat|sg|neut	16	PP	_	_
+14	Land	Land	_	NN	dat|sg|neut	13	PN	_	_
+15	Wildkatzen	Wildkatze	_	NN	acc|pl|fem	14	APP	_	_
+16	nachgewiesen	nachweisen	_	VVPP	_	17	AUX	_	_
+17	wurden	werden	_	VAFIN	pl|3|past|ind	8	REL	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	Europäische	europäisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Wild·katze	Wild·katze	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	scheu	scheu	_	ADJD	pos	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	lebt	leben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	4	ADV	_	_
+4	zurück·gezogen	zurück·ziehen	_	ADJD	pos	2	ADV	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	Wäldern	Wald	_	NN	dat|pl|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ihre	ihr	_	PPOSAT	acc|pl|neut	2	DET	_	_
+2	Verstecke	Verstecke	_	NN	acc|pl|neut	3	PN	_	_
+3	verlässt	verlässen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	sie	sie	_	PPER	nom|sg|fem|3	3	SUBJ	_	_
+5	meistens	meistens	_	ADV	_	3	ADV	_	_
+6	nur	nur	_	ADV	_	7	ADV	_	_
+7	in	in	_	APPR	_	3	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Nacht	Nacht	_	NN	dat|sg|fem	7	PN	_	_
+10	,	--	_	$,	_	0	ROOT	_	_
+11	um	um	_	KOUI	_	15	KONJ	_	_
+12	nach	nach	_	APPR	_	15	PP	_	_
+13	Mäusen	Mäusen	_	NE	dat|sg|neut	12	PN	_	_
+14	zu	zu	_	PTKZU	_	15	PART	_	_
+15	jagen	jagen	_	VVINF	_	3	NEB	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	frisst	frissen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	Vögel	Vogel	_	NN	nom|pl|masc	2	OBJA	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Frösche	Frosch	_	NN	nom|pl|masc	5	CJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+

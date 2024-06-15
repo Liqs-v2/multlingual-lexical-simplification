@@ -1,0 +1,286 @@
+﻿1	Schiffs·taufe	Schiffs·tauf	_	NN	nom|pl|masc	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Hamburg	Hamburg	_	NE	dat|sg|neut	2	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Hamburg	Hamburg	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Schiffs·taufe	Schiffs·taufe	_	NN	nom|sg|fem	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Schiffs·taufe	Schiffs·taufe	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Taufe	Taufe	_	NN	nom|sg|fem	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	einem	ein	_	ART	dat|sg|masc	8	DET	_	_
+8	Schiff	Schiff	_	NN	dat|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+7	Feier	Feier	_	NN	acc|sg|fem	5	OBJA	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	das	der	_	ART	acc|sg|neut	10	DET	_	_
+10	Schiff	Schiff	_	NN	acc|sg|neut	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dieser	dieser	_	PDAT	dat|sg|fem	3	DET	_	_
+3	Feier	Feier	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Besitzer	Besitzer	_	NN	nom|sg|masc	4	OBJD	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Schiff	Schiff	_	NN	dat|sg|masc	4	OBJA	_	_
+7	einen	ein	_	ART	acc|sg|masc	8	DET	_	_
+8	Namen	Name	_	NN	acc|sg|masc	6	GMOD	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Schiffs·taufe	Schiffs·tauf	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	bei	bei	_	APPR	_	3	PRED	_	_
+5	einer	ein	_	ART	dat|sg|fem	7	DET	_	_
+6	neuen	neu	_	ADJA	dat|sg|fem|pos	7	ATTR	_	_
+7	Fähre	Fähre	_	NN	dat|sg|fem	4	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Fähre	Fähre	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	besonderes	besonderer	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Schiff	Schiff	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Fähre	Fähre	_	NN	nom|sg|fem	3	OBJA	_	_
+3	transportiert	transportieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	Autos	Auto	_	NN	acc|pl|neut	1	CJ	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Fähre	Fähre	_	NN	nom|sg|fem	4	PRED	_	_
+4	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	jetzt	jetzt	_	ADV	_	4	ADV	_	_
+6	Halunder	Halunder	_	NN	acc|sg|neut	4	PRED	_	_
+7	Jet	Jet	_	NE	acc|sg|neut	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Neue	neu	_	ADJA	nom|sg|fem|pos	2	ATTR	_	_
+2	Fähre	Fähre	_	NN	nom|sg|fem	0	S	_	_
+3	nach	nach	_	APPR	_	2	PP	_	_
+4	Helgoland	Helgoland	_	NE	dat|sg|neut	3	PN	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Fähre	Fähre	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Katamaran	Katamaran	_	NN	nom|sg|masc	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Katamaran	Katamaran	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	besonderes	besonderer	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Schiff	Schiff	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Katamaran	Katamaran	_	NN	nom|sg|masc	0	S	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	2	2	_	CARD	_	5	ATTR	_	_
+5	Rümpfe	Rümpfe	_	NN	acc|pl|masc	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Rumpf	Rumpf	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+5	Teil	Teil	_	NN	nom|sg|masc	3	PRED	_	_
+6	von	von	_	APPR	_	5	OBJP	_	_
+7	einem	ein	_	ART	dat|sg|masc	8	DET	_	_
+8	Schiff	Schiff	_	NN	dat|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Teil	Teil	_	NN	dat|sg|neut	1	PN	_	_
+4	schwimmt	schwimmen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Schiff	Schiff	_	NN	nom|sg|masc	4	ETH	_	_
+7	im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+8	Wasser	Wasser	_	NN	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	ein	ein	_	ART	nom|sg|masc	3	DET	_	_
+3	Katamaran	Katamaran	_	NN	nom|sg|masc	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	leicht	leicht	_	ADJD	pos	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Katamaran	Katamaran	_	NN	nom|sg|masc	7	OBJA	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	schnell	schnell	_	ADJD	pos	7	ADV	_	_
+7	fahren	fahren	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Fähre	Fähre	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Passagier·schiff	Passagier·schiff	_	NN	nom|sg|masc	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|sg|fem	6	DET	_	_
+5	neue	neu	_	ADJA	nom|sg|fem|pos	6	ATTR	_	_
+6	Fähre	Fähr	_	NN	nom|sg|fem	7	OBJA	_	_
+7	transportiert	transportieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	Menschen	Mensch	_	NN	acc|pl|masc	2	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Fähre	Fähre	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	fährt	fahren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	zwischen	zwischen	_	APPR	_	4	PP	_	_
+6	Hamburg	Hamburg	_	NE	dat|sg|neut	5	PN	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	Helgoland	Helgoland	_	NE	dat|sg|neut	7	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Helgoland	Helgoland	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Insel	Insel	_	NN	nom|sg|fem	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Helgoland	Helgoland	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Nordsee	Nordsee	_	NE	dat|sg|fem	3	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Helgoland	Helgoland	_	NE	nom|sg|neut	3	OBJD	_	_
+3	gehört	gehören	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	zu	zu	_	APPR	_	3	OBJP	_	_
+5	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	680	680	_	CARD	_	2	ATTR	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+3	können	können	_	VMFIN	pl|3|pres|ind	2	APP	_	_
+4	mitfahren	mitfahren	_	APPR	_	3	PP	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Besitzer	Besitzer	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	neuen	neu	_	ADJA	dat|sg|fem|pos	6	ATTR	_	_
+6	Fähre	Fähre	_	NN	dat|sg|fem	3	PN	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Viele	vieler	_	PIAT	nom|pl|masc	11	ATTR	_	_
+11	Menschen	Mensch	_	NN	nom|pl|masc	12	PRED	_	_
+12	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+13	mit	mit	_	APPR	_	17	PP	_	_
+14	der	der	_	ART	dat|sg|fem	16	DET	_	_
+15	alten	alt	_	ADJA	dat|sg|fem|pos	16	ATTR	_	_
+16	Fähre	Fähre	_	NN	dat|sg|fem	13	PN	_	_
+17	gefahren	fahren	_	VVPP	_	12	AUX	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+3	freuen	freuen	_	VVFIN	pl|1|pres|ind	1	CJ	_	_
+4	wir	wir	_	PPER	nom|pl|*|1	3	SUBJ	_	_
+5	uns	uns	_	PRF	acc|pl|1	3	OBJA	_	_
+6	auf	auf	_	APPR	_	3	PP	_	_
+7	die	der	_	ART	acc|sg|fem	9	DET	_	_
+8	neue	neu	_	ADJA	acc|sg|fem|pos	9	ATTR	_	_
+9	Fähre	Fähre	_	NN	acc|sg|fem	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Fähre	Fähre	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	größer	groß	_	ADJD	comp	4	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	mehr	mehr	_	PIAT	*|*|*	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	9	OBJA	_	_
+5	mit	mit	_	APPR	_	9	PP	_	_
+6	der	der	_	ART	dat|sg|fem	8	DET	_	_
+7	neuen	neu	_	ADJA	dat|sg|fem|pos	8	ATTR	_	_
+8	Fähre	Fähre	_	NN	dat|sg|fem	5	PN	_	_
+9	fahren	fahren	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	neuen	neu	_	ADJA	dat|sg|fem|pos	4	ATTR	_	_
+4	Fähre	Fähre	_	NN	dat|sg|fem	1	PN	_	_
+5	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+6	680	680	_	CARD	_	7	ATTR	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	8	OBJA	_	_
+8	mitfahren	mitfahren	_	VVINF	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	4	DET	_	_
+3	neue	neu	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+4	Fähre	Fähre	_	NN	nom|sg|fem	5	APP	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+7	bessere	gut	_	ADJA	acc|sg|fem|comp	8	ATTR	_	_
+8	Ausstattung	Ausstattung	_	NN	acc|sg|fem	5	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Fähre	Fähre	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+6	zum	zu	_	APPRART	dat|sg|neut	9	PP	_	_
+7	Beispiel	Beispiel	_	NN	dat|sg|neut	6	PN	_	_
+8	einen	ein	_	ART	acc|sg|masc	9	DET	_	_
+9	Fahrstuhl	Fahrstuhl	_	NN	acc|sg|masc	4	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+

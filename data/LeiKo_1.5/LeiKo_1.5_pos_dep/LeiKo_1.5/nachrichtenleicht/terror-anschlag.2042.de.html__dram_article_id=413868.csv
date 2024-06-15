@@ -1,0 +1,183 @@
+1	Terror-Anschlag	Terror-Anschlag	_	NN	nom|sg|masc	0	S	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Land	Land	_	NN	dat|sg|neut	1	PN	_	_
+4	Frankreich	Frankreich	_	NE	nom|sg|neut	3	APP	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	10	OBJA	_	_
+7	wahrscheinlich	wahrscheinlich	_	ADJD	pos	10	ADV	_	_
+8	einen	ein	_	ART	acc|sg|masc	9	DET	_	_
+9	Terror-Anschlag	Terror-Anschlag	_	NN	acc|sg|masc	10	OBJD	_	_
+10	gegeben	geben	_	VVPP	_	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Mann	Mann	_	NN	nom|sg|masc	6	ETH	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	drei	drei	_	CARD	_	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	acc|pl|masc	3	SUBJ	_	_
+6	getötet	töten	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Mann	Mann	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	zuerst	zuerst	_	ADV	_	11	ADV	_	_
+5	in	in	_	APPR	_	11	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Stadt	Stadt	_	NN	dat|sg|fem	5	PN	_	_
+8	Carcassonne	Carcassonne	_	NE	nom|sg|neut	7	APP	_	_
+9	einen	ein	_	ART	acc|sg|masc	10	DET	_	_
+10	Menschen	Mensch	_	NN	acc|sg|masc	11	OBJG	_	_
+11	getötet	töten	_	VVPP	_	3	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	er	er	_	PPER	nom|sg|masc|3	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	auf	auf	_	APPR	_	6	PP	_	_
+5	Polizisten	Polizist	_	NN	acc|pl|masc	4	PN	_	_
+6	geschossen	schießen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Mann	Mann	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	in	in	_	APPR	_	9	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Ort	Ort	_	NN	acc|sg|masc	5	PN	_	_
+8	Trèbes	Trèb	_	NN	nom|sg|neut	7	APP	_	_
+9	gefahren	fahren	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+4	in	in	_	APPR	_	9	PP	_	_
+5	einem	ein	_	ART	dat|sg|neut	6	DET	_	_
+6	Super-Markt	Super-Markt	_	NN	dat|sg|neut	4	PN	_	_
+7	zwei	zwei	_	CARD	_	8	ATTR	_	_
+8	Menschen	Mensch	_	NN	nom|pl|masc	9	OBJA	_	_
+9	getötet	töten	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	ein	ein	_	ART	*|*|*	4	DET	_	_
+4	paar	paar	_	PIAT	*|*|*	5	ATTR	_	_
+5	Stunden	Stunde	_	NN	acc|pl|fem	2	PRED	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Super-Markt	Super-Markt	_	NN	dat|sg|neut	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	5	ETH	_	_
+3	durften	dürfen	_	VMFIN	pl|3|past|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	5	ADV	_	_
+5	gehen	gehen	_	VVINF	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Wir	wir	_	PPER	nom|pl|*|1	8	SUBJ	_	_
+8	stürmen	stürmen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+9	den	der	_	ART	acc|sg|masc	10	DET	_	_
+10	Super-Markt	Super-Markt	_	NN	acc|sg|masc	8	OBJA	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	Mann	Mann	_	NN	acc|sg|masc	5	OBJG	_	_
+5	erschossen	erschießen	_	VVPP	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Präsident	Präsident	_	NN	nom|sg|masc	5	S	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Frankreich	Frankreich	_	NE	dat|sg|neut	3	PN	_	_
+5	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	Emmanuel	Emmanuel	_	NE	nom|sg|masc	5	PRED	_	_
+7	Macron	Macron	_	NE	nom|sg|masc	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Das	der	_	PDS	nom|sg|neut	5	SUBJ	_	_
+5	war	sein	_	VAFIN	sg|3|past|ind	2	S	_	_
+6	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+7	Terror-Anschlag	Terror-Anschlag	_	NN	nom|sg|masc	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Terror-Miliz	Terror-Miliz	_	NN	nom|sg|fem	4	OBJA	_	_
+3	IS	IS	_	NE	nom|sg|*	2	APP	_	_
+4	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Der	der	_	ART	nom|sg|masc	7	DET	_	_
+7	Täter	Täter	_	NN	nom|sg|masc	8	ETH	_	_
+8	war	sein	_	VAFIN	sg|3|past|ind	4	S	_	_
+9	ein	ein	_	ART	nom|sg|neut	10	DET	_	_
+10	Mitglied	Mitglied	_	NN	nom|sg|neut	8	PRED	_	_
+11	von	von	_	APPR	_	10	PP	_	_
+12	uns	uns	_	PPER	dat|pl|*|1	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Täter	Täter	_	NN	nom|sg|masc	3	ETH	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	26	26	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	6	GRAD	_	_
+6	alt	alt	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	7	ETH	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ihn	ihn	_	PPER	acc|sg|masc|3	7	OBJA	_	_
+5	schon	schon	_	ADV	_	6	ADV	_	_
+6	vorher	vorher	_	ADV	_	7	ADV	_	_
+7	beobachtet	beobachten	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	vorher	vorher	_	ADV	_	7	ADV	_	_
+4	schon	schon	_	ADV	_	5	ADV	_	_
+5	verbotene	verboten	_	ADJA	acc|pl|masc|pos	6	ATTR	_	_
+6	Dinge	Ding	_	NN	acc|pl|masc	7	OBJA	_	_
+7	gemacht	machen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Polizei	Polizei	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	gedacht	denken	_	VVPP	_	4	AUX	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	dass	daß	_	KOUS	_	12	KONJ	_	_
+9	er	er	_	PPER	nom|sg|masc|3	12	SUBJ	_	_
+10	ein	ein	_	ART	nom|sg|masc	11	DET	_	_
+11	Terrorist	Terrorist	_	NN	nom|sg|masc	12	PRED	_	_
+12	ist	sein	_	VAFIN	sg|3|pres|ind	6	OBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Für	für	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	acc|sg|masc	3	DET	_	_
+3	Beitrag	Beitrag	_	NN	acc|sg|masc	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	leider	leider	_	ADV	_	4	ADV	_	_
+7	kein	kein	_	PIAT	acc|sg|neut	8	DET	_	_
+8	Audio	Audio	_	NN	acc|sg|neut	4	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+

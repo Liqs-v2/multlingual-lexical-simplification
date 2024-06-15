@@ -1,0 +1,132 @@
+﻿1	Ludwigs·park	Ludwigs·park	_	NE	nom|sg|masc	2	PRED	_	_
+2	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	noch	noch	_	ADV	_	4	ADV	_	_
+4	teurer	teuer	_	ADJD	comp	2	ADV	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Umbau	Umbau	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	des	der	_	ART	gen|sg|neut	4	DET	_	_
+4	Ludwigs·park-Stadions	Ludwigs·park-Stadion	_	NN	gen|sg|neut	2	GMOD	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Saarbrücken	Saarbrücken	_	NE	dat|sg|neut	5	PN	_	_
+7	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	noch	noch	_	ADV	_	9	ADV	_	_
+9	einmal	einmal	_	ADV	_	13	ADV	_	_
+10	teurer	teuer	_	ADJD	comp	13	ADV	_	_
+11	als	als	_	KOKOM	_	10	KOM	_	_
+12	eigentlich	eigentlich	_	ADV	_	11	CJ	_	_
+13	geplant	planen	_	VVPP	_	7	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Grund	Grund	_	NN	nom|sg|masc	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Tribünen	tribüne	_	NN	nom|pl|masc	3	OBJA2	_	_
+3	kosten	kosten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	mehr	mehr	_	ADV	_	3	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Stadt	Stadt	_	NN	nom|sg|fem	14	SUBJ	_	_
+3	Saarbrücken	Saarbrücken	_	NE	nom|sg|neut	2	APP	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Firma	Firma	_	NN	nom|sg|fem	4	CJ	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	die	der	_	PRELS	nom|sg|fem	11	OBJA	_	_
+9	die	der	_	ART	acc|pl|fem	10	DET	_	_
+10	Tribünen	Tribüne	_	NN	acc|pl|fem	12	SUBJ	_	_
+11	bauen	bauen	_	VVINF	_	12	AUX	_	_
+12	soll	sollen	_	VMFIN	sg|3|pres|ind	6	REL	_	_
+13	,	--	_	$,	_	0	ROOT	_	_
+14	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+15	sich	sich	_	PRF	acc|pl|3	19	OBJA	_	_
+16	auf	auf	_	APPR	_	19	OBJP	_	_
+17	einen	ein	_	ART	acc|sg|masc	18	DET	_	_
+18	Preis	Preis	_	NN	acc|sg|masc	16	PN	_	_
+19	geeinigt	einigen	_	VVPP	_	14	AUX	_	_
+20	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Firma	Firma	_	NN	nom|sg|fem	3	ETH	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	nun	nun	_	ADV	_	12	ADV	_	_
+5	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+6	Million	Million	_	NN	nom|sg|fem	7	ATTR	_	_
+7	Euro	Euro	_	NE	*|*|*	3	SUBJ	_	_
+8	weniger	weniger	_	PIS	*|*|*	7	APP	_	_
+9	als	als	_	KOKOM	_	8	KOM	_	_
+10	sie	sie	_	PPER	nom|pl|masc|3	13	SUBJ	_	_
+11	früher	früh	_	ADJD	comp	12	ADV	_	_
+12	verlangt	verlangen	_	VVPP	_	13	AUX	_	_
+13	hat	haben	_	VAFIN	sg|3|pres|ind	9	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+3	Trotzdem	trotzdem	_	PROAV	_	4	DET	_	_
+4	wird	werden	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Umbau	Umbau	_	NN	nom|sg|masc	4	SUBJ	_	_
+7	des	der	_	ART	gen|sg|neut	8	DET	_	_
+8	Stadions	Stadion	_	NN	gen|sg|neut	6	GMOD	_	_
+9	noch	noch	_	ADV	_	10	ADV	_	_
+10	einmal	einmal	_	ADV	_	11	ADV	_	_
+11	teurer	teuer	_	ADJD	comp	4	ADV	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Geplant	planen	_	VVPP	_	2	AUX	_	_
+2	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+3	bisher	bisher	_	ADV	_	2	ADV	_	_
+4	28	28	_	CARD	_	5	ATTR	_	_
+5	Millionen	Million	_	NN	acc|pl|fem	6	ATTR	_	_
+6	Euro	Euro	_	NE	nom|sg|*	2	SUBJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	mehr	mehr	_	PIAT	*|*|*	3	DET	_	_
+5	als	als	_	KOKOM	_	2	KOM	_	_
+6	30	30	_	CARD	_	7	ATTR	_	_
+7	Millionen	Million	_	NN	dat|pl|fem	8	ATTR	_	_
+8	Euro	Euro	_	NE	nom|sg|*	5	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Manche	mancher	_	PIAT	nom|pl|*	2	DET	_	_
+2	Leute	Leute	_	NN	nom|pl|*	0	S	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	6	NEB	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Wahrscheinlich	wahrscheinlich	_	ADJD	pos	6	ADV	_	_
+6	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	die	der	_	ART	nom|pl|*	8	DET	_	_
+8	Kosten	Kosten	_	NN	nom|pl|*	6	SUBJ	_	_
+9	noch	noch	_	ADV	_	10	ADV	_	_
+10	höher	hoch	_	ADJD	comp	6	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|neut|pos	3	ATTR	_	_
+3	Stadion	Stadion	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	im	in	_	APPRART	dat|sg|neut	9	PP	_	_
+6	Frühjahr	Frühjahr	_	NN	dat|sg|neut	5	PN	_	_
+7	2020	2020	_	CARD	_	6	APP	_	_
+8	fertig	fertig	_	ADJD	pos	9	ADV	_	_
+9	sein	sein	_	VAINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	könnte	können	_	VMFIN	sg|3|past|subj	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Fußball·verein	Fußball·verein	_	NN	nom|sg|masc	10	SUBJ	_	_
+5	1.	1	_	CARD	nom|sg|masc|pos	4	APP	_	_
+6	FC	FC	_	NE	nom|sg|masc	5	APP	_	_
+7	Saarbrücken	Saarbrücken	_	NE	nom|sg|masc	6	APP	_	_
+8	dort	dort	_	ADV	_	10	ADV	_	_
+9	wieder	wieder	_	ADV	_	10	ADV	_	_
+10	spielen	spielen	_	VVFIN	pl|3|pres|ind	2	KON	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+

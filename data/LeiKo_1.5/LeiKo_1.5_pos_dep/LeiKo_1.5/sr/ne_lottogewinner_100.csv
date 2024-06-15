@@ -1,0 +1,55 @@
+﻿1	Neuer	neu	_	ADJA	nom|sg|masc|pos	2	ATTR	_	_
+2	Millionär	Millionär	_	NN	nom|sg|masc	0	S	_	_
+3	im	in	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Saarland	Saarland	_	NE	dat|sg|neut	3	PN	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Lotto·Spieler	Lotto·Spieler	_	NN	nom|sg|masc	8	SUBJ	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|neut	5	DET	_	_
+5	Land·kreis	Land·kreis	_	NN	dat|sg|neut	3	PN	_	_
+6	St.	St.	_	NE	*|*|*	5	APP	_	_
+7	Wendel	Wendel	_	NE	nom|sg|*	6	APP	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	6	6	_	CARD	_	11	ATTR	_	_
+10	richtige	richtig	_	ADJA	acc|pl|fem|pos	11	ATTR	_	_
+11	Zahlen	Zahl	_	NN	acc|pl|fem	12	OBJA	_	_
+12	getippt	tippen	_	VVPP	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	1,7	1,7	_	CARD	_	4	ATTR	_	_
+4	Millionen	Million	_	NN	acc|pl|fem	5	ATTR	_	_
+5	Euro	Euro	_	NE	nom|sg|*	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Spieler	Spieler	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	schon	schon	_	ADV	_	3	ADV	_	_
+5	der	der	_	ART	nom|sg|masc	7	DET	_	_
+6	zweite	zweiter	_	ADJA	nom|sg|masc|pos	7	ATTR	_	_
+7	Lotto·Millionär	Lotto·Millionär	_	NN	nom|sg|masc	3	PRED	_	_
+8	innerhalb	innerhalb	_	APPR	_	7	PP	_	_
+9	von	von	_	APPR	_	8	PN	_	_
+10	einer	ein	_	ART	dat|sg|fem	11	DET	_	_
+11	Woche	Woche	_	NN	dat|sg|fem	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	ein	ein	_	ART	nom|sg|masc	3	DET	_	_
+3	Spieler	Spieler	_	NN	nom|sg|masc	14	OBJA	_	_
+4	aus	aus	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|neut	6	DET	_	_
+6	Kreis	Kreis	_	NN	dat|sg|neut	7	ATTR	_	_
+7	Merzig-Wadern	Merzigadern	_	NN	dat|sg|neut	4	PN	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	mehr	mehr	_	PIAT	*|*|*	10	DET	_	_
+10	als	als	_	KOKOM	_	14	KOM	_	_
+11	2	2	_	CARD	_	12	ATTR	_	_
+12	Millionen	Million	_	NN	dat|pl|fem	13	ATTR	_	_
+13	Euro	Euro	_	NN	*|sg|neut	10	CJ	_	_
+14	gewonnen	gewinnen	_	VVPP	_	8	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+

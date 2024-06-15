@@ -1,0 +1,247 @@
+﻿1	Handballer	Handballer	_	NN	nom|sg|masc	4	OBJA	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	dat|sg|neut	2	PN	_	_
+4	gewinnen	gewinnen	_	VVINF	_	0	S	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	TSV	TSV	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	nom|sg|fem	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	acc|sg|neut	7	DET	_	_
+6	wichtiges	wichtig	_	ADJA	acc|sg|neut|pos	7	ATTR	_	_
+7	Spiel	Spiel	_	NN	acc|sg|neut	8	OBJG	_	_
+8	gewonnen	gewinnen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	TSV	TSV	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	nom|sg|fem	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+6	Handball·verein	Handball·verein	_	NN	nom|sg|neut	4	PRED	_	_
+7	aus	aus	_	APPR	_	6	PP	_	_
+8	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	3	DET	_	_
+2	wichtige	wichtig	_	ADJA	nom|sg|neut|pos	3	ATTR	_	_
+3	Spiel	Spiel	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	im	in	_	APPRART	dat|sg|masc	4	PRED	_	_
+6	DHB-Pokal	DHB-Pokal	_	NN	dat|sg|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	DHB	DHB	_	NE	nom|sg|*	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Deutscher	deutsch	_	ADJA	nom|sg|masc|pos	7	ATTR	_	_
+7	Handball·bund	Handball·bund	_	NN	nom|sg|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	das	der	_	ART	nom|sg|neut	4	DET	_	_
+3	wichtige	wichtig	_	ADJA	nom|sg|neut|pos	4	ATTR	_	_
+4	Spiel	Spiel	_	NN	nom|sg|neut	5	SUBJ	_	_
+5	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+6	gegen	gegen	_	APPR	_	5	PRED	_	_
+7	Frisch	Frisch	_	NN	acc|sg|masc	6	PN	_	_
+8	Auf	auf	_	APPR	_	5	PRED	_	_
+9	Göppingen	Göppingen	_	NN	acc|pl|fem	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Göppingen	göppingen	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Baden-Württemberg	Baden-Württemberg	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	TSV	TSV	_	NE	nom|sg|fem	2	PRED	_	_
+5	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	dat|sg|neut	4	APP	_	_
+6	im	in	_	APPRART	dat|sg|neut	5	PP	_	_
+7	Halb·finale	Halb·final	_	NN	dat|sg|neut	6	PN	_	_
+8	vom	von	_	APPRART	dat|sg|neut	2	PRED	_	_
+9	DHB-Pokal	DHB-Pokal	_	NN	dat|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Halbfinale	Halbfinal	_	NN	dat|sg|masc	1	PN	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|pl|neut	7	DET	_	_
+5	besten	gut	_	ADJA	nom|pl|neut|sup	7	ATTR	_	_
+6	4	4	_	CARD	_	7	ATTR	_	_
+7	Vereine	Verein	_	NN	nom|pl|masc	3	PRED	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	einem	ein	_	ART	dat|sg|masc	10	DET	_	_
+10	Wettbewerb	Wettbewerb	_	NN	dat|sg|masc	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|sg|3	2	OBJA	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	TSV	TSV	_	NE	nom|sg|fem	2	SUBJ	_	_
+6	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	nom|sg|fem	5	APP	_	_
+7	sehr	sehr	_	ADV	_	8	ADV	_	_
+8	gefreut	gefreut	_	ADJD	pos	2	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	TSV	TSV	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	nom|sg|fem	2	APP	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+6	noch	noch	_	ADV	_	7	ADV	_	_
+7	nie	nie	_	ADV	_	4	ADV	_	_
+8	im	in	_	APPRART	dat|sg|masc	4	PRED	_	_
+9	Halb·finale	Halb·final	_	NN	dat|sg|masc	8	PN	_	_
+10	vom	von	_	APPRART	dat|sg|masc	9	PP	_	_
+11	DHB-Pokal	DHB-Pokal	_	NN	dat|sg|masc	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	DHB-Pokal	DHB-Pokal	_	NN	nom|sg|masc	0	S	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	3	PP	_	_
+2	DHB-Pokal	DHB-Pokal	_	NE	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	viele	vieler	_	PIAT	acc|pl|masc	6	DET	_	_
+6	Spiele	Spiel	_	NN	acc|pl|masc	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	nur	nur	_	ADV	_	4	ADV	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Gewinner	Gewinner	_	NN	nom|sg|fem	8	SUBJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	dat|pl|masc	7	DET	_	_
+7	Spielen	Spiel	_	NN	dat|pl|masc	5	PN	_	_
+8	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+9	im	in	_	APPRART	dat|sg|neut	11	PP	_	_
+10	DHB-Pokal	DHB-Pokal	_	NN	dat|sg|neut	9	PN	_	_
+11	weiter·spielen	weiter·spallen	_	VVINF	_	8	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|neut	6	PP	_	_
+2	Ende	Ende	_	NN	dat|sg|neut	1	PN	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|masc	5	DET	_	_
+5	DHB-Pokal	DHB-Pokal	_	NN	dat|sg|masc	3	PN	_	_
+6	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	ein	ein	_	ART	nom|sg|masc	9	DET	_	_
+9	Turnier	Turnier	_	NN	nom|sg|masc	6	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Turnier	Turnier	_	NN	dat|sg|neut	1	PN	_	_
+4	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	besten	gut	_	ADJA	nom|pl|neut|sup	4	OBJA	_	_
+7	4	4	_	CARD	_	8	ATTR	_	_
+8	Handball·vereine	Handball·verein	_	NN	nom|pl|masc	4	OBJD	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dieses	dieser	_	PDAT	nom|sg|neut	3	DET	_	_
+3	Turnier	Turnier	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	immer	immer	_	ADV	_	4	ADV	_	_
+6	in	in	_	APPR	_	4	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	das	der	_	ART	nom|sg|neut	6	DET	_	_
+6	Turnier	Turnier	_	NN	nom|sg|neut	4	SUBJ	_	_
+7	am	an	_	APPRART	dat|sg|masc	6	PP	_	_
+8	5.	5.	_	ADJA	dat|sg|masc|pos	9	ATTR	_	_
+9	Mai	Mai	_	NN	dat|sg|masc	7	PN	_	_
+10	und	und	_	KON	_	7	KON	_	_
+11	am	an	_	APPRART	dat|sg|masc	10	CJ	_	_
+12	6.	6.	_	ADJA	dat|sg|masc|pos	13	ATTR	_	_
+13	Mai	Mai	_	NN	dat|sg|masc	11	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Gewinner	Gewinner	_	NN	nom|sg|masc	6	OBJA	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	diesem	dieser	_	PDAT	dat|sg|neut	5	DET	_	_
+5	Turnier	Turnier	_	NN	dat|sg|neut	3	PN	_	_
+6	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	DHB-Pokal	DHB-Pokal	_	NN	acc|sg|masc	6	PAR	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mortensen	Mortensen	_	NE	nom|sg|masc	0	S	_	_
+2	bester	gut	_	ADJA	nom|sg|masc|sup	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|sg|masc	1	APP	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	TSV	TSV	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	nom|sg|fem	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	das	der	_	ART	acc|sg|neut	6	DET	_	_
+6	Spiel	Spiel	_	NN	acc|sg|neut	13	OBJA	_	_
+7	gegen	gegen	_	APPR	_	6	PP	_	_
+8	Frisch	Frisch	_	NN	acc|sg|masc	7	PN	_	_
+9	Auf	auf	_	APPR	_	8	PP	_	_
+10	Göppingen	Göppingen	_	NE	dat|sg|neut	9	PN	_	_
+11	mit	mit	_	APPR	_	13	PP	_	_
+12	31:30	31:30	_	CARD	_	11	PN	_	_
+13	gewonnen	gewinnen	_	VVPP	_	4	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	TSV	TSV	_	NE	nom|sg|fem	7	SUBJ	_	_
+6	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	nom|sg|fem	5	APP	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	2	S	_	_
+8	31	31	_	CARD	_	9	ATTR	_	_
+9	Tore	Tor	_	NN	acc|pl|masc	0	S	_	_
+10	geworfen	werfen	_	VVPP	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Frisch	Frisch	_	NE	nom|sg|*	5	SUBJ	_	_
+3	Auf	auf	_	APPR	_	2	PP	_	_
+4	Göppingen	Göppingen	_	NE	dat|sg|neut	3	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	30	30	_	CARD	_	7	ATTR	_	_
+7	Tore	Tor	_	NN	acc|pl|masc	5	SUBJ	_	_
+8	geworfen	werfen	_	VVPP	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bester	bester	_	NE	nom|sg|masc	7	PRED	_	_
+2	Spieler	Spieler	_	NE	nom|sg|masc	1	APP	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	TSV	TSV	_	NE	dat|sg|fem	3	PN	_	_
+6	Hannover-Burgdorf	Hannover-Burgdorf	_	NE	nom|sg|neut	5	APP	_	_
+7	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+8	Casper	Casper	_	NE	nom|sg|*	7	PRED	_	_
+9	Mortensen	Mortensen	_	NE	nom|sg|*	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Casper	Casper	_	NE	nom|sg|*	3	SUBJ	_	_
+2	Mortensen	Mortensen	_	NE	nom|sg|*	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	7	ADV	_	_
+5	10	10	_	CARD	_	6	ATTR	_	_
+6	Tore	Tor	_	NN	acc|pl|masc	7	OBJA	_	_
+7	geworfen	werfen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+

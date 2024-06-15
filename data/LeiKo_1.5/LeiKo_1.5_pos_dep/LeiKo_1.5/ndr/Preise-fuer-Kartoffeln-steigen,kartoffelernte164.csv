@@ -1,0 +1,213 @@
+1	Preise	Preis	_	NN	nom|pl|masc	4	OBJA	_	_
+2	für	für	_	APPR	_	1	PP	_	_
+3	Kartoffeln	Kartoffel	_	NN	acc|pl|fem	2	PN	_	_
+4	steigen	steigen	_	VVINF	pl|3|pres|ind	0	S	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Nord·deutschland	Nord·deutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	8	OBJA	_	_
+5	im	in	_	APPRART	dat|sg|masc	8	PP	_	_
+6	Sommer	Sommer	_	NN	dat|sg|masc	5	PN	_	_
+7	wenig	wenig	_	PIS	*|*|*	8	ADV	_	_
+8	geregnet	regnen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	in	in	_	APPR	_	4	PP	_	_
+3	Nord·deutschland	Nord·deutschland	_	NE	dat|sg|neut	2	PN	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	im	in	_	APPRART	dat|sg|masc	4	PP	_	_
+7	Sommer	Sommer	_	NN	dat|sg|masc	6	PN	_	_
+8	sehr	sehr	_	ADV	_	9	ADV	_	_
+9	warm	warm	_	ADJD	pos	4	ADV	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	ETH	_	_
+4	in	in	_	APPR	_	2	PP	_	_
+5	Nord·deutschland	Nord·deutschland	_	NE	dat|sg|neut	4	PN	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	trocken	trocken	_	ADJD	pos	2	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Felder	Feld	_	NN	nom|pl|masc	6	SUBJ	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Nord·deutschland	Nord·deutschland	_	NE	dat|sg|neut	4	PN	_	_
+6	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+7	sehr	sehr	_	ADV	_	8	ADV	_	_
+8	trocken	trocken	_	ADJD	pos	6	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|fem	4	DET	_	_
+4	Pflanzen	Pflanze	_	NN	nom|pl|fem	11	ADV	_	_
+5	auf	auf	_	APPR	_	11	PP	_	_
+6	den	der	_	ART	acc|sg|masc	8	DET	_	_
+7	trockenen	trocken	_	ADJA	acc|sg|masc|pos	8	ATTR	_	_
+8	Feldern	Feld	_	NN	acc|sg|masc	5	PN	_	_
+9	nicht	nicht	_	PTKNEG	_	11	ADV	_	_
+10	gut	gut	_	ADJD	pos	11	ADV	_	_
+11	gewachsen	wachsen	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Bauern	Bauer	_	NN	nom|pl|masc	3	OBJA	_	_
+6	in	in	_	APPR	_	3	PP	_	_
+7	diesem	dieser	_	PDAT	dat|sg|neut	8	DET	_	_
+8	Jahr	Jahr	_	NN	dat|sg|neut	6	PN	_	_
+9	eine	ein	_	ART	acc|sg|fem	11	DET	_	_
+10	kleinere	klein	_	ADJA	acc|sg|fem|comp	11	ATTR	_	_
+11	Ernte	Ernte	_	NN	acc|sg|fem	3	OBJA	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Kartoffeln	Kartoffel	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+6	gut	gut	_	ADJD	pos	7	ADV	_	_
+7	gewachsen	wachsen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	6	DET	_	_
+2	ernten	ernen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Bauern	Bauer	_	NN	nom|pl|masc	2	OBJA	_	_
+5	kleinere	klein	_	ADJA	nom|pl|neut|comp	6	ATTR	_	_
+6	Kartoffeln	Kartoffel	_	NN	acc|pl|fem	4	GMOD	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Bauern	Bauer	_	NN	nom|pl|masc	4	PN	_	_
+4	ernten	ernten	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	weniger	weniger	_	PIAT	acc|pl|fem	6	DET	_	_
+6	Kartoffeln	Kartoffel	_	NN	acc|pl|fem	4	PAR	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Weniger	weniger	_	PIAT	*|*|*	2	DET	_	_
+2	Kartoffeln	Kartoffel	_	NN	nom|pl|fem	0	S	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Bauern	Bauer	_	NN	nom|pl|masc	3	OBJA	_	_
+3	verkaufen	verkaufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	ihre	ihr	_	PPOSAT	acc|pl|masc	5	DET	_	_
+5	Kartoffel·ernte	Kartoffel·ernte	_	NN	acc|pl|masc	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Bauern	Bauer	_	NN	nom|pl|masc	3	SUBJ	_	_
+6	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+7	kleinere	klein	_	ADJA	acc|sg|fem|comp	8	ATTR	_	_
+8	Kartoffel·ernte	Kartoffel·ernte	_	NN	acc|sg|fem	3	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fach·leute	Fach·leute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Im	in	_	APPRART	dat|sg|neut	8	PP	_	_
+6	vergangenen	vergangen	_	ADJA	dat|sg|neut|pos	7	ATTR	_	_
+7	Jahr	Jahr	_	NN	dat|sg|neut	5	PN	_	_
+8	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+9	wir	wir	_	PPER	nom|pl|*|1	8	SUBJ	_	_
+10	sehr	sehr	_	ADV	_	11	ADV	_	_
+11	viele	vieler	_	PIAT	acc|pl|fem	12	ATTR	_	_
+12	Kartoffeln	Kartoffel	_	NN	acc|pl|fem	13	OBJA	_	_
+13	geerntet	ernten	_	VVPP	_	8	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	in	in	_	APPR	_	5	PP	_	_
+3	diesem	dieser	_	PDAT	dat|sg|neut	4	DET	_	_
+4	Jahr	Jahr	_	NN	dat|sg|neut	2	PN	_	_
+5	ernten	ernten	_	VVFIN	pl|1|past|ind	1	CJ	_	_
+6	wir	wir	_	PPER	nom|pl|*|1	5	SUBJ	_	_
+7	viel	viel	_	ADV	_	8	ADV	_	_
+8	weniger	weniger	_	PIAT	acc|pl|fem	9	DET	_	_
+9	Kartoffeln	Kartoffel	_	NN	acc|pl|fem	5	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	wenige	weniger	_	PIAT	nom|pl|fem	3	DET	_	_
+3	Kartoffeln	Kartoffel	_	NN	nom|pl|fem	4	OBJA	_	_
+4	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+5	wir	wir	_	PPER	nom|pl|*|1	7	OBJA	_	_
+6	selten	selten	_	ADJD	pos	7	ADV	_	_
+7	geerntet	ernten	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	viel	viel	_	ADV	_	7	ADV	_	_
+7	weniger	weniger	_	PIAT	*|*|*	8	DET	_	_
+8	Kartoffeln	Kartoffel	_	NN	nom|pl|fem	4	OBJA	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	steigen	steigen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Preise	Preis	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Kartoffeln	Kartoffel	_	NN	acc|pl|fem	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Menschen	Mensch	_	NN	_	5	AUX	_	_
+5	müssen	müssen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+6	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+7	Geld	Geld	_	NN	acc|sg|neut	10	OBJA	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Kartoffeln	Kartoffel	_	NN	acc|pl|fem	8	PN	_	_
+10	bezahlen	bezahlen	_	VVINF	_	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kartoffeln	Kartoffel	_	NN	nom|pl|fem	2	PRED	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	in	in	_	APPR	_	2	PRED	_	_
+5	vielen	vieler	_	PIAT	dat|pl|neut	6	DET	_	_
+6	Lebensmitteln	Lebensmittel	_	NN	dat|pl|neut	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	In	in	_	APPR	_	0	S	_	_
+3	Pommes	--	_	FM	_	2	PN	_	_
+4	frites	--	_	FM	_	3	APP	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Oder	Oder	_	KON	_	0	S	_	_
+3	in	in	_	APPR	_	2	CJ	_	_
+4	Kartoffel·chips	Kartoffel·chip	_	NN	dat|pl|masc	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	acc|pl|masc	3	DET	_	_
+3	Preise	Preis	_	NN	acc|pl|masc	7	OBJA	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	diese	dieser	_	PDAT	acc|pl|masc	6	DET	_	_
+6	Lebensmittel	Lebensmittel	_	NN	acc|pl|masc	4	PN	_	_
+7	steigen	steigen	_	VVINF	_	0	S	_	_
+8	.	--	_	$.	_	0	ROOT	_	_

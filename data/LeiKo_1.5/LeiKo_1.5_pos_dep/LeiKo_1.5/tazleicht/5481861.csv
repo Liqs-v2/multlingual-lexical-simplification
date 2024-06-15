@@ -1,0 +1,536 @@
+1	Neue	neu	_	ADJA	nom|pl|masc|pos	2	ATTR	_	_
+2	Vorsitzende	Vorsitzender	_	NN	nom|pl|masc	0	S	_	_
+3	bei	bei	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|masc	5	DET	_	_
+5	Grünen	grüne	_	NN	dat|pl|masc	3	PN	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Partei	Partei	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	Die	der	_	ART	acc|pl|fem	4	DET	_	_
+4	Grünen	grüne	_	NN	acc|pl|fem	2	APP	_	_
+5	hat	haben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	2	2	_	CARD	_	8	ATTR	_	_
+7	neue	neu	_	ADJA	acc|pl|masc|pos	8	ATTR	_	_
+8	Vorsitzende	Vorsitzender	_	NN	acc|pl|masc	5	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+4	neue	neu	_	ADJA	acc|sg|fem|pos	5	ATTR	_	_
+5	Politik	Politik	_	NN	acc|sg|fem	2	OBJA	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	die	der	_	ART	acc|pl|fem	8	DET	_	_
+8	Grünen	grüne	_	NN	acc|pl|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	%% Bild taz_A2 %%
+
+1	Die	der	_	ART	nom|pl|*	2	DET	_	_
+2	Grünen	grüne	_	NN	nom|pl|*	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	2	2	_	CARD	_	6	ATTR	_	_
+5	neue	neu	_	ADJA	nom|pl|masc|pos	6	ATTR	_	_
+6	Vorsitzende	Vorsitzender	_	NN	nom|pl|masc	7	OBJA	_	_
+7	gewählt	wählen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|neut	3	DET	_	_
+2	neuen	neu	_	ADJA	nom|pl|neut|pos	3	ATTR	_	_
+3	Vorsitzenden	Vorsitzender	_	NN	nom|pl|neut	4	SUBJ	_	_
+4	heißen	heißen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	:	--	_	$,	_	0	ROOT	_	_
+6	Annalena	Annalena	_	NE	nom|sg|fem	4	PRED	_	_
+7	Baerbock	Baerbock	_	NE	nom|sg|fem	6	APP	_	_
+8	[	[	_	$(	pos	0	ROOT	_	_
+9	gesprochen	sprechen	_	VVPP	_	11	ADV	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+11	Bärbock	Bärbock	_	NE	nom|sg|masc	0	S	_	_
+12	]	]	_	$(	nom|sg|masc	0	ROOT	_	_
+13	und	und	_	KON	_	6	KON	_	_
+14	Robert	Robert	_	NE	nom|sg|masc	13	CJ	_	_
+15	Habeck	Habeck	_	NE	nom|sg|masc	14	APP	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	3	DET	_	_
+2	neuen	neu	_	ADJA	nom|pl|fem|pos	3	ATTR	_	_
+3	Vorsitzenden	Vorsitzender	_	NN	nom|pl|fem	4	SUBJ	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	jung	jung	_	ADJD	pos	4	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	neue	neu	_	ADJA	acc|pl|fem|pos	4	ATTR	_	_
+4	Ideen	Idee	_	NN	acc|pl|fem	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Ideen	Idee	_	NN	dat|pl|fem	1	PN	_	_
+4	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	sie	sie	_	PPER	nom|pl|*|3	4	SUBJ	_	_
+6	die	der	_	ART	acc|sg|fem	7	DET	_	_
+7	Partei	Partei	_	NN	acc|sg|fem	9	OBJA	_	_
+8	neu	neu	_	ADJD	pos	9	ADV	_	_
+9	gestalten	gestalten	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	könnte	können	_	VMFIN	sg|3|past|subj	0	S	_	_
+3	das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+4	schwierig	schwierig	_	ADJD	pos	5	PRED	_	_
+5	werden	werden	_	VVINF	_	2	AUX	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	6	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Partei	Partei	_	NN	dat|sg|fem	1	PN	_	_
+4	Die	der	_	ART	acc|pl|fem	5	DET	_	_
+5	Grünen	grüne	_	NN	acc|pl|fem	3	APP	_	_
+6	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	2	2	_	CARD	_	9	ATTR	_	_
+9	Gruppen	Gruppe	_	NN	acc|pl|fem	6	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Gruppe	Gruppe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	möchte	möchten	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+5	linke	linker	_	ADJA	acc|sg|fem|pos	6	ATTR	_	_
+6	Politik	Politik	_	NN	acc|sg|fem	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Gruppe	Gruppe	_	NN	nom|sg|fem	3	OBJA	_	_
+3	nennt	nennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	man	man	_	PIS	nom|sg|*	3	SUBJ	_	_
+5	:	--	_	$,	_	0	ROOT	_	_
+6	Linke	linke	_	NN	acc|pl|masc	3	OBJA2	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	3	DET	_	_
+2	andere	anderer	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Gruppe	Gruppe	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	möchte	möchten	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	auch	auch	_	ADV	_	4	ADV	_	_
+6	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+7	linke	linker	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Politik	Politik	_	NN	acc|sg|fem	4	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Doch	doch	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+3	Gruppe	Gruppe	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	möchte	möchten	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+5	sich	sich	_	PRF	acc|sg|3	10	OBJA	_	_
+6	dabei	dabei	_	PROAV	_	10	PP	_	_
+7	an	an	_	APPR	_	10	PP	_	_
+8	andere	anderer	_	ADJA	acc|pl|fem|pos	9	ATTR	_	_
+9	Parteien	Partei	_	NN	acc|pl|fem	7	PN	_	_
+10	anpassen	anpassen	_	VVINF	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	acc|sg|fem	3	DET	_	_
+3	Gruppe	Gruppe	_	NN	acc|sg|fem	4	SUBJ	_	_
+4	möchte	möchten	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	dass	dass	_	KOUS	_	12	KONJ	_	_
+7	die	der	_	ART	nom|pl|*	8	DET	_	_
+8	Grünen	grüne	_	NN	nom|pl|*	12	SUBJ	_	_
+9	in	in	_	APPR	_	11	PP	_	_
+10	Deutschland	Deutschland	_	NE	dat|sg|neut	9	PN	_	_
+11	mitregieren	mitregieren	_	VVINF	_	12	AUX	_	_
+12	können	können	_	VMFIN	pl|3|pres|ind	4	OBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Gruppe	Gruppe	_	NN	nom|sg|fem	3	OBJA	_	_
+3	nennt	nennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	man	man	_	PIS	nom|sg|*	3	SUBJ	_	_
+5	:	--	_	$,	_	0	ROOT	_	_
+6	Realos	Realo	_	NN	acc|pl|masc	3	OBJA2	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Linke	linke	_	NN	nom|sg|*	4	SUBJ	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	Realos	Realo	_	NN	nom|sg|*	2	CJ	_	_
+4	streiten	streiten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	oft	oft	_	ADV	_	4	ADV	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	wie	wie	_	KOUS	_	14	KONJ	_	_
+8	die	der	_	ART	nom|sg|fem	9	DET	_	_
+9	Politik	Politik	_	NN	nom|sg|fem	14	SUBJ	_	_
+10	bei	bei	_	APPR	_	13	PP	_	_
+11	den	der	_	ART	dat|pl|*	12	DET	_	_
+12	Grünen	grüne	_	NN	dat|pl|*	10	PN	_	_
+13	sein	sein	_	VVINF	_	14	AUX	_	_
+14	soll	sollen	_	VMFIN	sg|3|pres|ind	4	OBJC	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bisher	bisher	_	ADV	_	2	ADV	_	_
+2	war	sein	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	bei	bei	_	APPR	_	2	PP	_	_
+5	den	der	_	ART	dat|pl|*	6	DET	_	_
+6	Grünen	grüne	_	NN	dat|pl|*	4	PN	_	_
+7	so	so	_	ADV	_	2	ADV	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Vorsitzender	Vorsitzender	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	kam	kommen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	den	der	_	ART	dat|pl|*	6	DET	_	_
+6	Linken	linke	_	NN	dat|pl|*	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	ein	ein	_	ART	nom|sg|masc	3	DET	_	_
+3	Vorsitzender	Vorsitzender	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	kam	kommen	_	VVFIN	sg|3|past|ind	1	CJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	dat|pl|masc	7	DET	_	_
+7	Realos	Realo	_	NN	dat|pl|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	waren	sein	_	VVFIN	pl|3|past|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	2	OBJA	_	_
+4	bei	bei	_	APPR	_	2	PP	_	_
+5	vielen	vieler	_	PIAT	dat|pl|masc	6	DET	_	_
+6	Themen	Thema	_	NN	dat|pl|masc	4	PN	_	_
+7	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+8	einig	einig	_	ADJD	pos	2	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	5	PP	_	_
+2	den	der	_	ART	dat|pl|neut	4	DET	_	_
+3	neuen	neu	_	ADJA	dat|pl|neut|pos	4	ATTR	_	_
+4	Vorsitzenden	Vorsitzender	_	NN	dat|pl|neut	1	PN	_	_
+5	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	bei	bei	_	APPR	_	5	PP	_	_
+8	den	der	_	ART	dat|pl|*	9	DET	_	_
+9	Grünen	grüne	_	NN	dat|pl|*	7	PN	_	_
+10	so	so	_	ADV	_	5	ADV	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+
+1	Annalena	Annalena	_	NE	nom|sg|fem	6	SUBJ	_	_
+2	Baerbock	Baerbock	_	NE	nom|sg|fem	1	APP	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Robert	Robert	_	NE	nom|sg|masc	3	CJ	_	_
+5	Habeck	Habeck	_	NE	dat|sg|masc	4	APP	_	_
+6	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+7	beide	beide	_	PIS	nom|pl|*	6	ADV	_	_
+8	von	von	_	APPR	_	6	PP	_	_
+9	den	der	_	ART	dat|pl|*	10	DET	_	_
+10	Realos	Realo	_	NN	dat|pl|*	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	2	OBJA	_	_
+4	bei	bei	_	APPR	_	2	PP	_	_
+5	vielen	vieler	_	PIAT	dat|pl|masc	6	DET	_	_
+6	Themen	Thema	_	NN	dat|pl|masc	4	PN	_	_
+7	einig	einig	_	ADJD	pos	2	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	glauben	glauben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	zwar	zwar	_	ADV	_	3	ADV	_	_
+5	:	--	_	$,	_	0	ROOT	_	_
+6	Annalena	Annalena	_	NE	nom|sg|neut	11	SUBJ	_	_
+7	Baerbock	Baerbock	_	NE	nom|sg|neut	6	APP	_	_
+8	und	und	_	KON	_	7	KON	_	_
+9	Robert	Robert	_	NE	nom|sg|masc	8	CJ	_	_
+10	Habeck	Habeck	_	NE	nom|sg|masc	9	APP	_	_
+11	setzen	setzen	_	VVFIN	pl|3|pres|ind	3	S	_	_
+12	sich	sich	_	PRF	acc|pl|3	11	OBJA	_	_
+13	nicht	nicht	_	PTKNEG	_	11	ADV	_	_
+14	für	für	_	APPR	_	11	PP	_	_
+15	die	der	_	ART	acc|sg|fem	16	DET	_	_
+16	Politik	Politik	_	NN	acc|sg|fem	14	PN	_	_
+17	von	von	_	APPR	_	16	PP	_	_
+18	der	der	_	ART	dat|sg|fem	20	DET	_	_
+19	linken	linker	_	ADJA	dat|sg|fem|pos	20	ATTR	_	_
+20	Gruppe	Gruppe	_	NN	dat|sg|fem	17	PN	_	_
+21	ein	ein	_	PTKVZ	_	11	AVZ	_	_
+22	.	--	_	$.	_	0	ROOT	_	_
+
+1	Annalena	Annalena	_	NE	nom|sg|fem	6	SUBJ	_	_
+2	Baerbock	Baerbock	_	NE	nom|sg|fem	1	APP	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Robert	Robert	_	NE	nom|sg|masc	3	CJ	_	_
+5	Habeck	Habeck	_	NE	dat|sg|masc	4	APP	_	_
+6	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+7	aber	aber	_	ADV	_	6	ADV	_	_
+8	:	--	_	$,	_	0	ROOT	_	_
+9	Wir	wir	_	PPER	nom|pl|*|1	10	SUBJ	_	_
+10	sprechen	sprechen	_	VVFIN	pl|1|pres|ind	6	S	_	_
+11	auch	auch	_	ADV	_	10	ADV	_	_
+12	über	über	_	APPR	_	10	PP	_	_
+13	linke	linker	_	ADJA	acc|pl|masc|pos	14	ATTR	_	_
+14	Themen	Thema	_	NN	acc|pl|masc	12	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|1|pres|ind	0	S	_	_
+3	für	für	_	APPR	_	8	PP	_	_
+4	alle	alle	_	PIS	acc|pl|*	3	PN	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Partei	Partei	_	NN	dat|sg|fem	5	PN	_	_
+8	sprechen	sprechen	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|pl|masc	2	DET	_	_
+2	Themen	Thema	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Annalena	Annalena	_	NE	dat|pl|3	3	OBJD	_	_
+5	Baerbock	Baerbock	_	NE	acc|sg|*	4	APP	_	_
+6	wichtig	wichtig	_	ADJD	pos	3	PRED	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Annalena	Annalena	_	NE	nom|sg|fem	3	SUBJ	_	_
+2	Baerbock	Baerbock	_	NE	nom|sg|fem	1	APP	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	37	37	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	6	GRAD	_	_
+6	alt	alt	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|masc	5	DET	_	_
+5	Bundesland	Bundesland	_	NN	dat|sg|masc	3	PN	_	_
+6	Brandenburg	Brandenburg	_	NE	nom|sg|neut	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Annalena	Annalena	_	NE	nom|sg|fem	3	SUBJ	_	_
+2	Baerbock	Baerbock	_	NE	nom|sg|fem	1	APP	_	_
+3	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	diese	dieser	_	PDAT	acc|sg|fem	6	DET	_	_
+5	linken	linker	_	ADJA	acc|pl|neut|pos	6	ATTR	_	_
+6	Themen	Thema	_	NN	acc|pl|neut	3	OBJA	_	_
+7	wichtig	wichtig	_	ADJD	pos	3	PRED	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	die	der	_	ART	acc|sg|fem	10	DET	_	_
+10	Politik	Politik	_	NN	acc|sg|fem	8	PN	_	_
+11	der	der	_	ART	gen|pl|*	12	DET	_	_
+12	Grünen	grüne	_	NN	gen|pl|*	10	GMOD	_	_
+13	:	--	_	$.	_	0	ROOT	_	_
+
+1	Klima-Schutz	Klimaschutz	_	NN	nom|sg|masc	0	S	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	Familien-Nachzug	Familiennachzug	_	NN	nom|sg|masc	2	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Annalena	Annalena	_	NE	nom|sg|fem	3	SUBJ	_	_
+2	Baerbock	Baerbock	_	NE	nom|sg|fem	1	APP	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|sg|3	8	OBJA	_	_
+5	für	für	_	APPR	_	8	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Klima-Schutz	Klimaschutz	_	NN	acc|sg|masc	5	PN	_	_
+8	einsetzen	einsetzen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$,	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|pl|*	5	DET	_	_
+5	Grünen	grüne	_	NN	nom|pl|*	6	SUBJ	_	_
+6	müssen	müssen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+7	noch	noch	_	ADV	_	8	ADV	_	_
+8	mehr	mehr	_	ADV	_	12	ADV	_	_
+9	gegen	gegen	_	APPR	_	12	PP	_	_
+10	den	der	_	ART	acc|sg|masc	11	DET	_	_
+11	Klima-Wandel	Klimawandel	_	NN	acc|sg|masc	9	PN	_	_
+12	tun	tun	_	VVINF	_	6	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Klima-Wandel	Klimawandel	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	nimmt	nehmen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	weiter	weiter	_	ADV	_	3	ADV	_	_
+5	zu	zu	_	PTKVZ	_	3	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Durch	durch	_	APPR	_	8	PP	_	_
+2	die	der	_	ART	acc|sg|fem	3	DET	_	_
+3	Abgase	Abgase	_	NN	acc|sg|fem	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	Autos	Auto	_	NN	dat|pl|neut	4	PN	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Fabriken	Fabrik	_	NN	dat|pl|neut	6	CJ	_	_
+8	steigt	steigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	die	der	_	ART	nom|sg|fem	10	DET	_	_
+10	Temperatur	Temperatur	_	NN	nom|sg|fem	8	SUBJ	_	_
+11	auf	auf	_	APPR	_	8	PP	_	_
+12	der	der	_	ART	dat|sg|fem	13	DET	_	_
+13	Erde	Erde	_	NN	dat|sg|fem	11	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	wird	werden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	immer	immer	_	ADV	_	4	ADV	_	_
+4	wärmer	warm	_	ADJD	comp	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	gefährlich	gefährlich	_	ADJD	pos	2	PRED	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	die	der	_	ART	acc|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	4	PN	_	_
+7	und	und	_	KON	_	4	KON	_	_
+8	für	für	_	APPR	_	7	CJ	_	_
+9	die	der	_	ART	acc|sg|fem	10	DET	_	_
+10	Natur	Natur	_	NN	acc|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Annalena	Annalena	_	NE	nom|sg|fem	3	SUBJ	_	_
+2	Baerbock	Baerbock	_	NE	nom|sg|fem	1	APP	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Familien-Nachzug	Familiennachzug	_	NN	acc|sg|masc	3	OBJA	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	Flüchtlinge	Flüchtling	_	NN	acc|pl|masc	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Familien-Nachzug	Familiennachzug	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Flüchtlinge	Flüchtling	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	kommen	kommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	alleine	alleine	_	ADV	_	3	ADV	_	_
+5	nach	nach	_	APPR	_	3	PP	_	_
+6	Deutschland	Deutschland	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|neut	2	DET	_	_
+2	Flüchtlinge	Flüchtling	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	dass	dass	_	KOUS	_	12	KONJ	_	_
+6	ihre	ihr	_	PPOSAT	acc|pl|neut	7	DET	_	_
+7	Familien-Mitglieder	Familienmitglied	_	NN	acc|pl|neut	12	SUBJ	_	_
+8	später	spät	_	ADJD	comp	11	ADV	_	_
+9	nach	nach	_	APPR	_	11	PP	_	_
+10	Deutschland	Deutschland	_	NE	dat|sg|neut	9	PN	_	_
+11	nachkommen	nachkommen	_	VVINF	_	12	AUX	_	_
+12	können	können	_	VMFIN	_	3	OBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	vermissen	vermissen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	ihre	ihr	_	PPOSAT	acc|sg|fem	4	DET	_	_
+4	Eltern	Eltern	_	NN	gen|pl|*	2	OBJA	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	Partner	Partner	_	NN	dat|sg|masc	4	KON	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	Kinder	Kind	_	NN	nom|pl|neut	7	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Außerdem	außerdem	_	PROAV	_	7	PP	_	_
+2	:	--	_	$,	_	0	ROOT	_	_
+3	Viele	vieler	_	PIAT	nom|pl|neut	4	DET	_	_
+4	Familien	Familie	_	NN	nom|pl|neut	7	SUBJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Flüchtlingen	Flüchtling	_	NN	dat|pl|masc	5	PN	_	_
+7	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+8	in	in	_	APPR	_	7	PP	_	_
+9	ihrer	ihr	_	PPOSAT	dat|sg|fem	10	DET	_	_
+10	Heimat	Heimat	_	NN	dat|sg|fem	8	PN	_	_
+11	in	in	_	APPR	_	7	PP	_	_
+12	Gefahr	Gefahr	_	NN	dat|sg|fem	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	oft	oft	_	ADV	_	2	ADV	_	_
+5	Krieg	Krieg	_	NN	acc|sg|masc	2	OBJA	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	Verfolgung	Verfolgung	_	NN	acc|sg|fem	5	KON	_	_
+8	und	und	_	KON	_	7	KON	_	_
+9	Hunger	Hunger	_	NN	acc|pl|masc	8	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|pl|masc	2	DET	_	_
+2	Themen	Thema	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Robert	Robert	_	NE	nom|sg|masc	3	OBJD	_	_
+5	Habeck	Habeck	_	NE	nom|sg|masc	4	APP	_	_
+6	wichtig	wichtig	_	ADJD	pos	3	PRED	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Robert	Robert	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Habeck	Habeck	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	48	48	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	6	GRAD	_	_
+6	alt	alt	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|masc	5	DET	_	_
+5	Bundesland	Bundesland	_	NN	dat|sg|masc	3	PN	_	_
+6	Schleswig-Holstein	Schleswig-Holstein	_	NE	nom|sg|neut	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Robert	Robert	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Habeck	Habeck	_	NE	nom|sg|masc	1	APP	_	_
+3	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	ART	acc|sg|neut	6	DET	_	_
+5	linke	linker	_	ADJA	acc|sg|neut|pos	6	ATTR	_	_
+6	Thema	Thema	_	NN	acc|sg|neut	3	OBJA	_	_
+7	"	--	_	$(	_	0	ROOT	_	_
+8	Umverteilung	Umverteilung	_	NN	nom|sg|fem	6	APP	_	_
+9	"	--	_	$(	nom|sg|fem	0	ROOT	_	_
+10	wichtig	wichtig	_	ADJD	pos	3	PRED	_	_
+11	für	für	_	APPR	_	10	PP	_	_
+12	die	der	_	ART	acc|sg|fem	13	DET	_	_
+13	Politik	Politik	_	NN	acc|sg|fem	11	PN	_	_
+14	der	der	_	ART	gen|pl|*	15	DET	_	_
+15	Grünen	grüne	_	NN	gen|pl|*	13	GMOD	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$,	_	0	ROOT	_	_
+4	Ärmere	arm	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	acc|pl|fem	6	SUBJ	_	_
+6	sollen	sollen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+7	mehr	mehr	_	PIAT	*|*|*	8	DET	_	_
+8	Geld	Geld	_	NN	acc|sg|neut	9	OBJA	_	_
+9	bekommen	bekommen	_	VVINF	_	6	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Reichere	reich	_	ADJA	nom|pl|masc	2	ATTR	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	mehr	mehr	_	PIAT	*|*|*	5	DET	_	_
+5	Geld	Geld	_	NN	acc|sg|neut	6	OBJA	_	_
+6	abgeben	abgeben	_	VVINF	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	reichere	reich	_	ADJA	nom|pl|masc	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+6	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+7	Steuern	Steuer	_	NN	acc|pl|fem	8	OBJA	_	_
+8	bezahlen	bezahlen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_

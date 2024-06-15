@@ -1,0 +1,212 @@
+﻿1	Neue	neu	_	ADJA	acc|pl|masc|pos	2	ATTR	_	_
+2	Münze	Münze	_	NN	acc|pl|masc	0	S	_	_
+3	mit	mit	_	APPR	_	2	PP	_	_
+4	Bild	Bild	_	NN	dat|sg|neut	3	PN	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Helmut	Helmut	_	NE	dat|sg|neut	5	PN	_	_
+7	Schmidt	Schmidt	_	NE	dat|sg|neut	6	APP	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Deutschland	Deutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+6	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+7	neue	neu	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Münze	Münze	_	NN	acc|sg|fem	3	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Münze	Münze	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+6	2-Euro-Münze	2-euro-münze	_	NN	nom|sg|fem	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	auf	auf	_	APPR	_	6	PP	_	_
+3	dieser	dieser	_	PDAT	dat|sg|fem	5	DET	_	_
+4	neuen	neu	_	ADJA	dat|sg|fem|pos	5	ATTR	_	_
+5	Münze	Münze	_	NN	dat|sg|fem	2	PN	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+7	ein	ein	_	ART	nom|sg|neut	9	DET	_	_
+8	besonderes	besonderer	_	ADJA	nom|sg|neut|pos	9	ATTR	_	_
+9	Bild	Bild	_	NN	nom|sg|neut	6	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieses	dieser	_	PDAT	nom|sg|neut	2	DET	_	_
+2	Bild	Bild	_	NN	nom|sg|neut	3	OBJA	_	_
+3	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Kopf	Kopf	_	NN	acc|sg|masc	3	OBJA	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Helmut	Helmut	_	NE	nom|sg|masc	6	PN	_	_
+8	Schmidt	Schmidt	_	NE	dat|sg|masc	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|masc	2	SUBJ	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	Helmut	Helmut	_	NE	nom|sg|masc	2	PRED	_	_
+4	Schmidt	Schmidt	_	NE	nom|sg|masc	3	APP	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Helmut	Helmut	_	NE	nom|sg|masc	3	PRED	_	_
+2	Schmidt	Schmidt	_	NE	nom|sg|masc	1	APP	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	berühmter	berühmt	_	ADJA	nom|sg|masc|pos	7	ATTR	_	_
+7	Politiker	Politiker	_	NN	nom|sg|masc	3	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Helmut	Helmut	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Schmidt	Schmidt	_	NE	nom|sg|masc	1	APP	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	der	der	_	ART	nom|sg|masc	7	DET	_	_
+7	Bundes·kanzler	Bundes·kanzler	_	NN	nom|sg|masc	3	PRED	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	Deutschland	Deutschland	_	NE	dat|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Bundes·kanzler	Bundes·kanzler	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Chef	Chef	_	NN	nom|sg|masc	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Deutschland	Deutschland	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Helmut	Helmut	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Schmidt	Schmidt	_	NE	nom|sg|masc	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	6	PP	_	_
+5	Hamburg	Hamburg	_	NE	dat|sg|neut	4	PN	_	_
+6	gelebt	leben	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Helmut	Helmut	_	NE	nom|sg|masc	4	SUBJ	_	_
+3	Schmidt	Schmidt	_	NE	nom|sg|masc	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	am	an	_	APPRART	dat|sg|masc	9	PP	_	_
+6	10.	10.	_	ADJA	dat|sg|masc|pos	7	ATTR	_	_
+7	November	November	_	NN	dat|sg|masc	5	PN	_	_
+8	2015	2015	_	CARD	_	7	ZEIT	_	_
+9	gestorben	sterben	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Helmut	Helmut	_	NE	nom|sg|masc	3	PRED	_	_
+2	Schmidt	Schmidt	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	96	96	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	6	GRAD	_	_
+6	alt	alt	_	ADJD	pos	7	ADV	_	_
+7	geworden	werden	_	VAPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	7	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Tod	Tod	_	NN	dat|sg|masc	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	Helmut	Helmut	_	NE	nom|sg|masc	4	PN	_	_
+6	Schmidt	Schmidt	_	NE	dat|sg|masc	5	APP	_	_
+7	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+8	viele	vieler	_	PIAT	nom|pl|masc	9	ATTR	_	_
+9	Menschen	Mensch	_	NN	nom|pl|masc	10	OBJA	_	_
+10	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+12	Helmut	Helmut	_	NE	nom|sg|masc	14	PRED	_	_
+13	Schmidt	Schmidt	_	NE	nom|sg|masc	12	APP	_	_
+14	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+15	ein	ein	_	ART	nom|sg|masc	18	DET	_	_
+16	sehr	sehr	_	ADV	_	17	ADV	_	_
+17	guter	gut	_	ADJA	gen|pl|masc|pos	18	ATTR	_	_
+18	Politiker	Politiker	_	NN	gen|pl|masc	14	PRED	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Helmut	Helmut	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Schmidt	Schmidt	_	NE	nom|sg|masc	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	8	ADV	_	_
+5	viele	vieler	_	PIAT	acc|pl|fem	7	DET	_	_
+6	wichtige	wichtig	_	ADJA	acc|pl|fem|pos	7	ATTR	_	_
+7	Entscheidungen	Entscheidung	_	NN	acc|pl|fem	8	OBJA	_	_
+8	getroffen	treffen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Helmut	Helmut	_	NE	nom|sg|masc	4	SUBJ	_	_
+3	Schmidt	Schmidt	_	NE	nom|sg|masc	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	viel	viel	_	PIS	*|*|*	8	OBJA	_	_
+6	für	für	_	APPR	_	8	PP	_	_
+7	Deutschland	Deutschland	_	NE	acc|sg|neut	6	PN	_	_
+8	gemacht	machen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	7	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Helmut	Helmut	_	NE	nom|sg|masc	2	OBJA	_	_
+4	Schmidt	Schmidt	_	NE	nom|sg|masc	3	APP	_	_
+5	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+6	besondere	besonderer	_	ADJA	acc|sg|fem|pos	7	ATTR	_	_
+7	Erinnerung	Erinnerung	_	NN	acc|sg|fem	2	OBJA	_	_
+8	verdient	verdienen	_	VVFIN	_	2	REL	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Münze	Münze	_	NN	nom|sg|fem	9	SUBJ	_	_
+3	mit	mit	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|neut	5	DET	_	_
+5	Bild	Bild	_	NN	dat|sg|neut	3	PN	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Helmut	Helmut	_	NE	nom|sg|masc	6	PN	_	_
+8	Schmidt	Schmidt	_	NE	dat|sg|masc	7	APP	_	_
+9	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+10	diese	dieser	_	PDAT	nom|sg|fem	12	DET	_	_
+11	besondere	besonderer	_	ADJA	nom|sg|fem|pos	12	ATTR	_	_
+12	Erinnerung	Erinnerung	_	NN	nom|sg|fem	9	PRED	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Tochter	Tochter	_	NN	nom|sg|fem	6	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Helmut	Helmut	_	NE	dat|sg|neut	3	PN	_	_
+5	Schmidt	Schmidt	_	NE	dat|sg|neut	4	APP	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	gesagt	sagen	_	VVPP	_	6	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Bald	bald	_	ADV	_	10	ADV	_	_
+10	bezahlen	bezahlen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+11	viele	vieler	_	PIAT	nom|pl|masc	12	DET	_	_
+12	Menschen	Mensch	_	NN	nom|pl|masc	10	SUBJ	_	_
+13	mit	mit	_	APPR	_	10	PP	_	_
+14	der	der	_	ART	dat|sg|fem	16	DET	_	_
+15	neuen	neu	_	ADJA	dat|sg|fem|pos	16	ATTR	_	_
+16	Münze	Münze	_	NN	dat|sg|fem	13	PN	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	einige	einige	_	PIS	nom|pl|masc	6	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	diesen	dieser	_	PDAT	dat|pl|masc	5	DET	_	_
+5	Menschen	Mensch	_	NN	dat|pl|masc	3	PN	_	_
+6	denken	denken	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+7	dann	dann	_	ADV	_	6	ADV	_	_
+8	vielleicht	vielleicht	_	ADV	_	6	ADV	_	_
+9	an	an	_	APPR	_	6	OBJP	_	_
+10	meinen	mein	_	PPOSAT	acc|sg|masc	11	DET	_	_
+11	Vater	Vater	_	NN	acc|sg|masc	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Darüber	darüber	_	PROAV	_	2	DET	_	_
+2	freue	freuen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+3	ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+4	mich	mich	_	PRF	acc|sg|1	2	OBJA	_	_
+5	sehr	sehr	_	ADV	_	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+

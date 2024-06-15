@@ -1,0 +1,281 @@
+1	Feuer	Feuer	_	NN	nom|sg|neut	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Halle	Halle	_	NE	dat|sg|neut	2	PN	_	_
+4	mit	mit	_	APPR	_	1	PP	_	_
+5	Dünger	Dünger	_	NN	dat|sg|masc	4	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Westerstede	Westerstede	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	großes	groß	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Feuer	Feuer	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Westerstede	Westerstede	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Feuer	Feuer	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PRED	_	_
+5	einer	ein	_	ART	dat|sg|fem	6	DET	_	_
+6	Halle	Halle	_	NN	dat|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Halle	Halle	_	NN	dat|sg|fem	1	PN	_	_
+4	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+5	Maschinen	Maschine	_	NN	nom|pl|fem	4	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	in	in	_	APPR	_	5	PP	_	_
+3	der	der	_	ART	dat|sg|fem	4	DET	_	_
+4	Halle	Halle	_	NN	dat|sg|fem	2	PN	_	_
+5	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+6	Dünger	Dünger	_	NN	nom|sg|masc	5	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	3	PP	_	_
+2	Dünger	Dünger	_	NN	dat|sg|masc	1	PN	_	_
+3	wachsen	wachsen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Pflanzen	Pflanze	_	NN	dat|pl|fem	3	SUBJ	_	_
+5	besser	gut	_	ADJD	comp	3	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	auf	auf	_	APPR	_	0	S	_	_
+4	Feldern	Feld	_	NN	dat|pl|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Manche	mancher	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Dünger	Dünger	_	NN	nom|pl|masc	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Menschen	Mensch	_	NN	acc|pl|masc	4	PN	_	_
+6	giftig	giftig	_	ADJD	pos	3	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Feuer	Feuer	_	NN	dat|sg|neut	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	OBJA	_	_
+6	viel	viel	_	PIAT	*|*|*	7	ATTR	_	_
+7	Rauch	Rauch	_	NN	acc|sg|masc	8	OBJA	_	_
+8	gegeben	geben	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Rauch	Rauch	_	NN	acc|sg|masc	6	OBJG	_	_
+6	eingeatmet	eieatmen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	27	27	_	CARD	_	2	ATTR	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	OBJA	_	_
+3	mussten	mussen	_	VVFIN	pl|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	ein	ein	_	ART	acc|sg|neut	6	DET	_	_
+6	Kranken·haus	Kranken·haus	_	NN	acc|sg|neut	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	3	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	3	REL	_	_
+3	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Feuerwehr	Feuerwehr	_	NN	nom|sg|fem	4	OBJD	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Der	der	_	ART	nom|sg|masc	7	DET	_	_
+7	Einsatz	Einsatz	_	NN	nom|sg|masc	8	SUBJ	_	_
+8	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+9	sehr	sehr	_	ADV	_	10	ADV	_	_
+10	schwierig	schwierig	_	ADJD	pos	8	PRED	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Feuer	Feuer	_	NN	dat|sg|masc	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	8	ADV	_	_
+6	der	der	_	ART	nom|sg|masc	7	DET	_	_
+7	Dünger	Dünger	_	NN	nom|sg|masc	8	OBJG	_	_
+8	gebrannt	gebrennen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	wussten	wussen	_	VVFIN	pl|1|past|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Gibt	geben	_	VVFIN	sg|3|pres|ind	2	KON	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	vielleicht	vielleicht	_	ADV	_	6	ADV	_	_
+9	bei	bei	_	APPR	_	6	PP	_	_
+10	dem	der	_	ART	dat|sg|masc	11	DET	_	_
+11	Feuer	Feuer	_	NN	dat|sg|masc	9	PN	_	_
+12	giftigen	giftig	_	ADJA	dat|sg|masc|pos	13	ATTR	_	_
+13	Rauch	Rauch	_	NN	dat|sg|masc	11	GMOD	_	_
+14	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Feuerwehr	Feuerwehr	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	3	3	_	CARD	_	8	ATTR	_	_
+8	Menschen	Mensch	_	NN	nom|pl|masc	9	ZEIT	_	_
+9	haben	haben	_	VAFIN	pl|3|pres|ind	5	S	_	_
+10	das	der	_	ART	acc|sg|neut	11	DET	_	_
+11	Feuer	Feuer	_	NN	acc|sg|neut	0	S	_	_
+12	gesehen	sehen	_	VVPP	_	9	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	5	DET	_	_
+4	3	3	_	CARD	_	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+6	die	der	_	ART	acc|sg|fem	7	DET	_	_
+7	Feuerwehr	Feuerwehr	_	NN	acc|sg|fem	8	OBJG	_	_
+8	gerufen	rufen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	4	DET	_	_
+3	3	3	_	CARD	_	4	ATTR	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	5	ZEIT	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+6	Rauch	Rauch	_	NN	acc|sg|masc	7	OBJA	_	_
+7	eingeatmet	eieatmen	_	VVPP	_	5	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	wurden	werden	_	VAFIN	pl|3|past|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	5	DET	_	_
+4	3	3	_	CARD	_	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	7	OBJA	_	_
+6	leicht	leicht	_	ADJD	pos	7	ADV	_	_
+7	verletzt	verletzen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	mussten	mussten	_	VVFIN	pl|3|past|ind	1	CJ	_	_
+4	die	der	_	ART	nom|pl|masc	6	DET	_	_
+5	3	3	_	CARD	_	6	ATTR	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+7	in	in	_	APPR	_	3	PP	_	_
+8	ein	ein	_	ART	acc|sg|neut	9	DET	_	_
+9	Kranken·haus	Kranken·haus	_	NN	acc|sg|neut	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	4	ADV	_	_
+2	24	24	_	CARD	_	4	ATTR	_	_
+3	andere	anderer	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	5	SUBJ	_	_
+5	mussten	mussen	_	VVFIN	pl|3|past|ind	0	S	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	ein	ein	_	ART	acc|sg|neut	8	DET	_	_
+8	Kranken·haus	Kranken·haus	_	NN	acc|sg|neut	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	4	DET	_	_
+2	24	24	_	CARD	_	4	ATTR	_	_
+3	anderen	anderer	_	ADJA	dat|pl|masc|pos	4	ATTR	_	_
+4	Menschen	Mensch	_	NN	dat|pl|masc	5	SUBJ	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	•	LI	_	XY	_	0	ROOT	_	_
+8	20	20	_	CARD	_	9	ATTR	_	_
+9	Feuerwehr·leute	Feuerwehr·leute	_	NN	nom|pl|*	5	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+11	•	LI	_	XY	_	0	ROOT	_	_
+12	Und	und	_	KON	_	9	KON	_	_
+13	4	4	_	CARD	_	14	ATTR	_	_
+14	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	12	CJ	_	_
+15	von	von	_	APPR	_	14	PP	_	_
+16	der	der	_	ART	dat|sg|fem	17	DET	_	_
+17	Halle	Halle	_	NN	dat|sg|fem	15	PN	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Kranken·haus	Kranken·haus	_	NN	dat|sg|neut	1	PN	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Ärzte	Ärzt	_	NN	nom|pl|masc	3	SUBJ	_	_
+5	geprüft	prüfen	_	VVPP	_	7	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+8	die	der	_	ART	nom|pl|masc	11	DET	_	_
+9	24	24	_	CARD	_	11	ATTR	_	_
+10	anderen	anderer	_	ADJA	nom|pl|masc|pos	11	ATTR	_	_
+11	Menschen	Mensch	_	NN	nom|pl|masc	15	OBJA	_	_
+12	vielleicht	vielleicht	_	ADV	_	15	ADV	_	_
+13	giftigen	giftig	_	ADJA	acc|sg|masc|pos	14	ATTR	_	_
+14	Rauch	Rauch	_	NN	acc|sg|masc	15	OBJG	_	_
+15	eingeatmet	eieatmen	_	VVPP	_	7	AUX	_	_
+16	?	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Ärzte	Ärzt	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	festgestellt	feststellen	_	VVPP	_	4	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|pl|masc	10	DET	_	_
+8	24	24	_	CARD	_	10	ATTR	_	_
+9	anderen	anderer	_	ADJA	nom|pl|masc|pos	10	ATTR	_	_
+10	Menschen	Mensch	_	NN	nom|pl|masc	11	SUBJ	_	_
+11	haben	haben	_	VAFIN	pl|3|pres|ind	5	S	_	_
+12	keinen	kein	_	PIAT	acc|sg|masc	14	DET	_	_
+13	giftigen	giftig	_	ADJA	acc|sg|masc|pos	14	ATTR	_	_
+14	Rauch	Rauch	_	NN	acc|sg|masc	0	S	_	_
+15	eingeatmet	eieatmen	_	VVPP	_	11	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	0	DET	_	_
+2	konnten	können	_	VMFIN	pl|3|past|ind	8	OBJC	_	_
+3	alle	aller	_	PIAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	8	OBJA	_	_
+5	das	der	_	ART	acc|sg|neut	6	DET	_	_
+6	Kranken·haus	Kranken·haus	_	NN	acc|sg|neut	0	S	_	_
+7	wieder	wieder	_	ADV	_	8	ADV	_	_
+8	verlassen	verlassen	_	VVPP	_	1	DET	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	ermittelt	ermitteln	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+5	wissen	wissen	_	VVINF	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Wie	wie	_	PWAV	_	8	ADV	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	das	der	_	ART	nom|sg|neut	10	DET	_	_
+10	Feuer	Feuer	_	NN	nom|sg|neut	14	ETH	_	_
+11	in	in	_	APPR	_	14	PP	_	_
+12	der	der	_	ART	dat|sg|fem	13	DET	_	_
+13	Halle	Halle	_	NN	dat|sg|fem	11	PN	_	_
+14	entstanden	entstehen	_	VVPP	_	8	AUX	_	_
+15	?	--	_	$.	_	0	ROOT	_	_

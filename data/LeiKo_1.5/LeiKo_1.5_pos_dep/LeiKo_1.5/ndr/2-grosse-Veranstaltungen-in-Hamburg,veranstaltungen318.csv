@@ -1,0 +1,346 @@
+1	2	2	_	CARD	_	3	ATTR	_	_
+2	große	groß	_	ADJA	nom|pl|fem|pos	3	ATTR	_	_
+3	Veranstaltungen	Veranstaltung	_	NN	nom|pl|fem	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Hamburg	Hamburg	_	NE	dat|sg|neut	4	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Hamburg	Hamburg	_	NE	dat|sg|neut	1	PN	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	am	an	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Wochen·ende	Wochenende	_	NN	dat|sg|neut	4	PN	_	_
+6	2	2	_	CARD	_	8	ATTR	_	_
+7	große	groß	_	ADJA	acc|pl|fem|pos	8	ATTR	_	_
+8	Veranstaltungen	Veranstaltung	_	NN	acc|pl|fem	3	SUBJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	4	DET	_	_
+2	2	2	_	CARD	_	4	ATTR	_	_
+3	großen	groß	_	ADJA	dat|pl|neut|pos	4	ATTR	_	_
+4	Veranstaltungen	Veranstaltung	_	NN	dat|pl|neut	5	SUBJ	_	_
+5	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	•	LI	_	$(	nom|sg|masc	0	ROOT	_	_
+8	Ein	ein	_	ART	nom|sg|masc	9	DET	_	_
+9	Musik·fest	Musikfest	_	NN	nom|sg|masc	5	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+11	•	LI	_	$(	nom|sg|*	0	ROOT	_	_
+12	Und	und	_	KON	_	9	KON	_	_
+13	eine	ein	_	ART	acc|sg|fem	14	DET	_	_
+14	Sport·veranstaltung	Sportveranstaltung	_	NN	acc|sg|fem	12	CJ	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	4	DET	_	_
+2	2	2	_	CARD	_	4	ATTR	_	_
+3	großen	groß	_	ADJA	nom|pl|fem|pos	4	ATTR	_	_
+4	Veranstaltungen	Veranstaltung	_	NN	nom|pl|fem	5	SUBJ	_	_
+5	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	St.	St.	_	NE	*|*|*	6	PN	_	_
+8	Pauli	Pauli	_	NE	dat|sg|neut	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	St.	St.	_	NE	*|*|*	3	SUBJ	_	_
+2	Pauli	Pauli	_	NE	nom|sg|*	1	APP	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+5	Stadt·teil	Stadtteil	_	NN	nom|sg|masc	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	5	DET	_	_
+3	2	2	_	CARD	_	5	ATTR	_	_
+4	großen	groß	_	ADJA	nom|pl|fem|pos	5	ATTR	_	_
+5	Veranstaltungen	Veranstaltung	_	NN	nom|pl|fem	6	SUBJ	_	_
+6	sind	sein	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Nähe	Nähe	_	NN	dat|sg|fem	7	PN	_	_
+10	von	von	_	APPR	_	9	PP	_	_
+11	St.	St.	_	NE	*|*|*	10	PN	_	_
+12	Pauli	Pauli	_	NE	dat|sg|neut	11	APP	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	4	DET	_	_
+2	2	2	_	CARD	_	4	ATTR	_	_
+3	großen	groß	_	ADJA	dat|pl|neut|pos	4	ATTR	_	_
+4	Veranstaltungen	Veranstaltung	_	NN	dat|pl|neut	5	SUBJ	_	_
+5	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	an	an	_	APPR	_	5	PP	_	_
+7	einem	ein	_	ART	dat|sg|masc	8	DET	_	_
+8	Wochen·ende	Wochenende	_	NN	dat|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Bewohner	Bewohner	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	St.	St.	_	NE	*|*|*	5	PN	_	_
+7	Pauli	Pauli	_	NE	dat|sg|*	6	APP	_	_
+8	genervt	nerven	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bewohner	Bewohner	_	NN	nom|sg|fem	6	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	St.	St.	_	NE	*|*|*	3	PN	_	_
+5	Pauli	Pauli	_	NE	dat|sg|masc	4	APP	_	_
+6	sagen	sagen	_	VVFIN	_	0	S	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Zu	zu	_	APPR	_	13	PP	_	_
+9	diesen	dieser	_	PDAT	dat|pl|fem	12	DET	_	_
+10	2	2	_	CARD	_	12	ATTR	_	_
+11	großen	groß	_	ADJA	dat|pl|neut|pos	12	ATTR	_	_
+12	Veranstaltungen	Veranstaltung	_	NN	acc|pl|fem	8	PN	_	_
+13	kommen	kommen	_	VVFIN	pl|3|pres|ind	6	S	_	_
+14	sehr	sehr	_	ADV	_	15	ADV	_	_
+15	viele	vieler	_	PIAT	nom|pl|neut	16	DET	_	_
+16	Menschen	Mensch	_	NN	nom|pl|neut	13	SUBJ	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	viel	viel	_	PIAT	*|*|*	5	DET	_	_
+5	Lärm	Lärm	_	NN	acc|sg|masc	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	acc|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	acc|pl|masc	4	SUBJ	_	_
+4	machen	machen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	viel	viel	_	PIAT	*|*|*	6	DET	_	_
+6	Müll	Müll	_	NN	acc|sg|fem	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	stören	stören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	diese	dieser	_	PDAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	uns	uns	_	PPER	dat|pl|*|1	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Musik·fest	Musikfest	_	NN	nom|sg|neut	0	S	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Musik·fest	Musikfest	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Schlagermove	Schlagermove	_	NN	acc|sg|fem	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Schlagermove	Schlagermove	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	jedes	jeder	_	PIAT	acc|sg|neut	5	DET	_	_
+5	Jahr	Jahr	_	NN	acc|sg|neut	3	ZEIT	_	_
+6	in	in	_	APPR	_	3	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beim	bei	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Schlagermove	Schlagermove	_	NN	dat|sg|neut	1	PN	_	_
+3	fahren	fahren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	besondere	besonderer	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Last·wagen	Lastwagen	_	NN	acc|pl|fem	3	SUBJ	_	_
+6	auf	auf	_	APPR	_	3	PP	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	Straßen	Straße	_	NN	acc|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|*	2	DET	_	_
+2	Last·wagen	Lastwagen	_	NN	nom|pl|*	3	SUBJ	_	_
+3	fahren	fahren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	sehr	sehr	_	ADV	_	5	ADV	_	_
+5	langsam	langsam	_	ADJD	pos	3	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hinter	hinter	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Last·wagen	Lastwagen	_	NN	dat|pl|fem	1	PN	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	Anhänger	Anhänger	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Anhänger	Anhänger	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	bunt	bunt	_	ADJD	pos	5	ADV	_	_
+5	geschmückt	schmücken	_	VVPP	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|masc	3	DET	_	_
+3	Anhängern	Anhänger	_	NN	dat|pl|masc	1	PN	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	6	SUBJ	_	_
+3	auf	auf	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|neut	5	DET	_	_
+5	Anhängern	Anhänger	_	NN	dat|pl|neut	3	PN	_	_
+6	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+7	Schlager	Schlager	_	NN	acc|sg|neut	6	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Schlager	Schlager	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	deutsche	deutsch	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Lieder	Lied	_	NN	nom|pl|neut	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	viele	_	PIS	nom|pl|*	5	SUBJ	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	den	der	_	ART	dat|pl|masc	4	DET	_	_
+4	Schlagern	Schlager	_	NN	dat|pl|masc	2	PN	_	_
+5	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	schon	schon	_	ADV	_	5	ADV	_	_
+7	alt	alt	_	ADJD	pos	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	4	PP	_	_
+2	kennen	kennen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Deutschland	Deutschland	_	NE	dat|sg|neut	5	PN	_	_
+7	viele	vieler	_	PIAT	nom|pl|masc	8	DET	_	_
+8	Schlager	Schlager	_	NN	nom|pl|masc	2	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	tanzen	tanzen	_	VVFIN	_	1	CJ	_	_
+5	zu	zu	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	dat|pl|masc	7	DET	_	_
+7	Schlagern	Schlager	_	NN	dat|pl|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beim	bei	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Schlagermove	Schlagermove	_	NN	dat|sg|masc	1	PN	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	immer	immer	_	ADV	_	3	ADV	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Besucher	Besucher	_	NN	nom|pl|masc	3	SUBJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	meisten	meister	_	PIAT	nom|pl|masc	3	ATTR	_	_
+3	Besucher	Besucher	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	verkleidet	verkleiden	_	VVPP	_	4	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Besucher	Besucher	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	haben	haben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	bunte	bunt	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Kleidung	Kleidung	_	NN	nom|sg|fem	3	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	3	ATTR	_	_
+3	Besucher	Besucher	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	haben	haben	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	bunte	bunt	_	ADJA	acc|pl|fem|pos	6	ATTR	_	_
+6	Perücken	Perücke	_	NN	acc|pl|fem	4	OBJA	_	_
+7	auf	auf	_	APPR	_	4	PP	_	_
+8	dem	der	_	ART	dat|sg|masc	9	DET	_	_
+9	Kopf	Kopf	_	NN	dat|sg|masc	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Perücken	Perücke	_	NN	nom|pl|fem	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	unechte	unecht	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Haare	Haar	_	NN	nom|pl|masc	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Besucher	Besucher	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	haben	haben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	6	ADV	_	_
+5	große	groß	_	ADJA	acc|pl|masc|pos	6	ATTR	_	_
+6	Sonnen·brillen	Sonnenbrille	_	NN	acc|pl|masc	3	OBJA	_	_
+7	auf	auf	_	PTKVZ	_	3	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Sport·veranstaltung	Sportveranstaltung	_	NN	nom|sg|fem	0	S	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Sport·veranstaltung	Sportveranstaltung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+5	Triathlon	Triathlon	_	NN	nom|sg|masc	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|neut	3	DET	_	_
+3	Triathlon	Triathlon	_	NN	dat|sg|neut	1	PN	_	_
+4	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	Sportler	Sportler	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+7	bestimmte	bestimmt	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Strecke	Strecke	_	NN	acc|sg|fem	9	OBJA	_	_
+9	zurücklegen	zurücklegen	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Sportler	Sportler	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	•	LI	_	$(	_	0	ROOT	_	_
+6	Schwimmen	schwimmen	_	VVINF	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+8	•	LI	_	$(	_	0	ROOT	_	_
+9	Dann	dann	_	ADV	_	11	ADV	_	_
+10	Rad	Rad	_	NN	*|sg|neut	11	OBJA	_	_
+11	fahren	fahren	_	VVINF	_	6	KON	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+13	•	LI	_	$(	_	0	ROOT	_	_
+14	Und	und	_	KON	_	11	KON	_	_
+15	dann	dann	_	ADV	_	16	ADV	_	_
+16	laufen	laufen	_	VVINF	_	14	CJ	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Triathlon	Triathlon	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	jedes	jeder	_	PIAT	acc|sg|neut	5	DET	_	_
+5	Jahr	Jahr	_	NN	acc|sg|neut	3	ZEIT	_	_
+6	in	in	_	APPR	_	3	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Triathlon	Triathlon	_	NN	nom|sg|masc	6	SUBJ	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Hamburg	Hamburg	_	NE	dat|sg|neut	4	PN	_	_
+6	ist	sein	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+7	der	der	_	ART	nom|sg|masc	9	DET	_	_
+8	größte	groß	_	ADJA	nom|sg|masc|sup	9	ATTR	_	_
+9	Triathlon	Triathlon	_	NN	nom|sg|masc	6	PRED	_	_
+10	auf	auf	_	APPR	_	9	PP	_	_
+11	der	der	_	ART	dat|sg|fem	12	DET	_	_
+12	Welt	Welt	_	NN	dat|sg|fem	10	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+2	vergangenen	vergangen	_	ADJA	dat|sg|neut|pos	3	ATTR	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+4	waren	sein	_	VVFIN	pl|3|past|ind	0	S	_	_
+5	mehr	mehr	_	ADV	*|*|*	7	ADV	_	_
+6	als	als	_	KOKOM	_	5	KOM	_	_
+7	10000	10000	_	CARD	_	8	ATTR	_	_
+8	Sportler	Sportler	_	NN	nom|pl|masc	4	SUBJ	_	_
+9	dabei	dabei	_	PTKVZ	_	4	AVZ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_

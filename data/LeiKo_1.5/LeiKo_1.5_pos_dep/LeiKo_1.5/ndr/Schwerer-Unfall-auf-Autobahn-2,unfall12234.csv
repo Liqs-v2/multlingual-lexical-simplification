@@ -1,0 +1,183 @@
+﻿1	Schwerer	Schwerer	_	ADJA	nom|sg|masc|comp	2	ATTR	_	_
+2	Unfall	Unfall	_	NN	nom|sg|masc	0	S	_	_
+3	auf	auf	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Autobahn	Autobahn	_	NN	dat|sg|fem	3	PN	_	_
+6	2	2	_	CARD	_	5	APP	_	_
+
+1	Auf	auf	_	APPR	_	6	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	A2	A2	_	NE	dat|sg|fem	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	4	PN	_	_
+6	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+7	ein	ein	_	ART	nom|sg|masc	9	DET	_	_
+8	schwerer	schwer	_	ADJA	nom|sg|masc|pos	9	ATTR	_	_
+9	Unfall	Unfall	_	NN	nom|sg|masc	6	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	A2	a2	_	PDS	nom|sg|fem	2	ETH	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Autobahn	Autobahn	_	NN	acc|sg|fem	5	PN	_	_
+7	2	2	_	CARD	_	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Unfall	Unfall	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Nähe	Nähe	_	NN	dat|sg|fem	4	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Peine	Peine	_	NE	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|masc	3	DET	_	_
+3	Unfall	Unfall	_	NN	dat|sg|masc	1	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+6	Lkw	Lkw	_	NN	nom|sg|neut	11	OBJA	_	_
+7	in	in	_	APPR	_	11	PP	_	_
+8	einen	ein	_	ART	acc|sg|masc	10	DET	_	_
+9	anderen	anderer	_	ADJA	acc|sg|masc|pos	10	ATTR	_	_
+10	Lkw	Lkw	_	NN	acc|sg|masc	7	PN	_	_
+11	gefahren	fahren	_	VVPP	_	4	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	bei	bei	_	APPR	_	5	PP	_	_
+3	diesem	dieser	_	PDAT	dat|sg|masc	4	DET	_	_
+4	Unfall	Unfall	_	NN	dat|sg|masc	2	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+6	3	3	_	CARD	_	7	ATTR	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	5	SUBJ	_	_
+8	verletzt	verletzen	_	VVPP	_	9	AUX	_	_
+9	worden	werden	_	VAPP	_	5	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	3	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	3	REL	_	_
+3	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Auf	auf	_	APPR	_	9	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	A2	A2	_	NE	dat|sg|fem	6	PN	_	_
+9	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+10	ein	ein	_	ART	nom|sg|masc	11	DET	_	_
+11	Stau	Stau	_	NN	nom|sg|masc	9	PRED	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Lkw-Fahrer	Lkw-Fahrer	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	diesen	dieser	_	PDAT	acc|sg|masc	6	DET	_	_
+6	Stau	Stau	_	NN	acc|sg|masc	10	OBJA	_	_
+7	wahrscheinlich	wahrscheinlich	_	ADJD	pos	10	ADV	_	_
+8	zu	zu	_	PTKA	_	9	ADV	_	_
+9	spät	spät	_	ADJD	pos	10	ADV	_	_
+10	gesehen	sehen	_	VVPP	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Lkw-Fahrer	Lkw-Fahrer	_	NN	nom|sg|masc	7	OBJD	_	_
+5	zu	zu	_	PTKA	_	6	ADV	_	_
+6	spät	spät	_	ADJD	pos	7	ADV	_	_
+7	gebremst	bremsen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Lkw-Fahrer	Lkw-Fahrer	_	NN	nom|sg|masc	10	OBJD	_	_
+6	in	in	_	APPR	_	10	PP	_	_
+7	einen	ein	_	ART	acc|sg|masc	9	DET	_	_
+8	anderen	anderer	_	ADJA	acc|sg|masc|pos	9	ATTR	_	_
+9	Lkw	Lkw	_	NN	acc|sg|masc	6	PN	_	_
+10	gefahren	fahren	_	VVPP	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	ein	ein	_	ART	nom|sg|masc	3	DET	_	_
+3	Autofahrer	Autofahrer	_	NN	nom|sg|masc	9	OBJA	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	Stau	Stau	_	NN	acc|sg|masc	9	OBJA	_	_
+7	zu	zu	_	PTKA	_	8	ADV	_	_
+8	spät	spät	_	ADJD	pos	9	ADV	_	_
+9	gesehen	sehen	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dieser	dieser	_	PDAT	nom|sg|masc	3	DET	_	_
+3	Autofahrer	Autofahrer	_	NN	nom|sg|masc	4	OBJG	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	in	in	_	APPR	_	9	PP	_	_
+6	ein	ein	_	ART	acc|sg|neut	8	DET	_	_
+7	anderes	anderer	_	ADJA	acc|sg|neut|pos	8	ATTR	_	_
+8	Auto	Auto	_	NN	acc|sg|neut	5	PN	_	_
+9	gefahren	fahren	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Unfall	Unfall	_	NN	dat|sg|masc	1	PN	_	_
+4	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Lkw-Fahrer	Lkw-Fahrer	_	NN	nom|sg|masc	8	ZEIT	_	_
+7	schwer	schwer	_	ADJD	pos	8	ADV	_	_
+8	verletzt	verletzen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	2	2	_	CARD	_	3	ATTR	_	_
+3	Fahrer	Fahrer	_	NN	nom|pl|masc	7	SUBJ	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	den	der	_	ART	dat|pl|masc	6	DET	_	_
+6	Autos	Auto	_	NN	dat|pl|masc	4	PN	_	_
+7	wurden	werden	_	VAFIN	pl|3|past|ind	0	S	_	_
+8	leicht	leicht	_	ADJD	pos	9	ADV	_	_
+9	verletzt	verletzen	_	VVPP	_	7	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Unfall	Unfall	_	NN	dat|sg|masc	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Polizei	Polizei	_	NN	nom|sg|fem	9	OBJA	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	A2	A2	_	NN	acc|sg|fem	6	GMOD	_	_
+9	gesperrt	sperren	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Auf	auf	_	APPR	_	7	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	A2	A2	_	NE	dat|sg|fem	4	PN	_	_
+7	durften	dürfen	_	VMFIN	pl|3|past|ind	2	S	_	_
+8	keine	kein	_	PIAT	acc|pl|neut	9	DET	_	_
+9	Autos	Auto	_	NN	acc|pl|neut	10	OBJA	_	_
+10	fahren	fahren	_	VVINF	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	kein	kein	_	PIAT	nom|sg|masc	3	DET	_	_
+3	Lkw	Lkw	_	NN	nom|sg|masc	1	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+

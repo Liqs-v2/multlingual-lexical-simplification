@@ -1,0 +1,332 @@
+﻿1	Mehr	mehr	_	PIAT	*|*|*	2	DET	_	_
+2	Nachrichten	Nachricht	_	NN	nom|pl|fem	0	S	_	_
+3	vom	von	_	APPRART	dat|sg|masc	2	PP	_	_
+4	04.09.2018	04.09.2018	_	CARD	_	3	PN	_	_
+
+1	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	_	NE	nom|sg|neut	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+
+1	Affe	Aff	_	NN	nom|sg|fem	4	SUBJ	_	_
+2	aus	aus	_	APPR	_	1	PP	_	_
+3	Zoo	Zoo	_	NE	dat|sg|neut	2	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	tot	tot	_	ADJD	pos	4	ADV	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	7	SUBJ	_	_
+3	vom	von	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Zoo	Zoo	_	NN	dat|sg|neut	3	PN	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Schwerin	Schwerin	_	NE	dat|sg|neut	5	PN	_	_
+7	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+8	traurig	traurig	_	ADJD	pos	7	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Affe	Affe	_	NN	nom|sg|neut	8	SUBJ	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|neut	5	DET	_	_
+5	Zoo	Zoo	_	NN	dat|sg|neut	3	PN	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	Schwerin	Schwerin	_	NE	dat|sg|neut	6	PN	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	nämlich	nämlich	_	ADV	_	8	ADV	_	_
+10	tot	tot	_	ADJD	pos	8	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Affe	Affe	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	aus	aus	_	APPR	_	7	PP	_	_
+5	seinem	sein	_	PPOSAT	dat|sg|masc	6	DET	_	_
+6	Käfig	Käfig	_	NN	dat|sg|masc	4	PN	_	_
+7	geklettert	klettern	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Affe	Affe	_	NN	nom|sg|masc	8	ETH	_	_
+5	aus	aus	_	APPR	_	8	PP	_	_
+6	dem	der	_	ART	dat|sg|neut	7	DET	_	_
+7	Zoo	Zoo	_	NN	dat|sg|neut	5	PN	_	_
+8	weggelaufen	weggelaufen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Chef	Chef	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	vom	von	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Zoo	Zoo	_	NN	dat|sg|masc	3	PN	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Schwerin	Schwerin	_	NE	dat|sg|neut	5	PN	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Eine	ein	_	ART	nom|sg|fem	11	DET	_	_
+11	Frau	Frau	_	NN	nom|sg|fem	0	S	_	_
+12	hat	haben	_	VAFIN	sg|3|pres|ind	8	S	_	_
+13	den	der	_	ART	acc|sg|masc	14	DET	_	_
+14	Affen	Affe	_	NN	acc|sg|masc	0	S	_	_
+15	gefunden	finden	_	VVPP	_	12	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Affe	Affe	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	lag	liegen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	tot	tot	_	ADJD	pos	3	ADV	_	_
+5	an	an	_	APPR	_	3	PP	_	_
+6	einer	ein	_	ART	dat|sg|fem	7	DET	_	_
+7	Straße	Straße	_	NN	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wahrscheinlich	wahrscheinlich	_	ADJD	pos	2	ADV	_	_
+2	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Affe	Affe	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	von	von	_	APPR	_	8	PP	_	_
+6	einem	ein	_	ART	dat|sg|neut	7	DET	_	_
+7	Auto	Auto	_	NN	dat|sg|neut	5	PN	_	_
+8	überfahren	überfahren	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hamburg	Hamburg	_	NE	nom|sg|neut	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+
+1	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	durchsucht	durchsuchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Wohnungen	Wohnung	_	NN	acc|pl|fem	2	OBJA	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Hamburg	Hamburg	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+5	großer	groß	_	ADJA	nom|sg|masc|pos	6	ATTR	_	_
+6	Polizei·einsatz	Polizei·einsatz	_	NN	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|masc	4	DET	_	_
+3	großen	groß	_	ADJA	dat|sg|masc|pos	4	ATTR	_	_
+4	Polizei·einsatz	Polizei·einsatz	_	NN	dat|sg|masc	1	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Polizei	Polizei	_	NN	nom|sg|fem	5	SUBJ	_	_
+8	viele	vieler	_	PIAT	acc|pl|fem	9	DET	_	_
+9	Wohnungen	Wohnung	_	NN	acc|pl|fem	10	OBJG	_	_
+10	durchsucht	durchsuchen	_	VVPP	_	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Wohnungen	Wohnung	_	NN	dat|pl|fem	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Polizei	Polizei	_	NN	nom|sg|fem	9	OBJA	_	_
+7	nach	nach	_	APPR	_	9	OBJP	_	_
+8	Beweisen	Beweis	_	NN	dat|pl|masc	7	PN	_	_
+9	gesucht	suchen	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+5	wissen	wissen	_	VVINF	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Wer	wer	_	PWS	nom|sg|masc	8	SUBJ	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	vor	vor	_	APPR	_	17	PP	_	_
+10	einer	ein	_	ART	dat|sg|fem	11	DET	_	_
+11	Woche	Woche	_	NN	dat|sg|fem	9	PN	_	_
+12	in	in	_	APPR	_	17	PP	_	_
+13	Hamburg	Hamburg	_	NE	dat|sg|neut	12	PN	_	_
+14	auf	auf	_	APPR	_	17	PP	_	_
+15	einen	ein	_	ART	acc|sg|masc	16	DET	_	_
+16	Mann	Mann	_	NN	acc|sg|masc	14	PN	_	_
+17	geschossen	schießen	_	VVPP	_	8	AUX	_	_
+18	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	6	ETH	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Frau	Frau	_	NN	acc|sg|fem	0	S	_	_
+6	festgenommen	festnehmen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Vielleicht	vielleicht	_	ADV	_	7	ADV	_	_
+7	weiß	weiß	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	die	der	_	ART	nom|sg|fem	9	DET	_	_
+9	Frau	Frau	_	NN	nom|sg|fem	7	SUBJ	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+11	Wer	wer	_	PWS	nom|sg|masc	12	SUBJ	_	_
+12	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+13	auf	auf	_	APPR	_	16	PP	_	_
+14	den	der	_	ART	acc|sg|masc	15	DET	_	_
+15	Mann	Mann	_	NN	acc|sg|masc	13	PN	_	_
+16	geschossen	schießen	_	VVPP	_	12	AUX	_	_
+17	?	--	_	$.	_	0	ROOT	_	_
+
+1	Zu	zu	_	APPR	_	6	PP	_	_
+2	den	der	_	ART	dat|pl|masc	3	DET	_	_
+3	Schüssen	Schuß	_	NN	dat|pl|masc	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Hamburg	Hamburg	_	NE	dat|sg|neut	4	PN	_	_
+6	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	noch	noch	_	ADV	_	9	ADV	_	_
+9	einen	ein	_	ART	acc|sg|masc	10	DET	_	_
+10	Text	Text	_	NN	acc|sg|masc	6	GRAD	_	_
+11	in	in	_	APPR	_	6	PP	_	_
+12	Leichter	Leichter	_	ADJA	*|*|*|pos	13	ATTR	_	_
+13	Sprache	Sprache	_	NN	dat|sg|fem	11	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diesen	dieser	_	PDAT	acc|sg|masc	2	DET	_	_
+2	Text	Text	_	NN	acc|sg|masc	3	OBJG	_	_
+3	finden	finden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+5	hier	hier	_	ADV	_	3	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Niedersachsen	Niedersachsen	_	NE	nom|sg|neut	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+
+1	Schwerer	Schwerer	_	ADJA	nom|sg|masc|comp	2	ATTR	_	_
+2	Unfall	Unfall	_	NN	nom|sg|masc	0	S	_	_
+3	auf	auf	_	APPR	_	2	PP	_	_
+4	A1	A1	_	NE	acc|sg|*	3	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Niedersachen	Niedersachen	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+5	schwerer	schwer	_	ADJA	nom|sg|masc|pos	6	ATTR	_	_
+6	Unfall	Unfall	_	NN	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieser	dieser	_	PDAT	nom|sg|masc	2	DET	_	_
+2	Unfall	Unfall	_	NN	nom|sg|masc	3	ZEIT	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	auf	auf	_	APPR	_	3	PRED	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	A1	A1	_	NN	dat|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	A1	a1	_	PDS	nom|sg|fem	2	ETH	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Auto·bahn	Auto·bahn	_	NN	acc|sg|fem	5	PN	_	_
+7	1	1	_	CARD	_	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dieser	dieser	_	PDAT	nom|sg|masc	3	DET	_	_
+3	Unfall	Unfall	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+5	bei	bei	_	APPR	_	4	PP	_	_
+6	Osnabrück	Osnabrück	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Unfall	Unfall	_	NN	dat|sg|masc	1	PN	_	_
+4	wurden	werden	_	VAFIN	pl|3|past|ind	0	S	_	_
+5	2	2	_	CARD	_	6	ATTR	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	8	OBJA	_	_
+7	schwer	schwer	_	ADJD	pos	8	ADV	_	_
+8	verletzt	verletzen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+7	Lkw-Fahrer	Lkw-Fahrer	_	NN	nom|sg|masc	8	PRED	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	gegen	gegen	_	APPR	_	12	PP	_	_
+10	ein	ein	_	ART	acc|sg|neut	11	DET	_	_
+11	Wohn·mobil	Wohn·mobil	_	NN	acc|sg|neut	9	PN	_	_
+12	gefahren	fahren	_	VVPP	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Wohn·mobil	Wohn·mobil	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	besonderes	besonderer	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Auto	Auto	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|neut	3	DET	_	_
+3	Wohn·mobil	Wohn·mobil	_	NN	dat|sg|neut	1	PN	_	_
+4	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	man	man	_	PIS	nom|sg|*	4	SUBJ	_	_
+6	zum	zu	_	APPRART	dat|sg|neut	8	PP	_	_
+7	Beispiel	Beispiel	_	NN	dat|sg|neut	6	PN	_	_
+8	schlafen	schlafen	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|neut	3	DET	_	_
+3	Wohn·mobil	Wohn·mobil	_	NN	dat|sg|neut	1	PN	_	_
+4	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	4	OBJA	_	_
+6	zum	zu	_	APPRART	dat|sg|neut	4	OBJP	_	_
+7	Beispiel	Beispiel	_	NN	dat|sg|neut	6	PN	_	_
+8	Urlaub	Urlaub	_	NN	nom|sg|masc	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Lkw-Fahrer	Lkw-Fahrer	_	NN	nom|sg|masc	9	OBJA	_	_
+5	gegen	gegen	_	APPR	_	4	PP	_	_
+6	ein	ein	_	ART	acc|sg|neut	8	DET	_	_
+7	anderes	anderer	_	ADJA	acc|sg|neut|pos	8	ATTR	_	_
+8	Auto	Auto	_	NN	acc|sg|neut	5	PN	_	_
+9	gefahren	fahren	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Lkw-Fahrer	Lkw-Fahrer	_	NN	nom|sg|masc	11	OBJD	_	_
+6	noch	noch	_	ADV	_	7	ADV	_	_
+7	in	in	_	APPR	_	11	PP	_	_
+8	2	2	_	CARD	_	10	ATTR	_	_
+9	andere	anderer	_	ADJA	nom|pl|masc|pos	10	ATTR	_	_
+10	Lkw	Lkw	_	NN	nom|pl|masc	7	PN	_	_
+11	gefahren	fahren	_	VVPP	_	3	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Lkw-Fahrer	Lkw-Fahrer	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	schwer	schwer	_	ADJD	pos	5	ADV	_	_
+5	verletzt	verletzen	_	VVPP	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Beifahrerin	Beifahrerin	_	NN	nom|sg|fem	7	SUBJ	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|neut	6	DET	_	_
+6	Wohnmobil	Wohnmobil	_	NN	dat|sg|neut	4	PN	_	_
+7	wurde	werden	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+8	auch	auch	_	ADV	_	9	ADV	_	_
+9	schwer	schwer	_	ADJD	pos	10	ADV	_	_
+10	verletzt	verletzen	_	VVPP	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+

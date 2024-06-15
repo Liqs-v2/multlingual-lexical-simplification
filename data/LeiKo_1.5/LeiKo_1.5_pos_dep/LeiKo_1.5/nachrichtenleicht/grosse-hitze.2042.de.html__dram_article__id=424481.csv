@@ -1,0 +1,193 @@
+1	Große	groß	_	ADJA	acc|pl|masc|pos	2	ATTR	_	_
+2	Hitze	Hitze	_	NN	acc|pl|masc	0	S	_	_
+
+1	In	in	_	APPR	_	8	PP	_	_
+2	Deutschland	Deutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	und	und	_	KON	_	1	KON	_	_
+4	in	in	_	APPR	_	3	CJ	_	_
+5	vielen	vieler	_	PIAT	dat|pl|neut	7	DET	_	_
+6	anderen	anderer	_	ADJA	dat|pl|neut|pos	7	ATTR	_	_
+7	Ländern	Land	_	NN	dat|pl|neut	4	PN	_	_
+8	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	es	es	_	PPER	nom|sg|neut|3	8	SUBJ	_	_
+10	zur	zu	_	APPRART	dat|sg|fem	8	PP	_	_
+11	Zeit	Zeit	_	NN	dat|sg|fem	10	PN	_	_
+12	sehr	sehr	_	ADV	_	13	ADV	_	_
+13	heiß	heiß	_	ADJD	pos	8	PRED	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	leiden	leiden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	unter	unter	_	APPR	_	3	OBJP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Hitze	Hitze	_	NN	dat|sg|fem	4	PN	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	besonders	besonders	_	ADV	_	12	ADV	_	_
+9	ältere	alt	_	ADJA	acc|sg|fem|comp	12	ATTR	_	_
+10	und	und	_	KON	_	9	KON	_	_
+11	kranke	krank	_	ADJA	acc|pl|masc|pos	10	CJ	_	_
+12	Menschen	Mensch	_	NN	acc|pl|masc	2	APP	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	auf	auf	_	APPR	_	5	PP	_	_
+3	den	der	_	ART	dat|pl|masc	4	DET	_	_
+4	Feldern	Feld	_	NN	dat|pl|masc	2	PN	_	_
+5	vertrocknen	vertrocknen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+6	viele	vieler	_	PIAT	nom|pl|fem	7	DET	_	_
+7	Pflanzen	Pflanze	_	NN	nom|pl|fem	5	SUBJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Wasser	Wasser	_	NN	nom|sg|neut	7	SUBJ	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	den	der	_	ART	dat|pl|masc	6	DET	_	_
+6	Flüssen	Fluss	_	NN	dat|pl|masc	4	PN	_	_
+7	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	wärmer	warm	_	ADJD	comp	7	PRED	_	_
+9	als	als	_	KOKOM	_	8	KOM	_	_
+10	sonst	sonst	_	ADV	_	9	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Für	für	_	APPR	_	4	PP	_	_
+2	viele	vieler	_	PIAT	acc|pl|fem	3	DET	_	_
+3	Fisch-Arten	Fischart	_	NN	acc|pl|fem	1	PN	_	_
+4	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	das	der	_	PDS	nom|sg|neut	4	SUBJ	_	_
+6	gefährlich	gefährlich	_	ADJD	pos	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wenn	wenn	_	KOUS	_	5	KONJ	_	_
+2	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+3	zu	zu	_	PTKA	_	4	ADV	_	_
+4	warm	warm	_	ADJD	pos	5	PRED	_	_
+5	wird	werden	_	VVFIN	sg|3|pres|ind	7	NEB	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	sterben	sterben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+8	die	der	_	ART	nom|sg|fem	9	DET	_	_
+9	Fische	Fisch	_	NN	nom|sg|fem	7	SUBJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Manche	mancher	_	PIAT	nom|sg|fem	2	DET	_	_
+2	Atom-Kraft-Werke	Atomkraftwerk	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	jetzt	jetzt	_	ADV	_	10	ADV	_	_
+5	nicht	nicht	_	PTKNEG	_	10	ADV	_	_
+6	mehr	mehr	_	ADV	_	5	ADV	_	_
+7	mit	mit	_	APPR	_	10	PP	_	_
+8	voller	voll	_	ADJA	dat|sg|fem|pos	9	ATTR	_	_
+9	Kraft	Kraft	_	NN	dat|sg|fem	7	PN	_	_
+10	laufen	laufen	_	VVINF	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	benutzen	benutzen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	Wasser	Wasser	_	NN	acc|sg|neut	3	OBJA	_	_
+5	aus	aus	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	dat|pl|neut	7	DET	_	_
+7	Flüssen	Fluss	_	NN	dat|pl|neut	5	PN	_	_
+8	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+9	Kühlen	kühlen	_	NN	dat|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Durch	durch	_	APPR	_	7	PP	_	_
+2	die	der	_	ART	acc|pl|fem	3	DET	_	_
+3	Wärme	Wärme	_	NN	nom|sg|fem	1	PN	_	_
+4	aus	aus	_	APPR	_	3	PP	_	_
+5	den	der	_	ART	dat|pl|fem	6	DET	_	_
+6	Kraft-Werken	Kraftwerk	_	NN	dat|pl|fem	4	PN	_	_
+7	wird	werden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	das	der	_	ART	nom|sg|neut	9	DET	_	_
+9	Wasser	Wasser	_	NN	nom|sg|neut	7	SUBJ	_	_
+10	dann	dann	_	ADV	_	7	ADV	_	_
+11	noch	noch	_	ADV	_	12	ADV	_	_
+12	wärmer	warm	_	ADJD	comp	7	PRED	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Für	für	_	APPR	_	4	PP	_	_
+2	manche	mancher	_	PIAT	acc|pl|masc	3	DET	_	_
+3	Firmen	Firma	_	NN	acc|pl|masc	1	PN	_	_
+4	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Hitze	Hitze	_	NN	nom|sg|fem	4	SUBJ	_	_
+7	gut	gut	_	ADJD	pos	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eis-Hersteller	Eishersteller	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	verdienen	verdienen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	viel	viel	_	ADV	_	6	ADV	_	_
+6	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+7	Geld	Geld	_	NN	dat|sg|neut	2	OBJA	_	_
+8	als	als	_	KOKOM	_	2	KOM	_	_
+9	in	in	_	APPR	_	8	CJ	_	_
+10	kälteren	kalt	_	ADJA	dat|pl|neut|pos	11	ATTR	_	_
+11	Sommern	Sommer	_	NN	dat|pl|neut	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	auch	auch	_	ADV	_	3	ADV	_	_
+3	Getränke-Hersteller	Getränkehersteller	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	in	in	_	APPR	_	10	PP	_	_
+6	diesem	dieser	_	PDAT	dat|sg|neut	7	DET	_	_
+7	Jahr	Jahr	_	NN	dat|sg|neut	5	PN	_	_
+8	besonders	besonders	_	ADV	_	9	ADV	_	_
+9	viel	viel	_	PIS	*|*|*	10	OBJA	_	_
+10	verkaufen	verkaufen	_	VVINF	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Außerdem	außerdem	_	PROAV	_	2	PP	_	_
+2	regnet	regnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	viel	viel	_	ADV	_	5	ADV	_	_
+5	zu	zu	_	PTKA	_	6	ADV	_	_
+6	wenig	wenig	_	PIS	*|*|*	2	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Bauern	Bauer	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	haben	haben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	3	PP	_	_
+5	große	groß	_	ADJA	acc|pl|neut|pos	6	ATTR	_	_
+6	Probleme	Problem	_	NN	acc|pl|neut	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	ernten	ernten	_	VVFIN	pl|3|past|ind	0	S	_	_
+3	weniger	weniger	_	PIS	*|*|*	2	OBJA	_	_
+4	als	als	_	KOKOM	_	3	KOM	_	_
+5	sonst	sonst	_	ADV	_	4	CJ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|fem	3	DET	_	_
+3	Pflanzen	Pflanze	_	NN	nom|pl|fem	4	SUBJ	_	_
+4	bekommen	bekommen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+6	genug	genug	_	PIAT	_	7	DET	_	_
+7	Wasser	Wasser	_	NN	nom|sg|neut	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Ausgleich	Ausgleich	_	NN	dat|sg|masc	1	PN	_	_
+3	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Bauern	Bauer	_	NN	nom|pl|masc	3	SUBJ	_	_
+6	Geld	Geld	_	NN	acc|sg|neut	3	OBJA	_	_
+7	vom	von	_	APPRART	dat|sg|masc	6	PP	_	_
+8	Staat	Staat	_	NN	dat|sg|masc	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bundes-Regierung	Bundesregierung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	darüber	darüber	_	PROAV	_	7	OBJP	_	_
+5	noch	noch	_	ADV	_	7	ADV	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	entschieden	entscheiden	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_

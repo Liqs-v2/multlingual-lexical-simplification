@@ -1,0 +1,230 @@
+1	Missbrauch	Missbrauch	_	NN	nom|sg|masc	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	der	der	_	ART	dat|sg|fem	4	DET	_	_
+4	Kirche	Kirche	_	NN	dat|sg|fem	2	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Deutschland	Deutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Priester	Priester	_	NN	nom|pl|masc	10	ADV	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Jahre	Jahr	_	NN	acc|pl|neut	10	ZEIT	_	_
+7	lang	lang	_	ADJD	pos	10	ADV	_	_
+8	Kinder	Kind	_	NN	nom|pl|neut	10	ADV	_	_
+9	sexuell	sexuell	_	ADJD	pos	10	ADV	_	_
+10	missbraucht	missbrauchen	_	VVPP	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	die	der	_	ART	acc|pl|neut	5	DET	_	_
+5	Kinder	Kind	_	NN	acc|pl|neut	6	SUBJ	_	_
+6	mussten	mussten	_	VVFIN	pl|3|past|ind	2	S	_	_
+7	mit	mit	_	APPR	_	6	PP	_	_
+8	ihnen	ihnen	_	PPER	dat|pl|*|3	7	PN	_	_
+9	Sex	Sex	_	NN	dat|sg|masc	10	OBJA	_	_
+10	haben	haben	_	VAFIN	pl|3|pres|ind	6	KON	_	_
+11	oder	oder	_	KON	_	10	KON	_	_
+12	sind	sein	_	VAFIN	pl|3|pres|ind	11	CJ	_	_
+13	angefasst	anfassen	_	VVPP	_	14	AUX	_	_
+14	worden	werden	_	VAPP	_	12	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fachleute	Fachleute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	darüber	darüber	_	PROAV	_	4	DET	_	_
+4	einen	ein	_	ART	acc|sg|masc	5	DET	_	_
+5	Bericht	Bericht	_	NN	acc|sg|masc	6	OBJG	_	_
+6	geschrieben	schreiben	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Darin	darin	_	PROAV	_	2	DET	_	_
+2	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Opfer	Opfer	_	NN	nom|sg|fem	6	PRED	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	2	KON	_	_
+7	mehr	mehr	_	PIAT	*|*|*	10	DET	_	_
+8	als	als	_	KOKOM	_	6	KOM	_	_
+9	3500	3500	_	CARD	_	10	ATTR	_	_
+10	Kinder	Kind	_	NN	nom|pl|neut	8	CJ	_	_
+11	und	und	_	KON	_	0	S	_	_
+12	Jugendliche	jugendliche	_	NN	nom|pl|*	11	CJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Für	für	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	acc|sg|masc	3	DET	_	_
+3	Bericht	Bericht	_	NN	acc|sg|masc	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|*	6	DET	_	_
+6	Fachleute	Fachleute	_	NN	nom|pl|*	9	OBJA	_	_
+7	viele	vieler	_	PIAT	nom|pl|*	8	DET	_	_
+8	Akten	Akte	_	NN	acc|pl|fem	6	GMOD	_	_
+9	gelesen	lesen	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	um	um	_	APPR	_	2	PP	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Zeit	Zeit	_	NN	acc|sg|fem	3	PN	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	1946	1946	_	CARD	_	6	PN	_	_
+8	bis	bis	_	KON	_	7	KON	_	_
+9	2014	2014	_	CARD	_	8	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Also	also	_	ADV	_	2	ADV	_	_
+2	um	um	_	APPR	_	0	S	_	_
+3	fast	fast	_	ADV	_	4	ADV	_	_
+4	70	70	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	2	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dieser	dieser	_	PDAT	dat|sg|fem	3	DET	_	_
+3	Zeit	Zeit	_	NN	dat|sg|fem	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	9	OBJA	_	_
+6	immer	immer	_	ADV	_	7	ADV	_	_
+7	wieder	wieder	_	ADV	_	9	ADV	_	_
+8	Missbrauch	Missbrauch	_	NN	acc|sg|masc	9	OBJA	_	_
+9	gegeben	geben	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	9	DET	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	mehr	mehr	_	PIAT	*|*|*	2	DET	_	_
+4	als	als	_	KOKOM	_	2	KOM	_	_
+5	1700	1700	_	CARD	_	6	ATTR	_	_
+6	Priester	Priester	_	NN	nom|pl|masc	4	CJ	_	_
+7	und	und	_	KON	_	4	KON	_	_
+8	andere	anderer	_	ADJA	nom|pl|masc|pos	9	ATTR	_	_
+9	Leute	Leute	_	NN	nom|pl|masc	0	S	_	_
+10	von	von	_	APPR	_	13	PP	_	_
+11	der	der	_	ART	dat|sg|fem	12	DET	_	_
+12	Kirche	Kirche	_	NN	dat|sg|fem	10	PN	_	_
+13	mitgemacht	mitmachen	_	VVPP	_	7	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	meisten	meister	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Opfer	Opfer	_	NN	nom|pl|masc	4	PRED	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Kinder	Kind	_	NN	nom|pl|neut	6	PRED	_	_
+6	gewesen	sein	_	VAPP	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	viele	_	PIS	nom|pl|*	7	PRED	_	_
+2	von	von	_	APPR	_	5	PRED	_	_
+3	den	der	_	ART	dat|pl|neut	4	DET	_	_
+4	Kindern	Kind	_	NN	dat|pl|neut	2	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	Jungen	Junge	_	NN	nom|pl|masc	7	PRED	_	_
+7	gewesen	sein	_	VAPP	_	5	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|*	2	DET	_	_
+2	Fachleute	Fachleute	_	NN	nom|pl|*	3	OBJA	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Viele	vieler	_	PIS	nom|pl|*	6	SUBJ	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	jetzt	jetzt	_	ADV	_	8	ADV	_	_
+8	erwachsen	erwachsen	_	VVPP	_	6	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	leiden	leiden	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	bis	bis	_	APPR	_	3	PP	_	_
+5	heute	heute	_	ADV	_	4	PN	_	_
+6	unter	unter	_	APPR	_	3	PP	_	_
+7	den	der	_	ART	dat|pl|fem	8	DET	_	_
+8	Folgen	Folge	_	NN	dat|pl|fem	6	PN	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	dem	der	_	ART	dat|sg|masc	11	DET	_	_
+11	Missbrauch	Missbrauch	_	NN	dat|sg|masc	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Chef	Chef	_	NN	nom|sg|masc	9	S	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	Katholischen	katholisch	_	ADJA	dat|sg|fem|pos	6	ATTR	_	_
+6	Kirche	Kirche	_	NN	dat|sg|fem	3	PN	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	Deutschland	Deutschland	_	NE	dat|sg|neut	7	PN	_	_
+9	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+10	Reinhard	Reinhard	_	NE	nom|sg|masc	9	PRED	_	_
+11	Marx	Marx	_	NE	nom|sg|masc	9	PRED	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Sexueller	Sexueller	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Missbrauch	Missbrauch	_	NN	nom|sg|masc	6	PRED	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	2	S	_	_
+7	ein	ein	_	ART	nom|sg|neut	8	DET	_	_
+8	Verbrechen	Verbrechen	_	NN	nom|sg|neut	6	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Täter	Täter	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	bestraft	bestrafen	_	VVPP	_	5	AUX	_	_
+5	werden	werden	_	VAINF	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	6	ADV	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Kirche	Kirche	_	NN	nom|sg|fem	0	S	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	2	S	_	_
+8	den	der	_	ART	acc|sg|masc	9	DET	_	_
+9	Missbrauch	Missbrauch	_	NN	acc|sg|masc	14	OBJA	_	_
+10	lange	lang	_	ADJA	acc|sg|fem|pos	11	ATTR	_	_
+11	Zeit	Zeit	_	NN	acc|sg|fem	9	GMOD	_	_
+12	nicht	nicht	_	PTKNEG	_	14	ADV	_	_
+13	ernst	ernst	_	ADJD	pos	14	ADV	_	_
+14	genommen	nehmen	_	VVPP	_	7	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	manchmal	manchmal	_	ADV	_	7	ADV	_	_
+4	sogar	sogar	_	ADV	_	6	ADV	_	_
+5	die	der	_	ART	acc|pl|masc	6	DET	_	_
+6	Täter	Täter	_	NN	acc|pl|masc	7	OBJA	_	_
+7	beschützt	beschützen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+4	schlimmer	schlimm	_	ADJA	comp	5	ATTR	_	_
+5	Fehler	Fehler	_	NN	nom|sg|masc	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	2	ADV	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Ich	ich	_	PPER	nom|sg|*|1	6	SUBJ	_	_
+6	schäme	schämen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+7	mich	mich	_	PRF	acc|sg|1	6	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Marx	Marx	_	NE	nom|sg|*	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|sg|3	7	OBJA	_	_
+4	bei	bei	_	APPR	_	7	PP	_	_
+5	allen	aller	_	PIAT	dat|pl|neut	6	DET	_	_
+6	Opfern	Opfer	_	NN	dat|pl|neut	4	PN	_	_
+7	entschuldigt	entschuldigen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+

@@ -1,0 +1,285 @@
+1	Neue	neu	_	ADJA	acc|pl|masc|pos	2	ATTR	_	_
+2	Moschee	Moschee	_	NN	acc|pl|masc	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Hamburg	Hamburg	_	NE	dat|sg|neut	1	PN	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+5	neue	neu	_	ADJA	acc|sg|fem|pos	6	ATTR	_	_
+6	Moschee	Moschee	_	NN	acc|sg|fem	7	OBJA	_	_
+7	eröffnet	eröffnen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Moschee	Moschee	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	besonderes	besonderer	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Gebäude	Gebäude	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	einer	ein	_	ART	dat|sg|fem	3	DET	_	_
+3	Moschee	Moschee	_	NN	dat|sg|fem	1	PN	_	_
+4	beten	beten	_	ADJA	acc|pl|neut|pos	5	ATTR	_	_
+5	Muslime	Muslim	_	NN	acc|pl|neut	0	S	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Muslime	Muslim	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	gehören	gehören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|masc	2	OBJP	_	_
+4	Islam	Islam	_	NN	dat|sg|masc	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Islam	Islam	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	9	DET	_	_
+5	von	von	_	APPR	_	8	PP	_	_
+6	den	der	_	ART	dat|pl|*	7	DET	_	_
+7	5	5	_	CARD	_	5	PN	_	_
+8	großen	groß	_	ADJA	dat|pl|fem|pos	9	ATTR	_	_
+9	Religionen	Religion	_	NN	dat|pl|fem	3	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	5	DET	_	_
+2	4	4	_	CARD	_	5	ATTR	_	_
+3	anderen	anderer	_	ADJA	dat|pl|neut|pos	5	ATTR	_	_
+4	großen	groß	_	ADJA	dat|pl|neut|pos	5	ATTR	_	_
+5	Religionen	Religion	_	NN	nom|pl|fem	6	SUBJ	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	•	LI	_	XY	nom|sg|neut	0	ROOT	_	_
+9	Das	der	_	ART	nom|sg|neut	10	DET	_	_
+10	Christentum	Christentum	_	NN	nom|sg|neut	6	PRED	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+12	•	LI	_	XY	nom|sg|masc	0	ROOT	_	_
+13	Der	der	_	ART	nom|sg|masc	14	DET	_	_
+14	Hinduismus	Hinduismus	_	NN	nom|sg|masc	10	KON	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+16	•	LI	_	XY	nom|sg|masc	0	ROOT	_	_
+17	Der	der	_	ART	nom|sg|masc	18	DET	_	_
+18	Buddhismus	Buddhismus	_	NN	nom|sg|masc	14	KON	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+20	•	LI	_	XY	_	0	ROOT	_	_
+21	Und	und	_	KON	_	18	KON	_	_
+22	das	der	_	ART	nom|sg|neut	23	DET	_	_
+23	Judentum	Judentum	_	NN	nom|sg|neut	21	CJ	_	_
+24	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Moschee	Moschee	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Hamburg-Horn	Hamburg-Horn	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Horn	Horn	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Stadt·teil	Stadt·teil	_	NN	nom|sg|masc	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Hamburg	Hamburg	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+3	Moschee	Moschee	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+5	früher	früh	_	ADJD	_	4	ADV	_	_
+6	eine	ein	_	ART	nom|sg|fem	7	DET	_	_
+7	Kirche	Kirche	_	NN	nom|sg|fem	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Evangelische	evangelisch	_	ADJA	nom|sg|fem|pos	2	ATTR	_	_
+2	Kirche	Kirche	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	verkauft	verkaufen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Gebäude	Gebäude	_	NN	acc|pl|neut	3	OBJA	_	_
+
+1	Bis	bis	_	APPR	_	5	PP	_	_
+2	zum	zu	_	APPRART	dat|sg|neut	1	PN	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	2	PN	_	_
+4	2002	2002	_	CARD	_	3	ZEIT	_	_
+5	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+6	das	der	_	ART	nom|sg|neut	7	DET	_	_
+7	Gebäude	Gebäude	_	NN	nom|sg|neut	5	PRED	_	_
+8	eine	ein	_	ART	acc|sg|fem	9	DET	_	_
+9	Kirche	Kirche	_	NN	acc|sg|fem	7	GMOD	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Name	Name	_	NN	nom|sg|masc	6	PRED	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Kirche	Kirche	_	NN	dat|sg|fem	3	PN	_	_
+6	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+7	Kapernaum-Kirche	Kapernaum-Kirche	_	NN	nom|sg|fem	6	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Kirche	Kirche	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	von	von	_	APPR	_	3	PRED	_	_
+5	der	der	_	ART	dat|sg|fem	7	DET	_	_
+6	Evangelischen	evangelisch	_	ADJA	dat|sg|fem|pos	7	ATTR	_	_
+7	Kirche	Kirche	_	NN	dat|sg|fem	4	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|sg|fem	6	DET	_	_
+5	Evangelische	evangelisch	_	ADJA	nom|sg|fem|pos	6	ATTR	_	_
+6	Kirche	Kirche	_	NN	nom|sg|fem	3	SUBJ	_	_
+7	mehrere	mehrere	_	PIAT	acc|pl|fem	8	DET	_	_
+8	Kirchen	Kirche	_	NN	acc|pl|fem	9	OBJD	_	_
+9	verkauft	verkaufen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Kapernaum-Kirche	Kapernaum-Kirche	_	NN	nom|sg|fem	0	S	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	Evangelische	evangelisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Kirche	Kirche	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Früher	früher	_	ADJD	comp	8	ADV	_	_
+8	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+9	immer	immer	_	ADV	_	10	ADV	_	_
+10	sehr	sehr	_	ADV	_	11	ADV	_	_
+11	viele	vieler	_	PIAT	nom|pl|masc	12	ATTR	_	_
+12	Menschen	Mensch	_	NN	nom|pl|masc	8	SUBJ	_	_
+13	in	in	_	APPR	_	12	PP	_	_
+14	unseren	unser	_	PPOSAT	dat|pl|neut	15	DET	_	_
+15	Kirchen	Kirche	_	NN	dat|pl|neut	13	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+5	mehr	mehr	_	ADV	_	4	ADV	_	_
+6	so	so	_	ADV	_	7	ADV	_	_
+7	viele	vieler	_	PIAT	acc|pl|masc	8	DET	_	_
+8	Menschen	Mensch	_	NN	acc|pl|masc	3	SUBJ	_	_
+9	in	in	_	APPR	_	3	PRED	_	_
+10	unseren	unser	_	PPOSAT	dat|pl|neut	11	DET	_	_
+11	Kirchen	Kirche	_	NN	dat|pl|neut	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	brauchen	brauchen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+5	mehr	mehr	_	ADV	_	4	ADV	_	_
+6	so	so	_	ADV	_	7	ADV	_	_
+7	viele	vieler	_	PIAT	acc|pl|fem	8	DET	_	_
+8	Kirchen	Kirche	_	NN	acc|pl|fem	2	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	haben	haben	_	VAFIN	pl|1|pres|ind	1	CJ	_	_
+4	wir	wir	_	PPER	nom|pl|*|1	3	SUBJ	_	_
+5	einige	einige	_	PIS	nom|pl|*	9	ADV	_	_
+6	von	von	_	APPR	_	9	PP	_	_
+7	unseren	unser	_	PPOSAT	dat|pl|neut	8	DET	_	_
+8	Kirchen	Kirche	_	NN	dat|pl|neut	6	PN	_	_
+9	verkauft	verkaufen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	5	5	_	CARD	_	2	ATTR	_	_
+2	Jahre	Jahr	_	NN	acc|pl|neut	0	S	_	_
+3	Umbau	Umbau	_	NN	nom|sg|masc	2	APP	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+3	2012	2012	_	CARD	_	2	ZEIT	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Verein	Verein	_	NN	nom|sg|masc	9	OBJA	_	_
+7	das	der	_	ART	acc|sg|neut	8	DET	_	_
+8	Gebäude	Gebäude	_	NN	acc|sg|neut	6	GMOD	_	_
+9	gekauft	kaufen	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieser	dieser	_	PDAT	nom|sg|masc	2	DET	_	_
+2	Verein	Verein	_	NN	nom|sg|masc	3	ZEIT	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+5	islamischer	islamisch	_	ADJA	nom|sg|masc|pos	6	ATTR	_	_
+6	Verein	Verein	_	NN	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Umbau	Umbau	_	NN	nom|sg|masc	9	OBJA	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|neut	5	DET	_	_
+5	Gebäude	Gebäude	_	NN	dat|sg|neut	3	PN	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	5	5	_	CARD	_	8	ATTR	_	_
+8	Jahre	Jahr	_	NN	acc|pl|neut	9	ZEIT	_	_
+9	gedauert	dauern	_	VVPP	_	6	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Umbau	Umbau	_	NN	nom|sg|masc	7	SUBJ	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|neut	6	DET	_	_
+6	Gebäude	Gebäude	_	NN	dat|sg|neut	4	PN	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+8	4	4	_	CARD	_	9	ATTR	_	_
+9	Millionen	Million	_	NN	acc|pl|fem	10	ATTR	_	_
+10	Euro	Euro	_	NN	*|*|masc	11	OBJA2	_	_
+11	gekostet	kosten	_	VVPP	_	7	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Sprecher	Sprecher	_	NN	nom|sg|masc	6	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Moschee	Moschee	_	NN	dat|sg|fem	3	PN	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	gesagt	sagen	_	VVPP	_	6	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Wir	wir	_	PPER	nom|pl|*|1	10	SUBJ	_	_
+10	freuen	freuen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+11	uns	uns	_	PPER	acc|pl|1	10	OBJA	_	_
+12	über	über	_	APPR	_	10	PP	_	_
+13	die	der	_	ART	acc|sg|fem	14	DET	_	_
+14	Eröffnung	Eröffnung	_	NN	acc|sg|fem	12	PN	_	_
+15	von	von	_	APPR	_	14	PP	_	_
+16	der	der	_	ART	dat|sg|fem	17	DET	_	_
+17	Moschee	Moschee	_	NN	dat|sg|fem	15	PN	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Moschee	Moschee	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	noch	noch	_	ADV	_	4	ADV	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	fertig	fertig	_	ADJD	pos	4	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	müssen	müssen	_	VMFIN	pl|1|pres|ind	0	S	_	_
+3	nämlich	nämlich	_	ADV	_	12	ADV	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	12	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	noch	noch	_	ADV	_	12	ADV	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	Turm	Turm	_	NN	acc|sg|masc	12	OBJG	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	der	der	_	ART	dat|sg|fem	11	DET	_	_
+11	Moschee	Moschee	_	NN	dat|sg|fem	9	PN	_	_
+12	reparieren	reparieren	_	VVINF	_	2	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_

@@ -1,0 +1,97 @@
+1	Streiks	Streik	_	NN	nom|pl|masc	0	S	_	_
+2	bei	bei	_	APPR	_	1	PP	_	_
+3	Geld·transport·unternehmen	Geldtransportunternehmen	_	NN	dat|pl|neut	2	PN	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Geld·transporte	Geldtransport	_	NN	nom|pl|*	5	SUBJ	_	_
+3	im	in	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Saarland	Saarland	_	NE	dat|sg|neut	3	PN	_	_
+5	fallen	fallen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	aus	aus	_	PTKVZ	_	5	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Geld·transport·unternehmen	Geldtransportunternehmen	_	NN	dat|pl|fem	1	PN	_	_
+4	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	gestreikt	streiken	_	VVPP	_	4	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Gewerkschaft	Gewerkschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+3	Verdi	Verdi	_	NE	nom|sg|*	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	acc|pl|masc	6	DET	_	_
+6	Mitarbeiter	Mitarbeiter	_	NN	acc|pl|masc	11	OBJA	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Geld·transport·unternehmen	Geldtransportunternehmen	_	NN	dat|pl|neut	7	PN	_	_
+9	zum	zu	_	APPRART	dat|sg|masc	11	OBJP	_	_
+10	Streik	Streik	_	NN	dat|sg|masc	9	PN	_	_
+11	aufgefordert	auffordern	_	VVPP	_	4	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Gewerkschaft	Gewerkschaft	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	fordert	fordern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	mehr	mehr	_	PIAT	*|*|*	5	DET	_	_
+5	Gehalt	Gehalt	_	NN	acc|sg|masc	3	OBJA	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	die	der	_	ART	acc|pl|neut	8	DET	_	_
+8	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	6	PN	_	_
+9	der	der	_	ART	gen|pl|fem	10	DET	_	_
+10	Geld·transport·unternehmen	Geldtransportunternehmen	_	NN	gen|pl|fem	8	GMOD	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Mitarbeiter	Mitarbeiter	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	der	der	_	ART	gen|pl|neut	4	DET	_	_
+4	Unternehmen	Unternehmen	_	NN	gen|pl|neut	2	GMOD	_	_
+5	transportieren	transportieren	_	VVFIN	_	0	S	_	_
+6	Geld	Geld	_	NN	acc|sg|neut	5	OBJA	_	_
+7	von	von	_	APPR	_	5	PP	_	_
+8	Geschäften	Geschäft	_	NN	dat|pl|neut	7	PN	_	_
+9	zu	zu	_	APPR	_	5	PP	_	_
+10	Banken	Bank	_	NN	dat|pl|fem	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	füllen	füllen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	außerdem	außerdem	_	PROAV	_	2	PP	_	_
+4	Geld·automaten	Geldautomat	_	NN	nom|pl|masc	2	OBJA	_	_
+5	auf	auf	_	PTKVZ	_	2	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dazu	dazu	_	PROAV	_	2	PP	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	die	der	_	ART	nom|pl|masc	7	DET	_	_
+7	Autos	Auto	_	NN	nom|pl|masc	5	CJ	_	_
+8	besonders	besonders	_	ADV	_	9	ADV	_	_
+9	gesichert	sichern	_	VVPP	_	10	AUX	_	_
+10	sein	sein	_	VAINF	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Saarland	Saarland	_	NE	dat|sg|masc	1	PN	_	_
+3	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	PDS	nom|sg|neut	3	OBJA	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	8	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	das	der	_	ART	nom|sg|neut	8	DET	_	_
+8	Unternehmen	Unternehmen	_	NN	nom|sg|neut	3	SUBJ	_	_
+9	Prosegur	Prosegur	_	NE	nom|sg|*	8	APP	_	_
+10	aus	aus	_	APPR	_	9	PP	_	_
+11	Neunkirchen	Neunkirchen	_	NE	dat|sg|neut	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	beteiligen	beteiligen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	2	OBJA	_	_
+4	30	30	_	CARD	_	5	ATTR	_	_
+5	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	2	SUBJ	_	_
+6	an	an	_	APPR	_	2	OBJP	_	_
+7	dem	der	_	ART	dat|sg|masc	8	DET	_	_
+8	Steik	Streik	_	NN	dat|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_

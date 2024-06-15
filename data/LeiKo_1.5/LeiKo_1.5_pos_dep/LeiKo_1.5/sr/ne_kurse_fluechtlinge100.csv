@@ -1,0 +1,119 @@
+1	Neue	neu	_	ADJA	nom|pl|masc|pos	2	ATTR	_	_
+2	Kurse	Kurs	_	NN	nom|pl|masc	0	S	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	Flüchtlinge	Flüchtling	_	NN	acc|pl|masc	3	PN	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Anker·Zentrum	Anker·Zentrum	_	NN	nom|sg|neut	5	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Lebach	Lebach	_	NE	dat|sg|neut	3	PN	_	_
+5	bietet	bieten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	bald	bald	_	ADV	_	5	ADV	_	_
+7	neue	neu	_	ADJA	nom|pl|masc|pos	8	ATTR	_	_
+8	Kurse	Kurs	_	NN	nom|pl|masc	5	OBJA	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	Flüchtlinge	Flüchtling	_	NN	acc|pl|masc	9	PN	_	_
+11	an	an	_	PTKVZ	_	5	AVZ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	saarländische	saarländisch	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Innen·minister	Innen·minister	_	NN	nom|sg|masc	5	OBJA	_	_
+4	Bouillon	Bouillon	_	NE	nom|sg|masc	3	APP	_	_
+5	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Wir	wir	_	PPER	nom|pl|*|1	8	SUBJ	_	_
+8	wollen	wollen	_	VMFIN	pl|1|pres|ind	5	S	_	_
+9	die	der	_	ART	acc|pl|fem	10	DET	_	_
+10	Menschen	Mensch	_	NN	acc|pl|masc	14	OBJA	_	_
+11	in	in	_	APPR	_	10	PP	_	_
+12	Lebach	Lebach	_	NE	dat|sg|neut	11	PN	_	_
+13	besser	gut	_	ADJD	comp	14	ADV	_	_
+14	betreuen	betreuen	_	VVINF	_	8	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	den	der	_	ART	dat|pl|neut	4	DET	_	_
+3	neuen	neu	_	ADJA	dat|pl|neut|pos	4	ATTR	_	_
+4	Kursen	Kurs	_	NN	dat|pl|neut	1	PN	_	_
+5	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+6	die	der	_	ART	nom|pl|masc	7	DET	_	_
+7	Flüchtlinge	Flüchtling	_	NN	nom|pl|masc	11	OBJA	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	•	LI	_	CARD	acc|pl|fem|pos	0	ROOT	_	_
+10	Schwimmen	Schwimme	_	NN	acc|pl|fem	11	OBJA	_	_
+11	lernen	lernen	_	VVINF	_	5	AUX	_	_
+12	•	LI	_	CARD	_	0	ROOT	_	_
+13	Fahrrad·fahren	Fahrrad·fahr	_	NN	nom|pl|fem	14	OBJA	_	_
+14	lernen	lernen	_	VVINF	_	11	KON	_	_
+15	•	LI	_	VAFIN	dat|pl|fem|3	0	ROOT	_	_
+16	sich	sich	_	PRF	acc|sg|3	22	OBJA	_	_
+17	über	über	_	APPR	_	21	PP	_	_
+18	Gewalt	Gewalt	_	NN	acc|sg|fem	17	PN	_	_
+19	und	und	_	KON	_	18	KON	_	_
+20	Schutz	Schutz	_	NN	acc|sg|masc	19	CJ	_	_
+21	beraten	beraten	_	VVINF	_	22	AUX	_	_
+22	lassen	lassen	_	VVINF	_	14	KON	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Lebach	Lebach	_	NE	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	bereits	bereits	_	ADV	_	3	ADV	_	_
+6	Kurse	Kurs	_	NN	acc|pl|masc	3	OBJA	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	Flüchtlinge	Flüchtling	_	NN	acc|pl|masc	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	S	_	_
+2	Musik·kurse	Musik·kurs	_	NN	nom|pl|masc	0	S	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	Kinder	Kind	_	NN	acc|pl|neut	3	PN	_	_
+
+1	•	LI	_	XY	nom|pl|masc|pos	0	S	_	_
+2	Mal·kurse	Mal·kurs	_	NN	nom|pl|masc	0	S	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	Kinder	Kind	_	NN	acc|pl|neut	3	PN	_	_
+
+1	•	LI	_	XY	_	0	S	_	_
+2	wie	wie	_	PWAV	_	6	ADV	_	_
+3	man	man	_	PIS	nom|sg|*	0	S	_	_
+4	kaputte	kaputt	_	ADJA	acc|pl|masc|pos	5	ATTR	_	_
+5	Gegenstände	Gegenstand	_	NN	acc|pl|masc	3	GMOD	_	_
+6	repariert	reparieren	_	VVPP	_	0	S	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	die	der	_	ART	acc|pl|masc	5	DET	_	_
+5	Kurse	Kurs	_	NN	acc|pl|masc	2	OBJA	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Ziel	Ziel	_	NN	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	den	der	_	ART	dat|pl|masc	6	DET	_	_
+6	Flüchtlingen	Flüchtling	_	NN	dat|pl|masc	11	OBJD	_	_
+7	bei	bei	_	APPR	_	11	OBJP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Integration	Integration	_	NN	dat|sg|fem	7	PN	_	_
+10	zu	zu	_	PTKZU	_	11	PART	_	_
+11	helfen	helfen	_	VVINF	_	2	SUBJC	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	sie	sie	_	PPER	nom|pl|*|3	5	SUBJ	_	_
+5	sollen	sollen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+6	sich	sich	_	PRF	acc|pl|3	10	OBJA	_	_
+7	in	in	_	APPR	_	10	PP	_	_
+8	Deutschland	Deutschland	_	NE	dat|sg|neut	7	PN	_	_
+9	besser	gut	_	ADJD	comp	10	ADV	_	_
+10	zurecht·finden	zurechfinden	_	VVIZU	_	5	OBJI	_	_
+11	.	--	_	$.	_	0	ROOT	_	_

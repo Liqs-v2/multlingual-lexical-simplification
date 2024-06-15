@@ -1,0 +1,300 @@
+﻿1	Ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+2	sehe	sehen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+3	gut	gut	_	ADJD	pos	2	ADV	_	_
+4	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	5	SUBJ	_	_
+3	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Rollstuhl	Rollstuhl	_	NN	dat|sg|masc	3	PN	_	_
+5	veröffentlichen	veröffentlichen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	zusammen	zusammen	_	PTKVZ	_	5	AVZ	_	_
+7	Fotos	Foto	_	NN	nom|pl|neut	5	OBJA	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	sich	sich	_	PRF	acc|pl|3	8	PN	_	_
+10	im	in	_	APPRART	dat|sg|neut	8	PP	_	_
+11	Internet	Internet	_	NN	dat|sg|neut	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+4	das	der	_	PDS	acc|sg|neut	2	OBJA	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Internet	Internet	_	NN	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Plattform	Plattform	_	NN	acc|sg|fem	3	ETH	_	_
+7	"Twitter"	"Twitter"	_	NE	nom|sg|*	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	veröffentlichen	veröffentlichen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	hier	hier	_	ADV	_	3	ADV	_	_
+5	Nachrichten	Nachricht	_	NN	acc|pl|fem	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	veröffentlichen	veröffentlichen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	kurze	kurz	_	ADJA	acc|pl|masc|pos	4	ATTR	_	_
+4	Texte	Text	_	NN	acc|pl|masc	2	PN	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	Videos	Video	_	NN	nom|pl|masc	4	KON	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	auch	auch	_	ADV	_	9	ADV	_	_
+9	Fotos	Foto	_	NN	acc|pl|neut	7	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	veröffentlichen	veröffentlichen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	oft	oft	_	ADV	_	2	ADV	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	Nachrichten	Nachricht	_	NN	nom|pl|fem	2	OBJA	_	_
+6	zu	zu	_	APPR	_	2	PP	_	_
+7	einem	ein	_	ART	dat|sg|neut	8	DET	_	_
+8	Thema	Thema	_	NN	dat|sg|neut	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	in	in	_	APPR	_	2	PRED	_	_
+6	den	der	_	ART	acc|sg|masc	8	DET	_	_
+7	vergangenen	vergangen	_	ADJA	acc|sg|masc|pos	8	ATTR	_	_
+8	Tagen	Tag	_	NN	acc|sg|masc	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Fotos	Foto	_	NN	acc|pl|neut	9	ADV	_	_
+5	von	von	_	APPR	_	9	PP	_	_
+6	sich	sich	_	PRF	acc|pl|3	5	PN	_	_
+7	im	in	_	APPRART	dat|sg|masc	9	PP	_	_
+8	Rollstuhl	Rollstuhl	_	NN	dat|sg|masc	7	PN	_	_
+9	veröffentlicht	veröffentlichen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	dafür	dafür	_	PROAV	_	5	DET	_	_
+4	ein	ein	_	ART	acc|sg|neut	5	DET	_	_
+5	Schlagwort	Schlagwort	_	NN	acc|sg|neut	9	OBJA	_	_
+6	in	in	_	APPR	_	9	PP	_	_
+7	ihre	ihr	_	PPOSAT	acc|pl|neut	8	DET	_	_
+8	Nachrichten	Nachricht	_	NN	acc|pl|neut	6	PN	_	_
+9	geschrieben	schreiben	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Schlagwort	Schlagwort	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Hot	hot	_	APPR	_	3	PRED	_	_
+6	Person	Person	_	NN	dat|pl|fem	5	PN	_	_
+7	In	in	_	APPR	_	6	PP	_	_
+8	A	--	_	NE	dat|sg|neut	7	PN	_	_
+9	Wheelchair	Wheelchair	_	NE	dat|sg|neut	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	3	PP	_	_
+2	Deutsch	Deutsch	_	NN	acc|sg|neut	1	PN	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	PDS	nom|sg|neut	3	SUBJ	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Gut	gut	_	ADJD	pos	7	ADV	_	_
+7	aussehende	aussehend	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Person	Person	_	NN	acc|sg|fem	0	S	_	_
+9	in	in	_	APPR	_	3	PP	_	_
+10	einem	ein	_	ART	dat|sg|neut	11	DET	_	_
+11	Rollstuhl	Rollstuhl	_	NN	dat|sg|neut	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	13	OBJA	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	dieses	dieser	_	PDAT	acc|sg|neut	5	DET	_	_
+5	Schlagwort	Schlagwort	_	NN	acc|sg|neut	6	OBJG	_	_
+6	weiterverbreitet	weiterverbreiten	_	VVPP	_	3	AUX	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	immer	immer	_	ADV	_	9	ADV	_	_
+9	weiter	weiter	_	ADV	_	13	ADV	_	_
+10	neue	neu	_	ADJA	nom|pl|masc|pos	11	ATTR	_	_
+11	Fotos	Foto	_	NN	nom|pl|masc	13	OBJA	_	_
+12	dazu	dazu	_	PROAV	_	11	DET	_	_
+13	veröffentlicht	veröffentlichen	_	VVPP	_	7	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Alle	aller	_	PIAT	acc|pl|fem	2	DET	_	_
+2	Fotos	Foto	_	NN	acc|pl|fem	3	OBJD	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	hier	hier	_	ADV	_	3	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	6	ETH	_	_
+5	das	der	_	ART	acc|sg|neut	0	S	_	_
+6	gemacht	machen	_	VVPP	_	2	AUX	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Moderator	Moderator	_	NN	nom|sg|masc	8	OBJD	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	Amerika	Amerika	_	NE	dat|sg|neut	3	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	eine	ein	_	ART	nom|sg|fem	7	DET	_	_
+7	Nachricht	Nachricht	_	NN	nom|sg|fem	0	S	_	_
+8	veröffentlicht	veröffentlichen	_	VVPP	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Moderator	Moderator	_	NN	nom|sg|masc	3	PRED	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Ken	Ken	_	NE	nom|sg|masc	3	PRED	_	_
+5	Jennings	Jenning	_	NE	gen|sg|masc	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	auf	auf	_	APPR	_	5	PP	_	_
+4	Twitter	Twitter	_	NN	acc|pl|masc	3	PN	_	_
+5	geschrieben	schreiben	_	VVPP	_	2	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Es	es	_	PPER	nom|sg|neut|3	8	SUBJ	_	_
+8	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	nichts	nichts	_	PIS	*|*|neut	8	OBJA	_	_
+10	traurigeres	traurig	_	PPER	acc|sg|neut|comp	8	OBJD	_	_
+11	als	als	_	APPR	_	8	PP	_	_
+12	eine	ein	_	ART	acc|sg|fem	15	DET	_	_
+13	gut	gut	_	ADJD	pos	14	ADV	_	_
+14	aussehende	aussehend	_	ADJA	acc|sg|fem|pos	15	ATTR	_	_
+15	Person	Person	_	NN	acc|sg|fem	11	PN	_	_
+16	in	in	_	APPR	_	8	PP	_	_
+17	einem	ein	_	ART	dat|sg|neut	18	DET	_	_
+18	Rollstuhl	Rollstuhl	_	NN	dat|sg|neut	16	PN	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	OBJA	_	_
+3	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	dieser	dieser	_	PDAT	nom|sg|masc	5	DET	_	_
+5	Satz	Satz	_	NN	nom|sg|masc	3	ETH	_	_
+6	wütend	wütend	_	ADJD	pos	3	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Amerikanerin	Amerikanerin	_	NN	nom|sg|fem	6	OBJA	_	_
+4	Annie	Annie	_	NE	nom|sg|fem	3	APP	_	_
+5	Elainey	Elainey	_	NE	nom|sg|fem	4	APP	_	_
+6	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	der	der	_	ART	nom|sg|masc	8	DET	_	_
+8	Satz	Satz	_	NN	nom|sg|masc	6	ETH	_	_
+9	wütend	wütend	_	ADJD	pos	6	ADV	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	sitzt	sitzen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	selbst	selbst	_	ADV	_	2	ADV	_	_
+4	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+5	Rollstuhl	Rollstuhl	_	NN	dat|sg|masc	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	auf	auf	_	APPR	_	6	OBJP	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Satz	Satz	_	NN	acc|sg|masc	3	PN	_	_
+6	reagiert	reagieren	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	acc|sg|neut	4	DET	_	_
+4	Foto	Foto	_	NN	acc|sg|neut	9	OBJA	_	_
+5	von	von	_	APPR	_	9	PP	_	_
+6	sich	sich	_	PRF	acc|sg|3	5	PN	_	_
+7	auf	auf	_	APPR	_	9	PP	_	_
+8	Twitter	Twitter	_	NN	acc|sg|fem	7	PN	_	_
+9	veröffentlicht	veröffentlichen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Foto	Foto	_	NN	nom|sg|neut	3	OBJA	_	_
+3	sieht	sehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	so	so	_	ADV	_	3	ADV	_	_
+5	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	OBJA	_	_
+3	fanden	finden	_	VVFIN	pl|3|past|ind	0	S	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Reaktion	Reaktion	_	NN	acc|sg|fem	3	OBJA	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Annie	Annie	_	NE	nom|sg|fem	6	PN	_	_
+8	Elainey	Elainey	_	NE	dat|sg|fem	7	APP	_	_
+9	gut	gut	_	ADJD	pos	3	ADV	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	deshalb	deshalb	_	PROAV	_	6	DET	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	Fotos	Foto	_	NN	nom|pl|neut	11	OBJA	_	_
+7	von	von	_	APPR	_	11	PP	_	_
+8	sich	sich	_	PRF	acc|pl|3	7	PN	_	_
+9	im	in	_	APPRART	dat|sg|masc	11	PP	_	_
+10	Rollstuhl	Rollstuhl	_	NN	dat|sg|masc	9	PN	_	_
+11	veröffentlicht	veröffentlichen	_	VVPP	_	3	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|*	3	DET	_	_
+3	Fotos	Foto	_	NN	dat|pl|*	1	PN	_	_
+4	setzen	setzen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	sie	sie	_	PPER	nom|pl|*|3	4	SUBJ	_	_
+6	sich	sich	_	PRF	acc|pl|3	4	OBJA	_	_
+7	gegen	gegen	_	APPR	_	4	PP	_	_
+8	Vorurteile	Vorurteil	_	NN	acc|pl|masc	7	PN	_	_
+9	gegenüber	gegenüber	_	APPR	_	4	PP	_	_
+10	Rollstuhl-Fahrern	Rollstuhl-Fahrer	_	NN	dat|pl|masc	9	PN	_	_
+11	ein	ein	_	PTKVZ	_	4	AVZ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	zeigen	zeigen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Ich	ich	_	PPER	nom|sg|*|1	2	OBJD	_	_
+5	fühle	fühlen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+6	mich	mich	_	PPER	acc|sg|1	5	OBJA	_	_
+7	wohl	wohl	_	ADV	_	5	ADV	_	_
+8	in	in	_	APPR	_	5	PP	_	_
+9	meinem	mein	_	PPOSAT	dat|sg|neut	10	DET	_	_
+10	Rollstuhl	Rollstuhl	_	NN	dat|sg|neut	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+2	sehe	sehen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+3	gut	gut	_	ADJD	pos	2	ADV	_	_
+4	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	3	ADV	_	_
+2	einige	einige	_	PIAT	acc|pl|neut	3	DET	_	_
+3	Bilder	Bild	_	NN	acc|pl|neut	0	S	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	Twitter	Twitter	_	NN	dat|sg|masc	4	PN	_	_
+6	im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+7	Überblick	Überblick	_	NN	dat|sg|masc	6	PN	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+

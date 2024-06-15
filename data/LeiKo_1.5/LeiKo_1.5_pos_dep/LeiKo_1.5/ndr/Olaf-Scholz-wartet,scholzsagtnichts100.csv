@@ -1,0 +1,247 @@
+1	Olaf	Olaf	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Scholz	Scholz	_	NE	nom|sg|masc	1	APP	_	_
+3	wartet	warten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Hamburg	Hamburg	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Presse·konferenz	Presse·konferenz	_	NN	nom|sg|fem	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Presse·konferenz	Presse·konferenz	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Veranstaltung	Veranstaltung	_	NN	nom|sg|fem	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dieser	dieser	_	PDAT	dat|sg|fem	3	DET	_	_
+3	Veranstaltung	Veranstaltung	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Journalisten	Journalist	_	NN	nom|pl|masc	4	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Journalist	Journalist	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	arbeitet	arbeiten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	für	für	_	PTKVZ	_	3	PP	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	•	LI	_	XY	_	0	ROOT	_	_
+9	Das	der	_	ART	nom|sg|neut	10	DET	_	_
+10	Fernsehen	Fernsehen	_	NN	nom|sg|neut	6	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+12	•	LI	_	XY	_	0	ROOT	_	_
+13	Oder	oder	_	KON	_	10	KON	_	_
+14	das	der	_	ART	nom|sg|neut	15	DET	_	_
+15	Radio	Radio	_	NN	nom|sg|neut	13	CJ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	bei	bei	_	APPR	_	5	PP	_	_
+3	der	der	_	ART	dat|sg|fem	4	DET	_	_
+4	Veranstaltung	Veranstaltung	_	NN	dat|sg|fem	2	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+6	bekannte	bekannt	_	ADJA	nom|pl|masc|pos	7	ATTR	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|pl|masc	0	ROOT	_	_
+2	Politiker	Politiker	_	NN	nom|pl|masc	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	pl|3|pres|ind	0	ROOT	_	_
+2	Oder	oder	_	KON	_	0	S	_	_
+3	Sportler	Sportler	_	NN	nom|pl|masc	2	CJ	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	bekannten	bekannt	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	beantworten	beantworten	_	VVFIN	pl|3|past|ind	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	Fragen	Frage	_	NN	acc|pl|fem	4	OBJA	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	den	der	_	ART	dat|pl|masc	10	DET	_	_
+10	Journalisten	Journalist	_	NN	dat|pl|masc	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Presse·konferenz	Presse·konferenz	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	mit	mit	_	APPR	_	3	PP	_	_
+5	Olaf	Olaf	_	NE	nom|sg|masc	4	PN	_	_
+6	Scholz	Scholz	_	NE	dat|sg|masc	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Olaf	Olaf	_	NE	nom|sg|masc	3	PRED	_	_
+2	Scholz	Scholz	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Bürger·meister	Bürger·meister	_	NN	nom|sg|masc	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Bürger·meister	Bürger·meister	_	NN	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Chef	Chef	_	NN	nom|sg|masc	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+8	Stadt	Stadt	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Olaf	Olaf	_	NE	nom|sg|masc	4	SUBJ	_	_
+3	Scholz	Scholz	_	NE	nom|sg|masc	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	von	von	_	APPR	_	4	PRED	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	SPD	SPD	_	NE	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	SPD	SPD	_	NE	nom|sg|fem	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Sozial·demokratische	sozial·demokratisch	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Partei	Partei	_	NN	nom|sg|fem	5	PN	_	_
+8	Deutschlands	Deutschland	_	NE	gen|sg|neut	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Presse·konferenz	Presse·konferenz	_	NN	nom|sg|fem	0	S	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Presse·konferenz	Presse·konferenz	_	NN	dat|sg|fem	1	PN	_	_
+4	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	viele	vieler	_	PIAT	nom|pl|masc	7	ATTR	_	_
+7	Journalisten	Journalist	_	NN	nom|pl|masc	4	SUBJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Journalisten	Journalist	_	NN	nom|pl|masc	5	OBJA	_	_
+3	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+5	wissen	wissen	_	VVINF	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Braucht	Braucht	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	Hamburg	Hamburg	_	NE	nom|sg|neut	7	SUBJ	_	_
+9	einen	ein	_	ART	acc|sg|masc	11	DET	_	_
+10	neuen	neu	_	ADJA	acc|sg|masc|pos	11	ATTR	_	_
+11	Bürger·meister	Bürger·meister	_	NN	acc|sg|masc	7	OBJA	_	_
+12	?	--	_	$.	_	0	ROOT	_	_
+
+1	Vor	vor	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Presse·konferenz	Presse·konferenz	_	NN	dat|sg|fem	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Fach·leute	Fach·leute	_	NN	nom|pl|*	7	ADV	_	_
+6	nämlich	nämlich	_	ADV	_	7	ADV	_	_
+7	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Olaf	Olaf	_	NN	nom|sg|masc	11	SUBJ	_	_
+10	Scholz	Scholz	_	NE	nom|sg|masc	9	APP	_	_
+11	verlässt	verlässen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+12	vielleicht	vielleicht	_	ADV	_	11	ADV	_	_
+13	bald	bald	_	ADV	_	11	ADV	_	_
+14	Hamburg	Hamburg	_	NE	nom|sg|neut	11	PRED	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Olaf	Olaf	_	NE	nom|sg|masc	4	SUBJ	_	_
+3	Scholz	Scholz	_	NE	nom|sg|masc	2	APP	_	_
+4	arbeitet	arbeiten	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	vielleicht	vielleicht	_	ADV	_	4	ADV	_	_
+6	bald	bald	_	ADV	_	4	ADV	_	_
+7	in	in	_	APPR	_	4	PP	_	_
+8	Berlin	Berlin	_	NE	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Berlin	Berlin	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Haupt·stadt	Haupt·stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Deutschland	Deutschland	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	acc|pl|masc	2	DET	_	_
+2	Journalisten	Journalist	_	NN	acc|pl|masc	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Olaf	Olaf	_	NN	acc|sg|masc	6	OBJA2	_	_
+5	Scholz	Scholz	_	NE	acc|sg|masc	4	APP	_	_
+6	gefragt	fragen	_	VVPP	_	3	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Verlassen	verlassen	_	NN	pl|3|pres|ind	0	S	_	_
+9	Sie	sie	_	PPER	nom|pl|*|3	8	APP	_	_
+10	bald	bald	_	ADV	_	8	ADV	_	_
+11	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PAR	_	_
+12	?	--	_	$.	_	0	ROOT	_	_
+
+1	Olaf	Olaf	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Scholz	Scholz	_	NE	nom|sg|masc	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Ich	ich	_	PPER	nom|sg|*|1	7	SUBJ	_	_
+7	kann	können	_	VMFIN	sg|1|pres|ind	0	S	_	_
+8	noch	noch	_	ADV	_	10	ADV	_	_
+9	nicht	nicht	_	PTKNEG	_	10	ADV	_	_
+10	sagen	sagen	_	VVINF	_	7	AUX	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+12	Ich	ich	_	PPER	nom|sg|*|1	13	SUBJ	_	_
+13	verlasse	verlassen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+14	Hamburg	Hamburg	_	NE	dat|sg|neut	13	OBJA	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	ich	ich	_	PPER	nom|sg|*|1	3	OBJA	_	_
+3	verlasse	verlassen	_	VVFIN	sg|1|pres|ind	1	CJ	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	OBJA	_	_
+5	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+2	muss	muss	_	VVFIN	sg|1|pres|ind	0	S	_	_
+3	nämlich	nämlich	_	ADV	_	2	ADV	_	_
+4	noch	noch	_	ADV	_	9	ADV	_	_
+5	auf	auf	_	APPR	_	9	OBJP	_	_
+6	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+7	große	groß	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Abstimmung	Abstimmung	_	NN	acc|sg|fem	5	PN	_	_
+9	warten	warten	_	VVINF	_	2	OBJI	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Abstimmung	Abstimmung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	von	von	_	APPR	_	3	PRED	_	_
+5	den	der	_	ART	dat|pl|neut	6	DET	_	_
+6	Mitgliedern	Mitglied	_	NN	dat|pl|neut	4	PN	_	_
+7	von	von	_	APPR	_	3	PRED	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	SPD	SPD	_	NE	dat|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+3	Abstimmung	Abstimmung	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	in	in	_	APPR	_	4	PRED	_	_
+6	den	der	_	ART	dat|pl|fem	8	DET	_	_
+7	nächsten	nächster	_	ADJA	dat|pl|fem|pos	8	ATTR	_	_
+8	Wochen	Woche	_	NN	dat|pl|fem	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_

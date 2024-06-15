@@ -1,0 +1,386 @@
+1	Friedliche	friedlich	_	ADJA	nom|pl|fem|pos	2	ATTR	_	_
+2	Demonstrationen	Demonstration	_	NN	nom|pl|fem	0	S	_	_
+3	am	an	_	APPRART	dat|sg|masc	2	PP	_	_
+4	1.	1.	_	ADJA	dat|sg|masc|pos	5	ATTR	_	_
+5	Mai	Mai	_	NN	dat|sg|masc	3	PN	_	_
+
+1	In	in	_	APPR	_	6	PP	_	_
+2	vielen	vieler	_	PIAT	dat|pl|fem	3	DET	_	_
+3	Städten	Stadt	_	NN	dat|pl|fem	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Deutschland	Deutschland	_	NE	dat|sg|neut	4	PN	_	_
+6	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+7	Demonstrationen	Demonstration	_	NN	nom|pl|fem	6	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	einer	ein	_	ART	dat|sg|fem	3	DET	_	_
+3	Demonstration	Demonstration	_	NN	dat|sg|fem	1	PN	_	_
+4	gehen	gehen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	4	PAR	_	_
+7	gemeinsam	gemeinsam	_	ADJD	pos	6	ADV	_	_
+8	durch	durch	_	APPR	_	4	PP	_	_
+9	die	der	_	ART	acc|sg|fem	10	DET	_	_
+10	Stadt	Stadt	_	NN	acc|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	mit	mit	_	APPR	_	3	PP	_	_
+5	etwas	etwas	_	PIS	*|*|neut	4	PN	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	einverstanden	einverstanden	_	ADJD	pos	3	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	7	DET	_	_
+2	rufen	rufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	laut	laut	_	APPR	_	2	PP	_	_
+6	ihre	ihr	_	PPOSAT	acc|sg|fem	7	DET	_	_
+7	Meinung	Meinung	_	NN	acc|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Demonstrationen	Demonstration	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	am	an	_	APPRART	dat|sg|masc	3	PRED	_	_
+5	1.	1.	_	ADJA	dat|sg|masc|pos	6	ATTR	_	_
+6	Mai	Mai	_	NN	dat|sg|masc	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	bei	bei	_	APPR	_	5	PP	_	_
+3	den	der	_	ART	dat|pl|fem	4	DET	_	_
+4	Demonstrationen	Demonstration	_	NN	dat|pl|fem	2	PN	_	_
+5	waren	sein	_	VAFIN	pl|3|past|ind	1	CJ	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	viele	vieler	_	PIAT	nom|pl|masc	8	ATTR	_	_
+8	Menschen	Mensch	_	NN	nom|pl|masc	5	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	in	in	_	APPR	_	7	PP	_	_
+3	vielen	vieler	_	PIAT	dat|pl|fem	4	DET	_	_
+4	Städten	Stadt	_	NN	dat|pl|fem	2	PN	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Nord·deutschland	Nord·deutschland	_	NE	dat|sg|neut	5	PN	_	_
+7	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+8	Demonstrationen	Demonstration	_	NN	nom|pl|fem	7	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	In	in	_	APPR	_	0	S	_	_
+3	Lehrte	Lehrte	_	NN	dat|sg|fem	2	PN	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Lehrte	lehrte	_	NN	nom|sg|fem	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	In	in	_	APPR	_	0	S	_	_
+3	Kiel	Kiel	_	NE	dat|sg|neut	2	PN	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kiel	Kiel	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Hauptstadt	Hauptstadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	In	in	_	APPR	_	0	S	_	_
+3	Rostock	Rostock	_	NE	dat|sg|neut	2	PN	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Rostock	Rostock	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|sg|*	0	ROOT	_	_
+2	Und	und	_	KON	_	0	S	_	_
+3	in	in	_	APPR	_	2	CJ	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Demonstrationen	Demonstration	_	NN	nom|pl|fem	0	S	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Demonstrationen	Demonstration	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	von	von	_	APPR	_	3	PRED	_	_
+5	den	der	_	ART	dat|pl|fem	6	DET	_	_
+6	Gewerkschaften	Gewerkschaft	_	NN	dat|pl|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Gewerkschaft	Gewerkschaft	_	NN	nom|sg|fem	3	OBJD	_	_
+3	hilft	helfen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Mitarbeitern	Mitarbeiter	_	NN	dat|pl|masc	3	OBJA	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	7	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	bei	bei	_	APPR	_	3	PP	_	_
+8	einem	ein	_	ART	dat|sg|masc	9	DET	_	_
+9	Streit	Streit	_	NN	dat|sg|masc	7	PN	_	_
+10	mit	mit	_	APPR	_	9	PP	_	_
+11	der	der	_	ART	dat|sg|fem	12	DET	_	_
+12	Firma	Firma	_	NN	dat|sg|fem	10	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Gewerkschaft	Gewerkschaft	_	NN	nom|sg|fem	3	OBJA	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|pl|masc	8	DET	_	_
+8	Arbeiter	Arbeiter	_	NN	nom|pl|masc	9	SUBJ	_	_
+9	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+10	mehr	mehr	_	PIAT	*|*|*	11	DET	_	_
+11	Geld	Geld	_	NN	acc|sg|neut	12	OBJA	_	_
+12	bekommen	bekommen	_	VVINF	_	9	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Demonstrationen	Demonstration	_	NN	dat|pl|fem	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|fem	6	DET	_	_
+6	Gewerkschaften	Gewerkschaft	_	NN	nom|pl|fem	9	ETH	_	_
+7	zum	zu	_	APPRART	dat|sg|neut	9	PP	_	_
+8	Beispiel	Beispiel	_	NN	dat|sg|neut	7	PN	_	_
+9	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+11	Viele	vieler	_	PIAT	nom|pl|masc	12	ATTR	_	_
+12	Menschen	Mensch	_	NN	nom|pl|masc	13	SUBJ	_	_
+13	bekommen	bekommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+14	für	für	_	APPR	_	13	PP	_	_
+15	ihre	ihr	_	PPOSAT	acc|sg|fem	16	DET	_	_
+16	Arbeit	Arbeit	_	NN	acc|sg|fem	14	PN	_	_
+17	zu	zu	_	PTKA	_	19	ADV	_	_
+18	wenig	wenig	_	PIAT	*|*|*	19	ATTR	_	_
+19	Geld	Geld	_	NN	acc|sg|neut	13	OBJA	_	_
+20	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+4	gerecht	gerecht	_	ADJD	pos	2	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	wollen	wollen	_	VMFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Jeder	jeder	_	PIAT	nom|sg|masc	6	DET	_	_
+6	Arbeiter	Arbeiter	_	NN	nom|sg|masc	0	S	_	_
+7	muss	muss	_	ADV	_	9	ADV	_	_
+8	gerecht	gerecht	_	ADJD	pos	9	ADV	_	_
+9	behandelt	behandeln	_	VVPP	_	10	AUX	_	_
+10	werden	werden	_	VAINF	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Arbeiter	Arbeiter	_	NN	nom|pl|masc	6	SUBJ	_	_
+6	sollen	sollen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+7	zum	zu	_	APPRART	dat|sg|neut	11	PP	_	_
+8	Beispiel	Beispiel	_	NN	dat|sg|neut	7	PN	_	_
+9	mehr	mehr	_	PIAT	*|*|*	10	DET	_	_
+10	Geld	Geld	_	NN	acc|sg|neut	11	OBJA	_	_
+11	bekommen	bekommen	_	VVFIN	_	6	KON	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	1.	1.	_	ADJA	*|*|*|pos	3	ATTR	_	_
+3	Mai	Mai	_	NN	nom|pl|fem	0	S	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Gewerkschaften	Gewerkschaft	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	jedes	jeder	_	PIAT	acc|sg|neut	5	DET	_	_
+5	Jahr	Jahr	_	NN	acc|sg|neut	3	ZEIT	_	_
+6	Demonstrationen	Demonstration	_	NN	nom|pl|fem	3	OBJA	_	_
+7	am	an	_	APPRART	dat|sg|masc	6	PP	_	_
+8	1.	1.	_	ADJA	dat|sg|masc|pos	9	ATTR	_	_
+9	Mai	Mai	_	NN	dat|sg|masc	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	1.	1.	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Mai	Mai	_	NN	nom|sg|masc	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Feier·tag	Feier·tag	_	NN	nom|sg|masc	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	An	an	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|masc	3	DET	_	_
+3	Feier·tag	Feier·tag	_	NN	dat|sg|masc	1	PN	_	_
+4	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	7	DET	_	_
+6	meisten	meister	_	PIAT	nom|pl|masc	7	DET	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+8	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+9	arbeiten	arbeiten	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	1.	1.	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Mai	Mai	_	NN	nom|sg|masc	4	PRED	_	_
+4	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Tag	Tag	_	NN	acc|sg|masc	4	PRED	_	_
+7	der	der	_	ART	gen|sg|fem	8	DET	_	_
+8	Arbeit	Arbeit	_	NN	gen|sg|fem	6	GMOD	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	4	DET	_	_
+3	1.	1.	_	ADJA	nom|sg|masc|pos	4	ATTR	_	_
+4	Mai	Mai	_	NN	nom|sg|masc	5	PRED	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+7	Gedenk·tag	Gedenk·tag	_	NN	nom|sg|masc	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einige	einiger	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	denken	denken	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	am	an	_	APPRART	dat|sg|masc	3	PP	_	_
+5	1.	1.	_	ADJA	dat|sg|masc|pos	6	ATTR	_	_
+6	Mai	Mai	_	NN	dat|sg|masc	4	PN	_	_
+7	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+8	an	an	_	APPR	_	3	OBJP	_	_
+9	ein	ein	_	ART	acc|sg|neut	11	DET	_	_
+10	wichtiges	wichtig	_	ADJA	acc|sg|neut|pos	11	ATTR	_	_
+11	Ereignis	Ereignis	_	NN	acc|sg|neut	8	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	5	PP	_	_
+2	1.	1.	_	ADJA	dat|sg|masc|pos	3	ATTR	_	_
+3	Mai	Mai	_	NN	dat|sg|masc	1	PN	_	_
+4	1886	1886	_	CARD	_	3	ZEIT	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	Arbeiter	Arbeiter	_	NN	nom|pl|masc	12	OBJA	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	Nord·amerika	Nord·amerika	_	NE	dat|sg|neut	7	PN	_	_
+9	für	für	_	APPR	_	12	PP	_	_
+10	ihre	ihr	_	PPOSAT	acc|pl|neut	11	DET	_	_
+11	Rechte	Recht	_	NN	acc|pl|neut	9	PN	_	_
+12	gekämpft	kämpfen	_	VVPP	_	5	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	für	für	_	APPR	_	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+5	gerechte	gerecht	_	ADJA	acc|sg|fem|pos	6	ATTR	_	_
+6	Bezahlung	Bezahlung	_	NN	acc|sg|fem	3	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Keine	kein	_	PIAT	nom|sg|fem	2	DET	_	_
+2	Krawalle	Krawall	_	NN	nom|sg|fem	0	S	_	_
+
+1	Oft	Oft	_	NN	_	2	PRED	_	_
+2	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+3	am	an	_	APPRART	dat|sg|masc	2	PRED	_	_
+4	1.	1.	_	ADJA	dat|sg|masc|pos	5	ATTR	_	_
+5	Mai	Mai	_	NN	dat|sg|masc	3	PN	_	_
+6	Krawalle	Krawalle	_	NE	nom|sg|*	2	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	3	PP	_	_
+2	Krawallen	Krawalle	_	NN	dat|pl|fem	1	PN	_	_
+3	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	3	OBJA	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	7	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	mit	mit	_	APPR	_	3	PP	_	_
+8	Absicht	Absicht	_	NN	dat|sg|fem	7	PN	_	_
+9	Feuer	Feuer	_	NN	nom|sg|neut	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	OBJA	_	_
+4	machen	machen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	Fenster·scheiben	Fenster·scheiben	_	NN	acc|pl|fem	4	OBJA	_	_
+6	kaputt	kaputt	_	PTKVZ	_	4	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Krawalle	Krawalle	_	NN	nom|sg|fem	0	S	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	2	NEB	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	6	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	in	in	_	APPR	_	2	PP	_	_
+7	Hamburg	Hamburg	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+3	Krawalle	Krawall	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	waren	sein	_	VAFIN	pl|3|past|ind	1	CJ	_	_
+5	oft	oft	_	ADV	_	4	ADV	_	_
+6	nach	nach	_	APPR	_	4	PP	_	_
+7	den	der	_	ART	dat|pl|fem	8	DET	_	_
+8	Demonstrationen	Demonstration	_	NN	dat|pl|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	dieses	dieser	_	PDAT	acc|sg|neut	3	DET	_	_
+3	Jahr	Jahr	_	NN	acc|sg|neut	4	ZEIT	_	_
+4	waren	sein	_	VAFIN	pl|3|past|ind	1	CJ	_	_
+5	keine	kein	_	PIAT	nom|sg|fem	6	DET	_	_
+6	Krawalle	Krawalle	_	NN	nom|sg|fem	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	So	so	_	ADV	_	7	ADV	_	_
+7	friedlich	friedlich	_	ADJD	pos	8	ADV	_	_
+8	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+9	die	der	_	ART	nom|pl|*	10	DET	_	_
+10	Demonstrationen	Demonstration	_	NN	nom|pl|*	8	ETH	_	_
+11	lange	lange	_	ADV	_	8	ADV	_	_
+12	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+13	mehr	mehr	_	ADV	_	12	ADV	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	hatten	haben	_	VAFIN	pl|1|past|ind	0	S	_	_
+3	nur	nur	_	ADV	_	6	ADV	_	_
+4	sehr	sehr	_	ADV	_	5	ADV	_	_
+5	wenige	weniger	_	PIAT	acc|pl|masc	6	DET	_	_
+6	Einsätze	Einsatz	_	NN	acc|pl|masc	2	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Darüber	darüber	_	PROAV	_	0	DET	_	_
+2	freuen	freuen	_	VVFIN	pl|1|pres|ind	1	DET	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	uns	uns	_	PRF	acc|pl|1	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_

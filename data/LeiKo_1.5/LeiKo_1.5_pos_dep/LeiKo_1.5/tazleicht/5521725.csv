@@ -1,0 +1,364 @@
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	gegen	gegen	_	APPR	_	2	PP	_	_
+4	Belgien	Belgien	_	NE	acc|sg|neut	3	PN	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	französische	französisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	sich	sich	_	PRF	acc|sg|3	6	OBJA	_	_
+6	freuen	freuen	_	VVINF	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	zieht	ziehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	WM-Finale	WM-Finale	_	NN	acc|sg|neut	3	PN	_	_
+6	ein	ein	_	PTKVZ	_	2	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	zieht	ziehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	WM-Finale	WM-Finale	_	NN	acc|sg|neut	3	PN	_	_
+6	ein	ein	_	PTKVZ	_	2	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Belgien	Belgien	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	scheidet	scheiden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	WM	WM	_	NN	dat|sg|fem	3	PN	_	_
+6	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	4	ADV	_	_
+2	alle	aller	_	PIAT	acc|pl|masc	4	DET	_	_
+3	wichtigen	wichtig	_	ADJA	acc|pl|masc|pos	4	ATTR	_	_
+4	Infos	Info	_	NN	acc|pl|masc	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Spiel	Spiel	_	NN	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	ging	gehen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Belgien	Belgien	_	NE	nom|sg|neut	2	OBJD	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	kein	kein	_	PIAT	nom|sg|masc	4	DET	_	_
+4	Tor	Tor	_	NN	nom|sg|masc	2	PAR	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	PRED	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Tor	Tor	_	NN	nom|sg|masc	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	OBJA	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	lief	laufen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	ab	ab	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	beginnt	beginnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Frankreich	Frankreich	_	NE	nom|sg|neut	3	OBJA	_	_
+3	schießt	schießen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Bälle	Ball	_	NN	acc|sg|fem	3	OBJA	_	_
+6	erstmal	erstmal	_	ADV	_	3	ADV	_	_
+7	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+8	ordentlich	ordentlich	_	ADJD	pos	3	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	mehrere	mehrere	_	PIAT	acc|pl|masc	4	DET	_	_
+4	Fehl-Pässe	Fehl-Pässe	_	NN	acc|pl|masc	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	acc|pl|*	6	DET	_	_
+5	französischen	französisch	_	ADJA	gen|pl|masc|pos	6	ATTR	_	_
+6	Spieler	Spieler	_	NN	gen|pl|masc	7	PN	_	_
+7	schießen	schießen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+8	den	der	_	ART	acc|sg|masc	9	DET	_	_
+9	Ball	Ball	_	NN	acc|sg|masc	7	ETH	_	_
+10	ihren	ihr	_	PPOSAT	dat|pl|neut	11	DET	_	_
+11	Mitspielern	Mitspieler	_	NN	dat|pl|neut	9	GMOD	_	_
+12	nicht	nicht	_	PTKNEG	_	13	ADV	_	_
+13	genau	genau	_	ADJD	pos	2	ADV	_	_
+14	genug	genug	_	ADV	_	13	ADV	_	_
+15	zu	zu	_	PTKVZ	_	7	AVZ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	vergeben	vergeben	_	VVFIN	_	0	S	_	_
+3	die	der	_	ART	nom|pl|fem	4	DET	_	_
+4	Franzosen	Franzose	_	NN	nom|pl|fem	2	SUBJ	_	_
+5	einige	einiger	_	PIAT	nom|pl|fem|pos	6	DET	_	_
+6	Tor-Chancen	Tor-Chance	_	NN	nom|pl|fem	2	ADV	_	_
+7	an	an	_	APPR	_	2	PP	_	_
+8	den	der	_	ART	acc|sg|masc	9	DET	_	_
+9	Gegner	Gegner	_	NN	acc|sg|masc	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Belgien	Belgien	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	erst	erst	_	ADV	_	4	ADV	_	_
+4	einmal	einmal	_	ADV	_	2	ADV	_	_
+5	die	der	_	ART	nom|sg|fem	7	DET	_	_
+6	stärkere	stark	_	ADJA	nom|sg|fem|comp	7	ATTR	_	_
+7	Mannschaft	Mannschaft	_	NN	nom|sg|fem	2	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	belgischen	belgisch	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	tanzen	tanzen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	mit	mit	_	APPR	_	4	PP	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	lauern	lauern	_	ADJD	_	6	CJ	_	_
+8	auf	auf	_	APPR	_	4	PP	_	_
+9	den	der	_	ART	acc|sg|masc	10	DET	_	_
+10	Ball	Ball	_	NN	acc|sg|masc	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	Frankreich	Frankreich	_	NE	nom|sg|neut	1	CJ	_	_
+3	kann	können	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+4	immer	immer	_	ADV	_	8	ADV	_	_
+5	auf	auf	_	APPR	_	8	OBJP	_	_
+6	einen	ein	_	ART	acc|sg|masc	7	DET	_	_
+7	Spieler	Spieler	_	NN	acc|sg|masc	5	PN	_	_
+8	setzen	setzen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Kylian	Kylian	_	NE	*|*|*	2	PRED	_	_
+4	Mbappé	Mbappé	_	NE	nom|sg|*	3	APP	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	erst	erst	_	ADV	_	5	ADV	_	_
+4	19	19	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	6	GRAD	_	_
+6	alt	alt	_	ADJD	pos	2	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	wahnsinnig	wahnsinnig	_	ADJD	pos	2	ADV	_	_
+4	schnell	schnell	_	ADJD	pos	2	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	Ball	Ball	_	NN	acc|sg|masc	2	OBJA	_	_
+5	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+6	Spiel	Spiel	_	NN	dat|sg|masc	5	PN	_	_
+7	immer	immer	_	ADV	_	2	ADV	_	_
+8	in	in	_	APPR	_	2	PP	_	_
+9	die	der	_	ART	acc|sg|fem	11	DET	_	_
+10	richtige	richtig	_	ADJA	acc|sg|fem|pos	11	ATTR	_	_
+11	Richtung	Richtung	_	NN	acc|sg|fem	8	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Bild	Bild	_	NN	nom|sg|neut	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Kylian	Kylian	_	NE	*|*|*	5	PN	_	_
+7	Mbappé	Mbappé	_	NE	dat|sg|*	6	APP	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	französische	französisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	steigt	steigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	so	so	_	ADV	_	6	ADV	_	_
+6	immer	immer	_	ADV	_	7	ADV	_	_
+7	mehr	mehr	_	ADV	_	4	ADV	_	_
+8	ins	in	_	APPRART	acc|sg|neut	4	PP	_	_
+9	Spiel	Spiel	_	NN	acc|sg|neut	8	PN	_	_
+10	ein	ein	_	PTKVZ	_	4	AVZ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	immer	immer	_	ADV	_	4	ADV	_	_
+4	mehr	mehr	_	PIAT	*|*|*	5	DET	_	_
+5	Einsatz	Einsatz	_	NN	acc|sg|masc	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	4	ADV	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Frankreich	Frankreich	_	NE	nom|sg|neut	5	OBJA	_	_
+5	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+6	einen	ein	_	ART	acc|sg|masc	7	DET	_	_
+7	Eckball	Eckball	_	NN	acc|sg|masc	5	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	OBJA	_	_
+4	nutzt	nutzen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Chance	Chance	_	NN	acc|sg|fem	4	OBJA	_	_
+7	!	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Ball	Ball	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	landet	landen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+5	Tor	Tor	_	NN	dat|sg|masc	4	PN	_	_
+6	!	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	französische	französisch	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Tor-Schütze	Tor-Schütze	_	NN	nom|sg|masc	4	PRED	_	_
+4	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	Samuel	Samuel	_	NE	nom|sg|*	4	PRED	_	_
+6	Umtiti	Umtiti	_	NE	acc|sg|*	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Bild	Bild	_	NN	nom|sg|neut	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	diesem	dieser	_	PDAT	dat|sg|neut	7	DET	_	_
+7	Moment	Moment	_	NN	dat|sg|neut	5	PN	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	6	PP	_	_
+2	den	der	_	ART	dat|pl|masc	5	DET	_	_
+3	letzten	letzter	_	ADJA	dat|pl|masc|pos	5	ATTR	_	_
+4	30	30	_	CARD	_	5	ATTR	_	_
+5	Minuten	Minute	_	NN	dat|pl|fem	1	PN	_	_
+6	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	Frankreich	Frankreich	_	NE	dat|sg|neut	6	SUBJ	_	_
+8	noch	noch	_	ADV	_	9	ADV	_	_
+9	mehr	mehr	_	PIAT	*|*|*	10	DET	_	_
+10	Leidenschaft	Leidenschaft	_	NN	acc|sg|fem	6	OBJG	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	kennt	kennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	gar	gar	_	ADV	_	2	ADV	_	_
+5	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+6	von	von	_	APPR	_	2	PP	_	_
+7	französischen	französisch	_	ADJA	dat|pl|*|pos	8	ATTR	_	_
+8	Mannschaften	Mannschaft	_	NN	dat|pl|*	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	stark	stark	_	ADJD	pos	2	ADV	_	_
+4	in	in	_	APPR	_	2	PRED	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Abwehr	Abwehr	_	NN	dat|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	klug	klug	_	ADJD	pos	3	ADV	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	konzentriert	konzentrieren	_	ADJD	pos	5	CJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	OBJA	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	verdient	verdienen	_	VVFIN	sg|3|pres|ind	2	KON	_	_
+4	und	und	_	KON	_	3	S	_	_
+5	zieht	ziehen	_	VVFIN	sg|3|pres|ind	4	CJ	_	_
+6	ins	in	_	APPRART	acc|sg|neut	5	PP	_	_
+7	WM-Finale	WM-Finale	_	NN	acc|sg|neut	6	PN	_	_
+8	ein	ein	_	PTKVZ	_	5	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	5	DET	_	_
+4	dritte	dritter	_	ADJA	nom|sg|neut|pos	5	ATTR	_	_
+5	Mal	Mal	_	NN	nom|sg|neut	2	PRED	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	dass	dass	_	KOUS	_	12	KONJ	_	_
+8	eine	ein	_	ART	nom|sg|fem	10	DET	_	_
+9	französische	französisch	_	ADJA	nom|sg|fem|pos	10	ATTR	_	_
+10	Mannschaft	Mannschaft	_	NN	nom|sg|fem	12	SUBJ	_	_
+11	das	der	_	PDS	nom|sg|neut	12	SUBJ	_	_
+12	schafft	schaffen	_	VVFIN	sg|3|pres|ind	5	OBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ob	ob	_	KOUS	_	8	KONJ	_	_
+2	Frankreich	Frankreich	_	NE	nom|sg|neut	7	PRED	_	_
+3	sein	sein	_	PPOSAT	nom|sg|neut	5	DET	_	_
+4	spielerisches	spielerisch	_	ADJA	nom|sg|neut|pos	5	ATTR	_	_
+5	Können	können	_	NN	nom|sg|neut	7	ETH	_	_
+6	dort	dort	_	ADV	_	7	ADV	_	_
+7	halten	halten	_	VVINF	_	8	AUX	_	_
+8	kann	können	_	VMFIN	sg|3|pres|ind	0	NEB	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	werden	werden	_	VAFIN	pl|1|pres|ind	0	S	_	_
+3	sehen	sehen	_	VVINF	_	2	AUX	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Schade	schade	_	ADJD	pos	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	trotzdem	trotzdem	_	PROAV	_	2	DET	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	dass	dass	_	KOUS	_	9	KONJ	_	_
+6	die	der	_	ART	nom|pl|masc	7	DET	_	_
+7	Belgier	Belgier	_	NN	nom|pl|masc	9	SUBJ	_	_
+8	draußen	draußen	_	ADV	_	9	ADV	_	_
+9	sind	sein	_	VAFIN	pl|3|pres|ind	2	SUBJC	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	belgische	belgisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	galt	gelten	_	VVFIN	sg|3|past|ind	0	S	_	_
+5	als	als	_	APPR	_	4	PP	_	_
+6	Geheim-Favorit	Geheim-Favorit	_	NN	nom|sg|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	viele	vieler	_	PIAT	nom|pl|*	3	DET	_	_
+3	Fans	Fan	_	NN	nom|pl|*	4	SUBJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Mannschaft	Mannschaft	_	NN	acc|sg|fem	8	ZEIT	_	_
+7	lieb	leiben	_	ADJD	pos	8	ADV	_	_
+8	gewonnen	gewinnen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_

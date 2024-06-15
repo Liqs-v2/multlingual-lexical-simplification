@@ -1,0 +1,699 @@
+1	Ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+2	das	der	_	PDS	nom|sg|neut	1	ETH	_	_
+3	zu	zu	_	PTKA	_	5	ADV	_	_
+4	viel	viel	_	PIAT	*|*|*	5	ATTR	_	_
+5	Nachspielzeit	Nachspielzeit	_	NN	acc|sg|fem	1	PRED	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Fußball-WM	Fußball-WM	_	NN	dat|sg|fem	1	PN	_	_
+4	2018	2018	_	CARD	_	3	APP	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	oft	oft	_	ADV	_	5	ADV	_	_
+8	lange	lang	_	ADJA	acc|pl|neut|pos	9	ATTR	_	_
+9	Nachspielzeiten	Nachspielzeit	_	NN	acc|pl|neut	5	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	gerecht	gerecht	_	ADJD	pos	3	ADV	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	PDS	nom|sg|neut	3	ETH	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	WM	WM	_	NN	dat|sg|fem	1	PN	_	_
+4	2018	2018	_	CARD	_	3	APP	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	eine	ein	_	ART	nom|sg|fem	7	DET	_	_
+7	Sache	Sache	_	NN	nom|sg|fem	5	ETH	_	_
+8	sehr	sehr	_	ADV	_	9	ADV	_	_
+9	auffällig	auffällig	_	ADJD	pos	5	PRED	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	bei	bei	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|neut	5	DET	_	_
+5	Fußball-Spielen	Fußball-Spiel	_	NN	dat|pl|neut	3	PN	_	_
+6	besonders	besonders	_	ADV	_	7	ADV	_	_
+7	viel	viel	_	PIAT	*|*|*	8	ATTR	_	_
+8	Nachspielzeit	Nachspielzeit	_	NN	acc|sg|fem	2	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Spiele	Spiel	_	NN	nom|sg|fem	3	OBJA	_	_
+3	dauern	dauern	_	VVFIN	_	0	S	_	_
+4	manchmal	manchmal	_	ADV	_	3	ADV	_	_
+5	bis	bis	_	ADV	_	3	ADV	_	_
+6	zu	zu	_	ADV	_	7	ADV	_	_
+7	9	9	_	CARD	_	8	ATTR	_	_
+8	Minuten	Minute	_	NN	dat|pl|fem	9	GRAD	_	_
+9	länger	lang	_	ADJD	comp	3	ADV	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Unsere	unser	_	PPOSAT	nom|sg|fem	3	DET	_	_
+2	2	2	_	CARD	_	3	ATTR	_	_
+3	taz-Autoren	taautoen	_	NN	nom|pl|masc	4	OBJA	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	zur	zu	_	APPRART	dat|sg|fem	4	PP	_	_
+6	Nachspielzeit	Nachspielzeit	_	NN	dat|sg|fem	5	PN	_	_
+7	sehr	sehr	_	ADV	_	8	ADV	_	_
+8	verschiedene	verschieden	_	ADJA	acc|pl|fem|pos	9	ATTR	_	_
+9	Meinungen	Meinung	_	NN	acc|pl|fem	4	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	taz-Autor	taz-autor	_	KOUS	_	4	KONJ	_	_
+2	Jaris	Jaris	_	NE	nom|sg|masc	4	PRED	_	_
+3	Lanzendörfer	Lanzendörfer	_	NN	nom|sg|masc	0	S	_	_
+4	findet	finden	_	VVFIN	sg|3|pres|ind	7	REL	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Nachspielzeit	Nachspielzeit	_	NN	nom|sg|fem	7	OBJA	_	_
+7	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	das	der	_	ART	nom|sg|neut	9	DET	_	_
+9	Spiel	Spiel	_	NN	nom|sg|neut	7	ETH	_	_
+10	gerechter	gerecht	_	ADJD	comp	7	ADV	_	_
+11	!	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	taz-Autorin	taz-autorin	_	NN	nom|sg|fem	5	ADV	_	_
+3	Doris	Doris	_	NE	nom|sg|fem	5	PRED	_	_
+4	Akrap	Akrap	_	NE	nom|sg|fem	3	APP	_	_
+5	findet	finden	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Nachspielzeit	Nachspielzeit	_	NN	nom|sg|fem	8	PRED	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	5	S	_	_
+9	was	was	_	PIS	nom|sg|neut	8	PRED	_	_
+10	für	für	_	APPR	_	9	PP	_	_
+11	Langweiler	Langweiler	_	NN	acc|pl|masc	10	PN	_	_
+12	!	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	was	was	_	PWS	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Nachspielzeit	Nachspielzeit	_	NN	nom|sg|fem	3	PAR	_	_
+6	eigentlich	eigentlich	_	ADV	_	5	ADV	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Regeln	Regel	_	NN	nom|sg|fem	4	OBJA	_	_
+3	dazu	dazu	_	PROAV	_	2	DET	_	_
+4	lauten	lauten	_	VVINF	_	0	S	_	_
+5	so	so	_	ADV	_	4	ADV	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Fußball-Spiel	Fußball-Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	normalerweise	normalerweise	_	ADV	_	3	ADV	_	_
+5	90	90	_	CARD	_	6	ATTR	_	_
+6	Minuten	Minute	_	NN	acc|pl|fem	3	ZEIT	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Doch	doch	_	KON	_	0	S	_	_
+2	oft	oft	_	ADV	_	3	ADV	_	_
+3	werden	werden	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	Fußball-Spiele	Fußball-Spiel	_	NN	nom|pl|fem	3	SUBJ	_	_
+5	zwischendurch	zwischendurch	_	ADV	_	6	ADV	_	_
+6	unterbrochen	unterbrechen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	PPER	_	6	ROOT	_	_
+2	wenn	wenn	_	KOUS	_	0	S	_	_
+3	sich	sich	_	PRF	acc|sg|3	6	OBJA	_	_
+4	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+5	Spieler	Spieler	_	NN	nom|sg|masc	6	OBJG	_	_
+6	verletzt	verletzen	_	VVPP	_	0	S	_	_
+
+1	•	LI	_	$.	_	0	ROOT	_	_
+2	wenn	wenn	_	KOUS	_	6	KONJ	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Spieler	Spieler	_	NN	nom|sg|masc	5	OBJD	_	_
+5	ausgewechselt	auswechseln	_	VVPP	_	6	AUX	_	_
+6	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|masc	3	DET	_	_
+3	Momenten	Moment	_	NN	dat|pl|masc	1	PN	_	_
+4	unterbricht	unterbrechen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Schiedsrichter	Schiedsrichter	_	NN	nom|sg|masc	4	OBJD	_	_
+7	das	der	_	ART	acc|sg|neut	8	DET	_	_
+8	Spiel	Spiel	_	NN	acc|sg|neut	6	GMOD	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	also	also	_	ADV	_	2	ADV	_	_
+4	Zeit	Zeit	_	NN	acc|sg|fem	2	ZEIT	_	_
+5	verloren	verlieren	_	VVPP	_	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Zeit	Zeit	_	NN	nom|sg|fem	6	ETH	_	_
+3	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	am	an	_	APPRART	dat|sg|neut	6	PP	_	_
+5	Spiel-Ende	Spiel-Ende	_	NN	dat|sg|neut	4	PN	_	_
+6	nachgeholt	nachholen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	dann	dann	_	ADV	_	3	ADV	_	_
+5	ein	ein	_	ART	*|*|*	6	DET	_	_
+6	paar	paar	_	PIAT	*|*|*	7	DET	_	_
+7	Minuten	Minute	_	NN	acc|pl|fem	3	SUBJ	_	_
+8	länger	lang	_	ADJD	comp	3	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	acc|sg|neut	2	OBJA2	_	_
+2	nennt	nennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	Nachspielzeit	Nachspielzeit	_	NN	acc|sg|fem	2	OBJA2	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Schiedsrichter	Schiedsrichter	_	NN	nom|sg|masc	3	OBJA	_	_
+3	entscheidet	entscheiden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	wie	wie	_	PWAV	_	9	ADV	_	_
+6	viel	viel	_	PIAT	*|*|*	7	ATTR	_	_
+7	Nachspielzeit	Nachspielzeit	_	NN	acc|sg|fem	9	SUBJ	_	_
+8	es	es	_	PPER	nom|sg|neut|3	9	OBJA	_	_
+9	gibt	geben	_	VVFIN	sg|3|pres|ind	3	OBJC	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	taz-Autor	taz-autor	_	KOUS	_	4	KONJ	_	_
+2	Jaris	Jaris	_	NE	nom|sg|masc	4	PRED	_	_
+3	Lanzendörfer	Lanzendörfer	_	NN	nom|sg|masc	0	S	_	_
+4	findet	finden	_	VVFIN	sg|3|pres|ind	7	REL	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Nachspielzeit	Nachspielzeit	_	NN	nom|sg|fem	7	OBJA	_	_
+7	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	das	der	_	ART	nom|sg|neut	9	DET	_	_
+9	Spiel	Spiel	_	NN	nom|sg|neut	7	ETH	_	_
+10	gerechter	gerecht	_	ADJD	comp	7	ADV	_	_
+11	!	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	nennt	nennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	acc|sg|neut	4	DET	_	_
+4	Beispiel	Beispiel	_	NN	acc|sg|neut	2	PAR	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+
+1	2	2	_	CARD	_	2	ATTR	_	_
+2	Fußball-Mannschaften	Fußball-Mannschaft	_	NN	nom|pl|fem	3	OBJA	_	_
+3	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	gegeneinander	gegeneinander	_	ADV	_	3	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	nennen	nennen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+4	hier	hier	_	ADV	_	2	ADV	_	_
+5	Mannschaft	Mannschaft	_	NN	acc|sg|fem	2	OBJA2	_	_
+6	A	--	_	NE	acc|sg|fem	2	OBJA2	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	Mannschaft	Mannschaft	_	NE	acc|sg|fem	7	CJ	_	_
+9	B	B	_	NE	_	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	bald	bald	_	ADV	_	3	ADV	_	_
+5	zu	zu	_	APPR	_	10	OBJP	_	_
+6	Ende	Ende	_	NN	dat|sg|neut	5	PN	_	_
+7	und	und	_	KON	_	5	KON	_	_
+8	Mannschaft	Mannschaft	_	NN	dat|sg|fem	7	CJ	_	_
+9	A	--	_	NE	nom|sg|*	8	APP	_	_
+10	führt	führen	_	VVFIN	sg|3|pres|ind	3	KON	_	_
+11	gegen	gegen	_	APPR	_	10	PP	_	_
+12	Mannschaft	Mannschaft	_	NN	acc|sg|fem	11	PN	_	_
+13	B	B.	_	NN	acc|sg|fem	10	OBJA	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	SUBJ	_	_
+2	A	--	_	NE	nom|sg|fem	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	also	also	_	ADV	_	3	ADV	_	_
+5	gute	gut	_	ADJA	acc|pl|fem|pos	6	ATTR	_	_
+6	Chancen	Chance	_	NN	acc|pl|fem	3	OBJA	_	_
+7	auf	auf	_	APPR	_	6	PP	_	_
+8	den	der	_	ART	acc|sg|masc	9	DET	_	_
+9	Sieg	Sieg	_	NN	acc|sg|masc	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	bei	bei	_	APPR	_	6	PP	_	_
+4	Fußball-Spielen	Fußball-Spiel	_	NN	dat|pl|masc	3	PN	_	_
+5	oft	oft	_	ADV	_	6	ADV	_	_
+6	dasselbe	derselbe	_	VVFIN	sg|3|pres|subj	2	KON	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Damit	damit	_	PROAV	_	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	6	OBJA	_	_
+3	A	--	_	NE	nom|sg|fem	2	APP	_	_
+4	ihre	ihr	_	PPOSAT	nom|sg|fem	5	DET	_	_
+5	Führung	Führung	_	NN	nom|sg|fem	6	OBJA	_	_
+6	behält	behalten	_	VVFIN	sg|3|pres|ind	8	S	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	arbeitet	arbeiten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	sie	sie	_	PPER	nom|sg|fem|3	8	SUBJ	_	_
+10	nun	nun	_	ADV	_	8	ADV	_	_
+11	mit	mit	_	APPR	_	8	PP	_	_
+12	einen	ein	_	ART	acc|sg|masc	13	DET	_	_
+13	Trick	Trick	_	NN	acc|sg|masc	11	PN	_	_
+14	:	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	verschwendet	verschwenden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	absichtlich	absichtlich	_	ADJD	pos	2	ADV	_	_
+4	Zeit	Zeit	_	NN	acc|sg|fem	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Mannschaft	Mannschaft	_	NN	acc|sg|fem	2	OBJD	_	_
+4	A	--	_	NE	acc|sg|fem	3	APP	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	so	so	_	ADV	_	2	ADV	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	$(	_	0	ROOT	_	_
+2	Sie	sie	_	PPER	nom|sg|fem|3	3	SUBJ	_	_
+3	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	langsamer	langsam	_	ADJD	comp	3	ADV	_	_
+5	bei	bei	_	APPR	_	3	PP	_	_
+6	Einwürfen	Einwurf	_	NN	dat|pl|masc	5	PN	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	Eckbällen	Eckball	_	NN	dat|pl|masc	6	KON	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	Abstößen	Abstoß	_	NN	dat|pl|masc	9	CJ	_	_
+11	vorm	vor	_	APPRART	dat|sg|masc	10	PP	_	_
+12	Tor	Tor	_	NN	dat|sg|masc	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Sie	sie	_	PPER	nom|sg|fem|3	3	SUBJ	_	_
+3	wechselt	wechseln	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	öfter	öfter	_	ADV	_	3	ADV	_	_
+5	Spieler	Spieler	_	NN	acc|pl|masc	3	OBJA	_	_
+6	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Oder	oder	_	KON	_	0	S	_	_
+3	sie	sie	_	PPER	nom|sg|fem|3	4	SUBJ	_	_
+4	täuscht	täuschen	_	VVFIN	sg|3|pres|ind	2	CJ	_	_
+5	Verletzungen	Verletzung	_	NN	acc|pl|fem	4	OBJA	_	_
+6	vor	vor	_	PTKVZ	_	4	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	alles	alle	_	PIS	nom|sg|neut	3	OBJA	_	_
+3	unterbricht	unterbrechen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	acc|sg|neut	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	das	der	_	PDS	nom|sg|neut	4	OBJA	_	_
+3	alles	alle	_	PIS	nom|sg|neut	4	OBJA	_	_
+4	verbraucht	verbrauchen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	viel	viel	_	PIAT	*|*|*	6	ATTR	_	_
+6	Spielzeit	Spielzeit	_	NN	acc|sg|fem	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Spielzeit	Spielzeit	_	NN	nom|sg|fem	3	OBJD	_	_
+3	fehlt	fehlen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Mannschaft	Mannschaft	_	NN	acc|sg|fem	3	SUBJ	_	_
+5	B	B	_	PTKVZ	_	3	AVZ	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	um	um	_	KOUI	_	10	KONJ	_	_
+8	Tore	Tor	_	NN	acc|pl|masc	10	OBJA	_	_
+9	zu	zu	_	PTKZU	_	10	PART	_	_
+10	schießen	schießen	_	VVINF	_	3	NEB	_	_
+11	und	und	_	KON	_	10	KON	_	_
+12	den	der	_	ART	acc|sg|masc	13	DET	_	_
+13	Rückstand	Rückstand	_	NN	acc|sg|masc	14	OBJD	_	_
+14	aufzuholen	aufholen	_	VVIZU	_	11	CJ	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jaris	Jaris	_	NE	nom|sg|neut	3	PRED	_	_
+2	Lanzendörfer	Lanzendörfer	_	NN	nom|sg|neut	1	APP	_	_
+3	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Solche	solcher	_	PIAT	acc|pl|fem	6	DET	_	_
+6	Verschwendungen	Verschwendung	_	NN	acc|pl|fem	9	OBJA	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Spielzeit	Spielzeit	_	NN	dat|sg|fem	7	PN	_	_
+9	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+10	es	es	_	PPER	nom|sg|neut|3	9	SUBJ	_	_
+11	bei	bei	_	APPR	_	9	PP	_	_
+12	der	der	_	ART	dat|sg|fem	13	DET	_	_
+13	WM	WM	_	NN	dat|sg|fem	11	PN	_	_
+14	öfter	öfter	_	ADJD	_	9	ADV	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	verschwendete	verschwenden	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Zeit	Zeit	_	NN	nom|sg|fem	5	OBJD	_	_
+4	muss	muss	_	NE	_	3	GMOD	_	_
+5	nachgeholt	nachholen	_	VVPP	_	6	AUX	_	_
+6	werden	werden	_	VAINF	_	0	S	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mehr	mehr	_	PIAT	*|*|*	2	DET	_	_
+2	Nachspielzeit	Nachspielzeit	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+5	gerecht	gerecht	_	ADJD	pos	3	ADV	_	_
+6	!	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	im	in	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Rückstand	Rückstand	_	NN	dat|sg|neut	3	PN	_	_
+5	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+6	in	in	_	APPR	_	11	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Nachspielzeit	Nachspielzeit	_	NN	dat|sg|fem	6	PN	_	_
+9	noch	noch	_	ADV	_	11	ADV	_	_
+10	Tore	Tor	_	NN	nom|pl|neut	0	S	_	_
+11	schießen	schießen	_	VVINF	_	5	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	WM	WM	_	NN	dat|sg|fem	1	PN	_	_
+4	gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	in	in	_	APPR	_	4	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Nachspielzeit	Nachspielzeit	_	NN	dat|sg|fem	6	PN	_	_
+9	einige	einiger	_	PIAT	acc|pl|masc	11	DET	_	_
+10	wichtige	wichtig	_	ADJA	acc|pl|masc|pos	11	ATTR	_	_
+11	Tore	Tor	_	NN	acc|pl|masc	4	OBJA	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	beim	bei	_	APPRART	dat|sg|neut	0	S	_	_
+4	Spiel	Spiel	_	NN	dat|sg|neut	3	PN	_	_
+5	Deutschland	Deutschland	_	NE	nom|sg|neut	4	APP	_	_
+6	gegen	gegen	_	APPR	_	4	PP	_	_
+7	Schweden	Schweden	_	NE	acc|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	schoss	schoss	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	5	DET	_	_
+4	deutsche	deutsch	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Spieler	Spieler	_	NN	nom|sg|masc	2	SUBJ	_	_
+6	Toni	Toni	_	NE	nom|sg|masc	2	ETH	_	_
+7	Kroos	Kroos	_	NE	nom|sg|masc	6	APP	_	_
+8	das	der	_	ART	acc|sg|neut	10	DET	_	_
+9	entscheidende	entscheidend	_	ADJA	acc|sg|neut|pos	10	ATTR	_	_
+10	Tor	Tor	_	NN	acc|sg|neut	2	ETH	_	_
+11	erst	erst	_	ADV	_	2	ADV	_	_
+12	in	in	_	APPR	_	2	PP	_	_
+13	der	der	_	ART	dat|sg|fem	15	DET	_	_
+14	95.	95	_	CARD	_	15	ATTR	_	_
+15	Minute	Minute	_	NN	dat|sg|fem	12	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Foto	Foto	_	NN	nom|sg|neut	2	SUBJ	_	_
+5	von	von	_	APPR	_	2	PRED	_	_
+6	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+7	Tor	Tor	_	NN	dat|sg|masc	5	PN	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	beim	bei	_	APPRART	dat|sg|masc	1	CJ	_	_
+3	Spiel	Spiel	_	NN	dat|sg|masc	2	PN	_	_
+4	England	England	_	NE	nom|sg|neut	3	APP	_	_
+5	gegen	gegen	_	APPR	_	3	PP	_	_
+6	Tunesien	Tunesien	_	NE	acc|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	schoss	schoss	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	5	DET	_	_
+4	englische	englisch	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Spieler	Spieler	_	NN	nom|sg|masc	2	SUBJ	_	_
+6	Harry	Harry	_	NE	nom|sg|masc	2	ETH	_	_
+7	Kane	Kane	_	NE	nom|sg|masc	6	APP	_	_
+8	das	der	_	ART	acc|sg|neut	10	DET	_	_
+9	entscheidende	entscheidend	_	ADJA	acc|sg|neut|pos	10	ATTR	_	_
+10	Tor	Tor	_	NN	acc|sg|neut	2	ETH	_	_
+11	erst	erst	_	ADV	_	2	ADV	_	_
+12	in	in	_	APPR	_	2	PP	_	_
+13	der	der	_	ART	dat|sg|fem	15	DET	_	_
+14	91.	91	_	CARD	_	15	ATTR	_	_
+15	Minute	Minute	_	NN	dat|sg|fem	12	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Foto	Foto	_	NN	nom|sg|neut	2	SUBJ	_	_
+5	von	von	_	APPR	_	2	PRED	_	_
+6	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+7	Tor	Tor	_	NN	dat|sg|masc	5	PN	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	taz-Autorin	taz-autorin	_	VVFIN	_	7	NEB	_	_
+2	Doris	Doris	_	NE	gen|sg|*	0	S	_	_
+3	Akrap	Akrap	_	NE	nom|sg|*	2	APP	_	_
+4	findet	finden	_	VVFIN	sg|3|pres|ind	1	REL	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Nachspielzeit	Nachspielzeit	_	NN	nom|sg|fem	1	OBJA	_	_
+7	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	was	was	_	PIS	nom|sg|neut	7	PRED	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	Langweiler	Langweiler	_	NN	acc|pl|masc	9	PN	_	_
+11	!	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Zeit	Zeit	_	NN	nom|sg|fem	7	ZEIT	_	_
+5	zu	zu	_	PTKZU	_	6	PART	_	_
+6	verschwenden	verschwenden	_	VVINF	_	4	SUBJC	_	_
+7	ist	sein	_	VAFIN	sg|3|pres|ind	2	S	_	_
+8	in	in	_	APPR	_	7	PRED	_	_
+9	Ordnung	Ordnung	_	NN	dat|sg|fem	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	im	in	_	APPRART	dat|sg|masc	0	S	_	_
+3	Fußball	Fußball	_	NN	dat|sg|masc	2	PN	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	Fußball-Spieler	Fußball-Spieler	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|masc	7	PP	_	_
+5	Spiel	Spiel	_	NN	dat|sg|masc	4	PN	_	_
+6	mal	mal	_	ADV	_	7	ADV	_	_
+7	trödeln	trödeln	_	VVINF	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	mal	mal	_	ADV	_	7	ADV	_	_
+4	durch	durch	_	APPR	_	7	PP	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Gegend	Gegend	_	NN	acc|sg|fem	4	PN	_	_
+7	gucken	gucken	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	11	OBJA	_	_
+4	mal	mal	_	ADV	_	11	ADV	_	_
+5	Zeit	Zeit	_	NN	acc|sg|fem	9	PAR	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	Einwurf	Einwurf	_	NN	acc|sg|masc	6	PN	_	_
+9	oder	oder	_	KON	_	4	KON	_	_
+10	Freistoß	Freistoß	_	NN	acc|sg|masc	9	CJ	_	_
+11	lassen	lassen	_	VVINF	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+4	die	der	_	ART	nom|pl|masc	7	DET	_	_
+5	ganzen	ganz	_	ADJA	nom|pl|masc|pos	7	ATTR	_	_
+6	90	90	_	CARD	_	7	ATTR	_	_
+7	Minuten	Minute	_	NN	acc|pl|fem	8	ZEIT	_	_
+8	laufen	laufen	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kleine	klein	_	ADJA	nom|pl|fem|pos	2	ATTR	_	_
+2	Verschnauf-Pausen	Verschnauf-Pausen	_	NN	nom|pl|fem	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	wichtig	wichtig	_	ADJD	pos	3	ADV	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	denn	denn	_	KON	_	3	KON	_	_
+7	Fußball-Spieler	Fußball-Spieler	_	NN	nom|pl|masc	8	PRED	_	_
+8	sind	sein	_	VAFIN	pl|3|pres|ind	6	CJ	_	_
+9	schließlich	schließlich	_	ADV	_	8	ADV	_	_
+10	keine	kein	_	PIAT	nom|pl|masc	11	DET	_	_
+11	Roboter	Roboter	_	NN	nom|pl|masc	8	PRED	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kurz	kurz	_	ADJD	pos	2	ADV	_	_
+2	gesagt	sagen	_	VVPP	_	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Nachspielzeit	Nachspielzeit	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	passt	passen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+5	zum	zu	_	APPRART	dat|sg|masc	3	PP	_	_
+6	Fußball	Fußball	_	NN	dat|sg|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	beim	bei	_	APPRART	dat|sg|masc	4	PP	_	_
+3	Fußball	Fußball	_	NN	dat|sg|masc	2	PN	_	_
+4	geht	gehen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+7	nur	nur	_	ADV	_	10	ADV	_	_
+8	darum	darum	_	PROAV	_	10	DET	_	_
+9	jeden	jeder	_	PIAT	acc|sg|masc	10	DET	_	_
+10	Moment	Moment	_	NN	acc|sg|masc	16	OBJA	_	_
+11	von	von	_	APPR	_	10	PP	_	_
+12	der	der	_	ART	dat|sg|fem	13	DET	_	_
+13	Spielzeit	Spielzeit	_	NN	dat|sg|fem	11	PN	_	_
+14	optimal	optimal	_	ADJD	pos	16	ADV	_	_
+15	zu	zu	_	PTKZU	_	16	PART	_	_
+16	nutzen	nutzen	_	VVINF	_	4	OBJI	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|masc	2	SUBJ	_	_
+2	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	so	so	_	ADV	_	6	ADV	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Fußball-WM	Fußball-WM	_	NN	acc|sg|fem	6	ADV	_	_
+6	sehen	sehen	_	VVINF	_	2	AUX	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	3	ADV	_	_
+2	eine	ein	_	ART	nom|sg|fem	3	DET	_	_
+3	Fußball-WM	Fußball-WM	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	wäre	sein	_	VAFIN	sg|3|past|subj	0	S	_	_
+5	total	total	_	ADJD	pos	4	ADV	_	_
+6	öde	öde	_	ADJD	pos	4	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beim	bei	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Fußball	Fußball	_	NN	dat|sg|masc	1	PN	_	_
+3	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	um	um	_	APPR	_	3	PP	_	_
+6	etwas	etwas	_	PIAT	*|*|*	7	DET	_	_
+7	anderes	anderer	_	PIS	acc|sg|neut	5	PN	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	um	um	_	APPR	_	2	PP	_	_
+4	Einsatz	Einsatz	_	NN	acc|sg|masc	3	PN	_	_
+5	!	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	um	um	_	APPR	_	2	PP	_	_
+4	Leidenschaft	Leidenschaft	_	NN	acc|sg|fem	3	PN	_	_
+5	!	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	ja	ja	_	PTKANT	_	0	S	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	manchmal	manchmal	_	ADV	_	5	ADV	_	_
+5	klaut	klaut	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+6	eine	ein	_	ART	nom|sg|fem	7	DET	_	_
+7	Mannschaft	Mannschaft	_	NN	nom|sg|fem	5	SUBJ	_	_
+8	einer	ein	_	ART	gen|sg|fem	10	DET	_	_
+9	anderen	anderer	_	ADJA	gen|sg|fem|pos	10	ATTR	_	_
+10	Mannschaft	Mannschaft	_	NN	gen|sg|fem	7	GMOD	_	_
+11	dabei	dabei	_	PROAV	_	7	DET	_	_
+12	die	der	_	ART	nom|sg|fem	13	DET	_	_
+13	Zeit	Zeit	_	NN	nom|sg|fem	11	DET	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	so	so	_	ADV	_	3	ADV	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	Fußball	Fußball	_	NN	nom|sg|masc	3	ETH	_	_
+5	eben	eben	_	ADV	_	4	ADV	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Einer	einer	_	PIS	nom|sg|masc	2	SUBJ	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	einer	ein	_	PIS	nom|sg|masc	5	SUBJ	_	_
+5	verliert	verlieren	_	VVFIN	sg|3|pres|ind	2	KON	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	noch	noch	_	ADV	_	3	ADV	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Schiedsrichter	Schiedsrichter	_	NN	acc|sg|masc	3	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	einschreiten	einschreiten	_	VVINF	_	2	AUX	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	pfeifen	pfeifen	_	VVINF	_	2	AUX	_	_
+4	bei	bei	_	APPR	_	3	PP	_	_
+5	langsamen	langsam	_	ADJA	dat|pl|fem|pos	6	ATTR	_	_
+6	Auswechslungen	Auswechslung	_	NN	dat|pl|fem	4	PN	_	_
+7	und	und	_	KON	_	4	KON	_	_
+8	vorgetäuschten	vorgetäuscht	_	ADJA	dat|pl|fem|pos	9	ATTR	_	_
+9	Verletzungen	Verletzung	_	NN	dat|pl|fem	7	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	er	er	_	PPER	nom|sg|masc|3	3	SUBJ	_	_
+3	muss	muss	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+4	schon	schon	_	ADV	_	5	ADV	_	_
+5	im	in	_	APPRART	dat|sg|masc	7	PP	_	_
+6	Spiel	Spiel	_	NN	dat|sg|masc	5	PN	_	_
+7	handeln	handeln	_	VVINF	_	3	AUX	_	_
+8	!	--	_	$.	_	0	ROOT	_	_
+
+1	Anstatt	anstatt	_	KOUI	_	7	KONJ	_	_
+2	alles	alle	_	PIS	nom|sg|neut	7	ADV	_	_
+3	auf	auf	_	APPR	_	7	PP	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Nachspielzeit	Nachspielzeit	_	NN	acc|sg|fem	3	PN	_	_
+6	zu	zu	_	PTKZU	_	7	PART	_	_
+7	verschieben	verschieben	_	VVINF	_	0	NEB	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
