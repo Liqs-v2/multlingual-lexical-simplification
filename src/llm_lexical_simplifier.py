@@ -90,7 +90,11 @@ class LLMLexicalSimplifier(LexicalSimplifier):
             complex_word = complex_word.capitalize() if complex_word.capitalize() in original_sentence else complex_word
         sentence_with_complex_word_masked = original_sentence.replace(complex_word, self.mask_token)
 
+
         input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked)
+
+        # TODO I think the prompt is growing to infinity bc the exemplars are a class attribute that
+        #   persists through one call
         self.exemplars.append({'role': 'user', 'content': input_text})
 
         output = self._pipe(self.exemplars, **self._generation_args)
