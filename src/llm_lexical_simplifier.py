@@ -40,7 +40,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
     def __init__(self, model, tokenizer, pattern, exemplars, mask_token, generation_args):
         if exemplars is None or len(exemplars) == 0:
-            raise print("Please provide a list of exemplars for in-context learning.")
+            print("Please provide a list of exemplars for in-context learning.")
 
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         print(f"Using {device} for model inference.")
