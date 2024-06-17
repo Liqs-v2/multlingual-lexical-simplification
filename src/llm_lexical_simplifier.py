@@ -87,9 +87,13 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         sentence_with_complex_word_masked = original_sentence.replace(complex_word, self.mask_token)
 
         input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked)
-        self.exemplars.append({'role': 'user', 'content': input_text})
 
-        output = self._pipe(self.exemplars, **self._generation_args)
+        if self.exemplars is not None:
+            self.exemplars.append({'role': 'user', 'content': input_text})
+
+            output = self._pipe(self.exemplars, **self._generation_args)
+        else:
+            output = self._pipe(input_text, **self._generation_args)
 
         substitutions = output[0]['generated_text']
 
