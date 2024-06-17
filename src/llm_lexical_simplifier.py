@@ -51,6 +51,8 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
         super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
 
+        # TODO Dont think I can or want to use this, since we already batch elsewhere
+        #   it does seem easy to use tho, I ll just try to refactor with it for now
         self._pipe = pipeline(
             "text-generation",
             model=self.model,
@@ -82,7 +84,10 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         Raises:
             ValueError: If the string returned by the LLM is not a valid list representation and parsing fails.
         """
-
+        # TODO Iterate over minibatch and apply preprocessing
+        #   - Apply pattern to sentence
+        #   - Append to exemplars
+        #   - Tokenize
         # Setup prompt
         # Assumes that complex_word is in the original_sentence, in the same case
         if complex_word not in original_sentence:
@@ -95,10 +100,9 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
         # TODO I think the prompt is growing to infinity bc the exemplars are a class attribute that
         #   persists through one call
-        self.exemplars.append({'role': 'user', 'content': input_text})
 
-        output = self._pipe(self.exemplars, **self._generation_args)
-
+        output = self._pipe(self.exemplars + [{'role': 'user', 'content': input_text}], **self._generation_args)
+        print(self.exemplars)
         substitutions = output[0]['generated_text']
         print(f"Model output: {substitutions}")
 
