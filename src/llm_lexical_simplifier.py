@@ -33,14 +33,18 @@ class LLMLexicalSimplifier(LexicalSimplifier):
             documentation for more information.
         _generation_args: Arguments to be passed to the pipeline for text generation. Refer to HuggingFace
             documentation for more information.
+
+    Raises:
+        ValueError: If the exemplars list is empty or None. Requires exemplars.
     """
     device = None
     _pipe = None
     _generation_args = None
 
     def __init__(self, model, tokenizer, pattern, exemplars, mask_token, generation_args):
-        # if exemplars is None or len(exemplars) == 0:
-        #     print("Please provide a list of exemplars for in-context learning.")
+        if exemplars is None or len(exemplars) == 0:
+            raise ValueError("Please provide a list of exemplars for in-context learning."
+                             "Without exemplars the model will not produce output in in the expected format.")
 
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         print(f"Using {device} for model inference.")
@@ -87,24 +91,20 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         sentence_with_complex_word_masked = original_sentence.replace(complex_word, self.mask_token)
 
         input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked)
+        self.exemplars.append({'role': 'user', 'content': input_text})
 
-        if self.exemplars is not None:
-            self.exemplars.append({'role': 'user', 'content': input_text})
-
-            output = self._pipe(self.exemplars, **self._generation_args)
-        else:
-            output = self._pipe(input_text, **self._generation_args)
+        output = self._pipe(self.exemplars, **self._generation_args)
 
         substitutions = output[0]['generated_text']
 
-        # try:
-        #     parsed_substitutions = self.__parse_llm_output(substitutions)
-        # except ValueError as e:
-        #     print(f"Failed to parse the output from the LLM: {e}"
-        #           f"Returning empty list.")
-        #     return []
+        try:
+            parsed_substitutions = self.__parse_llm_output(substitutions)
+        except ValueError as e:
+            print(f"Failed to parse the output from the LLM: {e}"
+                  f"Returning empty list.")
+            return []
 
-        return substitutions
+        return parsed_substitutions
 
     def __parse_llm_output(self, llm_output: str) -> List[str]:
         """
