@@ -89,6 +89,7 @@ class BenchmarkSuite:
         potential_at_k = 0
         accuracy_at_k_top_1 = 0
 
+        # TODO This is why we arent batch processing, we sequentially loop
         for sample in tqdm(benchmark_data, desc='Benchmarking'):
             sentence = sample[0]
             complex_word = sample[1]
