@@ -96,6 +96,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         output = self._pipe(self.exemplars, **self._generation_args)
 
         substitutions = output[0]['generated_text']
+        print(f"Model output: {substitutions}")
 
         try:
             parsed_substitutions = self.__parse_llm_output(substitutions)
