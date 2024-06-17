@@ -97,14 +97,14 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
         substitutions = output[0]['generated_text']
 
-        try:
-            parsed_substitutions = self.__parse_llm_output(substitutions)
-        except ValueError as e:
-            print(f"Failed to parse the output from the LLM: {e}"
-                  f"Returning empty list.")
-            return []
+        # try:
+        #     parsed_substitutions = self.__parse_llm_output(substitutions)
+        # except ValueError as e:
+        #     print(f"Failed to parse the output from the LLM: {e}"
+        #           f"Returning empty list.")
+        #     return []
 
-        return parsed_substitutions
+        return substitutions
 
     def __parse_llm_output(self, llm_output: str) -> List[str]:
         """
