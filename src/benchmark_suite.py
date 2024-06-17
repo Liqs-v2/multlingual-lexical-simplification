@@ -97,6 +97,7 @@ class BenchmarkSuite:
             # To easily capture implementations not supporting a specific number of substitutions,
             # we do not pass top_k here and simply use the default in those cases.
             predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
+            print(f"Model output: {predicted_substitutions}")
 
             sample_potential, sample_precision, sample_recall, sample_f1, sample_map_at_k, sample_potential_at_k, sample_accuracy_at_k_top_1 = Evaluator.evaluate(
                 ground_truth_substitutions, predicted_substitutions
