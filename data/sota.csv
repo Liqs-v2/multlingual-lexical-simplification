@@ -1,0 +1,26 @@
+LSBert ( LSBERT: LEXICAL SIMPLIFICATION BASED ON BERT),Precision,Recall,F1,,,,,,,
+LexMTurk,0.306,0.238,0.258,,,,,,,
+BenchLS,0.244,0.331,0.281,,,,,,,
+NNSeval,0.194,0.26,0.222,,,,,,,
+,,,,,,,,,,
+"An LLM-Enhanced Adversarial Editing System
+for Lexical Simplification",,,,,,,,,,
+Substitue Generation,,,,,,,,,,
+LSBert,,,,,,,,,,
+LexMTurk,0.306,0.238,0.268,,,,,,,
+BenchLS,0.244,0.331,0.281,,,,,,,
+NNSeval,0.194,0.26,0.222,,,,,,,
+,,,,,,,,,,
+SimpleBART,,,,,,,,,,
+LexMTurk,0.287,0.282,0.285,,,,,,,
+BenchLS,0.28,0.276,0.278,,,,,,,
+,,,,,,,,,,
+LAE-LS,,,,,,,,,,
+LexMTurk,0.34,0.264,0.297,,,,,,,
+BenchLS,0.262,0.355,0.301,,,,,,,
+NNSeval,0.202,0.269,0.231,,,,,,,
+,,,,,,,,,,
+UniHD at TSAR-2022 Shared Task (Dataset Tsar),ACC@1,AAC@k@Top1,,,MAP@k,,,potential@k,,
+,,K=1,K=2,K=3,K=3,K=5,K=10,K=3,K=5,K=10
+Ensemble,0.8096,0.4289,0.6112,0.6863,0.5834,0.4491,0.2812,0.9624,0.9812,0.9946
+LSBert,0.5978,0.3029,0.445,0.5308,0.4079,0.2957,0.1755,0.823,0.8766,0.9463
