@@ -10,7 +10,7 @@ from src.utils.data_provider import DataProvider
 class AlexsisDataProvider(DataProvider):
 
     def provide_data_as_numpy_array(self):
-        data = np.genfromtxt('data/alexsis/ALEXSIS.tsv', delimiter='\t', dtype=None, encoding=None)
+        data = np.genfromtxt('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/alexsis/ALEXSIS.tsv', delimiter='\t', dtype=None, encoding=None)
         substitutes = data[:, -25:]
         synonyms_as_list = [row.tolist() for row in substitutes]
         
