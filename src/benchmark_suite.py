@@ -13,6 +13,7 @@ from utils.germaneval_data_provider import GermanEvalDataProvider
 from utils.lexmturk_data_provider import LexMTurkDataProvider
 from utils.nnseval_data_provider import NNSevalDataProvider
 from utils.tsar_en_data_provider import TsarENDataProvider
+from utils.alexsis_data_provider import AlexsisDataProvider
 
 
 class BenchmarkSuite:
@@ -38,7 +39,8 @@ class BenchmarkSuite:
     # these objects are very lightweight.
     _AVAILABLE_DATASETS: Dict[Language, List[DataProvider]] = {
         Language.DE: [GermanEvalDataProvider()],
-        Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider(), NNSevalDataProvider(), TsarENDataProvider()]
+        Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider(), NNSevalDataProvider(), TsarENDataProvider()],
+        Language.ES: [AlexsisDataProvider]
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
@@ -147,8 +149,7 @@ class BenchmarkSuite:
             Enables the specified languages and related datasets for benchmarking.
             Updates the state of self.__enabled_datasets.
 
-            Args:
-                language_configuration (Dict[Language, str]): The languages to enable for benchmarking and
+            Args:Aleguage_configuration (Dict[Language, str]): The languages to enable for benchmarking and
                     the prompts to use for the benchmarking of the model.
         """
         self.language_configurations.update(language_configuration)

@@ -5,7 +5,9 @@ import numpy as np
 from collections import Counter
 from collections import defaultdict
 
-class AlexsisDataProvider():
+from src.utils.data_provider import DataProvider
+
+class AlexsisDataProvider(DataProvider):
 
     def provide_data_as_numpy_array(self):
         data = np.genfromtxt('data/alexsis/ALEXSIS.tsv', delimiter='\t', dtype=None, encoding=None)
