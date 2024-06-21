@@ -40,7 +40,7 @@ class BenchmarkSuite:
     _AVAILABLE_DATASETS: Dict[Language, List[DataProvider]] = {
         Language.DE: [GermanEvalDataProvider()],
         Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider(), NNSevalDataProvider(), TsarENDataProvider()],
-        Language.ES: [AlexsisDataProvider]
+        Language.ES: [AlexsisDataProvider()]
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
