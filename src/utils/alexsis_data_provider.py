@@ -29,7 +29,3 @@ class AlexsisDataProvider(DataProvider):
             processed_data.append(processed_line)
 
         return np.array(processed_data, dtype=object)
-
-data = AlexsisDataProvider().provide_data_as_numpy_array()
-print(data[0])
-
