@@ -9,7 +9,7 @@ from src.utils.data_provider import DataProvider
 
 class TsarPtDataProvider(DataProvider):
 
-    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/portugese_shared_task_tsar/tsar2022_pt_test_gold.tsv'
+    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/tsar_pt/tsar2022_pt_test_gold.tsv'
 
     def provide_data_as_numpy_array(self):
         data = np.genfromtxt(self._filename, delimiter='\t', dtype=None, encoding=None)
