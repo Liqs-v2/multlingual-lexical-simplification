@@ -10,7 +10,7 @@ from collections import defaultdict
 
 class TsarPtDataProvider():
 
-    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/tsar_pt/tsra_pt_formatted.tsv'
+    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/tsar_pt/tsar_pt_formatted.tsv'
 
     def provide_data_as_numpy_array(self):
         data = np.genfromtxt(self._filename, delimiter='\t', dtype=None, encoding=None)
