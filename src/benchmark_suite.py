@@ -14,7 +14,7 @@ from utils.lexmturk_data_provider import LexMTurkDataProvider
 from utils.nnseval_data_provider import NNSevalDataProvider
 from utils.tsar_en_data_provider import TsarENDataProvider
 from utils.alexsis_data_provider import AlexsisDataProvider
-
+from utils.tsar_pt_data_provider import TsarPtDataProvider
 
 class BenchmarkSuite:
     """
@@ -40,7 +40,8 @@ class BenchmarkSuite:
     _AVAILABLE_DATASETS: Dict[Language, List[DataProvider]] = {
         Language.DE: [GermanEvalDataProvider()],
         Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider(), NNSevalDataProvider(), TsarENDataProvider()],
-        Language.ES: [AlexsisDataProvider()]
+        Language.ES: [AlexsisDataProvider()],
+        Language.PT: [TsarPtDataProvider()]
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
