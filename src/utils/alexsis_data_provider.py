@@ -7,6 +7,8 @@ from collections import defaultdict
 
 from src.utils.data_provider import DataProvider
 
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
+
 class AlexsisDataProvider(DataProvider):
 
     _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/alexsis/ALEXSIS.tsv'

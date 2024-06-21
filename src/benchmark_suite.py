@@ -138,7 +138,7 @@ class BenchmarkSuite:
         Updates the state of self.__enabled_datasets.
 
         Args:
-            language (Language): The language to enable for benchmarking.
+            language (Languagelexmturk_data_provider): The language to enable for benchmarking.
             prompt (str): The prompt to use for the benchmarking of the model on the specified language.
         """
         self.language_configurations[language] = prompt

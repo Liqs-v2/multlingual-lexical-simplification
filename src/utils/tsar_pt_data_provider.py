@@ -5,15 +5,16 @@ import numpy as np
 from collections import Counter
 from collections import defaultdict
 
-from src.utils.data_provider import DataProvider
 
-class TsarPtDataProvider(DataProvider):
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
-    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/tsar_pt/tsar2022_pt_test_gold.tsv'
+class TsarPtDataProvider():
+
+    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplificationdata/data/tsar_pt/tsra_pt_formatted.tsv'
 
     def provide_data_as_numpy_array(self):
         data = np.genfromtxt(self._filename, delimiter='\t', dtype=None, encoding=None)
-        substitutes = data[:, -25:]
+        substitutes = data[:, -26:]
         synonyms_as_list = [row.tolist() for row in substitutes]
         
         sorted_lists = []
@@ -32,3 +33,8 @@ class TsarPtDataProvider(DataProvider):
             processed_data.append(processed_line)
 
         return np.array(processed_data, dtype=object)
+
+import csv
+
+
+
