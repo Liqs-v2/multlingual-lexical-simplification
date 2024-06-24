@@ -7,8 +7,8 @@ from tqdm import tqdm
 from evaluator import Evaluator
 from language import Language
 from lexical_simplifier import LexicalSimplifier
-from utils.data_provider import DataProvider
 from utils.bench_ls_data_provider import BenchLSDataProvider
+from utils.data_provider import DataProvider
 from utils.germaneval_data_provider import GermanEvalDataProvider
 from utils.lexmturk_data_provider import LexMTurkDataProvider
 from utils.nnseval_data_provider import NNSevalDataProvider
@@ -89,14 +89,19 @@ class BenchmarkSuite:
         potential_at_k = 0
         accuracy_at_k_top_1 = 0
 
+        # TODO This is why we arent batch processing, we sequentially loop
         for sample in tqdm(benchmark_data, desc='Benchmarking'):
             sentence = sample[0]
             complex_word = sample[1]
             ground_truth_substitutions = sample[3]
 
+            print(sentence, complex_word)
+            # To easily capture implementations not supporting a specific number of substitutions,
+            # we do not pass top_k here and simply use the default in those cases.
             predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
 
-            sample_potential, sample_precision, sample_recall, sample_f1, sample_map_at_k, sample_potential_at_k, sample_accuracy_at_k_top_1 = Evaluator.evaluate(
+            (sample_potential, sample_precision, sample_recall, sample_f1, sample_map_at_k, sample_potential_at_k,
+             sample_accuracy_at_k_top_1) = Evaluator.evaluate(
                 ground_truth_substitutions, predicted_substitutions
             )
 
@@ -120,14 +125,14 @@ class BenchmarkSuite:
         accuracy_at_k_top_1 = accuracy_at_k_top_1 / len(benchmark_data)
 
         return pd.Series({
-                    'potential': round(potential, 4),
-                    'precision': round(precision, 4),
-                    'recall': round(recall, 4),
-                    'f1': round(f1, 4),
-                    'map_at_k': round(map_at_k, 4),
-                    'potential_at_k': round(potential_at_k, 4),
-                    'accuracy_at_k_top_1': round(accuracy_at_k_top_1, 4)
-                })
+            'potential': round(potential, 4),
+            'precision': round(precision, 4),
+            'recall': round(recall, 4),
+            'f1': round(f1, 4),
+            'map_at_k': round(map_at_k, 4),
+            'potential_at_k': round(potential_at_k, 4),
+            'accuracy_at_k_top_1': round(accuracy_at_k_top_1, 4)
+        })
 
     def enable_language(self, language: Language, prompt: str):
         """

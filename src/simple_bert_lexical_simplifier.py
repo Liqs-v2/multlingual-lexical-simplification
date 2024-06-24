@@ -20,17 +20,15 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
         pattern: The format string used to dynamically build prompts for generating substitutions. For this implementation,
             the pattern should contain placeholders for the original sentence and the sentence with the masked complex word.
             Between these, an instruction is injected to guide the model towards simplifying the complex word.
-        exemplars: A list of exemplar words used for zero-shot learning. Unused for this implementation.
+        exemplars: A list of exemplar words used for in-context learning. Unused for this implementation.
+        mask_token: The token used to mask the complex word in the input sentence. Defaults to '[MASK]'.
+        device: The device that is used for model inference. Used to determine if CUDA is available.
     """
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using {device} for model inference.")
 
-    def __init__(self, model, tokenizer, pattern, exemplars):
-        super().__init__(model.to(self.device), tokenizer, pattern, exemplars)
-
-    def apply_pattern_to(self, original_sentence: str, sentence_with_complex_word_masked: str) -> str:
-        return self.pattern.format(original_sentence=original_sentence,
-                                   sentence_with_complex_word_masked=sentence_with_complex_word_masked)
+    def __init__(self, model, tokenizer, pattern, exemplars, mask_token):
+        super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
 
     def generate_substitutions_for(self, complex_word: str, original_sentence: str, top_k: int = 10):
         """
@@ -57,7 +55,7 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
         if complex_word not in original_sentence:
             # This covers the edge case of the complex word being the first word in the sentence
             complex_word = complex_word.capitalize() if complex_word.capitalize() in original_sentence else complex_word
-        sentence_with_complex_word_masked = original_sentence.replace(complex_word, '[MASK]')
+        sentence_with_complex_word_masked = original_sentence.replace(complex_word, self.mask_token)
         input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked)
 
         # Tokenize input text
