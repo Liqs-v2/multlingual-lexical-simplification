@@ -8,10 +8,10 @@ content = None
 original_data = nnseval_data_provider.NNSevalDataProvider().provide_data_as_numpy_array()
 
 completion = openai.chat.completions.create(
-    model="gpt-3.5-turbo",
+    model="gpt-4o",
     messages=[
         {"role": "system", "content": "Translator for a Lexical simplification dataset"},
-        {"role": "user", "content": "Translate the following dataset from English to German, keep the same format: " + str(original_data)}
+        {"role": "user", "content": "Übersetze dieses Datenset zu Deutsch, behalte das gleiche Format: " + str(original_data)}
     ]
 )
 response = str(completion.choices[0].message.content)
