@@ -12,7 +12,10 @@ def mean_average_precision_at_k(substitues, gold_standard, k=10):
     Returns:
         float: The mean average precision at k.
     """
-    return sum(average_precision_at_k(substitues, gold_standard, k) for substitues, gold_standard in zip(substitues, gold_standard)) / len(substitues)
+    if len(substitues) > 0:
+        return sum(average_precision_at_k(substitues, gold_standard, k) for substitues, gold_standard in zip(substitues, gold_standard)) / len(substitues)
+    else:
+        return 0
 
 def average_precision_at_k(substitues, gold_standard, k=10):
 
@@ -80,7 +83,4 @@ def accuracy_at_k_top_1(substitues, gold_standard, k=3):
     if len(substitues) > k:
         substitues = substitues[:k] 
     
-    if gold_standard[0] in substitues:
-        return True
-    
-    return False
+    return gold_standard[0] in substitues

@@ -15,7 +15,7 @@ class Evaluator:
 
         Args:
             ground_truth_substitutions: The ground truths which we evaluate with.
-            predicted_substitutions: The model's substitution predictions.
+            predicted_substitutions: The model's substitution predictions. Might be an empty list.
             k: For evaluation metrics that require a top-k value. Specified how many of the substitutions
                 to consider.
         Returns:
@@ -35,7 +35,7 @@ class Evaluator:
             if any(prediction == values for values in ground_truth_substitutions):
                 sample_potential = True
                 sample_precision += 1
-        sample_precision = sample_precision / len(predicted_substitutions)
+        sample_precision = sample_precision / len(predicted_substitutions) if len(predicted_substitutions) else 0
 
         # Calculate Recall
         true_positives = sum(1 for token in ground_truth_substitutions if token in predicted_substitutions)
