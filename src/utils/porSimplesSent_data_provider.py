@@ -1,6 +1,5 @@
 # Preprocess the Alexsis dataset into a numpy array
 import numpy as np
-import pandas as pd
 import numpy as np
 from collections import Counter
 from collections import defaultdict
@@ -8,9 +7,9 @@ from collections import defaultdict
 
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
-class TsarPtDataProvider():
+class PorSimplesSentDataProvider():
 
-    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/tsar_pt/tsar_pt_formatted.tsv'
+    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/PorSimplesSent/PorSimplesSent_formatted.tsv'
 
     def provide_data_as_numpy_array(self):
         data = np.genfromtxt(self._filename, delimiter='\t', dtype=None, encoding=None)
