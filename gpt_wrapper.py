@@ -11,7 +11,7 @@ completion = openai.chat.completions.create(
     model="gpt-4o",
     messages=[
         {"role": "system", "content": "Translator for a Lexical simplification dataset"},
-        {"role": "user", "content": "Übersetze dieses Datenset zu Deutsch, behalte das gleiche Format: " + str(original_data)}
+        {"role": "user", "content": "Übersetze dieses Datenset zu Deutsch (sowohl die Sätze, wie auch das zu übersetzende Wort und die Liste der Substitutionen), behalte das gleiche Format: " + str(original_data)}
     ]
 )
 response = str(completion.choices[0].message.content)
