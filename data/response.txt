@@ -1,0 +1,116 @@
+[['harry also becomes the worthy possessor of the remaining deathly hallows: the invisibility cloak and the resurrection stone , hence becoming the true master of death .'
+  'Possessor' 5
+  {1: ['Eigentümer'], 2: ['Inhaber'], 3: ['Käufer', 'Meister', 'Lehrer']}],
+ ['escapologists escape from handcuffs, straitjackets, cages, coffins, steel boxes, barrels, bags, burning buildings, fish-tanks and other perils, often in combination .'
+  'perils' 24
+  {1: ['Gefahren'], 2: ['Gefahr', 'Situationen', 'Gefahren', 'Schicksale', 'Schwierigkeiten', 'Risiken', 'Beschränkungen', 'Probleme', 'Probleme']}],
+ ['the storm continued, crossing the outer banks of north carolina, and retained its strength until june 20 when it became extratropical near newfoundland .'
+  'retained' 13 {1: ['behalten'], 2: ['wiedererlangt']}],
+ ['the united states convened a 13-nation conference of the international opium commission in 1909 in shanghai, china in response to increasing criticism of the opium trade .'
+  'convened' 3
+  {1: ['versammelt'], 2: ['gesammelt'], 3: ['begonnen'], 4: ['geöffnet'], 5: ['geordnet', 'zusammengebracht']}],
+ ['dodd simply retained his athletic director position, which he had acquired in 1950 .'
+  'acquired' 11 {1: ['empfangen'], 2: ['erhalten'], 3: ['erreicht'], 4: ['genommen'], 5: ['begonnen', 'angesammelt']}],
+ ['radiometric dating is a technique used to date materials, usually based on a comparison between the observed abundance of a naturally occurring radioactive isotope and its decay products, using known decay rates .'
+  'abundance' 18
+  {1: ['Menge'], 2: ['Viel'], 3: ['Reichtum', 'große Menge'], 4: ['Überschuss', 'Fülle'], 5: ['Fülle', 'Ausfluss', 'viel', 'Portion', 'große Menge', 'Haufen', 'Verfügbarkeit', 'Menge']}],
+ ['bacterial contaminants are ubiquitous, and foods left unused too long will often acquire substantial amounts of bacterial colonies and become dangerous to eat, leading to food poisoning .'
+  'substantial' 14
+  {1: ['groß'], 2: ['bedeutend'], 3: ['groß'], 4: ['eine Menge'], 5: ['schwer', 'riesig', 'Haupt', 'viele', 'groß', 'reichlich', 'umfangreich']}],
+ ['Tibooburra hat ein trockenes, wüstenartiges Klima mit Temperaturen über 40 Grad Celsius im Sommer, die oft bis zu 47 Grad steigen .'
+  'arid' 3 {1: ['trocken'], 2: ['öde', 'öd', 'feuchtigkeitslos']},
+ ['Hanna meandered around the southeastern Bahamas, weakened to a tropical storm while also dumping heavy rain on already-devastated Haiti .'
+  'meandered' 1
+  {1: ['wanderte'], 2: ['ging'], 3: ['reiste'], 4: ['flanierte', 'bewegte'], 5: ['blies', 'zickzackte', 'wunderte sich', 'verdrehte', 'navigiert', 'gebogen', 'ging']}],
+ ['Das Rheingold ist die erste der vier Opern, die den Ring des Nibelungen bilden, von Richard Wagner .'
+  'umfassen' 10
+  {1: ['bestehen aus'], 2: ['enthalten'], 3: ['komponieren'], 4: ['vereinbarten', 'abdecken', 'erstellen', 'bestehen aus']}],
+ ['Veröffentlicht von Tor Books, wurde es am 15. August 1994 als Hardcover herausgebracht und am 15. Juli 1997 als Taschenbuch .'
+  'freigelassen' 7
+  {1: ['verkauft'], 2: ['herausgebracht'], 3: ['geliefert', 'vertrieben'], 4: ['veröffentlicht', 'gesendet'], 5: ['bereitgestellt', 'geöffnet', 'initiiert', 'zuerst verfügbar', 'uraufgeführt', 'veröffentlicht gemacht', 'veröffentlicht', 'zur Verfügung gestellt', 'freigelassen', 'verstreut', 'aufgedeckt', 'gestartet', 'verfügbar gemacht']}],
+ ['Bis 1960 hatte er die Kurzgeschichte zu einem Drehbuch entwickelt und es sich vorgestellt, eine passende Rolle für Monroe zu enthalten .'
+  'sich vorgestellt' 13
+  {1: ['sich vorgestellt'], 2: ['gesehen'], 3: ['dargestellt'], 4: ['vorausgesehen'], 5: ['erwartet'], 6: ['erwogen', 'konzipiert', 'vorhergesagt']}],
+ ['Mit schlechten Verkäufen des A340-200 beschloss Airbus, den Rumpf des A340-200 mit den Flügeln und Triebwerken des A330-300 zu verwenden .'
+  'Rumpf' 12
+  {1: ['Körper'], 2: ['Kabine'], 3: ['Tank', 'Tank', 'Kraftstofftank'], 4: ['Hauptteile', 'Masse', 'Kofferraum']}],
+ ['Die letzte Veranstaltung fand am 11. Juni 2000 statt und wurde aufgrund der Übernahme von WCW durch die World Wrestling Federation nicht mehr abgehalten .'
+  'Erwerb' 19
+  {1: ['Gewinn'], 2: ['erwerben', 'kaufen'], 3: ['Zusatz', 'Besitz'], 4: ['Empfangen', 'Erhalten'], 5: ['Erwerb']}],
+ ['Kowal schlug den Namen vor und die IAU hat ihn 1975 genehmigt .' 'genehmigt'
+  7
+  {1: ['unterstützt'], 2: ['zugestimmt'], 3: ['akzeptiert'], 4: ['befürwortet', 'okayed', 'autorisiert'], 5: ['favorisiert', 'empfohlen', 'bestanden', 'angenommen']}],
+ ['Trockene Luft, die sich um die südliche Peripherie des Zyklons wickelt, hat den Großteil der starken Konvektion bis Anfang September 12 erodiert .'
+  'Peripherie' 6
+  {1: ['Grenze'], 2: ['äußere', 'Ortsrande'], 3: ['Umgebung', 'Umfang', 'Kanten', 'Bereich']}],
+ ['Alfonso lässt den Ehevertrag vor den Offizieren fallen, und als sie ihn lesen, werden sie wütend .'
+  'wütend' 20
+  {1: ['wütend'], 2: ['verrückt', 'verärgert'], 3: ['fuchsig'], 4: ['verärgert'], 5: ['aufgebracht']}],
+ ['Liegt am Fluss Pedieos und liegt fast im Zentrum der Insel, ist es der Regierungssitz sowie das Hauptgeschäftszentrum .'
+  'sich befindet' 6
+  {1: ['gelegen'], 2: ['platziert'], 3: ['positioniert'], 4: ['sitzend'], 5: ['fixiert'], 6: ['gesiedelt', 'basiert', 'auf']}],
+ ['Es wurde nun festgestellt, dass Europa ein prograden Rotator ist, aber die genaue Richtung, in die sein Pol zeigt, bleibt unklar .'
+  'mehrdeutig' 22
+  {1: ['unklar'], 2: ['unbekannt'], 3: ['unsicher'], 4: ['vage'], 5: ['unsicher', 'zufällig', 'unbestimmt', 'neblig', 'verwirrend']}],
+ ["Die Bischöfe übergaben das Übersticht an den Kaiser Karl V im Jahr 1528, der sich selbst als `` Herr über Overijssel '' bezeichnete und so der Provinz ihren modernen Namen gab ."
+  'übergeben' 2
+  {1: ['gegeben'], 2: ['übergeben'], 3: ['aufgegeben'], 4: ['abgegeben'], 5: ['Übertragung', 'entfernt', 'verlassen', 'übergeben', 'zugelassen']}],
+ ['Viele Teile von Odessa wurden während seiner Belagerung und Rückeroberung am 10. April 1944 beschädigt, als die Stadt schließlich von der Roten Armee befreit wurde .'
+  'Belagerung' 8
+  {1: ['Erfassung', 'Blockade'], 2: ['Kampf'], 3: ['Umgebung', 'Übernahme', 'Invasion'], 4: ['Blockade', 'Kampf', 'Barrikade', 'Halt', 'Eroberung', 'Halten']}],
+ ['Die Stadt wurde 1827 erstmals von den Briten gegründet, die die Insel von Spanien gepachtet hatten, während der Kolonialzeit .'
+  'gepachtet' 12
+  {1: ['gemietet'], 2: ['geliehen'], 3: ['gesichert', 'gelassen', 'gegeben']}],
+ ['In Bezug auf die Landschaft beschreibt Bush ein bewaldetes Gebiet, das sich zwischen einem Gebüschland und einem Wald befindet, normalerweise auf trockenem und stickstoffarmem Boden, meist ohne Gras, mit dünnen bis dicken holzigen Sträuchern und Büschen unter einem spärlichen Blätterdach aus Eukalypten .'
+  'spärlich' 40
+  {1: ['begrenzt'], 2: ['wenige', 'verstreut', 'mager'], 3: ['nackt'], 4: ['kaum', 'wenig', 'schlank']}],
+ ['Sie finden Nahrung durch Geruch, verwenden Sensoren an der Spitze ihrer Schnauze und ernähren sich regelmäßig von Ameisen und Termiten .'
+  'Schnauze' 13
+  {1: ['Nase']}],
+ ['Der Fluss Pedieos, nahezu im Zentrum der Insel gelegen, wird von der AA gebildet, die vom Rigi absteigt und am südlichen Ende des Sees eintritt .'
+  'Äußerste' 18
+  {1: ['Grenze'], 2: ['Grenze', 'Spitze'], 3: ['Punkt', 'Bereich', 'fernsten', 'Bereich', 'Abschnitt', 'Bein', 'Außenbereich', 'Arm', 'Tiefe', 'Glied', 'Seiten']}],
+ ['Spezialisiertes Englisch wird im zivilgesellschaftlichen Bereich betrieben, und die Entwickler streben danach, Programme für verschiedene öffentliche Dienste zu schaffen, sofern die Ressourcen verfügbar sind .'
+  'streben' 12
+  {1: ['versuchen', 'träumen'], 2: ['aim', 'wollen', 'streben'], 3: ['suchen'], 4: ['hofft', 'verlangt', 'beabsichtigt']}],
+ ['Dieser Zeitraum erstreckte sich von 1278 bis 1288 .' 'erstreckte'
+  2
+  {1: ['abgedeckt'], 2: ['gedauert'], 3: ['erweitert', 'gereicht'], 4: ['überdacht', 'war zwischen', 'eingebunden', 'lag zwischen', 'verbunden', 'überbrückt']}],
+ ['Erkannt wurde, dass Europa ein pregrader Rotator ist, aber die genaue Richtung, in die sein Pol zeigt, bleibt unklar .'
+  'unklar' 22
+  {1: ['unklar'], 2: ['unbekannt'], 3: ['unsicher'], 4: ['vage'], 5: ['unsicher', 'zufällig', 'unbestimmt', 'neblig', 'verwirrend']}],
+ ['Das letzte Ereignis fand am 11. Juni 2000 statt, wurde aufgrund der Übernahme von WCW durch die World Wrestling Federation nicht wieder abgehalten .'
+  'Übernahme' 19
+  {1: ['Gewinn'], 2: ['gewinnen', 'kaufen'], 3: ['Zusatz', 'Besitz'], 4: ['Empfangen', 'erlangen'], 5: ['Erwerbung']}],
+ ['Kowal schlug den Namen vor und die IAU stimmte 1975 zu .' 'dazu'
+  7
+  {1: ['unterstützt'], 2: ['akzeptiert'], 3: ['angenommen'], 4: ['unterstützt', 'empfohlen', 'angenommen'], 5: ['befürwortet', 'empfohlen', 'angenommen', 'genehmigt']}],
+ ['Trockene Luft wickelt sich um die südliche Peripherie des Zyklons und erodierte den größten Teil der tiefen Konvektion früh am 12 .'
+  'äußeren' 6
+  {1: ['Grenze'], 2: ['außerhalb', 'Stadtteile'], 3: ['Umgebung', 'Umfang', 'Ränder', 'Bereich']}],
+ ['Alfonso ließ den Ehevertrag vor den Offizieren fallen, und als sie ihn lasen, wurden sie wütend .'
+  'wütend' 20
+  {1: ['zornig'], 2: ['verrückt', 'wütend'], 3: ['wütend'], 4: ['verärgert'], 5: ['aufgebracht']}],
+ ['Das Rheingold ist die erste der vier Opern, die den Ring des Nibelungen bilden, von Richard Wagner .'
+  'bestehen' 10
+  {1: ['ausmachen'], 2: ['enthalten'], 3: ['komponieren'], 4: ['vereinbart', 'abdecken', 'erstellen', 'ausmachen']}],
+ ['Veröffentlicht von Tor Books, wurde es am 15. August 1994 als Hardcover veröffentlicht und am 15. Juli 1997 als Taschenbuch veröffentlicht .'
+  'veröffentlicht' 7
+  {1: ['verkauft'], 2: ['herausgebracht'], 3: ['geliefert', 'verbreitet'], 4: ['ausgegeben', 'gesendet', 'veröffentlicht'], 5: ['bereitgestellt', 'geöffnet', 'initiiert', 'erstveröffentlicht', 'erste verfügbar', 'premierte', 'öffnete', 'durchgeführt', 'ließ aus', 'verstreute', 'offenbarte']}],
+ ['Bis 1960 hatte er die Kurzgeschichte zu einem Drehbuch weiterentwickelt und hatte es sich vorgestellt, eine geeignete Rolle für Monroe zu enthalten .'
+  'vorstellte' 13
+  {1: ['ausgemalt'], 2: ['sah'], 3: ['sich vorgestellt'], 4: ['erwog'], 5: ['erwartete'], 6: ['betrachtet', 'dachte', 'vorausgedacht']}],
+ ['Durch schlechte Verkäufe des A340-200 entschied sich Airbus, den Rumpf des A340-200 mit den Flügeln und Triebwerken des A330-300 zu verwenden .'
+  'Rumpf' 12
+  {1: ['Körper'], 2: ['Kabine'], 3: ['Tank', 'Tanks', 'Kraftstofftank'], 4: ['Hauptteile', 'Masse', 'Stamm']}],
+ ['Die letzte Veranstaltung fand am 11. Juni 2000 statt und wird nicht mehr stattfinden aufgrund der Übernahme der WCW durch die Welt-Wrestling-Föderation .'
+  'Erwerb' 19
+  {1: ['Gewinn'], 2: ['erwerben', 'kaufen'], 3: ['Zusatz', 'Besitz'], 4: ['erhaltend', 'Erhalten'], 5: ['Erwerbung']}],
+ ['Kowal schlug den Namen vor und die IAU befürwortete dies im Jahr 1975 .' 'befürwortete'
+  7
+  {1: ['unterstützt'], 2: ['zugestimmt'], 3: ['akzeptiert'], 4: ['befürwortet', 'okayed', 'autorisiert'], 5: ['favorisiert', 'empfohlen', 'bestanden', 'angenommen']}],
+ ['Die trockene Luft, die sich um die südliche Umgebung des Wirbels schlängelte, erodierte den größten Teil der tiefen Konvektion bereits früh am 12. .'
+  'Peripherie' 6
+  {1: ['Grenze'], 2: ['außen', 'Stadtränder'], 3: ['Umgebung', 'Umfang', 'Kanten', 'Bereich']}],
+ ['Alfonso ließ den Ehevertrag vor den Offizieren fallen, und als sie ihn lasen, wurden sie wütend .'
+  'wütend' 
