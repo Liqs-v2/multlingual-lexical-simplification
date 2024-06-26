@@ -1,0 +1,28 @@
+Die Zeugen Jehovas in Deutschland haben eine herausragende Stellung im Bereich der Religionsgemeinschaften inne und genießen gesetzlich garantierte Rechte.
+herausragende
+34
+{1: ['führende', 'bekannte'], 2: ['renommierte']}
+Die Funktionen des Präsidenten Eine Möglichkeit, die Präsidentschaft zu fokussieren, besteht darin, festzulegen, welche Aufgaben die Position haben sollte.
+Funktionen
+0
+{1: ['Aufgaben'], 2: ['Rollen']}
+Die Erweiterung des Marktes, die Verbesserung des Gewinnpotenzials und die Reduzierung von Kostenfaktoren gesellen sich dazu, die Verbesserung der Wettbewerbsposition als maßgebliche Kräfte zu betrachten, die Organisationen in Richtung Globalisierung vorantreiben.
+maßgebliche
+21
+{1: ['wichtige'], 2: ['führende', 'bedeutende'], 3: ['auffällige']}
+"Der Schwarzwang ist überwiegend verziert, und wird in der Regel mit brennenden Kerzen bedeckt, wenn er präsentiert wird, wobei die Anzahl der Kerzen das Alter des Jubilars symbolisiert."
+überwiegend
+19
+{1: ['meistens'], 2: ['normalerweise'], 3: ['hauptsächlich']}
+"Die unterschiedlichen Variablen, die den optimalen Zustand definieren, können daher als intrinsische Bedürfnisse angesehen werden."
+daher
+8
+{1: ['als Folge'], 2: ['aus diesem Grund'], 3: ['folglich']}
+"Dies bedeutet, dass der Kampf korrupte, starke und rechenschaftspflichtige öffentliche Sektoren schaffen soll, die über das erforderliche Personal zur Bereitstellung lebenswichtiger Dienstleistungen verfügen, und sicherstellen, dass Parlamente, die Zivilgesellschaft und die Medien die öffentlichen Ausgaben überwachen und als Wächter gegen Korruption fungieren können."
+daher
+26
+{1: ['höflich'], 2: ['allgemein'], 3: ['nichtregierungsabhängig', 'bürgerlich']}
+"Holzreste sind leicht zu finden, da die Heizkörperblüten von Ahornen und anderen, ebenso zarten und saftigen Pflanzen fressen."
+zarte
+6
+{1: ['weiche']}

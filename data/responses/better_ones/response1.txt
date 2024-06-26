@@ -104,4 +104,3 @@
  ['Port Arthur war auch das Ziel für jugendliche Strafgefangene, die viele Jungen empfingen, einige so jung wie neun Jahre, wegen Diebstahls von Spielzeug .'
   'jugendlich' 7
   {1: ['Kind'], 2: ['minderjährig'], 3: ['jüngerer', 'jugendlich'], 4: ['Jugend', 'unterhaltsame Baby-Schnittstelle', 'kinder']}]
- ['Die Internationalen Reform
