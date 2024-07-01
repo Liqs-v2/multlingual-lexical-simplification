@@ -1,0 +1,6 @@
+run,potential,precision,recall,f1,map_at_k,potential_at_k,accuracy_at_k_top_1
+EN-BenchLSDataProvider,0.1389,0.017,0.0262,0.0182,0.0779,0.1389,0.0581
+EN-LexMTurkDataProvider,0.23,0.0282,0.0299,0.0266,0.1087,0.23,0.086
+EN-NNSevalDataProvider,0.0669,0.0079,0.0174,0.0089,0.0759,0.0669,0.0167
+EN-TsarENDataProvider,0.0699,0.0078,0.008,0.0076,0.1104,0.0699,0.0104
+DE-GermanEvalDataProvider,0.324,0.0484,0.0855,0.0584,0.1329,0.324,0.149
