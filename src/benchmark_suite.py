@@ -72,6 +72,14 @@ class BenchmarkSuite:
 
         for language in self.language_configurations.keys():
             print(f'Benchmarking model on {language.name} ...')
+            if 'pattern' not in self.language_configurations[language]:
+                raise ValueError(f'Missing pattern! Please provide a pattern for the language {language.name}.')
+            if (('exemplars' not in self.language_configurations[language]
+                 or self.language_configurations[language]['exemplars'] is None)
+                    and 'llm' in self.testee_model.__class__.__name__.lower()):
+                raise ValueError('Please provide exemplars for the language {language.name}.'
+                                 'The LLMLexicalSimplifier requires exemplars to adhere to the format required for parsing')
+
             self.testee_model.set_pattern(self.language_configurations[language]['pattern'])
             self.testee_model.set_exemplars(self.language_configurations[language]['exemplars'])
 
@@ -143,18 +151,29 @@ class BenchmarkSuite:
         Runs the benchmark pipeline and evaluates self.testee_model on the datasets that are currently enabled.
         The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
         """
-        results = pd.DataFrame(columns=['potential at 10', 'potential at 5', 'potential at 1', 'map at 10', 'map at 5', 'map at 1',
-                                        'accuracy at 10 top 1', 'accuracy at 5 top 1', 'accuracy at 1 top 1'])
+        results = pd.DataFrame(
+            columns=['potential at 10', 'potential at 5', 'potential at 1', 'map at 10', 'map at 5', 'map at 1',
+                     'accuracy at 10 top 1', 'accuracy at 5 top 1', 'accuracy at 1 top 1'])
 
         for language in self.language_configurations.keys():
             print(f'Benchmarking model on {language.name} ...')
-            self.testee_model.set_pattern(self.language_configurations[language])
+            if 'pattern' not in self.language_configurations[language]:
+                raise ValueError(f'Missing pattern! Please provide a pattern for the language {language.name}.')
+            if (('exemplars' not in self.language_configurations[language]
+                 or self.language_configurations[language]['exemplars'] is None)
+                    and 'llm' in self.testee_model.__class__.__name__.lower()):
+                raise ValueError('Please provide exemplars for the language {language.name}.'
+                                 'The LLMLexicalSimplifier requires exemplars to adhere to the format required for parsing')
+
+            self.testee_model.set_pattern(self.language_configurations[language]['pattern'])
+            self.testee_model.set_exemplars(self.language_configurations[language]['exemplars'])
 
             for dataset in self._enabled_datasets[language]:
                 print(f'Benchmarking model on {dataset.__class__.__name__}...')
                 benchmark_data = dataset.provide_data_as_numpy_array()
 
-                results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on_shared_task(benchmark_data)
+                results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on_shared_task(
+                    benchmark_data)
 
         results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
                        f'benchmark_results_{self.testee_model.__class__.__name__}_'
@@ -230,16 +249,16 @@ class BenchmarkSuite:
         accuracy_at_1_top_1 = accuracy_at_1_top_1 / len(benchmark_data)
 
         return pd.Series({
-                    'potential at 10': round(potential_at_10, 4),
-                    'potential at 5': round(potential_at_5, 4),
-                    'potential at 1': round(potential_at_1, 4),
-                    'map at 10': round(map_at_10, 4),
-                    'map at 5': round(map_at_5, 4),
-                    'map at 1': round(map_at_1, 4),
-                    'accuracy at 10 top 1': round(accuracy_at_10_top_1, 4),
-                    'accuracy at 5 top 1': round(accuracy_at_5_top_1, 4),
-                    'accuracy at 1 top 1': round(accuracy_at_1_top_1, 4)
-                })
+            'potential at 10': round(potential_at_10, 4),
+            'potential at 5': round(potential_at_5, 4),
+            'potential at 1': round(potential_at_1, 4),
+            'map at 10': round(map_at_10, 4),
+            'map at 5': round(map_at_5, 4),
+            'map at 1': round(map_at_1, 4),
+            'accuracy at 10 top 1': round(accuracy_at_10_top_1, 4),
+            'accuracy at 5 top 1': round(accuracy_at_5_top_1, 4),
+            'accuracy at 1 top 1': round(accuracy_at_1_top_1, 4)
+        })
 
     def enable_language(self, language: Language, pattern: str):
         """
