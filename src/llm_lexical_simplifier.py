@@ -46,8 +46,8 @@ class LLMLexicalSimplifier(LexicalSimplifier):
             raise ValueError("Please provide a list of exemplars for in-context learning."
                              "Without exemplars the model will not produce output in in the expected format.")
 
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        print(f"Using {device} for model inference.")
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        print(f"Using {self.device} for model inference.")
 
         super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
 
@@ -55,6 +55,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
             "text-generation",
             model=self.model,
             tokenizer=self.tokenizer,
+            device=self.device
         )
 
         self._generation_args = generation_args
