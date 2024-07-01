@@ -1,0 +1,138 @@
+1	Diesel-Skandal	diesel-skandal	_	PDAT	nom|sg|neut	0	DET	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Auto-Hersteller	Auto-Hersteller	_	NN	nom|sg|masc	9	OBJA	_	_
+3	Daimler	Daimler	_	NE	nom|sg|masc	2	APP	_	_
+4	muss	muss	_	NE	nom|sg|masc	3	APP	_	_
+5	in	in	_	APPR	_	9	PP	_	_
+6	Deutschland	Deutschland	_	NE	dat|sg|neut	5	PN	_	_
+7	238000	238000	_	CARD	_	8	ATTR	_	_
+8	Diesel-Autos	Diesel-Auto	_	NN	nom|pl|neut	0	S	_	_
+9	zurückrufen	zurückrufen	_	VVPP	_	0	S	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Grund	Grund	_	NN	nom|sg|masc	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Daimler	Daimler	_	NE	nom|sg|*	2	APP	_	_
+5	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+6	bei	bei	_	APPR	_	12	PP	_	_
+7	den	der	_	ART	dat|pl|fem	8	DET	_	_
+8	Abgas-Werten	Abgas-Werte	_	NN	dat|pl|fem	6	PN	_	_
+9	von	von	_	APPR	_	12	PP	_	_
+10	den	der	_	ART	dat|pl|fem	11	DET	_	_
+11	Diesel-Motoren	Diesel-Motor	_	NN	dat|pl|fem	9	PN	_	_
+12	betrogen	betrügen	_	VVPP	_	13	AUX	_	_
+13	haben	haben	_	VAFIN	pl|3|pres|ind	5	REL	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Bundes-Verkehrs-Ministerium	Bundes-Verkehrs-Ministerium	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	12	DET	_	_
+5	entschieden	entscheiden	_	VVPP	_	3	AUX	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	dass	daß	_	KOUS	_	12	KONJ	_	_
+8	Daimler	Daimler	_	NE	nom|sg|*	12	GMOD	_	_
+9	die	der	_	ART	acc|sg|fem	10	DET	_	_
+10	Autos	Auto	_	NN	acc|pl|neut	11	OBJA	_	_
+11	zurück-rufen	zurück-rufen	_	VVINF	_	5	OBJI	_	_
+12	muss	muss	_	FM	_	5	ADV	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Daimler	Daimler	_	NE	nom|pl|*	9	OBJA	_	_
+2	muss	muss	_	NE	nom|pl|*	1	APP	_	_
+3	nun	nun	_	ADV	_	9	ADV	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Computer-Programme	Computer-Programm	_	NN	nom|sg|fem	9	OBJA	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	den	der	_	ART	dat|pl|masc	8	DET	_	_
+8	Diesel-Motoren	Diesel-Motor	_	NN	dat|pl|masc	6	PN	_	_
+9	ändern	ändern	_	VVINF	_	0	S	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Betroffen	betreffen	_	VVPP	_	5	AUX	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	dem	der	_	ART	dat|sg|masc	4	DET	_	_
+4	Rück-Ruf	Rück-Ruf	_	NN	dat|sg|masc	2	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	auch	auch	_	ADV	_	7	ADV	_	_
+7	Modelle	Modell	_	NN	nom|pl|neut	5	SUBJ	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	C-Klasse	C-Klasse	_	NN	dat|sg|fem	8	PN	_	_
+11	und	und	_	KON	_	7	KON	_	_
+12	Gelände-Wagen	Gelände-Wagen	_	NN	dat|pl|fem	11	CJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	andere	anderer	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Auto-Hersteller	Auto-Hersteller	_	NN	nom|pl|masc	6	SUBJ	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Deutschland	Deutschland	_	NE	dat|sg|neut	4	PN	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	von	von	_	APPR	_	10	PP	_	_
+8	dem	der	_	ART	dat|sg|masc	9	DET	_	_
+9	Diesel-Skandal	Diesel-Skandal	_	NN	dat|sg|masc	7	PN	_	_
+10	betroffen	betreffen	_	VVPP	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	VW	VW	_	NE	nom|sg|*	0	S	_	_
+2	muss	muss	_	NE	nom|sg|*	1	APP	_	_
+3	deshalb	deshalb	_	PROAV	_	0	DET	_	_
+4	jetzt	jetzt	_	ADV	_	11	ADV	_	_
+5	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+6	Strafe	Strafe	_	NN	acc|sg|fem	11	OBJA	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	einer	ein	_	ART	dat|sg|fem	9	DET	_	_
+9	Milliarde	Milliarde	_	NN	dat|sg|fem	10	ATTR	_	_
+10	Euro	Euro	_	NE	nom|sg|*	7	PN	_	_
+11	zahlen	zahlen	_	VVINF	_	3	DET	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Staats-Anwaltschaft	Staats-Anwaltschaft	_	NN	nom|sg|fem	6	OBJD	_	_
+5	Braunschweig	Braunschweig	_	NE	nom|sg|neut	4	APP	_	_
+6	entschieden	entscheiden	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Auto-Hersteller	Auto-Hersteller	_	NN	nom|sg|masc	9	ETH	_	_
+3	Audi	Audi	_	NE	nom|sg|*	2	APP	_	_
+4	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	bei	bei	_	APPR	_	9	PP	_	_
+7	den	der	_	ART	dat|pl|fem	8	DET	_	_
+8	Diesel-Motoren	Diesel-Motor	_	NN	dat|pl|fem	6	PN	_	_
+9	geschummelt	gehummeln	_	VVPP	_	10	AUX	_	_
+10	haben	haben	_	VAINF	pl|3|pres|ind	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	ermittelt	ermitteln	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Staats-Anwaltschaft	Staats-Anwaltschaft	_	NN	nom|sg|fem	2	PAR	_	_
+5	München	München	_	NE	nom|sg|neut	4	APP	_	_
+6	gegen	gegen	_	APPR	_	2	PP	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	Chef	Chef	_	NN	acc|sg|masc	6	PN	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	Audi	Audi	_	NE	dat|sg|*	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Rupert	Rupert	_	NE	acc|sg|masc	2	PRED	_	_
+4	Stadler	Stadler	_	NE	acc|sg|masc	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	gegen	gegen	_	APPR	_	5	PP	_	_
+3	andere	anderer	_	ADJA	acc|pl|masc|pos	4	ATTR	_	_
+4	Audi-Manager	Audi-Manager	_	NN	acc|pl|masc	2	PN	_	_
+5	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	ermittelt	ermitteln	_	VVPP	_	5	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+

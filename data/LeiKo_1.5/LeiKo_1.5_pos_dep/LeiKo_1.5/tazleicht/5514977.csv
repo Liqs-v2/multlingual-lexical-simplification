@@ -1,0 +1,367 @@
+﻿1	Beleidigungen	Beleidigung	_	NN	nom|pl|fem	0	S	_	_
+2	im	in	_	APPRART	dat|sg|masc	1	PP	_	_
+3	Fußball	Fußball	_	NN	dat|sg|masc	2	PN	_	_
+
+1	Mexiko-Fans	Mexiko-Fan	_	NE	gen|sg|neut	2	SUBJ	_	_
+2	rufen	rufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	im	in	_	APPRART	dat|sg|masc	7	PP	_	_
+4	Stadion	Stadion	_	NN	dat|sg|masc	3	PN	_	_
+5	das	der	_	ART	acc|sg|neut	6	DET	_	_
+6	Wort	Wort	_	NN	acc|sg|neut	4	GMOD	_	_
+7	"Puto"	"Puto"	_	VVFIN	sg|3|past|ind	2	S	_	_
+8	und	und	_	KON	_	10	DET	_	_
+9	beleidigen	beleidigen	_	VVFIN	pl|3|pres|ind	8	CJ	_	_
+10	damit	damit	_	PROAV	_	7	DET	_	_
+11	die	der	_	ART	acc|sg|fem	13	DET	_	_
+12	deutsche	deutsch	_	ADJA	acc|sg|fem|pos	13	ATTR	_	_
+13	Mannschaft	Mannschaft	_	NN	acc|sg|fem	7	OBJA	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	4	PP	_	_
+2	vergangenen	vergangen	_	ADJA	dat|sg|masc|pos	3	ATTR	_	_
+3	Sonntag	Sonntag	_	NN	dat|sg|masc	1	PN	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	das	der	_	ART	nom|sg|neut	8	DET	_	_
+6	erste	erster	_	ADJA	nom|sg|neut|pos	8	ATTR	_	_
+7	deutsche	deutsch	_	ADJA	nom|sg|neut|pos	8	ATTR	_	_
+8	WM-Spiel	WM-Spiel	_	NN	nom|sg|neut	4	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	spielte	spielen	_	VVFIN	sg|3|past|ind	0	S	_	_
+5	gegen	gegen	_	APPR	_	4	PP	_	_
+6	Mexiko	Mexiko	_	NE	acc|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexiko	Mexiko	_	NE	nom|sg|neut	2	OBJA	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Spiel	Spiel	_	NN	acc|sg|neut	5	OBJG	_	_
+5	gewonnen	gewinnen	_	VVPP	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Spiel	Spiel	_	NN	dat|sg|neut	1	PN	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Sieg	Sieg	_	NN	nom|sg|masc	4	ETH	_	_
+7	aber	aber	_	ADV	_	4	ADV	_	_
+8	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+9	das	der	_	ART	acc|sg|neut	11	DET	_	_
+10	einzige	einzig	_	ADJA	acc|sg|neut|pos	11	ATTR	_	_
+11	Thema	Thema	_	NN	acc|sg|neut	4	PRED	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	über	über	_	APPR	_	5	PP	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Mexiko-Fans	Mexiko-Fan	_	NN	acc|sg|fem	2	PN	_	_
+5	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+6	gesprochen	sprechen	_	VVPP	_	5	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	acc|sg|neut	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Mexiko-Fans	Mexiko-Fan	_	NN	nom|pl|masc	5	OBJA	_	_
+5	gemacht	machen	_	VVPP	_	2	AUX	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	acc|pl|neut	2	DET	_	_
+2	Mexiko-Fans	Mexiko-Fan	_	NN	acc|pl|neut	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	beim	bei	_	APPRART	dat|sg|masc	9	PP	_	_
+5	Spiel	Spiel	_	NN	dat|sg|masc	4	PN	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Wort	Wort	_	NN	acc|sg|neut	5	GMOD	_	_
+8	"Puto"	"Puto"	_	NE	nom|sg|*	7	APP	_	_
+9	gerufen	rufen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	"Puto"	"puto"	_	ADJD	pos	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Spanisch	Spanisch	_	NN	nom|sg|neut	2	ETH	_	_
+4	und	und	_	KON	_	2	KON	_	_
+5	heißt	heißen	_	VVFIN	sg|3|pres|ind	4	CJ	_	_
+6	übersetzt	übersetzen	_	VVPP	_	5	PRED	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	"Stricher"	"stricher"	_	NE	nom|sg|neut	5	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	"Stricher"	"stricher"	_	ADJD	pos	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Sex	Sex	_	NN	nom|sg|masc	2	SUBJ	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Geld	Geld	_	NN	acc|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einige	einiger	_	PIS	nom|pl|*	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Sex	Sex	_	NN	dat|sg|masc	2	OBJA	_	_
+4	mit	mit	_	APPR	_	3	PP	_	_
+5	Frauen	Frau	_	NN	dat|pl|fem	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	einige	einige	_	PIS	nom|pl|*	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	Sex	Sex	_	NN	dat|sg|masc	3	OBJA	_	_
+5	mit	mit	_	APPR	_	4	PP	_	_
+6	Männern	Mann	_	NN	dat|pl|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Puto-Rufe	Puto-Rufe	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	im	in	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Stadion	Stadion	_	NN	dat|sg|neut	3	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	als	als	_	APPR	_	9	PP	_	_
+7	schwulen-feindliche	schwulen-feindlich	_	ADJA	nom|sg|fem|pos	8	ATTR	_	_
+8	Beleidigung	Beleidigung	_	NN	nom|sg|fem	6	PN	_	_
+9	gemeint	meinen	_	VVPP	_	5	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beim	bei	_	APPRART	dat|sg|masc	5	PP	_	_
+2	Spiel	Spiel	_	NN	dat|sg|masc	1	PN	_	_
+3	gegen	gegen	_	APPR	_	2	PP	_	_
+4	Deutschland	Deutschland	_	NE	acc|sg|neut	3	PN	_	_
+5	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+6	mehrfach	mehrfach	_	ADJD	pos	8	ADV	_	_
+7	Puto	Puto	_	NN	acc|sg|neut	8	OBJA	_	_
+8	gerufen	rufen	_	VVPP	_	5	AUX	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	zum	zu	_	APPRART	dat|sg|neut	12	PP	_	_
+11	Beispiel	Beispiel	_	NN	dat|sg|neut	10	PN	_	_
+12	in	in	_	APPR	_	1	PP	_	_
+13	der	der	_	ART	dat|sg|fem	15	DET	_	_
+14	24.	24	_	CARD	_	15	ATTR	_	_
+15	Minute	Minute	_	NN	dat|sg|fem	12	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Moment	Moment	_	NN	dat|sg|neut	1	PN	_	_
+4	gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	einen	ein	_	ART	acc|sg|masc	7	DET	_	_
+7	Freistoß	Freistoß	_	NN	acc|sg|masc	4	OBJA	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Deutschland	Deutschland	_	NE	acc|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Torwart	Torwart	_	NN	nom|sg|masc	4	SUBJ	_	_
+2	Manuel	Manuel	_	NE	nom|sg|masc	1	APP	_	_
+3	Neuer	Neuer	_	NE	nom|sg|masc	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	Freistoß	Freistoß	_	NN	acc|sg|masc	7	OBJG	_	_
+7	geschossen	schießen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	3	PP	_	_
+2	Puto	Puto	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	also	also	_	ADV	_	7	ADV	_	_
+5	Manuel	Manuel	_	NE	nom|sg|masc	7	OBJA	_	_
+6	Neuer	neuer	_	NN	nom|sg|masc	5	APP	_	_
+7	gemeint	meinen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Damit	damit	_	PROAV	_	2	DET	_	_
+2	sollte	sollen	_	VMFIN	sg|3|past|ind	0	S	_	_
+3	Manuel	Manuel	_	NE	nom|sg|masc	4	GMOD	_	_
+4	Neuer	Neuer	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	beleidigt	beleidigen	_	VVPP	_	6	AUX	_	_
+6	werden	werden	_	VAFIN	_	4	REL	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	die	der	_	ART	nom|sg|fem	10	DET	_	_
+9	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	10	ATTR	_	_
+10	Mannschaft	Mannschaft	_	NN	nom|sg|fem	7	NP2	_	_
+11	schlecht	schlecht	_	ADJD	pos	12	ADV	_	_
+12	gemacht	machen	_	VVPP	_	13	AUX	_	_
+13	werden	werden	_	VAINF	_	7	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Fifa	Fifa	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	antwortet	antworten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	auf	auf	_	APPR	_	3	PP	_	_
+5	die	der	_	ART	acc|pl|fem	6	DET	_	_
+6	Beleidigungen	Beleidigung	_	NN	acc|pl|fem	4	PN	_	_
+
+1	Beleidigungen	Beleidigung	_	NN	nom|pl|fem	5	PRED	_	_
+2	gegen	gegen	_	APPR	_	1	PP	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	Gegner	Gegner	_	NN	acc|sg|masc	2	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	im	in	_	APPRART	dat|sg|masc	8	PP	_	_
+7	Fußball	Fußball	_	NN	dat|sg|masc	6	PN	_	_
+8	üblich	üblich	_	ADJD	pos	5	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutsche	deutsch	_	ADJA	nom|sg|fem|pos	2	ATTR	_	_
+2	Fans	Fan	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	rufen	rufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	häufig	häufig	_	ADJD	pos	3	ADV	_	_
+7	diese	dieser	_	PDAT	acc|pl|neut	8	DET	_	_
+8	Wörter	Wort	_	NN	acc|pl|neut	3	OBJA	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+
+1	"Arschloch"	"Arschloch"	_	ADJD	pos	0	S	_	_
+2	oder	oder	_	KON	_	1	KON	_	_
+3	"Huren-Sohn"	"Huren-Sohn"	_	ADJD	pos	2	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+3	das	der	_	ART	nom|sg|neut	0	S	_	_
+4	in	in	_	APPR	_	2	PRED	_	_
+5	Ordnung	Ordnung	_	NN	dat|sg|fem	4	PN	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Darf	dürfen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+2	man	man	_	PIS	nom|sg|*	1	SUBJ	_	_
+3	im	in	_	APPRART	dat|sg|masc	6	PP	_	_
+4	Fußball	Fußball	_	NN	dat|sg|masc	3	PN	_	_
+5	andere	anderer	_	PIS	nom|pl|*	6	OBJA	_	_
+6	beleidigen	beleidigen	_	VVINF	pl|3|pres|ind	1	AUX	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+3	finden	finden	_	VVFIN	pl|3|pres|ind	6	REL	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Puto-Rufe	Puto-Ruf	_	NN	nom|pl|masc	6	PRED	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+8	in	in	_	APPR	_	6	PRED	_	_
+9	Ordnung	Ordnung	_	NN	dat|sg|fem	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Solche	solcher	_	PIAT	acc|pl|fem	2	DET	_	_
+2	Beleidigungen	Beleidigung	_	NN	acc|pl|fem	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|masc	8	PP	_	_
+5	Fußball	Fußball	_	NN	dat|sg|masc	4	PN	_	_
+6	nichts	nichts	_	PIS	*|*|neut	8	OBJA	_	_
+7	zu	zu	_	PTKZU	_	8	PART	_	_
+8	suchen	suchen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Fifa	Fifa	_	NE	nom|sg|fem	4	OBJA	_	_
+4	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Puto-Rufe	Puto-Rufe	_	NN	acc|sg|fem	4	OBJA	_	_
+7	falsch	falsch	_	ADJD	pos	4	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Fifa	Fifa	_	NE	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Welt-Fußball-Verband	Welt-Fußball-Verband	_	NN	nom|sg|masc	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	veranstaltet	veranstalten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|fem	4	DET	_	_
+4	Fußball-Welt-Meisterschaften	Fußball-Welt-Meisterschaft	_	NN	acc|pl|fem	2	PAR	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|fem	4	DET	_	_
+4	Beleidigungen	Beleidigung	_	NN	acc|pl|fem	7	OBJA	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Mexiko-Fans	Mexiko-Fan	_	NN	dat|pl|masc	5	PN	_	_
+7	bestraft	bestrafen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Mexikos	Mexiko	_	NE	nom|sg|masc	8	OBJA	_	_
+4	Fußball-Verband	Fußball-Verband	_	NN	nom|sg|masc	3	APP	_	_
+5	mit	mit	_	APPR	_	8	PP	_	_
+6	einer	ein	_	ART	dat|sg|fem	7	DET	_	_
+7	Geld-Strafe	Geld-Strafe	_	NN	dat|sg|fem	5	PN	_	_
+8	bestraft	bestrafen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Geld-Strafe	Geld-Strafe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ungefähr	ungefähr	_	ADJD	pos	3	ADV	_	_
+5	8.600	8.600	_	CARD	_	6	ATTR	_	_
+6	Euro	Euro	_	NE	nom|sg|*	7	GRAD	_	_
+7	hoch	hoch	_	ADJD	pos	3	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Fifa	Fifa	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	noch	noch	_	ADV	_	3	ADV	_	_
+5	mehr	mehr	_	ADV	_	3	ADV	_	_
+6	gegen	gegen	_	APPR	_	3	PP	_	_
+7	Beleidigungen	Beleidigung	_	NN	acc|pl|fem	6	PN	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	Minderheiten	Minderheit	_	NN	dat|pl|fem	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	WM	WM	_	NN	dat|sg|fem	1	PN	_	_
+4	2018	2018	_	CARD	_	3	APP	_	_
+5	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	Fifa-Mitarbeiter	Fifa-Mitarbeiter	_	NN	nom|pl|masc	5	SUBJ	_	_
+7	Kontrollen	Kontrolle	_	NN	nom|pl|masc	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Fifa-Mitarbeiter	Fifa-Mitarbeiter	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sitzen	sitzen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+5	Stadion	Stadion	_	NN	dat|sg|masc	4	PN	_	_
+6	bei	bei	_	APPR	_	3	PP	_	_
+7	den	der	_	ART	dat|pl|masc	8	DET	_	_
+8	Fans	Fan	_	NN	dat|pl|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	verstehen	verstehen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|fem	4	DET	_	_
+4	Mutter-Sprachen	Mutter-Sprach	_	NN	acc|pl|fem	2	OBJA	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	dat|pl|fem	7	DET	_	_
+7	Fans	Fan	_	NN	dat|pl|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	beobachten	beobachten	_	VVFIN	pl|3|past|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Verhalten	verhalten	_	NN	acc|sg|neut	2	OBJA	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	dat|pl|masc	7	DET	_	_
+7	Fans	Fan	_	NN	dat|pl|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wenn	wenn	_	KOUS	_	8	KONJ	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Fans	Fan	_	NN	nom|sg|fem	5	OBJG	_	_
+4	Beleidigungen	Beleidigung	_	NN	acc|pl|fem	3	APP	_	_
+5	rufen	rufen	_	VVINF	_	8	NEB	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	dann	dann	_	ADV	_	8	ADV	_	_
+8	wird	werden	_	VAFIN	sg|3|pres|ind	12	S	_	_
+9	das	der	_	PDS	nom|sg|neut	8	SUBJ	_	_
+10	der	der	_	ART	nom|sg|masc	11	DET	_	_
+11	Fifa	Fifa	_	NE	nom|sg|masc	9	GMOD	_	_
+12	gemeldet	melden	_	VVPP	_	0	S	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+

@@ -1,0 +1,309 @@
+1	Zu	zu	_	PTKA	_	3	ADV	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Mieter	Mieter	_	NN	nom|pl|masc	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+
+1	Behörde	Behörde	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	kontrolliert	kontrollieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Haus	Haus	_	NN	acc|sg|neut	2	OBJA	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Hamburg	Hamburg	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+5	großer	groß	_	ADJA	nom|sg|masc|pos	6	ATTR	_	_
+6	Einsatz	Einsatz	_	NN	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieser	dieser	_	PDAT	nom|sg|masc	2	DET	_	_
+2	Einsatz	Einsatz	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PRED	_	_
+5	Wandsbek	Wandsbek	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wandsbek	Wandsbek	_	NE	nom|sg|*	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Stadt·teil	Stadt·teil	_	NN	nom|sg|masc	2	PRED	_	_
+5	im	in	_	APPRART	dat|sg|masc	4	PP	_	_
+6	Osten	Osten	_	NN	dat|sg|masc	5	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Hamburg	Hamburg	_	NE	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Einsatz	Einsatz	_	NN	dat|sg|masc	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	etwa	etwa	_	ADV	_	6	ADV	_	_
+6	150	150	_	CARD	_	7	ATTR	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	10	OBJD	_	_
+8	ein	ein	_	ART	acc|sg|neut	9	DET	_	_
+9	Haus	Haus	_	NN	acc|sg|neut	7	GMOD	_	_
+10	kontrolliert	kontrollieren	_	VVPP	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	•	LI	_	XY	_	0	ROOT	_	_
+6	Von	von	_	APPR	_	3	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Polizei	Polizei	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+10	•	LI	_	XY	dat|sg|neut	0	ROOT	_	_
+11	Und	und	_	KON	_	6	KON	_	_
+12	von	von	_	APPR	_	11	CJ	_	_
+13	der	der	_	ART	dat|sg|fem	14	DET	_	_
+14	Sozial·behörde	Sozial·behörde	_	NN	dat|sg|fem	12	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Sozial·behörde	Sozial·behörde	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	kümmert	kümmern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|sg|3	3	OBJA	_	_
+5	um	um	_	APPR	_	3	PP	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	oft	oft	_	ADV	_	3	ADV	_	_
+5	arm	arm	_	ADJD	pos	3	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Sozial·behörde	Sozial·behörde	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Das	der	_	ART	nom|sg|neut	7	DET	_	_
+7	Haus	Haus	_	NN	nom|sg|neut	8	PRED	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	ein	ein	_	ART	nom|sg|neut	10	DET	_	_
+10	Hotel	Hotel	_	NN	nom|sg|neut	8	PRED	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|neut	3	DET	_	_
+3	Hotel	Hotel	_	NN	dat|sg|neut	1	PN	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+6	für	für	_	APPR	_	9	PP	_	_
+7	einige	einiger	_	PIAT	acc|pl|masc	8	DET	_	_
+8	Tage	Tag	_	NN	acc|pl|masc	6	PN	_	_
+9	übernachten	übernachten	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	8	OBJA	_	_
+3	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	für	für	_	APPR	_	8	PP	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Übernachtung	Übernachtung	_	NN	acc|sg|fem	4	PN	_	_
+7	Geld	Geld	_	NN	nom|sg|neut	8	OBJA	_	_
+8	bezahlen	bezahlen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	wir	wir	_	PPER	nom|pl|*|1	3	OBJA	_	_
+3	glauben	glauben	_	VVFIN	pl|1|pres|ind	1	CJ	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Vermieter	Vermieter	_	NN	nom|sg|masc	7	PN	_	_
+7	nutzt	nutzen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	das	der	_	ART	acc|sg|neut	9	DET	_	_
+9	Haus	Haus	_	NN	acc|sg|neut	7	SUBJ	_	_
+10	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+11	als	als	_	APPR	_	7	PP	_	_
+12	Hotel	Hotel	_	NN	nom|sg|neut	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Haus	Haus	_	NN	dat|sg|masc	1	PN	_	_
+4	wohnen	wohnen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+6	viele	vieler	_	PIAT	acc|pl|masc	7	DET	_	_
+7	Menschen	Mensch	_	NN	acc|pl|masc	4	SUBJ	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	längere	lang	_	ADJA	acc|sg|fem|comp	10	ATTR	_	_
+10	Zeit	Zeit	_	NN	acc|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	verboten	verbieten	_	VVPP	_	2	AUX	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	3	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	3	REL	_	_
+3	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	7	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Kontrolle	Kontrolle	_	NN	dat|sg|fem	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Haus	Haus	_	NN	dat|sg|masc	4	PN	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	die	der	_	ART	nom|sg|fem	9	DET	_	_
+9	Sozial·behörde	Sozial·behörde	_	NN	nom|sg|fem	10	OBJG	_	_
+10	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+12	In	in	_	APPR	_	15	PP	_	_
+13	dem	der	_	ART	dat|sg|masc	14	DET	_	_
+14	Haus	Haus	_	NN	dat|sg|masc	12	PN	_	_
+15	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+16	kleine	klein	_	ADJA	nom|pl|fem|pos	17	ATTR	_	_
+17	Wohnungen	Wohnung	_	NN	nom|pl|fem	15	PRED	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	4	DET	_	_
+3	kleinen	klein	_	ADJA	dat|pl|fem|pos	4	ATTR	_	_
+4	Wohnungen	Wohnung	_	NN	dat|pl|fem	1	PN	_	_
+5	leben	leben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	viele	vieler	_	PIAT	nom|pl|masc	7	DET	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	5	PAR	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	aus	aus	_	APPR	_	3	PRED	_	_
+5	Ost·europa	Ost·europa	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	acc|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	acc|pl|masc	4	OBJA	_	_
+4	brauchen	brauchen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	Hilfe	Hilfe	_	NN	acc|sg|fem	4	SUBJ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sprechen	sprechen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+8	gut	gut	_	ADJD	pos	9	ADV	_	_
+9	deutsch	deutsch	_	ADJD	pos	3	ADV	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Vermieter	Vermieter	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Ich	ich	_	PPER	nom|sg|*|1	7	SUBJ	_	_
+7	helfe	helfen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+8	euch	euch	_	PTKVZ	dat|pl|*|2	7	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+2	vermiete	vermieten	_	VVFIN	sg|1|pres|ind	0	S	_	_
+3	euch	euch	_	PRF	dat|pl|*|2	2	OBJA	_	_
+4	Wohnungen	Wohnung	_	NN	acc|pl|fem	2	OBJG	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Vermieter	Vermieter	_	NN	nom|sg|masc	4	OBJG	_	_
+4	wollte	wollen	_	VMFIN	sg|3|past|ind	1	CJ	_	_
+5	viel	viel	_	PIAT	*|*|*	6	ATTR	_	_
+6	Geld	Geld	_	NN	acc|sg|neut	7	OBJA	_	_
+7	verdienen	verdienen	_	VVFIN	_	4	KON	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Vermieter	Vermieter	_	NN	nom|sg|masc	11	OBJD	_	_
+5	die	der	_	ART	acc|pl|fem	6	DET	_	_
+6	Wohnungen	Wohnung	_	NN	acc|pl|fem	4	GMOD	_	_
+7	an	an	_	PTKVZ	_	11	AVZ	_	_
+8	zu	zu	_	PTKA	_	10	ADV	_	_
+9	viele	vieler	_	PIAT	nom|pl|masc	10	ATTR	_	_
+10	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+11	vermietet	vermieten	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	verboten	verbieten	_	VVPP	_	2	AUX	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	ermittelt	ermitteln	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	gegen	gegen	_	APPR	_	2	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Vermieter	Vermieter	_	NN	acc|sg|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Sozial·behörde	Sozial·behörde	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|pl|fem	8	DET	_	_
+8	Wohnungen	Wohnung	_	NN	nom|pl|fem	9	SUBJ	_	_
+9	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+10	zu	zu	_	PTKA	_	11	ADV	_	_
+11	klein	klein	_	ADJD	pos	9	ADV	_	_
+12	für	für	_	APPR	_	9	PP	_	_
+13	so	so	_	ADV	_	12	PN	_	_
+14	viele	vieler	_	PIAT	acc|pl|masc	15	DET	_	_
+15	Menschen	Mensch	_	NN	acc|pl|masc	9	PRED	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|fem	3	DET	_	_
+3	Wohnungen	Wohnung	_	NN	nom|pl|fem	4	SUBJ	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	in	in	_	APPR	_	4	PRED	_	_
+6	einem	ein	_	ART	dat|sg|masc	9	DET	_	_
+7	sehr	sehr	_	ADV	_	8	ADV	_	_
+8	schlechten	schlecht	_	ADJA	dat|sg|masc|pos	9	ATTR	_	_
+9	Zustand	Zustand	_	NN	dat|sg|masc	5	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Viele	vieler	_	PIAT	acc|pl|neut	5	DET	_	_
+5	Dinge	Ding	_	NN	acc|pl|neut	9	PRED	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	den	der	_	ART	dat|pl|neut	8	DET	_	_
+8	Wohnungen	Wohnung	_	NN	dat|pl|neut	6	PN	_	_
+9	sind	sein	_	VAFIN	pl|3|pres|ind	2	S	_	_
+10	kaputt	kaputt	_	ADJD	pos	9	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	die	der	_	ART	acc|pl|fem	4	DET	_	_
+4	Wände	Wand	_	NN	acc|pl|fem	0	S	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	prüfen	prüfen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	jetzt	jetzt	_	ADV	_	2	ADV	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Wie	wie	_	PWAV	_	7	ADV	_	_
+7	können	können	_	VMFIN	pl|1|pres|ind	0	S	_	_
+8	wir	wir	_	PPER	nom|pl|*|1	11	OBJD	_	_
+9	den	der	_	ART	acc|sg|masc	10	DET	_	_
+10	Menschen	Mensch	_	NN	acc|sg|masc	11	OBJD	_	_
+11	helfen	helfen	_	VVINF	_	7	AUX	_	_
+12	?	--	_	$.	_	0	ROOT	_	_

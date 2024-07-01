@@ -1,0 +1,487 @@
+	Arg1	Arg2	Conn1	Conn2	ExplConn	File	RelType	SClass1A	SClass1B	SClass2A	SClass2B	Sup1	Sup2
+0	Die Olympischen Spiele sind der größte Sport·wettbewerb auf der Welt	Bei den Olympischen Spielen machen Sportler aus fast allen Ländern mit	nämlich	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	Implicit	Contingency.Cause.Reason	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA
+1	Bei den Olympischen Spielen machen Sportler aus fast allen Ländern mit	Die 3 besten Sportler in jeder Sport·art gewinnen Medaillen	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+2	Die 3 besten Sportler in jeder Sport·art gewinnen Medaillen	Die Olympischen Spiele sind alle 2 Jahre	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+3	Die Olympischen Spiele sind alle 2 Jahre	"Es gibt die Olympischen Sommer·spiele.
+            Und die Olympischen Winter·spiele"	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+4	Am Freitag haben die Olympischen Spiele begonnen	Die Olympischen Spiele sind immer in einem anderen Land	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+5	Die Olympischen Spiele sind immer in einem anderen Land	In diesem Jahr sind die Olympischen Spiele in Süd·korea	NA	NA	In diesem Jahr	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	AltLex	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+6	In diesem Jahr sind die Olympischen Spiele in Süd·korea	Bei den Olympischen Spielen sind auch 5 Sportler aus Nord·deutschland	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+7	Bei den Olympischen Spielen sind auch 5 Sportler aus Nord·deutschland	Der bekannteste von den 5 Sportlern ist Arnd Peiffer	NA	NA	Der bekannteste von den 5 Sportlern	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	AltLex	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+8	Der bekannteste von den 5 Sportlern ist Arnd Peiffer	Arnd Peiffer kommt aus Clausthal-Zellerfeld	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+9	Arnd Peiffer kommt aus Clausthal-Zellerfeld	Arnd Peiffer macht Biathlon	NA	NA	Und	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+10	Beim Biathlon machen die Sportler Ski·langlauf	beim Biathlon schießen die Sportler mit Gewehren auf Scheiben	NA	NA	Und	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+11	Und Arnd Peiffer macht Biathlon	Arnd Peiffer will eine Medaille gewinnen	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+12	Arnd Peiffer will eine Medaille gewinnen	Arnd Peiffer ist schon zum 3. Mal bei Olympischen Spielen	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+13	Arnd Peiffer ist schon zum 3. Mal bei Olympischen Spielen	2014 hat Arnd Peiffer eine Medaille gewonnen	NA	NA	2014	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	AltLex	Temporal.Asynchronous.Succession	NA	NA	NA	NA	NA
+14	2014 hat Arnd Peiffer eine Medaille gewonnen	"Arnd Peiffer hat gesagt:
+            Ich bin vielleicht das letzte Mal bei Olympischen Spielen.
+            Und vielleicht kann ich wieder eine Medaille gewinnen"	jetzt	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	Implicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Reason	NA	NA	NA	NA
+15	Ich bin vielleicht das letzte Mal bei Olympischen Spielen	vielleicht kann ich wieder eine Medaille gewinnen	NA	NA	Und	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+16	"Arnd Peiffer hat gesagt:
+            Ich bin vielleicht das letzte Mal bei Olympischen Spielen.
+            Und vielleicht kann ich wieder eine Medaille gewinnen"	Der 1. Wettkampf von Arnd Peiffer ist am Sonntag	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+17	Der 1. Wettkampf von Arnd Peiffer ist am Sonntag	Die Olympischen Spiele sind noch bis zum 25. Februar	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+18	Die Olympischen Spiele sind noch bis zum 25. Februar	Viele Informationen zu den Olympischen Spielen in Leichter Sprache lesen Sie hier	NA	NA	NA	Arnd-Peiffer-bei-Olympischen-Spielen,peiffer240.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+19	Ein Prozess ist ein Streit vor Gericht	"Bei einem Prozess entscheidet das Gericht:
+            • Hat ein Mensch etwas Verbotenes getan"	genauer gesagt	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+20	Hat ein Mensch etwas Verbotenes getan	Dann bekommt dieser Mensch eine Strafe.	NA	NA	Hat ein Mensch...Dann	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	AltLexC	Contingency.Condition.Arg1-as-cond	NA	NA	NA	NA	NA
+21	Hat ein Mensch etwas Verbotenes getan	hat ein Mensch nichts Verbotenes getan	NA	NA	Oder	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Expansion.Disjunction	NA	NA	NA	NA	NA
+22	Oder hat ein Mensch nichts Verbotenes getan	Dann bekommt dieser Mensch keine Strafe	NA	NA	hat ein Mensch...Dann	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	AltLexC	Contingency.Negative-condition.Arg1-as-negcond	NA	NA	NA	NA	NA
+23	In Nordrhein-Westfalen war ein Prozess	Der Prozess war in Paderborn	genauer gesagt	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+24	Der Prozess war in Paderborn	Das Gericht in Paderborn hat 2 Menschen verurteilt	genauer gesagt	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+25	Das Gericht in Paderborn hat 2 Menschen verurteilt	Diese 2 Menschen haben...2 Frauen getötet	NA	NA	nämlich	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	"• Einen Mann.
+• Und eine Frau"	NA
+26	Diese 2 Menschen haben nämlich 2 Frauen getötet	Diese 2 Frauen waren aus Niedersachsen	NA	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+27	Diese 2 Menschen haben nämlich 2 Frauen getötet	werden die 2 Menschen lange eingesperrt	NA	NA	Jetzt	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+28	"In Nordrhein-Westfalen war ein Prozess...Der Prozess war in Paderborn.
+Das Gericht in Paderborn hat 2 Menschen verurteilt.
+• Einen Mann.
+• Und eine Frau.
+Diese 2 Menschen haben nämlich 2 Frauen getötet.
+Diese 2 Frauen waren aus Niedersachsen.
+Jetzt werden die 2 Menschen lange eingesperrt"	Was ist passiert	deshalb	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA
+29	Was ist passiert	"Der Mann und die Frau waren ein Ehe·paar.
+Das Ehe·paar hat zusammen in einem Haus gewohnt.
+Das Haus ist in Höxter....Das Ehe·paar hat mehrere Frauen in das Haus gelockt.
+Das Ehe·paar hat den Frauen zum Beispiel gesagt:
+            Wir wollen mit euch leben.
+            Kommt zu uns nach Höxter!
+Die Frauen waren sehr einsam.
+Deshalb sind die Frauen nach Höxter gefahren.
+Dann hat das Ehe·paar die Frauen eingesperrt.
+Und das Ehe·paar hat die Frauen misshandelt."	NA	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Hypophora	NA	NA	NA	NA	NA	NA
+30	Der Mann und die Frau waren ein Ehe·paar	Das Ehe·paar hat zusammen in einem Haus gewohnt	NA	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+31	Das Ehe·paar hat zusammen in einem Haus gewohnt	Das Haus ist in Höxter	NA	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+32	Das Haus ist in Höxter	Das Ehe·paar hat mehrere Frauen in das Haus gelockt	NA	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+33	Das Ehe·paar hat mehrere Frauen in das Haus gelockt	"Das Ehe·paar hat den Frauen zum Beispiel gesagt:
+            Wir wollen mit euch leben"	indem	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Implicit	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	Kommt zu uns nach Höxter
+34	Das Ehe·paar hat mehrere Frauen in das Haus gelockt	"Das Ehe·paar hat den Frauen...gesagt:
+            Wir wollen mit euch leben"	NA	NA	zum Beispiel	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	Kommt zu uns nach Höxter
+35	Wir wollen mit euch leben	Kommt zu uns nach Höxter	deshalb	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA
+36	"Das Ehe·paar hat den Frauen zum Beispiel gesagt:
+            Wir wollen mit euch leben.
+            Kommt zu uns nach Höxter"	Die Frauen waren sehr einsam	NA	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+37	Die Frauen waren sehr einsam	sind die Frauen nach Höxter gefahren	NA	NA	Deshalb	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+38	Deshalb sind die Frauen nach Höxter gefahren	hat das Ehe·paar die Frauen eingesperrt	NA	NA	Dann	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+39	Dann hat das Ehe·paar die Frauen eingesperrt	das Ehe·paar hat die Frauen misshandelt	NA	NA	Und	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+40	Und das Ehe·paar hat die Frauen misshandelt	Die Misshandlungen waren sehr schlimm	NA	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+41	Die Misshandlungen waren sehr schlimm	sind 2 von den Frauen gestorben	NA	NA	Deshalb	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+42	Deshalb sind 2 von den Frauen gestorben	Diese 2 Frauen waren aus Niedersachsen	und zwar	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+43	Diese 2 Frauen waren aus Niedersachsen	"Das Gericht hat gesagt:
+            Die Taten von dem Ehe·paar waren sehr schlimm.
+            Deshalb muss die Frau 13 Jahre lang ins Gefängnis.
+            Und der Mann muss 11 Jahre lang in eine Psychiatrie....Der Mann ist nämlich psychisch krank."	NA	NA	NA	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+44	Die Taten von dem Ehe·paar waren sehr schlimm	muss die Frau 13 Jahre lang ins Gefängnis	NA	NA	Deshalb	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+45	Deshalb muss die Frau 13 Jahre lang ins Gefängnis	der Mann muss 11 Jahre lang in eine Psychiatrie	NA	NA	Und	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+46	Und der Mann muss 11 Jahre lang in eine Psychiatrie	Der Mann ist...psychisch krank	NA	NA	nämlich	2-Frauen-getoetet-Hohe-Strafen-,hoexter450.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+47	Am Flughafen von Hannover sind Flüge ausgefallen	Eine Start·bahn vom Flughafen war...kaputt	NA	NA	nämlich	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+48	Eine Start·bahn ist eine Fläche auf einem Flughafen	Auf einer Start·bahn starten zum Beispiel Flugzeuge	NA	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+49	Eine Start·bahn vom Flughafen war nämlich kaputt	Die Start·bahn ist aus Beton	NA	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+50	Beton ist ein Bau·stoff	Beton ist zuerst flüssig	NA	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+51	Beton ist...flüssig	wird Beton schnell hart wie Stein	NA	NA	zuerst...Dann	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+52	Die Start·bahn ist aus Beton	Dieser Beton ist aufgeplatzt	NA	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+53	Dieser Beton ist aufgeplatzt	konnte in Hannover kein Flugzeug starten	NA	NA	Deshalb	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+54	Dieser Beton ist aufgeplatzt	Warum ist der Beton aufgeplatzt	deshalb	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	Deshalb konnte in Hannover kein Flugzeug starten	NA
+55	Warum ist der Beton aufgeplatzt	"In Hannover ist es sehr heiß.
+Deshalb ist der Beton auf der Start·bahn sehr heiß geworden.
+Das ist nicht gut für den Beton.
+Bei großer Hitze dehnt Beton sich nämlich aus...Dann platzt der Beton auf.
+Und der Beton bekommt Risse"	NA	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Hypophora	NA	NA	NA	NA	NA	NA
+56	In Hannover ist es sehr heiß	ist der Beton auf der Start·bahn sehr heiß geworden	NA	NA	Deshalb	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+57	Deshalb ist der Beton auf der Start·bahn sehr heiß geworden	Das ist nicht gut für den Beton	aber	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Implicit	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA
+58	Das ist nicht gut für den Beton	Bei großer Hitze dehnt Beton sich...aus	NA	NA	nämlich	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+59	Bei großer Hitze dehnt Beton sich nämlich aus	platzt der Beton auf	NA	NA	Dann	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	AltLex	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA
+60	Dann platzt der Beton auf	der Beton bekommt Risse	NA	NA	Und	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Expansion.Conjunction	Temporal.Synchronous	NA	NA	NA	NA
+61	Und der Beton bekommt Risse	Flüge sind ausgefallen	NA	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+62	Flüge sind ausgefallen	"Am Dienstag ist die Start·bahn kaputtgegangen.
+Deshalb wurde die Start·bahn am Abend gesperrt.
+Und deshalb sind am Abend keine Flugzeuge mehr in Hannover gestartet.
+Auch in der Nacht sind keine Flugzeuge in Hannover gestartet"	denn	NA	NA	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	Contingency.Cause.Reason	NA	NA	NA	NA
+63	Am Dienstag ist die Start·bahn kaputtgegangen	wurde die Start·bahn am Abend gesperrt	NA	NA	Deshalb	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA
+64	Deshalb wurde die Start·bahn am Abend gesperrt	sind am Abend keine Flugzeuge mehr in Hannover gestartet	NA	NA	Und deshalb	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Contingency.Cause.Result	Expansion.Conjunction	NA	NA	NA	NA
+65	Und deshalb sind am Abend keine Flugzeuge mehr in Hannover gestartet	in der Nacht sind keine Flugzeuge in Hannover gestartet	NA	NA	Auch	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Comparison.Similarity	NA	NA	NA	NA	NA
+66	Auch in der Nacht sind keine Flugzeuge in Hannover gestartet	mussten viele Menschen im Flughafen schlafen	NA	NA	Deshalb	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+67	Am Dienstag ist die Start·bahn kaputtgegangen	Am Mittwoch haben Bauarbeiter die Start·bahn repariert	NA	NA	Am Dienstag...Am Mittwoch	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	AltLex	Temporal.Asynchronous.Precedence	Comparison.Contrast	NA	NA	NA	NA
+68	Am Mittwoch haben Bauarbeiter die Start·bahn repariert	können wieder Flugzeuge am Flughafen von Hannover starten	NA	NA	Jetzt	Beton-kaputt-Flugzeuge-koennen-nicht-starten,flughafenhannover154.html.txt	AltLex	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+69	In Hamburg war ein Unfall	Bei diesem Unfall ist ein Auto aus einem Park·haus gestürzt	NA	NA	Bei diesem Unfall	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	AltLex	Expansion.Level-of-detail.Arg2-as-detail	Temporal.Synchronous	NA	NA	NA	NA
+70	Bei diesem Unfall ist ein Auto aus einem Park·haus gestürzt	bei diesem Unfall ist der Fahrer von dem Auto gestorben	NA	NA	Und	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+71	Und bei diesem Unfall ist der Fahrer von dem Auto gestorben	Der Fahrer von dem Auto war 88 Jahre alt	NA	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+72	"In Hamburg war ein Unfall.
+Bei diesem Unfall ist ein Auto aus einem Park·haus gestürzt.
+Und bei diesem Unfall ist der Fahrer von dem Auto gestorben"	Was ist passiert	deshalb	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	Der Fahrer von dem Auto war 88 Jahre alt	NA
+73	Was ist passiert	"Das Park·haus ist in einem Einkaufs·zentrum.
+Dieses Einkaufs·zentrum ist in Barmbek-Süd...Die Polizei hat gesagt:
+            Das Auto von dem Mann war in dem Park·haus.
+            Und das Auto von dem Mann war in der 5. Etage von dem Park·haus.
+            Die 5. Etage von dem Park·haus ist in 15 Meter Höhe.
+            Der Mann wollte mit dem Auto ausparken.
+            Beim Ausparken ist der Mann mit dem Auto rückwärts gefahren.
+            Dann ist das Auto gegen eine Wand gefahren.
+            Danach ist das Auto schnell vorwärts gefahren.
+            Und dann ist das Auto gegen eine andere Wand gefahren.
+            Diese andere Wand ist an der Außen·seite von dem Park·haus.
+            Diese andere Wand hat das Auto nicht gestoppt.
+            Deshalb ist das Auto aus dem Park·haus gestürzt.
+            Das Auto ist 15 Meter herunter·gestürzt.
+            Das Auto wurde bei dem Unfall zerquetscht.
+            Der Mann in dem Auto ist bei dem Unfall gestorben"	NA	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Hypophora	NA	NA	NA	NA	NA	NA
+74	Das Park·haus ist in einem Einkaufs·zentrum	Dieses Einkaufs·zentrum ist in Barmbek-Süd	NA	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+75	Dieses Einkaufs·zentrum ist in Barmbek-Süd	"Die Polizei hat gesagt:
+            Das Auto von dem Mann war in dem Park·haus.
+            Und das Auto von dem Mann war in der 5. Etage von dem Park·haus.
+            Die 5. Etage von dem Park·haus ist in 15 Meter Höhe.
+            Der Mann wollte mit dem Auto ausparken.
+            Beim Ausparken ist der Mann mit dem Auto rückwärts gefahren.
+            Dann ist das Auto gegen eine Wand gefahren.
+            Danach ist das Auto schnell vorwärts gefahren.
+            Und dann ist das Auto gegen eine andere Wand gefahren.
+            Diese andere Wand ist an der Außen·seite von dem Park·haus.
+            Diese andere Wand hat das Auto nicht gestoppt.
+            Deshalb ist das Auto aus dem Park·haus gestürzt.
+            Das Auto ist 15 Meter herunter·gestürzt.
+            Das Auto wurde bei dem Unfall zerquetscht.
+            Der Mann in dem Auto ist bei dem Unfall gestorben"	NA	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+76	Das Auto von dem Mann war in dem Park·haus	das Auto von dem Mann war in der 5. Etage von dem Park·haus	NA	NA	Und	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+77	Und das Auto von dem Mann war in der 5. Etage von dem Park·haus	Die 5. Etage von dem Park·haus ist in 15 Meter Höhe	NA	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+78	Die 5. Etage von dem Park·haus ist in 15 Meter Höhe	Der Mann wollte mit dem Auto ausparken	NA	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+79	Der Mann wollte mit dem Auto ausparken	Beim Ausparken ist der Mann mit dem Auto rückwärts gefahren	NA	NA	Beim Ausparken	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	AltLex	Temporal.Synchronous	Contingency.Purpose.Arg1-as-goal	NA	NA	NA	NA
+80	Beim Ausparken ist der Mann mit dem Auto rückwärts gefahren	ist das Auto gegen eine Wand gefahren	NA	NA	Dann	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+81	Dann ist das Auto gegen eine Wand gefahren	ist das Auto schnell vorwärts gefahren	NA	NA	Danach	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+82	Danach ist das Auto schnell vorwärts gefahren	ist das Auto gegen eine andere Wand gefahren	NA	NA	Und dann	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+83	Und dann ist das Auto gegen eine andere Wand gefahren	Diese andere Wand hat das Auto nicht gestoppt	jedoch	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Implicit	Comparison.Concession.Arg2-as-denier	NA	NA	NA	Diese andere Wand ist an der Außen·seite von dem Park·haus	NA
+84	Diese andere Wand hat das Auto nicht gestoppt	ist das Auto aus dem Park·haus gestürzt	NA	NA	Deshalb	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+85	Deshalb ist das Auto aus dem Park·haus gestürzt	Das Auto ist 15 Meter herunter·gestürzt	genauer gesagt	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+86	Das Auto ist 15 Meter herunter·gestürzt	Das Auto wurde bei dem Unfall zerquetscht	NA	NA	bei dem Unfall	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	AltLex	Contingency.Cause.Result	NA	NA	NA	NA	NA
+87	Das Auto wurde bei dem Unfall zerquetscht	Der Mann in dem Auto ist bei dem Unfall gestorben	NA	NA	bei dem Unfall	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	AltLex	Contingency.Cause.Result	Temporal.Synchronous	NA	NA	NA	NA
+88	"Die Polizei hat gesagt:
+            Das Auto von dem Mann war in dem Park·haus.
+            Und das Auto von dem Mann war in der 5. Etage von dem Park·haus.
+            Die 5. Etage von dem Park·haus ist in 15 Meter Höhe.
+            Der Mann wollte mit dem Auto ausparken.
+            Beim Ausparken ist der Mann mit dem Auto rückwärts gefahren.
+            Dann ist das Auto gegen eine Wand gefahren.
+            Danach ist das Auto schnell vorwärts gefahren.
+            Und dann ist das Auto gegen eine andere Wand gefahren.
+            Diese andere Wand ist an der Außen·seite von dem Park·haus.
+            Diese andere Wand hat das Auto nicht gestoppt.
+            Deshalb ist das Auto aus dem Park·haus gestürzt.
+            Das Auto ist 15 Meter herunter·gestürzt.
+            Das Auto wurde bei dem Unfall zerquetscht.
+            Der Mann in dem Auto ist bei dem Unfall gestorben"	"will die Polizei wissen:
+            Warum ist der Unfall passiert"	NA	NA	Jetzt	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+89	"Jetzt will die Polizei wissen:
+            Warum ist der Unfall passiert"	"müssen Fach·leute untersuchen:
+            War der Mann vielleicht krank"	NA	NA	Deshalb	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+90	"Deshalb müssen Fach·leute untersuchen:
+            War der Mann vielleicht krank"	Die Polizei hat einen Teil vom Park·haus gesperrt	NA	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+91	Die Polizei hat einen Teil vom Park·haus gesperrt	"Die Polizei hat gesagt:
+            Die Wand an der Außen·seite vom Park·haus ist kaputt.
+            Deshalb kann diese Wand auf die Straße fallen.
+            Jetzt müssen Fach·leute diese Wand reparieren.
+            Dann können wieder Autos in diesem Teil vom Park·haus parken"	denn	NA	NA	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Implicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+92	Die Wand an der Außen·seite vom Park·haus ist kaputt	kann diese Wand auf die Straße fallen	NA	NA	Deshalb	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+93	Die Wand an der Außen·seite vom Park·haus ist kaputt	müssen Fach·leute diese Wand reparieren	NA	NA	Jetzt	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Temporal.Synchronous	Contingency.Cause.Result	NA	NA	NA	NA
+94	Jetzt müssen Fach·leute diese Wand reparieren	können wieder Autos in diesem Teil vom Park·haus parken	NA	NA	Dann	Auto-faellt-aus-Parkhaus-,unfall11928.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Purpose.Arg2-as-goal	NA	NA	NA	NA
+95	In Hamburg hat die Polizei einen Mann festgenommen	"Die Polizei glaubt...:
+            Der Mann hat schlimme Verbrechen gemacht.
+            Diese Verbrechen waren vor mehr als 37 Jahren"	NA	NA	nämlich	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+96	Der Mann hat schlimme Verbrechen gemacht	Diese Verbrechen waren vor mehr als 37 Jahren	NA	NA	NA	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+97	"In Hamburg hat die Polizei einen Mann festgenommen.
+Die Polizei glaubt nämlich:
+            Der Mann hat schlimme Verbrechen gemacht.
+            Diese Verbrechen waren vor mehr als 37 Jahren"	Was ist passiert	deshalb	NA	NA	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA
+98	Was ist passiert	"Die Verbrechen waren im Jahr 1980.
+Damals hat ein Mann 2 Mädchen angegriffen.
+Erst wollte der Mann ein Mädchen vergewaltigen...Aber das Mädchen konnte weglaufen.
+Deshalb hat der Mann das Mädchen nicht vergewaltigt.
+ 
+Einige Monate später hat der Mann ein anderes Mädchen angegriffen.
+Der Mann hat dieses Mädchen mit einem Messer sehr schwer verletzt.
+Dann wollte der Mann dieses Mädchen vergewaltigen.
+Aber dann sind andere Menschen gekommen.
+Deshalb ist der Mann weggelaufen.
+Und der Mann hat das Mädchen nicht vergewaltigt.
+ 
+Damals hat die Polizei sehr lange nach dem Mann gesucht.
+Aber die Polizei hat den Mann nicht gefunden.
+ 
+Jetzt hat die Polizei neue Hinweise gefunden.
+Und die Polizei hat ein Foto von einem Messer veröffentlicht.
+Die Polizei hat gesagt:
+            Dieses Messer hat der Mann bei der Tat benutzt.
+Und die Polizei hat gefragt:
+            Wem gehört dieses Messer?
+Dann hat sich ein Mensch gemeldet.
+Dieser Mensch hat gesagt:
+            Das Messer gehört einem Mann.
+            Und ich kenne diesen Mann.
+Diesen Mann hat die Polizei jetzt festgenommen"	NA	NA	NA	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Hypophora	NA	NA	NA	NA	NA	NA
+99	Die Verbrechen waren im Jahr 1980	hat ein Mann 2 Mädchen angegriffen	NA	NA	Damals	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Expansion.Level-of-detail.Arg2-as-detail	Temporal.Synchronous	NA	NA	NA	NA
+100	Damals hat ein Mann 2 Mädchen angegriffen	Erst wollte der Mann ein Mädchen vergewaltigen....Einige Monate später hat der Mann ein anderes Mädchen angegriffen	und zwar	NA	NA	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+101	Erst wollte der Mann ein Mädchen vergewaltigen	das Mädchen konnte weglaufen	NA	NA	Aber	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA
+102	Aber das Mädchen konnte weglaufen	hat der Mann das Mädchen nicht vergewaltigt	NA	NA	Deshalb	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+103	Erst wollte der Mann ein Mädchen vergewaltigen	Einige Monate später hat der Mann ein anderes Mädchen angegriffen	NA	NA	Erst...Einige Monate später	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	AltLex	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+104	Einige Monate später hat der Mann ein anderes Mädchen angegriffen	Der Mann hat dieses Mädchen mit einem Messer sehr schwer verletzt	dabei	NA	NA	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Implicit	Expansion.Manner.Arg2-as-manner	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA
+105	Der Mann hat dieses Mädchen mit einem Messer sehr schwer verletzt	wollte der Mann dieses Mädchen vergewaltigen	NA	NA	Dann	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+106	Dann wollte der Mann dieses Mädchen vergewaltigen	dann sind andere Menschen gekommen	NA	NA	Aber	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA
+107	Dann wollte der Mann dieses Mädchen vergewaltigen	Aber...sind andere Menschen gekommen	NA	NA	dann	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+108	Aber dann sind andere Menschen gekommen	ist der Mann weggelaufen	NA	NA	Deshalb	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA
+109	Deshalb ist der Mann weggelaufen	der Mann hat das Mädchen nicht vergewaltigt	NA	NA	Und	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+110	Die Verbrechen waren im Jahr 1980	hat die Polizei sehr lange nach dem Mann gesucht	NA	NA	Damals	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Temporal.Synchronous	Contingency.Cause.Result	NA	NA	NA	NA
+111	Damals hat die Polizei sehr lange nach dem Mann gesucht	die Polizei hat den Mann nicht gefunden	NA	NA	Aber	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA
+112	Aber die Polizei hat den Mann nicht gefunden	hat die Polizei neue Hinweise gefunden	NA	NA	Jetzt	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Temporal.Asynchronous.Precedence	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA
+113	Jetzt hat die Polizei neue Hinweise gefunden	die Polizei hat ein Foto von einem Messer veröffentlicht	NA	NA	Und	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Expansion.Conjunction	Contingency.Cause.Result	NA	NA	NA	NA
+114	Und die Polizei hat ein Foto von einem Messer veröffentlicht	"Die Polizei hat gesagt:
+            Dieses Messer hat der Mann bei der Tat benutzt"	denn	NA	NA	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Implicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+115	"Die Polizei hat gesagt:
+            Dieses Messer hat der Mann bei der Tat benutzt"	"die Polizei hat gefragt:
+            Wem gehört dieses Messer"	NA	NA	Und	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+116	"Und die Polizei hat gefragt:
+            Wem gehört dieses Messer"	hat sich ein Mensch gemeldet	NA	NA	Dann	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+117	Dann hat sich ein Mensch gemeldet	"Dieser Mensch hat gesagt:
+            Das Messer gehört einem Mann.
+            Und ich kenne diesen Mann"	und zwar	NA	NA	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+118	Das Messer gehört einem Mann	ich kenne diesen Mann.	NA	NA	Und	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+119	"Dieser Mensch hat gesagt:
+            Das Messer gehört einem Mann.
+            Und ich kenne diesen Mann"	Diesen Mann hat die Polizei...festgenommen	NA	NA	jetzt	37-Jahre-nach-Verbrechen-Mann-festgenommen,coldcase174.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+120	An einem Feier·tag müssen die meisten Menschen nicht arbeiten	Ein Feier·tag ist zum Beispiel Neu·jahr	NA	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+121	In Hamburg gibt es wahrscheinlich bald einen neuen Feier·tag	"Viele Politiker in Hamburg haben...gesagt:
+            In Hamburg gibt es jedes Jahr nur 9 Feier·tage.
+            Aber in vielen anderen Bundes·ländern gibt es mehr Feier·tage.
+            Deshalb soll es in Hamburg bald einen neuen Feier·tag geben"	NA	NA	nämlich	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+122	In Hamburg gibt es jedes Jahr nur 9 Feier·tage	in vielen anderen Bundes·ländern gibt es mehr Feier·tage	NA	NA	Aber	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Comparison.Concession.Arg1-as-denier	NA	NA	NA	NA	NA
+123	Aber in vielen anderen Bundes·ländern gibt es mehr Feier·tage	soll es in Hamburg bald einen neuen Feier·tag geben	NA	NA	Deshalb	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+124	"Viele Politiker in Hamburg haben nämlich gesagt:
+            In Hamburg gibt es jedes Jahr nur 9 Feier·tage.
+            Aber in vielen anderen Bundes·ländern gibt es mehr Feier·tage.
+            Deshalb soll es in Hamburg bald einen neuen Feier·tag geben"	haben sich Politiker von mehreren Parteien geeinigt	NA	NA	Jetzt	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+125	Jetzt haben sich Politiker von mehreren Parteien geeinigt	"diese Politiker haben gesagt:
+            Der 31. Oktober soll jedes Jahr in Hamburg ein Feier·tag sein"	NA	NA	Und	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Expansion.Conjunction	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA
+126	"Und diese Politiker haben gesagt:
+            Der 31. Oktober soll jedes Jahr in Hamburg ein Feier·tag sein"	Vor 500 Jahren hat es nur eine Kirche gegeben	NA	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+127	Vor 500 Jahren hat es nur eine Kirche gegeben	viele Menschen waren mit der katholischen Kirche nicht zufrieden	NA	NA	Aber	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Comparison.Concession.Arg2-as-denier	NA	NA	NA	Diese Kirche war die katholische Kirche	NA
+128	Aber viele Menschen waren mit der katholischen Kirche nicht zufrieden	"Diesen Menschen haben...gesagt:
+            Die Kirche hat zu viel Geld
+            Und sie gibt zu viel Geld für bestimmte Dinge aus.
+            Zum Beispiel für teure Kirchen-Gebäude"	NA	NA	zum Beispiel	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+129	Die Kirche hat zu viel Geld	sie gibt zu viel Geld für bestimmte Dinge aus	NA	NA	Und	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+130	Und sie gibt zu viel Geld für bestimmte Dinge aus	für teure Kirchen-Gebäude	NA	NA	Zum Beispiel	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+131	"Diesen Menschen haben zum Beispiel gesagt:
+            Die Kirche hat zu viel Geld
+            Und sie gibt zu viel Geld für bestimmte Dinge aus.
+            Zum Beispiel für teure Kirchen-Gebäude"	Einer von diesen Menschen war Martin Luther	NA	NA	Einer von diesen Menschen	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	AltLex	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+132	Einer von diesen Menschen war Martin Luther	Martin Luther hat Texte geschrieben	NA	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+133	Martin Luther hat Texte geschrieben	"In diesen Texten hat Martin Luther...geschrieben:
+            Das finde ich an der katholischen Kirche nicht gut.
+            Und das muss sich in der katholischen Kirche ändern"	NA	NA	zum Beispiel	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+134	Das finde ich an der katholischen Kirche nicht gut	das muss sich in der katholischen Kirche ändern	NA	NA	Und	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+135	"In diesen Texten hat Martin Luther zum Beispiel geschrieben:
+            Das finde ich an der katholischen Kirche nicht gut.
+            Und das muss sich in der katholischen Kirche ändern"	Viele Menschen haben die Texte von Martin Luther gelesen	NA	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+136	Viele Menschen haben die Texte von Martin Luther gelesen	"diese Menschen haben gedacht:
+         Martin Luther hat recht"	NA	NA	Und	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Contingency.Cause.Result	Expansion.Conjunction	NA	NA	NA	NA
+137	"Und diese Menschen haben gedacht:
+         Martin Luther hat recht"	wollten diese Menschen die Kirche erneuern	NA	NA	Deshalb	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+138	Deshalb wollten diese Menschen die Kirche erneuern	Seit der Reformation gibt es eine neue Kirche in Deutschland	NA	NA	Seit der Reformation	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	AltLex	Temporal.Asynchronous.Precedence	NA	NA	NA	Diese Erneuerung von der Kirche heißt Reformation	NA
+139	Seit der Reformation gibt es eine neue Kirche in Deutschland	Diese Kirche heißt evangelische Kirche	NA	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+140	Diese Kirche heißt evangelische Kirche	Ein Text von Martin Luther war sehr wichtig für die Reformation	NA	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+141	Ein Text von Martin Luther war sehr wichtig für die Reformation	"Viele Menschen sagen:
+            Mit diesem Text hat die Reformation richtig angefangen"	nämlich	sogar	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Implicit	Contingency.Cause+Belief.Reason+Belief	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA
+142	"Viele Menschen sagen:
+            Mit diesem Text hat die Reformation richtig angefangen"	Diesen Text konnten die Menschen am 31. Oktober 1517 lesen	NA	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+143	Diesen Text konnten die Menschen am 31. Oktober 1517 lesen	ist der 31. Oktober auch heute noch für viele Menschen ein wichtiger Tag	NA	NA	Deshalb	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	"Viele Menschen sagen:
+            Mit diesem Text hat die Reformation richtig angefangen"	NA
+144	Deshalb ist der 31. Oktober auch heute noch für viele Menschen ein wichtiger Tag	Der 31. Oktober soll bald nicht nur in Hamburg ein Feier·tag sein	deshalb	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Implicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+145	Der 31. Oktober soll bald...in Hamburg ein Feier·tag sein	in anderen Bundes·ländern soll der 31. Oktober bald ein Feier·tag sein	NA	NA	nicht nur...Auch	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Comparison.Similarity	NA	NA	NA	NA	"In Niedersachsen.
+• In Schleswig-Holstein.
+• Und in Bremen"
+146	Auch in anderen Bundes·ländern soll der 31. Oktober bald ein Feier·tag sein	In Mecklenburg Vorpommern ist der 31. Oktober schon ein Feier·tag	dagegen	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Implicit	Comparison.Contrast	NA	NA	NA	"• In Niedersachsen.
+• In Schleswig-Holstein.
+• Und in Bremen"	NA
+147	In Mecklenburg Vorpommern ist der 31. Oktober schon ein Feier·tag	Bald sind in den Parlamenten von den Bundes·ländern wichtige Abstimmungen	NA	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+148	Im Parlament sind viele Politiker	Diese Politiker sind von verschiedenen Parteien	und zwar	NA	NA	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+149	Diese Politiker sind von verschiedenen Parteien	diese Politiker treffen wichtige Entscheidungen für das Bundes·land	NA	NA	Und	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+150	Bald sind in den Parlamenten von den Bundes·ländern wichtige Abstimmungen	"Bei den Abstimmungen entscheiden die Parlamente:
+• Der 31. Oktober ist ein neuer Feier·tag.
+• Oder der 31. Oktober ist kein neuer Feier·tag"	NA	NA	Bei den Abstimmungen	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	AltLex	Expansion.Level-of-detail.Arg2-as-detail	Temporal.Synchronous	NA	NA	NA	NA
+151	Der 31. Oktober ist ein neuer Feier·tag	der 31. Oktober ist kein neuer Feier·tag	NA	NA	Oder	31-Oktober-soll-Feiertag-werden,feiertag210.html.txt	Explicit	Expansion.Disjunction	NA	NA	NA	NA	NA
+152	In vielen Seen in Niedersachsen ist das Baden verboten	In diesen Seen sind...viele Blau·algen	NA	NA	nämlich	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+153	Blau·algen sind Bakterien	Diese Bakterien sind im Wasser	NA	NA	NA	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+154	Diese Bakterien sind im Wasser	diese Bakterien sind für Menschen gefährlich	NA	NA	Und	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+155	Und diese Bakterien sind für Menschen gefährlich	Diese Bakterien machen Menschen...krank	NA	NA	nämlich	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+156	In diesen Seen sind nämlich viele Blau·algen	"Diese Seen sind...• Der Seeburger See.
+• Der Dümmer.
+• Und die Thülsfelder Tal·sperre"	NA	NA	zum Beispiel	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+157	"Diese Seen sind zum Beispiel:
+• Der Seeburger See.
+• Der Dümmer.
+• Und die Thülsfelder Tal·sperre"	In Nord·deutschland ist es sehr heiß	NA	NA	NA	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+158	In Nord·deutschland ist es sehr heiß	in Nord·deutschland ist es sehr trocken	NA	NA	Und	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+159	Und in Nord·deutschland ist es sehr trocken	In Nord·deutschland hat es...wenig geregnet	NA	NA	nämlich	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+160	In Nord·deutschland hat es nämlich wenig geregnet	"Fachleute haben gesagt:
+            Bei diesem Wetter können im Wasser Blau·algen entstehen.
+            Blau·algen sind giftig.
+            Menschen schlucken beim Baden Blau·algen?
+            Dann können diese Menschen krank werden.
+            Diese Menschen bekommen zum Beispiel:
+            • Durchfall.
+            • Oder Erbrechen.
+            Besonders gefährlich sind Blau·algen für Kinder"	daraufhin	NA	NA	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Implicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+161	Bei diesem Wetter können im Wasser Blau·algen entstehen	Blau·algen sind giftig	NA	NA	NA	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+162	Blau·algen sind giftig	Menschen schlucken beim Baden Blau·algen	NA	NA	NA	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+163	Menschen schlucken beim Baden Blau·algen	Dann können diese Menschen krank werden	NA	NA	Menschen schlucken...Dann	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	AltLexC	Contingency.Condition.Arg1-as-cond	NA	NA	NA	NA	NA
+164	Dann können diese Menschen krank werden	"Diese Menschen bekommen...• Durchfall.
+            • Oder Erbrechen"	NA	NA	zum Beispiel	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+165	Blau·algen sind giftig	Besonders gefährlich sind Blau·algen für Kinder	NA	NA	Besonders gefährlich	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	AltLex	Expansion.Level-of-detail.Arg2-as-detail	Comparison.Similarity	NA	NA	NA	NA
+166	"Fachleute haben gesagt:
+            Bei diesem Wetter können im Wasser Blau·algen entstehen.
+            Blau·algen sind giftig.
+            Menschen schlucken beim Baden Blau·algen?
+            Dann können diese Menschen krank werden.
+            Diese Menschen bekommen zum Beispiel:
+            • Durchfall.
+            • Oder Erbrechen.
+            Besonders gefährlich sind Blau·algen für Kinder"	Fach·leute haben Seen in Niedersachsen untersucht	daraufhin	NA	NA	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Implicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+167	Fach·leute haben Seen in Niedersachsen untersucht	"Die Fachleute wollten zum Beispiel wissen:
+Ist das Wasser von den Seen sauber"	denn	NA	NA	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Implicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+168	Fach·leute haben Seen in Niedersachsen untersucht	"haben die Fach·leute gesagt:
+            Im Wasser von vielen Seen sind Blau·algen.
+            Deshalb ist das Baden in diesen Seen verboten.
+            Die Blau·algen sind auch für Tiere gefährlich.
+            Deshalb sollen auch keine Tiere in den Seen baden.
+            Im letzten Jahr sind nämlich mehrere Hunde durch Blau·algen gestorben"	NA	NA	Jetzt	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA
+169	Im Wasser von vielen Seen sind Blau·algen	ist das Baden in diesen Seen verboten	NA	NA	Deshalb	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+170	Dann können diese Menschen krank werden	Die Blau·algen sind...für Tiere gefährlich	NA	NA	auch	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Comparison.Similarity	NA	NA	NA	NA	NA
+171	Die Blau·algen sind auch für Tiere gefährlich	sollen auch keine Tiere in den Seen baden	NA	NA	Deshalb	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+172	Deshalb ist das Baden in diesen Seen verboten	Deshalb sollen...keine Tiere in den Seen baden	NA	NA	auch	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Comparison.Similarity	NA	NA	NA	NA	NA
+173	Die Blau·algen sind auch für Tiere gefährlich	Im letzten Jahr sind nämlich mehrere Hunde durch Blau·algen gestorben	NA	NA	Im letzten Jahr	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	AltLex	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+174	Deshalb sollen auch keine Tiere in den Seen baden	Im letzten Jahr sind...mehrere Hunde durch Blau·algen gestorben	NA	NA	nämlich	Baden-in-vielen-Seen-verboten,badeverbot166.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+175	In Schleswig-Holstein ist viel Geld verschwunden	Das Geld war in einem Geld·transporter	zuvor	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Temporal.Asynchronous.Succession	NA	NA	NA	NA	NA
+176	            Ein Geld·transporter ist ein besonderes Auto	Ein Geld·transporter ist besonders gesichert	denn	zum Beispiel	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Contingency.Cause.Reason	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA
+177	Ein Geld·transporter ist besonders gesichert	Ein Geld·transporter hat zum Beispiel sehr dicke Türen	indem	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	NA
+178	Ein Geld·transporter ist besonders gesichert	Ein Geld·transporter hat...sehr dicke Türen	NA	NA	zum Beispiel	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+179	Ein Geld·transporter ist ein besonderes Auto	Ein Geld·transporter bringt...Geld zu einer Bank	NA	NA	zum Beispiel	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+180	Das Geld war in einem Geld·transporter	"Die Polizei hat gesagt:
+            In dem Geld·transporter war sehr viel Geld"	NA	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+181	In dem Geld·transporter war sehr viel Geld	Von diesem Geld sind 2 Millionen Euro verschwunden	jedoch	jetzt	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Comparison.Concession.Arg2-as-denier	NA	Temporal.Asynchronous.Precedence	NA	NA	NA
+182	Von diesem Geld sind 2 Millionen Euro verschwunden	Diese 2 Millionen Euro suchen wir	NA	NA	jetzt	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+183	"In Schleswig-Holstein ist viel Geld verschwunden.
+Das Geld war in einem Geld·transporter"	Was ist passiert	deshalb	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	"            Ein Geld·transporter ist ein besonderes Auto.   
+            Ein Geld·transporter ist besonders gesichert.    
+            Ein Geld·transporter hat zum Beispiel sehr dicke Türen.
+            Ein Geld·transporter bringt zum Beispiel Geld zu einer Bank.           
+Die Polizei hat gesagt:
+            In dem Geld·transporter war sehr viel Geld.
+            Von diesem Geld sind 2 Millionen Euro verschwunden.
+            Diese 2 Millionen Euro suchen wir jetzt"	NA
+184	Was ist passiert	"Der Geld·transporter ist in Hamburg losgefahren.
+Der Geld·transporter sollte zu einer Firma fahren.
+Diese Firma ist in Kiel....In dem Geld·transporter waren 2 Fahrer.
+Die Polizei hat gesagt:
+            Der Geld·transporter hat auf einem Rastplatz angehalten."	NA	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Hypophora	NA	NA	NA	NA	NA	NA
+185	Der Geld·transporter ist in Hamburg losgefahren	Der Geld·transporter sollte zu einer Firma fahren	NA	NA	sollte	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	AltLex	Contingency.Purpose.Arg2-as-goal	NA	NA	NA	NA	NA
+186	Der Geld·transporter sollte zu einer Firma fahren	Diese Firma ist in Kiel	NA	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+187	In dem Geld·transporter waren 2 Fahrer	"Die Polizei hat gesagt:
+            Der Geld·transporter hat auf einem Rastplatz angehalten"	NA	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+188	Ein Rastplatz ist zum Beispiel an einer Autobahn	Auf einem Rastplatz können Auto·fahrer zum Beispiel auf die Toilette gehen	NA	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+189	Der Geld·transporter hat auf einem Rastplatz angehalten	Auf dem Rastplatz haben die 2 Fahrer eine Pause gemacht	dann	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+190	Auf dem Rastplatz haben die 2 Fahrer eine Pause gemacht	Der eine von den 2 Fahrern ist vom Geld·transporter weggegangen	währenddessen	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Temporal.Synchronous	NA	NA	NA	NA	NA
+191	Der eine von den 2 Fahrern ist vom Geld·transporter weggegangen	Vielleicht ist...der andere von den 2 Fahrern vom Geld·transporter weggegangen	NA	NA	auch	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Explicit	Comparison.Similarity	NA	NA	NA	NA	NA
+192	Auf dem Rastplatz haben die 2 Fahrer eine Pause gemacht	Nach der Pause sind die 2 Fahrer zu der Firma weiter·gefahren	NA	NA	Nach der Pause	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	AltLex	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+193	Nach der Pause sind die 2 Fahrer zu der Firma weiter·gefahren	"In der Firma haben Mitarbeiter bemerkt:
+                        In dem Geld·transporter fehlt Geld"	jedoch	später	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Comparison.Concession.Arg2-as-denier	NA	Temporal.Asynchronous.Precedence	NA	NA	NA
+194	In dem Geld·transporter fehlt Geld	2 Millionen Euro von dem Geld sind verschwunden	und zwar	NA	NA	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA
+195	"Der Geld·transporter ist in Hamburg losgefahren.
+Der Geld·transporter sollte zu einer Firma fahren.
+Diese Firma ist in Kiel...In dem Geld·transporter waren 2 Fahrer.
+Die Polizei hat gesagt:
+            Der Geld·transporter hat auf einem Rastplatz angehalten"	ermittelt die Polizei	NA	NA	Jetzt	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Explicit	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA
+196	Jetzt ermittelt die Polizei	"Die Polizei will...wissen:
+            Wo sind die 2 Millionen Euro"	NA	NA	nämlich	2-Millionen-Euro-verschwunden-,geldtransporter134.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+197	In Hamburg sind am Wochen·ende 2 große Veranstaltungen	"Diese 2 großen Veranstaltungen sind:
+• Ein Musik·fest.
+• Und eine Sport·veranstaltung"	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+198	"Diese 2 großen Veranstaltungen sind:
+• Ein Musik·fest.
+• Und eine Sport·veranstaltung"	Die 2 großen Veranstaltungen sind in St. Pauli	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+199	Die 2 großen Veranstaltungen sind in St. Pauli	die 2 großen Veranstaltungen sind in der Nähe von St. Pauli	NA	NA	Und	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+200	Und die 2 großen Veranstaltungen sind in der Nähe von St. Pauli	Die 2 großen Veranstaltungen sind an einem Wochen·ende	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+201	Die 2 großen Veranstaltungen sind an einem Wochen·ende	sind die Bewohner von St. Pauli genervt	NA	NA	Deshalb	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+202	Deshalb sind die Bewohner von St. Pauli genervt	"Die Bewohner von St. Pauli sagen:
+            Zu diesen 2 großen Veranstaltungen kommen sehr viele Menschen.
+            Diese Menschen machen viel Lärm.
+            Und diese Menschen machen viel Müll.
+            Deshalb stören diese Menschen uns"	nämlich	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Implicit	Expansion.Level-of-detail.Arg2-as-detail	Contingency.Cause+Belief.Reason+Belief	NA	NA	NA	NA
+203	"Die Bewohner von St. Pauli sagen:
+            Zu diesen 2 großen Veranstaltungen kommen sehr viele Menschen"	Diese Menschen machen viel Lärm	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+204	Diese Menschen machen viel Lärm	diese Menschen machen viel Müll	NA	NA	Und	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+205	Und diese Menschen machen viel Müll	stören diese Menschen uns	NA	NA	Deshalb	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+206	Deshalb stören diese Menschen uns	Das Musik·fest heißt Schlagermove	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+207	Das Musik·fest heißt Schlagermove	Der Schlagermove ist jedes Jahr in Hamburg	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+208	Der Schlagermove ist jedes Jahr in Hamburg	Beim Schlagermove fahren besondere Last·wagen auf den Straßen	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+209	Beim Schlagermove fahren besondere Last·wagen auf den Straßen	Diese Last·wagen fahren sehr langsam	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+210	Diese Last·wagen fahren sehr langsam	Hinter diesen Last·wagen sind Anhänger	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+211	Hinter diesen Last·wagen sind Anhänger	Diese Anhänger sind bunt geschmückt	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+212	Diese Anhänger sind bunt geschmückt	Auf diesen Anhängern sind Menschen	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+213	Auf diesen Anhängern sind Menschen	Die Menschen auf den Anhängern spielen Schlager	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+214	Schlager sind deutsche Lieder	Viele von den Schlagern sind schon alt	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+215	Viele von den Schlagern sind schon alt	kennen viele Menschen in Deutschland viele Schlager	NA	NA	Deshalb	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Contingency.Cause.Result	NA	NA	NA	NA	NA
+216	Die Menschen auf den Anhängern spielen Schlager	die Menschen tanzen zu den Schlagern	NA	NA	Und	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+217	Und die Menschen tanzen zu den Schlagern	Beim Schlagermove sind immer viele Besucher	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+218	Beim Schlagermove sind immer viele Besucher	Die meisten Besucher sind verkleidet	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+219	Die meisten Besucher sind verkleidet	Die Besucher haben...bunte Kleidung	NA	NA	zum Beispiel	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+220	Die Besucher haben zum Beispiel bunte Kleidung	viele Besucher haben bunte Perücken auf dem Kopf	NA	NA	Und	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+221	Und viele Besucher haben bunte Perücken auf dem Kopf	Viele Besucher haben...große Sonnen·brillen auf	NA	NA	auch	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+222	Viele Besucher haben auch große Sonnen·brillen auf	Die Sport·veranstaltung ist ein Triathlon	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	NoRel	NA	NA	NA	NA	NA	NA
+223	Bei einem Triathlon müssen Sportler eine bestimmte Strecke zurücklegen	"Die Sportler müssen:
+            • Schwimmen"	indem	genauer gesagt	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Implicit	Expansion.Manner.Arg2-as-manner	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA
+224	"Die Sportler müssen:
+            • Schwimmen"	Rad fahren	NA	NA	Dann	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+225	Dann Rad fahren	Und...laufen	NA	NA	dann	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA
+226	Die Sport·veranstaltung ist ein Triathlon	Der Triathlon ist jedes Jahr in Hamburg	NA	NA	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+227	Der Triathlon ist jedes Jahr in Hamburg	der Triathlon in Hamburg ist der größte Triathlon auf der Welt	NA	NA	Und	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+228	Und der Triathlon in Hamburg ist der größte Triathlon auf der Welt	Im vergangenen Jahr waren mehr als 10.000 Sportler dabei	zum Beispiel	denn	NA	2-grosse-Veranstaltungen-in-Hamburg,veranstaltungen318.html.txt	Implicit	Expansion.Instantiation.Arg2-as-instance	NA	Contingency.Cause.Reason	NA	NA	NA
+229	In einem Museum können Menschen besondere Dinge sehen	Diese Dinge sind oft sehr alt	NA	NA	NA	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+230	Diese Dinge sind oft sehr alt	diese Dinge sind oft sehr wertvoll	NA	NA	Und	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+231	Und diese Dinge sind oft sehr wertvoll	Diese Dinge sind...Bilder von berühmten Malern	NA	NA	zum Beispiel	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+232	In Schleswig-Holstein hat ein besonderes Museum wieder geöffnet	Das Museum ist in der Nähe von Schleswig	NA	NA	NA	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+233	Das Museum ist in der Nähe von Schleswig	Das Museum heißt Haithabu	NA	NA	NA	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+234	Das Museum heißt Haithabu	"das Museum zeigt:
+            So haben die Wikinger gelebt"	NA	NA	Und	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+235	Die Wikinger haben vor über 1000 Jahren gelebt	Die meisten Wikinger haben in Nord·europa gelebt	NA	NA	Die meisten Wikinger	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	AltLex	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+236	Die meisten Wikinger haben in Nord·europa gelebt	Einige von den Wikingern waren Seefahrer	NA	NA	Einige von den Wikingern	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	AltLex	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+237	Einige von den Wikingern waren Seefahrer	Viele Menschen hatten Angst vor diesen Seefahrern	NA	NA	NA	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+238	Viele Menschen hatten Angst vor diesen Seefahrern	Diese Seefahrer haben...Dörfer überfallen	NA	NA	nämlich	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+239	Einige von den Wikingern waren Seefahrer	"die meisten Wikinger waren:
+                        • Bauern.
+                        • Oder Hand·werker"	NA	NA	Aber	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Comparison.Contrast	NA	NA	NA	NA	NA
+240	"Und das Museum zeigt:
+            So haben die Wikinger gelebt"	Das Museum war lange geschlossen	NA	NA	NA	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+241	Das Museum war lange geschlossen	Hand·werker haben das Museum...umgebaut	NA	NA	nämlich	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+242	Hand·werker haben das Museum nämlich umgebaut	sind die Handwerker fertig	NA	NA	Aber jetzt	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Temporal.Asynchronous.Precedence	Comparison.Contrast	NA	NA	NA	NA
+243	Aber jetzt sind die Handwerker fertig	die Menschen können das Museum...besuchen	NA	NA	Und...wieder	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Contingency.Cause.Result	Comparison.Contrast	NA	NA	"Das Museum war lange geschlossen.
+Hand·werker haben das Museum nämlich umgebaut"	NA
+244	Und die Menschen können das Museum wieder besuchen	In dem Museum sind viele Dinge von den Wikingern	NA	NA	NA	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+245	In dem Museum sind viele Dinge von den Wikingern	"Diese Dinge sind...:
+• Boote.
+• Werkzeug.
+• Oder Schmuck"	NA	NA	zum Beispiel	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA
+246	"Diese Dinge sind zum Beispiel:
+• Boote.
+• Werkzeug.
+• Oder Schmuck"	"Ein Sprecher von dem Museum hat gesagt:
+            Archäologen haben im vergangen Jahr Gold·schmuck gefunden...Dieser Gold·schmuck ist von Wikingern.
+            Und diesen Gold·schmuck können die Besucher jetzt im Museum sehen"	denn	NA	NA	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Implicit	Contingency.Cause.Reason	NA	NA	NA	NA	NA
+247	Archäologen sind Forscher	"                        Archäologen suchen sehr alte Dinge.
+                        Zum Beispiel:
+                        • Knochen.
+                        • Schmuck.
+                        • Und Werkzeuge"	NA	NA	NA	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	EntRel	NA	NA	NA	NA	NA	NA
+248	"Archäologen suchen sehr alte Dinge.
+                        Zum Beispiel:
+                        • Knochen.
+                        • Schmuck.
+                        • Und Werkzeuge"	Archäologen untersuchen diese alten Dinge	NA	NA	Und	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	Explicit	Expansion.Conjunction	NA	NA	NA	NA	NA
+249	Dieser Gold·schmuck ist von Wikingern	diesen Gold·schmuck können die Besucher...im Museum sehen	NA	NA	Und...jetzt	Besonderes-Museum-wieder-geoeffnet,haithabu540.html.txt	AltLex	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	Archäologen haben im vergangen Jahr Gold·schmuck gefunden	NA

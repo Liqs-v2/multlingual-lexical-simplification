@@ -1,0 +1,314 @@
+1	Reparatur	Reparatur	_	NN	nom|sg|fem	4	SUBJ	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	Segel·schiff	Segel·schiff	_	NN	dat|sg|masc	2	PN	_	_
+4	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	lange	lange	_	ADV	_	4	ADV	_	_
+
+1	Fach·leute	Fach·leute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	reparieren	reparieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Bremerhaven	Bremerhaven	_	NE	dat|sg|neut	3	PN	_	_
+5	ein	ein	_	ART	acc|sg|neut	7	DET	_	_
+6	besonderes	besonderer	_	ADJA	acc|sg|neut|pos	7	ATTR	_	_
+7	Segel·schiff	Segel·schiff	_	NN	acc|sg|neut	2	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bremerhaven	Bremerhaven	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	an	an	_	APPR	_	4	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Nord·see	Nord·see	_	NE	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieses	dieser	_	PDAT	nom|sg|neut	3	DET	_	_
+2	besondere	besonderer	_	ADJA	nom|sg|neut|pos	3	ATTR	_	_
+3	Segel·schiff	Segel·schiff	_	NN	nom|sg|neut	4	PRED	_	_
+4	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	Gorch	Gorch	_	NE	nom|sg|masc	4	PRED	_	_
+6	Fock	Fock	_	NE	nom|sg|masc	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Gorch	Gorch	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Fock	Fock	_	NE	nom|sg|fem	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Segel·schiff	Segel·schiff	_	NN	nom|sg|masc	4	PRED	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Bundes·wehr	Bundes·wehr	_	NN	dat|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bundes·wehr	Bundes·wehr	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Armee	Armee	_	NN	nom|sg|fem	3	PRED	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Deutschland	Deutschland	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bundes·wehr	Bundes·wehr	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	auf	auf	_	APPR	_	10	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Gorch	Gorch	_	NE	nom|sg|masc	4	PN	_	_
+7	Fock	Fock	_	NE	nom|sg|masc	6	APP	_	_
+8	viele	vieler	_	PIAT	acc|pl|masc	9	DET	_	_
+9	Soldaten	Soldat	_	NN	acc|pl|masc	0	S	_	_
+10	ausgebildet	ausbilden	_	VVPP	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Segel·schiff	Segel·schiff	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	60	60	_	CARD	_	5	ATTR	_	_
+5	Jahre	Jahr	_	NN	acc|pl|neut	6	GRAD	_	_
+6	alt	alt	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Segel·schiff	Segel·schiff	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	kaputt	kaputt	_	ADJD	pos	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|*	4	DET	_	_
+4	Fach·leute	Fach·leute	_	NN	nom|pl|*	2	SUBJ	_	_
+5	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Reparatur	Reparatur	_	NN	acc|sg|fem	12	SUBJ	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	dem	der	_	ART	dat|sg|masc	11	DET	_	_
+11	Segel·schiff	Segel·schiff	_	NN	dat|sg|masc	9	PN	_	_
+12	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+13	wahrscheinlich	wahrscheinlich	_	ADJD	pos	12	ADV	_	_
+14	erst	erst	_	ADV	_	15	ADV	_	_
+15	2020	2020	_	CARD	_	16	GRAD	_	_
+16	fertig	fertig	_	ADJD	pos	12	PRED	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Reparatur	Reparatur	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	wahrscheinlich	wahrscheinlich	_	ADJD	pos	2	ADV	_	_
+4	bis	bis	_	APPR	_	2	PP	_	_
+5	2020	2020	_	CARD	_	4	PN	_	_
+
+1	Die	der	_	ART	nom|pl|*	2	DET	_	_
+2	Fach·leute	Fach·leute	_	NN	nom|pl|*	3	PN	_	_
+3	reparieren	reparieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	Segel·schiff	Segel·schiff	_	NN	acc|sg|neut	3	SUBJ	_	_
+6	in	in	_	APPR	_	3	PP	_	_
+7	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+8	Werft	Werft	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Werft	Werft	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+5	besondere	besonderer	_	ADJA	nom|sg|fem|pos	6	ATTR	_	_
+6	Firma	Firma	_	NN	nom|sg|fem	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	einer	ein	_	ART	dat|sg|fem	3	DET	_	_
+3	Werft	Werft	_	NN	dat|sg|fem	1	PN	_	_
+4	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Schiffe	Schiff	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	gebaut	bauen	_	VVPP	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	in	in	_	APPR	_	5	PP	_	_
+3	einer	ein	_	ART	dat|sg|fem	4	DET	_	_
+4	Werft	Werft	_	NN	dat|sg|fem	2	PN	_	_
+5	werden	werden	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+6	Schiffe	Schiff	_	NN	nom|pl|masc	5	SUBJ	_	_
+7	repariert	reparieren	_	VVPP	_	5	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Reparatur	Reparatur	_	NN	nom|sg|fem	6	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Werft	Werft	_	NN	dat|sg|fem	3	PN	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	2016	2016	_	CARD	_	8	ZEIT	_	_
+8	begonnen	beginnen	_	VVPP	_	6	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fach·leute	Fach·leute	_	NN	nom|sg|fem	5	OBJA	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	der	der	_	ART	dat|sg|fem	4	DET	_	_
+4	Werft	Werft	_	NN	dat|sg|fem	2	PN	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	gesagt	sagen	_	VVPP	_	5	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Wir	wir	_	PPER	nom|pl|*|1	9	SUBJ	_	_
+9	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+10	schon	schon	_	ADV	_	12	ADV	_	_
+11	viele	vieler	_	PIAT	acc|pl|masc	12	DET	_	_
+12	Dinge	Ding	_	NN	acc|pl|masc	16	ZEIT	_	_
+13	auf	auf	_	APPR	_	16	PP	_	_
+14	dem	der	_	ART	dat|sg|masc	15	DET	_	_
+15	Segel·schiff	Segel·schiff	_	NN	dat|sg|masc	13	PN	_	_
+16	repariert	reparieren	_	VVPP	_	9	AUX	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	4	DET	_	_
+3	andere	anderer	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Dinge	Ding	_	NN	nom|pl|masc	5	OBJA	_	_
+5	haben	haben	_	VAFIN	pl|1|pres|ind	1	CJ	_	_
+6	wir	wir	_	PPER	nom|pl|*|1	5	SUBJ	_	_
+7	noch	noch	_	ADV	_	9	ADV	_	_
+8	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+9	repariert	reparieren	_	VVPP	_	5	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	CARD	_	0	ROOT	_	_
+2	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Masten	Mast	_	NN	nom|pl|masc	1	GMOD	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|sg|*	0	ROOT	_	_
+2	Und	und	_	KON	_	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	Motor	Motor	_	NN	acc|sg|masc	2	CJ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Reparatur	Reparatur	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+7	Segel·schiff	Segel·schiff	_	NN	dat|sg|masc	5	PN	_	_
+8	noch	noch	_	ADV	_	2	ADV	_	_
+9	sehr	sehr	_	ADV	_	10	ADV	_	_
+10	lange	lange	_	ADV	_	2	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Anfang	Anfang	_	NN	dat|sg|masc	1	PN	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|pl|*	5	DET	_	_
+5	Fach·leute	Fach·leute	_	NN	nom|pl|*	6	OBJG	_	_
+6	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Die	der	_	ART	nom|sg|fem	9	DET	_	_
+9	Reparatur	Reparatur	_	NN	nom|sg|fem	10	SUBJ	_	_
+10	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+11	bis	bis	_	APPR	_	10	PP	_	_
+12	April	April	_	NN	acc|sg|masc	11	PN	_	_
+13	2019	2019	_	CARD	_	12	APP	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|pl|*	5	DET	_	_
+5	Fach·leute	Fach·leute	_	NN	nom|pl|*	3	PAR	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|sg|fem	8	DET	_	_
+8	Reparatur	Reparatur	_	NN	nom|sg|fem	9	SUBJ	_	_
+9	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+10	wahrscheinlich	wahrscheinlich	_	ADJD	pos	9	ADV	_	_
+11	bis	bis	_	APPR	_	9	PP	_	_
+12	April	April	_	NN	acc|sg|masc	11	PN	_	_
+13	2020	2020	_	CARD	_	12	APP	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Reparatur	Reparatur	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+4	teurer	teuer	_	ADJD	comp	2	ADV	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	4	OBJD	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Reparatur	Reparatur	_	NN	nom|sg|fem	11	SUBJ	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	dem	der	_	ART	dat|sg|masc	10	DET	_	_
+10	Segel·schiff	Segel·schiff	_	NN	dat|sg|masc	8	PN	_	_
+11	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+12	viel	viel	_	ADV	_	13	ADV	_	_
+13	länger	lang	_	ADJD	comp	11	ADV	_	_
+14	?	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Reparatur	Reparatur	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+7	Segel·schiff	Segel·schiff	_	NN	dat|sg|masc	5	PN	_	_
+8	auch	auch	_	ADV	_	10	ADV	_	_
+9	viel	viel	_	ADV	_	10	ADV	_	_
+10	teurer	teuer	_	ADJD	comp	2	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Fach·leute	Fach·leute	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|sg|fem	8	DET	_	_
+8	Reparatur	Reparatur	_	NN	nom|sg|fem	12	SUBJ	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	dem	der	_	ART	dat|sg|masc	11	DET	_	_
+11	Segel·schiff	Segel·schiff	_	NN	dat|sg|masc	9	PN	_	_
+12	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+13	nicht	nicht	_	PTKNEG	_	12	ADV	_	_
+14	teurer	teuer	_	ADJD	comp	12	ADV	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Für	für	_	APPR	_	4	PP	_	_
+2	die	der	_	ART	acc|sg|fem	3	DET	_	_
+3	Reparatur	Reparatur	_	NN	acc|sg|fem	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+7	einen	ein	_	ART	acc|sg|masc	9	DET	_	_
+8	festen	fest	_	ADJA	acc|sg|masc|pos	9	ATTR	_	_
+9	Preis	Preis	_	NN	acc|sg|masc	4	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diesen	dieser	_	PDAT	acc|sg|masc	3	DET	_	_
+2	festen	fest	_	ADJA	acc|sg|masc|pos	3	ATTR	_	_
+3	Preis	Preis	_	NN	acc|sg|masc	10	OBJA	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Bundes·wehr	Bundes·wehr	_	NN	nom|sg|fem	10	OBJA	_	_
+7	mit	mit	_	APPR	_	10	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Werft	Werft	_	NN	dat|sg|fem	7	PN	_	_
+10	vereinbart	vereinbaren	_	VVPP	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieser	dieser	_	PDS	nom|sg|masc	2	SUBJ	_	_
+2	feste	fest	_	VVFIN	nom|sg|masc|pos	0	S	_	_
+3	Preis	Preis	_	NN	nom|sg|masc	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	2	S	_	_
+5	135	135	_	CARD	_	6	ATTR	_	_
+6	Millionen	Million	_	NN	acc|pl|fem	7	ATTR	_	_
+7	Euro	Euro	_	NN	*|*|masc	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_

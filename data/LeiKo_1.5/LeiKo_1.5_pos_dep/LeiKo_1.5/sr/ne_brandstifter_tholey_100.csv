@@ -1,0 +1,103 @@
+﻿1	Verdächtiger	verdächtiger	_	NN	nom|pl|masc	0	S	_	_
+2	festgenommen	festnehmen	_	VVPP	_	1	ADV	_	_
+
+1	Nach	nach	_	APPR	_	8	PP	_	_
+2	mehreren	mehrere	_	PIAT	dat|pl|masc	3	DET	_	_
+3	Bränden	Brand	_	NN	dat|pl|masc	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	Heu·ballen	Heu·balle	_	NN	dat|pl|masc	4	PN	_	_
+6	in	in	_	APPR	_	3	PP	_	_
+7	Tholey	Tholey	_	NE	dat|sg|neut	6	PN	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	die	der	_	ART	nom|sg|fem	10	DET	_	_
+10	Polizei	Polizei	_	NN	nom|sg|fem	13	OBJD	_	_
+11	einen	ein	_	ART	acc|sg|masc	12	DET	_	_
+12	Verdächtigen	verdächtige	_	NN	acc|sg|masc	10	GMOD	_	_
+13	festgenommen	festnehmen	_	VVPP	_	8	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	16-Jähriger	16-jähriger	_	NN	nom|sg|masc	9	PRED	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	Sankt	Sankt	_	NE	nom|sg|masc	3	PN	_	_
+5	Wendel	Wendel	_	NE	nom|sg|masc	4	APP	_	_
+6	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+7	der	der	_	ART	nom|sg|masc	8	DET	_	_
+8	Brand·stifter	Brand·stifter	_	NN	nom|sg|masc	0	S	_	_
+9	sein	sein	_	VAINF	_	6	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Tholey	Tholey	_	NE	dat|sg|neut	1	PN	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	11	PP	_	_
+5	den	der	_	ART	dat|pl|masc	7	DET	_	_
+6	vergangenen	vergangen	_	ADJA	dat|pl|masc|pos	7	ATTR	_	_
+7	Nächten	Nacht	_	NN	dat|pl|masc	4	PN	_	_
+8	immer	immer	_	ADV	_	9	ADV	_	_
+9	wieder	wieder	_	ADV	_	11	ADV	_	_
+10	Heu·ballen	Heu·ballen	_	NN	nom|pl|masc	11	OBJA2	_	_
+11	angezündet	anzünden	_	VVPP	_	12	AUX	_	_
+12	worden	werden	_	VAPP	_	3	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zuletzt	zuletzt	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	zwischen	zwischen	_	APPR	_	11	PP	_	_
+4	Nohfelden	Nohfeld	_	NE	gen|sg|*	3	PN	_	_
+5	Selbach	Selbach	_	NE	dat|sg|neut	4	APP	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Theley	Theley	_	NE	dat|sg|neut	6	CJ	_	_
+8	rund	rund	_	ADV	pos	9	ADV	_	_
+9	100	100	_	CARD	_	10	ATTR	_	_
+10	Heu·ballen	Heu·balle	_	NN	acc|pl|fem	2	SUBJ	_	_
+11	gebrannt	gebrennen	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	2	DET	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Schaden	Schaden	_	NN	nom|sg|neut	9	ETH	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	mindestens	mindestens	_	ADV	_	7	ADV	_	_
+7	100.000	100.000	_	CARD	_	8	ATTR	_	_
+8	Euro	Euro	_	NN	acc|sg|neut	5	PN	_	_
+9	entstanden	entstehen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Zeugen	Zeuge	_	NN	nom|pl|masc	6	OBJD	_	_
+4	der	der	_	ART	gen|sg|fem	5	DET	_	_
+5	Polizei	Polizei	_	NN	gen|sg|fem	2	SUBJ	_	_
+6	geholfen	helfen	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	7	OBJD	_	_
+5	einen	ein	_	ART	acc|sg|masc	6	DET	_	_
+6	Verdächtigen	verdächtige	_	NN	acc|sg|masc	4	GMOD	_	_
+7	gefunden	finden	_	VVPP	_	2	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	16-Jähriger	16-jähriger	_	NN	nom|sg|masc	9	OBJD	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	Sankt	Sankt	_	NE	dat|sg|neut	3	PN	_	_
+5	Wendel	Wendel	_	NE	dat|sg|neut	4	APP	_	_
+6	könnte	können	_	VMFIN	sg|3|past|subj	0	S	_	_
+7	die	der	_	ART	acc|pl|fem	8	DET	_	_
+8	Heu·ballen	Heu·balle	_	NN	acc|pl|fem	10	SUBJ	_	_
+9	angezündet	anzünden	_	VVPP	_	10	AUX	_	_
+10	haben	haben	_	VAFIN	pl|3|pres|ind	6	REL	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	5	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ihn	ihn	_	PPER	acc|sg|masc|3	5	OBJA	_	_
+5	festgenommen	festnehmen	_	VVPP	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+

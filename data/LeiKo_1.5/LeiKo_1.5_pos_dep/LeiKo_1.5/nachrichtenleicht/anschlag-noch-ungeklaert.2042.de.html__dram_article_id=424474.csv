@@ -1,0 +1,200 @@
+1	Anschlag	Anschlag	_	NN	nom|sg|masc	0	S	_	_
+2	noch	noch	_	ADV	_	1	ADV	_	_
+3	ungeklärt	ungeklärt	_	ADJD	pos	1	ADV	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Stadt	Stadt	_	NN	dat|sg|fem	1	PN	_	_
+4	Düsseldorf	Düsseldorf	_	NE	nom|sg|neut	3	APP	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	12	OBJA	_	_
+7	vor	vor	_	APPR	_	12	PP	_	_
+8	18	18	_	CARD	_	9	ATTR	_	_
+9	Jahren	Jahr	_	NN	dat|pl|neut	7	PN	_	_
+10	einen	ein	_	ART	acc|sg|masc	11	DET	_	_
+11	Bomben-Anschlag	Bomben-Anschlag	_	NN	acc|sg|masc	12	OBJD	_	_
+12	gegeben	geben	_	VVPP	_	5	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	10	10	_	CARD	_	2	ATTR	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	4	OBJA	_	_
+3	wurden	werden	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	verletzt	verletzen	_	VVPP	_	3	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Noch	noch	_	ADV	_	2	ADV	_	_
+2	immer	immer	_	ADV	_	3	ADV	_	_
+3	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+5	fest	fest	_	PTKVZ	_	3	AVZ	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	wer	wer	_	PWS	nom|sg|masc	10	OBJA	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Bombe	Bombe	_	NN	acc|sg|fem	7	GMOD	_	_
+10	gezündet	zünden	_	VVPP	_	11	AUX	_	_
+11	hat	haben	_	VAFIN	sg|3|pres|ind	3	SUBJC	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	ein	ein	_	ART	acc|sg|neut	4	DET	_	_
+4	Gerichts-Verfahren	Gerichts-Verfahren	_	NN	acc|sg|neut	2	OBJA	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	aber	aber	_	KON	_	2	KON	_	_
+7	der	der	_	ART	nom|sg|masc	8	DET	_	_
+8	Angeklagte	angeklagter	_	NN	nom|sg|masc	9	SUBJ	_	_
+9	wurde	werden	_	VAFIN	sg|3|past|ind	6	CJ	_	_
+10	freigesprochen	freisprechen	_	VVPP	_	9	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Prozess	Prozess	_	NN	dat|sg|masc	1	PN	_	_
+4	ging	gehen	_	VVFIN	sg|3|past|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	um	um	_	APPR	_	4	PP	_	_
+7	einen	ein	_	ART	acc|sg|masc	11	DET	_	_
+8	52	52	_	CARD	_	9	ATTR	_	_
+9	Jahre	Jahr	_	NN	acc|pl|neut	10	GRAD	_	_
+10	alten	alt	_	ADJA	acc|sg|masc|pos	11	ATTR	_	_
+11	Mann	Mann	_	NN	acc|sg|masc	6	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	verdächtigt	verdächtigen	_	VVPP	_	2	AUX	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Bombe	Bombe	_	NN	acc|sg|fem	7	OBJG	_	_
+7	gelegt	legen	_	VVPP	_	9	AUX	_	_
+8	zu	zu	_	PTKZU	_	9	PART	_	_
+9	haben	haben	_	VAINF	_	2	SUBJC	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Beweise	Beweis	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	waren	sein	_	VAFIN	pl|3|past|ind	1	CJ	_	_
+5	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+6	eindeutig	eindeutig	_	ADJD	pos	4	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Staats-Anwaltschaft	Staats-Anwaltschaft	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	mit	mit	_	APPR	_	8	PP	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Frei-Spruch	Frei-Spruch	_	NN	dat|sg|masc	4	PN	_	_
+7	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+8	einverstanden	einverstanden	_	ADJD	pos	3	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hält	halten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	Mann	Mann	_	NN	acc|sg|masc	2	OBJA	_	_
+5	immer	immer	_	ADV	_	6	ADV	_	_
+6	noch	noch	_	ADV	_	2	ADV	_	_
+7	für	für	_	APPR	_	2	OBJP	_	_
+8	schuldig	schuldig	_	ADJD	pos	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Mann	Mann	_	NN	nom|sg|masc	0	S	_	_
+6	wollte	wollen	_	VMFIN	sg|3|past|ind	2	S	_	_
+7	viele	vieler	_	PIAT	acc|pl|masc	8	DET	_	_
+8	Menschen	Mensch	_	NN	acc|pl|masc	9	OBJA	_	_
+9	töten	töten	_	VVINF	_	6	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	aus	aus	_	APPR	_	5	PP	_	_
+4	Fremden-Hass	Fremden-Has	_	NN	dat|sg|masc	3	PN	_	_
+5	gehandelt	handeln	_	VVPP	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	muss	muss	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|sg|3	2	OBJA	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	höheres	hoch	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Gericht	Gericht	_	NN	nom|sg|neut	2	SUBJ	_	_
+7	noch	noch	_	ADV	_	8	ADV	_	_
+8	einmal	einmal	_	ADV	_	12	ADV	_	_
+9	mit	mit	_	APPR	_	12	PP	_	_
+10	dem	der	_	ART	dat|sg|masc	11	DET	_	_
+11	Anschlag	Anschlag	_	NN	dat|sg|masc	9	PN	_	_
+12	befassen	befassen	_	VVFIN	pl|3|pres|ind	2	REL	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|neut	2	DET	_	_
+2	Opfer	Opfer	_	NN	nom|pl|neut	3	PRED	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	Sprach-Schüler	Sprach-Schüler	_	NN	nom|pl|masc	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|*	2	DET	_	_
+2	meisten	meister	_	PIS	nom|pl|*	5	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	ihnen	ihnen	_	PPER	dat|pl|*|3	3	PN	_	_
+5	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+6	Juden	Jude	_	NN	nom|pl|masc	5	PRED	_	_
+7	aus	aus	_	APPR	_	6	PP	_	_
+8	Ost-Europa	Ost-Europa	_	NE	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	10	10	_	CARD	_	4	SUBJ	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	ihnen	ihnen	_	PPER	dat|pl|*|3	2	PN	_	_
+4	wurden	werden	_	VAFIN	pl|3|past|ind	0	S	_	_
+5	bei	bei	_	APPR	_	8	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+7	Anschlag	Anschlag	_	NN	dat|sg|masc	5	PN	_	_
+8	verletzt	verletzen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Frau	Frau	_	NN	nom|sg|fem	3	PRED	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	schwanger	schwanger	_	ADJD	pos	3	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ihr	ihr	_	PPOSAT	nom|sg|neut	3	DET	_	_
+2	ungeborenes	ungeboren	_	ADJA	nom|sg|neut|pos	3	ATTR	_	_
+3	Kind	Kind	_	NN	nom|sg|neut	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	durch	durch	_	APPR	_	8	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Anschlag	Anschlag	_	NN	acc|sg|masc	5	PN	_	_
+8	gestorben	sterben	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Anschlag	Anschlag	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	an	an	_	APPR	_	3	PRED	_	_
+5	einer	ein	_	ART	dat|sg|fem	6	DET	_	_
+6	S-Bahn-Haltestelle	S-Bahn-Haltestelle	_	NN	dat|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Haltestelle	Haltestelle	_	NN	nom|sg|fem	3	PRED	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Düsseldorf-Wehrhahn	Düsseldorf-Wehrhahn	_	NN	acc|sg|fem	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Anschlag	Anschlag	_	NN	nom|sg|masc	9	OBJA2	_	_
+5	auch	auch	_	ADV	_	7	ADV	_	_
+6	"	--	_	$(	_	0	ROOT	_	_
+7	Wehrhahn-Anschlag	Wehrhahn-Anschlag	_	NN	nom|sg|masc	9	OBJA2	_	_
+8	"	--	_	$(	_	0	ROOT	_	_
+9	genannt	nennen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+

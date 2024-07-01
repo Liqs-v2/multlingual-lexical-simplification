@@ -1,0 +1,143 @@
+1	Brasilien	Brasilien	_	NE	nom|sg|neut	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+
+1	neuer	neu	_	ADJA	nom|sg|masc|pos	2	ATTR	_	_
+2	Präsident	Präsident	_	NN	nom|sg|masc	0	S	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	7	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|neut	5	DET	_	_
+5	Land	Land	_	NN	dat|sg|neut	3	PN	_	_
+6	Brasilien	Brasilien	_	NE	nom|sg|neut	5	APP	_	_
+7	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+8	einen	ein	_	ART	acc|sg|masc	10	DET	_	_
+9	neuen	neu	_	ADJA	acc|sg|masc|pos	10	ATTR	_	_
+10	Präsidenten	Präsident	_	NN	acc|sg|masc	11	OBJG	_	_
+11	gewählt	wählen	_	VVPP	_	7	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Jair	Jair	_	NE	nom|sg|masc	2	PRED	_	_
+4	Bolsonaro	Bolsonaro	_	NE	nom|sg|masc	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	rechts-extrem	rechts-extrem	_	ADJD	_	2	ADV	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bolsonaro	Bolsonaro	_	NE	nom|sg|*	2	OBJA	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	im	in	_	APPRART	dat|sg|masc	5	PP	_	_
+4	Wahl-Kampf	Wahl-Kampf	_	NN	dat|sg|masc	3	PN	_	_
+5	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Ich	ich	_	PPER	nom|sg|*|1	8	SUBJ	_	_
+8	will	wollen	_	VMFIN	sg|1|pres|ind	0	S	_	_
+9	hart	hart	_	ADJD	pos	16	ADV	_	_
+10	gegen	gegen	_	APPR	_	16	PP	_	_
+11	meine	mein	_	PPOSAT	acc|sg|fem	12	DET	_	_
+12	Feinde	Feind	_	NN	acc|sg|fem	10	PN	_	_
+13	und	und	_	KON	_	10	KON	_	_
+14	gegen	gegen	_	APPR	_	13	CJ	_	_
+15	Verbrecher	Verbrecher	_	NN	acc|pl|masc	14	PN	_	_
+16	vorgehen	vorgehen	_	VVINF	_	8	AUX	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	acc|pl|*|3	6	OBJA	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	6	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	foltern	foltern	_	VVINF	_	2	AUX	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	auch	auch	_	ADV	_	9	ADV	_	_
+9	töten	töten	_	VVINF	_	10	OBJI	_	_
+10	lassen	lassen	_	VVINF	_	7	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Brasilien	Brasilien	_	NE	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	viele	vieler	_	PIAT	acc|pl|*	6	DET	_	_
+6	Verbrechen	Verbrechen	_	NN	gen|pl|neut	3	OBJA	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	Korruption	Korruption	_	NN	acc|sg|fem	7	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	gehofft	hoffen	_	VVPP	_	3	AUX	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	dass	dass	_	KOUS	_	11	KONJ	_	_
+7	das	der	_	PDS	nom|sg|neut	11	SUBJ	_	_
+8	mit	mit	_	APPR	_	11	PP	_	_
+9	Bolsonaro	Bolsonaro	_	NE	dat|sg|neut	8	PN	_	_
+10	weniger	weniger	_	ADV	_	11	ADV	_	_
+11	wird	werden	_	VAFIN	sg|3|pres|ind	4	OBJC	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	5	OBJA	_	_
+4	ihn	ihn	_	PPER	acc|sg|masc|3	5	OBJA	_	_
+5	gewählt	wählen	_	VVPP	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	er	er	_	PPER	nom|sg|masc|3	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Ich	ich	_	PPER	nom|sg|*|1	7	SUBJ	_	_
+7	kümmere	kümmern	_	VVFIN	sg|1|pres|ind	0	S	_	_
+8	mich	mich	_	PRF	acc|sg|1	7	OBJA	_	_
+9	um	um	_	APPR	_	7	PP	_	_
+10	die	der	_	ART	acc|sg|fem	11	DET	_	_
+11	Sicherheit	Sicherheit	_	NN	acc|sg|fem	9	PN	_	_
+12	und	und	_	KON	_	7	KON	_	_
+13	kämpfe	kampf	_	NN	acc|pl|masc	12	CJ	_	_
+14	gegen	gegen	_	APPR	_	13	PP	_	_
+15	Korruption	Korruption	_	NN	acc|sg|fem	14	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bolsonaro	Bolsonaro	_	NE	nom|sg|*	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	schlecht	schlecht	_	ADJD	pos	11	ADV	_	_
+5	über	über	_	APPR	_	11	PP	_	_
+6	Frauen	Frau	_	NN	acc|pl|fem	5	PN	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	Schwule	Schwule	_	NN	acc|pl|neut	6	KON	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	Flüchtlinge	Flüchtling	_	NN	acc|pl|masc	9	CJ	_	_
+11	gesprochen	sprechen	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	8	DET	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|masc	4	ATTR	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	OBJA	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	Braslien	Braslien	_	NE	dat|sg|neut	5	PN	_	_
+7	jetzt	jetzt	_	ADV	_	2	ADV	_	_
+8	Angst	Angst	_	NN	acc|sg|fem	2	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	denken	denken	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	In	in	_	APPR	_	6	PP	_	_
+5	Brasilien	Brasilien	_	NE	dat|sg|neut	4	PN	_	_
+6	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	bald	bald	_	ADV	_	6	ADV	_	_
+9	keine	kein	_	PIAT	acc|sg|fem	10	DET	_	_
+10	Demokratie	Demokratie	_	NN	acc|sg|fem	6	OBJA	_	_
+11	mehr	mehr	_	ADV	_	10	ADV	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+

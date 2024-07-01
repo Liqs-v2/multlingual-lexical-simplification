@@ -1,0 +1,929 @@
+	File	RelType	ExplConn	Conn1	SClass1A	SClass1B	Conn2	SClass2A	SClass2B	Sup1	Arg1	Arg2	Sup2
+0	!5488693.txt	Explicit	dafür	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Eine Ärztin hat im Internet über Schwangerschafts-Abbrüche informiert	Ein Gericht hat sie...verurteilt	NA
+1	!5488693.txt	NoRel	NA	NA	NA	NA	NA	NA	NA	NA	Ein Gericht hat sie dafür verurteilt	Im deutschen Straf-Gesetz gibt es den Paragrafen 219a	NA
+2	!5488693.txt	AltLex	In diesem Paragrafen steht	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Im deutschen Straf-Gesetz gibt es den Paragrafen 219a	"In diesem Paragrafen steht:
+Ärzte dürfen keine Werbung machen
+für Schwangerschafts-Abbrüche"	NA
+3	!5488693.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	"Ärzte dürfen keine Werbung machen
+für Schwangerschafts-Abbrüche"	"Ärzte dürfen nicht öffentlich sagen,
+dass sie Schwangerschafts-Abbrüche anbieten"	NA
+4	!5488693.txt	AltLex	Mit diesem Gesetz	NA	Contingency.Purpose.Arg2-as-goal	NA	NA	NA	NA	NA	Im deutschen Straf-Gesetz gibt es den Paragrafen 219a	"Mit diesem Gesetz soll verhindert werden,
+dass Schwangerschafts-Abbrüche in unserer Gesellschaft
+als normal gelten"	NA
+5	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Mit diesem Gesetz soll verhindert werden,
+dass Schwangerschafts-Abbrüche in unserer Gesellschaft
+als normal gelten"	"In Deutschland darf eine Frau ihre Schwangerschaft
+bis zur 12. Schwangerschafts-Woche abbrechen"	NA
+6	!5488693.txt	Implicit	NA	aber	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	"In Deutschland darf eine Frau ihre Schwangerschaft
+bis zur 12. Schwangerschafts-Woche abbrechen"	Vor dem Abbruch muss die Frau zu einer Beratung gehen	NA
+7	!5488693.txt	AltLex	Vor dem Abbruch	NA	Temporal.Asynchronous.Succession	NA	NA	NA	NA	NA	"In Deutschland darf eine Frau ihre Schwangerschaft
+bis zur 12. Schwangerschafts-Woche abbrechen"	Vor dem Abbruch muss die Frau zu einer Beratung gehen	NA
+8	!5488693.txt	AltLex	Nach der Beratung	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Vor dem Abbruch muss die Frau zu einer Beratung gehen	"Nach der Beratung muss die Frau 3 Tage lang
+über den Schwangerschafts-Abbruch nachdenken"	NA
+9	!5488693.txt	Explicit	dann	NA	Temporal.Asynchronous.Precedence	Contingency.Condition.Arg1-as-cond	NA	NA	NA	NA	"Nach der Beratung muss die Frau 3 Tage lang
+über den Schwangerschafts-Abbruch nachdenken"	darf die Frau die Schwangerschaft abbrechen	NA
+10	!5488693.txt	AltLex	"Es gibt...diese Gründe
+für einen Schwangerschafts-Abbruch"	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Erst dann darf die Frau die Schwangerschaft abbrechen	"Es gibt zum Beispiel diese Gründe
+für einen Schwangerschafts-Abbruch:
+● Die Frau fühlt sich nicht bereit für ein Kind.
+● Die Frau ist in einer schlechten finanziellen Situation.
+● Die Frau wurde vergewaltigt und ist dabei schwanger geworden.
+● Die Gesundheit der Frau ist durch die Schwangerschaft gefährdet"	NA
+11	!5488693.txt	AltLex	Die Frau...Die Frau	NA	Expansion.Disjunction	NA	NA	NA	NA	NA	Die Frau fühlt sich nicht bereit für ein Kind	Die Frau ist in einer schlechten finanziellen Situation	NA
+12	!5488693.txt	AltLex	Die Frau...Die Frau	NA	Expansion.Disjunction	NA	NA	NA	NA	NA	Die Frau ist in einer schlechten finanziellen Situation	Die Frau wurde vergewaltigt und ist dabei schwanger geworden	NA
+13	!5488693.txt	Explicit	dabei	NA	Contingency.Cause.Result	Temporal.Synchronous	NA	NA	NA	NA	Die Frau wurde vergewaltigt	und ist...schwanger geworden	NA
+14	!5488693.txt	Implicit	NA	oder	Expansion.Disjunction	NA	NA	NA	NA	NA	Die Frau wurde vergewaltigt und ist dabei schwanger geworden	Die Gesundheit der Frau ist durch die Schwangerschaft gefährdet	NA
+15	!5488693.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	"In Deutschland darf eine Frau ihre Schwangerschaft
+bis zur 12. Schwangerschafts-Woche abbrechen"	"oft fehlen den betroffenen Frauen Informationen wie:
+Welcher Arzt macht Schwangerschafts-Abbrüche?
+Welche Arten von Schwangerschafts-Abbrüchen gibt es"	NA
+16	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Welcher Arzt macht Schwangerschafts-Abbrüche	Welche Arten von Schwangerschafts-Abbrüchen gibt es	NA
+17	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Welche Arten von Schwangerschafts-Abbrüchen gibt es	"Eine Ärztin hat im Jahr 2017 auf ihrer Internet-Seite
+Informationen zu Schwangerschafts-Abbrüchen veröffentlicht"	NA
+18	!5488693.txt	Explicit	Dabei	NA	Expansion.Manner.Arg1-as-manner	NA	NA	NA	NA	NA	"Eine Ärztin hat im Jahr 2017 auf ihrer Internet-Seite
+Informationen zu Schwangerschafts-Abbrüchen veröffentlicht"	"hat die Ärztin auch erklärt,
+dass sie Schwangerschafts-Abbrüche macht"	NA
+19	!5488693.txt	Explicit	auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	"Eine Ärztin hat im Jahr 2017 auf ihrer Internet-Seite
+Informationen zu Schwangerschafts-Abbrüchen veröffentlicht"	"Dabei hat die Ärztin...erklärt,
+dass sie Schwangerschafts-Abbrüche macht"	NA
+20	!5488693.txt	Explicit	dafür	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Dabei hat die Ärztin auch erklärt,
+dass sie Schwangerschafts-Abbrüche macht"	Ein Gericht hat die Ärztin...verurteilt	NA
+21	!5488693.txt	Explicit	jetzt	NA	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA	Ein Gericht hat die Ärztin dafür verurteilt	Sie soll...eine Geldstrafe von 6.000 Euro zahlen	NA
+22	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Sie soll jetzt eine Geldstrafe von 6.000 Euro zahlen	Die Ärztin heißt Kristina Hänel	NA
+23	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Ärztin heißt Kristina Hänel	Die Zeitung taz hat über den Fall Kristina Hänel berichtet	NA
+24	!5488693.txt	Explicit	sogar	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Die Zeitung taz hat über den Fall Kristina Hänel berichtet	Die taz hat...eine Titelseite dazu gemacht	NA
+25	!5488693.txt	Implicit	NA	und zwar	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Die taz hat sogar eine Titelseite dazu gemacht	Auf der Titelseite sind Fotos von vielen Ärztinnen und Ärzten	NA
+26	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Auf der Titelseite sind Fotos von vielen Ärztinnen und Ärzten	Sie alle stehen auf der Seite von Kristina Hänel	NA
+27	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Sie alle stehen auf der Seite von Kristina Hänel	Sie möchten ihre Kollegin unterstützen	NA
+28	!5488693.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Sie möchten ihre Kollegin unterstützen	"Die Überschrift lautet:
+Wir machen Schwangerschafts-Abbrüche"	NA
+29	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Die Überschrift lautet:
+Wir machen Schwangerschafts-Abbrüche"	"In einem Artikel in der taz sagen die Ärztinnen und Ärzte:
+Kristina Hänel hat keinen Fehler gemacht.
+Sie hat keine Werbung für Schwangerschafts-Abbrüche gemacht.
+Sie hat nur Informationen darüber veröffentlicht.
+Und diese Informationen sind wichtig für Frauen"	NA
+30	!5488693.txt	Implicit	NA	denn	Contingency.Cause+Belief.Reason+Belief	NA	NA	NA	NA	NA	Kristina Hänel hat keinen Fehler gemacht	Sie hat keine Werbung für Schwangerschafts-Abbrüche gemacht	NA
+31	!5488693.txt	Implicit	NA	sondern	Expansion.Substitution.Arg2-as-subst	NA	NA	NA	NA	NA	Sie hat keine Werbung für Schwangerschafts-Abbrüche gemacht	Sie hat nur Informationen darüber veröffentlicht	NA
+32	!5488693.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Sie hat nur Informationen darüber veröffentlicht	diese Informationen sind wichtig für Frauen	NA
+33	!5488693.txt	Explicit	jetzt	NA	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	"Die Überschrift lautet:
+Wir machen Schwangerschafts-Abbrüche"	"Ein paar Ärztinnen und Ärzte von der taz-Titelseite
+haben...eine Anzeige bekommen"	"Sie müssen vielleicht vor Gericht,
+weil sie öffentlich gesagt haben:
+Wir machen Schwangerschafts-Abbrüche"
+34	!5488693.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Ein paar Ärztinnen und Ärzte von der taz-Titelseite
+haben jetzt eine Anzeige bekommen"	Sie müssen vielleicht vor Gericht	NA
+35	!5488693.txt	Explicit	weil	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Sie müssen vielleicht vor Gericht	"sie öffentlich gesagt haben:
+Wir machen Schwangerschafts-Abbrüche"	NA
+36	!5488693.txt	Explicit	Aber	NA	Comparison.Concession.Arg1-as-denier	NA	NA	NA	NA	NA	"Sie müssen vielleicht vor Gericht,
+weil sie öffentlich gesagt haben:
+Wir machen Schwangerschafts-Abbrüche"	"Manche von den Ärztinnen und Ärzten haben schon lange
+keinen Schwangerschafts-Abbruch mehr gemacht"	NA
+37	!5488693.txt	Explicit	sogar	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	"Manche von den Ärztinnen und Ärzten haben schon lange
+keinen Schwangerschafts-Abbruch mehr gemacht"	Einige sind...schon in Rente	NA
+38	!5488693.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Einige sind sogar schon in Rente	"Die Ärztinnen und Ärzte haben keine Werbung
+für Schwangerschafts-Abbrüche gemacht"	NA
+39	!5488693.txt	Implicit	NA	stattdessen	Expansion.Substitution.Arg2-as-subst	NA	NA	NA	NA	NA	"Die Ärztinnen und Ärzte haben keine Werbung
+für Schwangerschafts-Abbrüche gemacht"	"Die Ärztinnen und Ärzte wurden aus diesem Grund angezeigt:
+Sie unterstützen Kristina Hänel"	NA
+40	!5488693.txt	AltLex	aus diesem Grund	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Die Ärztinnen und Ärzte wurden aus diesem Grund angezeigt	Sie unterstützen Kristina Hänel	NA
+41	!5488693.txt	Implicit	NA	aber	Comparison.Contrast	NA	deshalb	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	"Die Ärztinnen und Ärzte wurden aus diesem Grund angezeigt:
+Sie unterstützen Kristina Hänel"	Was sagt der Bundestag zum Paragrafen 219a	NA
+42	!5488693.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was sagt der Bundestag zum Paragrafen 219a	"Viele Menschen wollen den Paragrafen 219a abschaffen.
+Deshalb beschäftigt sich jetzt auch der Bundestag
+mit dem Paragrafen 219a.
+
+Was wollen die Parteien im Bundestag?
+Diese Parteien wollen den Paragrafen abschaffen:
+● Bündnis 90/Die Grünen
+● Die Linke
+● SPD
+
+Die FDP will den Paragrafen ändern.
+
+Diese Parteien wollen den Paragrafen nicht ändern:
+● CDU
+● CSU
+● AfD"	NA
+43	!5488693.txt	Explicit	Deshalb	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Viele Menschen wollen den Paragrafen 219a abschaffen	"beschäftigt sich jetzt auch der Bundestag
+mit dem Paragrafen 219a"	NA
+44	!5488693.txt	Implicit	NA	deshalb	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	"Deshalb beschäftigt sich jetzt auch der Bundestag
+mit dem Paragrafen 219a"	Was wollen die Parteien im Bundestag	NA
+45	!5488693.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was wollen die Parteien im Bundestag?	"Diese Parteien wollen den Paragrafen abschaffen:
+● Bündnis 90/Die Grünen
+● Die Linke
+● SPD
+
+Die FDP will den Paragrafen ändern.
+
+Diese Parteien wollen den Paragrafen nicht ändern:
+● CDU
+● CSU
+● AfD"	NA
+46	!5488693.txt	Implicit	NA	demgegenüber	Comparison.Contrast	NA	NA	NA	NA	NA	"Diese Parteien wollen den Paragrafen abschaffen:
+● Bündnis 90/Die Grünen
+● Die Linke
+● SPD"	Die FDP will den Paragrafen ändern	NA
+47	!5488693.txt	Implicit	NA	demgegenüber	Comparison.Contrast	NA	NA	NA	NA	NA	Die FDP will den Paragrafen ändern	"Diese Parteien wollen den Paragrafen nicht ändern:
+● CDU
+● CSU
+● AfD"	NA
+48	!5495118.txt	Implicit	NA	aber	Comparison.Concession.Arg2-as-denier	NA	jetzt	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	Facebook sammelt viele Informationen von Nutzern	Viele Nutzer möchten das nicht länger mitmachen	NA
+49	!5495118.txt	Implicit	NA	trotzdem	Comparison.Concession.Arg1-as-denier	NA	NA	NA	NA	NA	Viele Nutzer möchten das nicht länger mitmachen	Viele Menschen nutzen die Internet-Plattform Facebook	NA
+50	!5495118.txt	AltLex	dort	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Viele Menschen nutzen die Internet-Plattform Facebook	Sie teilen dort Fotos, Videos und Nachrichten	NA
+51	!5495118.txt	Explicit	Dabei	NA	Expansion.Manner.Arg1-as-manner	Temporal.Synchronous	NA	NA	NA	NA	Sie teilen dort Fotos, Videos und Nachrichten	geben sie viele Infos an Facebook weiter	NA
+52	!5495118.txt	Explicit	Deshalb	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Dabei geben sie viele Infos an Facebook weiter	sind bei Facebook viele Infos über die Nutzer gespeichert	NA
+53	!5495118.txt	Explicit	dabei	NA	Temporal.Synchronous	Contingency.Cause.Result	NA	NA	NA	NA	Deshalb sind bei Facebook viele Infos über die Nutzer gespeichert	Viele Facebook-Nutzer haben...ein schlechtes Gefühl	NA
+54	!5495118.txt	Explicit	Denn	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Viele Facebook-Nutzer haben dabei ein schlechtes Gefühl	"sie wissen nicht:
+Was macht Facebook mit den vielen Infos?
+Sind die Infos bei Facebook sicher"	NA
+55	!5495118.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Was macht Facebook mit den vielen Infos	Sind die Infos bei Facebook sicher	NA
+56	!5495118.txt	Explicit	jetzt	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Deshalb sind bei Facebook viele Infos über die Nutzer gespeichert	Bei Facebook gab es...eine große Sicherheits-Lücke	NA
+57	!5495118.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	Bei Facebook gab es jetzt eine große Sicherheits-Lücke	Was ist passiert	NA
+58	!5495118.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was ist passiert	"Eine Firma hat viele Infos auf Facebook ausspioniert:
+bei insgesamt über 50 Millionen Nutzern.
+Die Firma heißt Cambridge Analytica.
+Die Firma hat mit den Facebook-Nutzer-Infos wahrscheinlich
+viel Geld verdient.
+Und sie hat die Nutzer-Infos wahrscheinlich
+für diesen Zweck benutzt:
+Die Firma hat gezielte Wahl-Werbung auf Facebook
+für Donald Trump und seine Partei gemacht,
+während des Wahl-Kampfs in den USA"	NA
+59	!5495118.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Eine Firma hat viele Infos auf Facebook ausspioniert	Die Firma heißt Cambridge Analytica	NA
+60	!5495118.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Firma heißt Cambridge Analytica	"Die Firma hat mit den Facebook-Nutzer-Infos wahrscheinlich
+viel Geld verdient"	NA
+61	!5495118.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	"Die Firma hat mit den Facebook-Nutzer-Infos wahrscheinlich
+viel Geld verdient"	"sie hat die Nutzer-Infos wahrscheinlich
+für diesen Zweck benutzt"	"Die Firma hat gezielte Wahl-Werbung auf Facebook
+für Donald Trump und seine Partei gemacht,
+während des Wahl-Kampfs in den USA"
+62	!5495118.txt	AltLex	für diesen Zweck	NA	Contingency.Purpose.Arg2-as-goal	NA	NA	NA	NA	NA	"Und sie hat die Nutzer-Infos wahrscheinlich
+für diesen Zweck benutzt"	"Die Firma hat gezielte Wahl-Werbung auf Facebook
+für Donald Trump und seine Partei gemacht"	während des Wahl-Kampfs in den USA
+63	!5495118.txt	Explicit	jetzt	NA	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	während des Wahl-Kampfs in den USA	"Die Firma hat gezielte Wahl-Werbung auf Facebook
+für Donald Trump und seine Partei gemacht"	Viele Menschen fragen sich...Ist das in Ordnung	NA
+64	!5495118.txt	Implicit	NA	genauer gesagt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Ist das in Ordnung	"Dürfen Firmen wie Cambridge Analytica mit Nutzer-Infos
+solche Geschäfte machen"	NA
+65	!5495118.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Dürfen Firmen wie Cambridge Analytica mit Nutzer-Infos
+solche Geschäfte machen"	Hat die Firma das Wahl-Ergebnis in den USA beeinflusst	NA
+66	!5495118.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Hat die Firma das Wahl-Ergebnis in den USA beeinflusst	warum schützt Facebook die Nutzer-Infos nicht besser	NA
+67	!5495118.txt	Explicit	jetzt	NA	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA	Und warum schützt Facebook die Nutzer-Infos nicht besser	Viele Menschen sind...unzufrieden mit Facebook	NA
+68	!5495118.txt	Explicit	Und	NA	Comparison.Similarity	Expansion.Conjunction	NA	NA	NA	NA	Viele Menschen sind jetzt unzufrieden mit Facebook	"einige Firmen wollen mit Facebook jetzt
+keine Geschäfte mehr machen"	NA
+69	!5495118.txt	Explicit	jetzt	NA	Temporal.Synchronous	NA	NA	NA	NA	NA	Viele Menschen sind jetzt unzufrieden mit Facebook	Und einige Firmen wollen mit Facebook...keine Geschäfte mehr machen	NA
+70	!5495118.txt	Explicit	nun	NA	Temporal.Synchronous	NA	NA	NA	NA	NA	"Und einige Firmen wollen mit Facebook jetzt
+keine Geschäfte mehr machen"	Einige Menschen und Firmen löschen...sogar ihr Facebook-Profil	NA
+71	!5495118.txt	Explicit	sogar	NA	Comparison.Similarity	NA	NA	NA	NA	NA	"Und einige Firmen wollen mit Facebook jetzt
+keine Geschäfte mehr machen"	Einige Menschen und Firmen löschen nun...ihr Facebook-Profil	NA
+72	!5495118.txt	AltLex	Dort	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	"Das Profil ist die persönliche Seite von einer Person
+oder von einer Firma auf Facebook"	Dort sieht man das Profilbild, Nachrichten und viele andere Infos	NA
+73	!5495118.txt	Explicit	Auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	Einige Menschen und Firmen löschen nun sogar ihr Facebook-Profil	"die taz hat sich gefragt:
+Wie sollen wir mit Facebook umgehen?
+Sollen wir unsere Facebook-Profile löschen?
+Und wenn ja:
+Worauf müssen wir dabei achten"	NA
+74	!5495118.txt	Implicit	NA	zum Beispiel	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Wie sollen wir mit Facebook umgehen	Sollen wir unsere Facebook-Profile löschen	NA
+75	!5495118.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Sollen wir unsere Facebook-Profile löschen	"wenn ja:
+Worauf müssen wir dabei achten"	NA
+76	!5495118.txt	AltLex	wenn ja	NA	Contingency.Condition.Arg1-as-cond	NA	NA	NA	NA	NA	Sollen wir unsere Facebook-Profile löschen	"Und wenn ja:
+Worauf müssen wir dabei achten"	NA
+77	!5495118.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Worauf müssen wir dabei achten	"Hier ein paar Ratschläge dazu:
+• vor dem Löschen die liebsten Bilder und Termine speichern
+• die Freunde vorwarnen,
+dass man in Zukunft nicht mehr
+über Facebook erreichbar ist
+• Telefonnummern und Email-Adressen
+mit den Freunden austauschen
+• vielleicht weitere Apps löschen,
+die Facebook gehören und die Nutzer-Infos sammeln,
+zum Beispiel Instagram oder Whats-App"	NA
+78	!5504919.txt	Implicit	NA	obwohl	Comparison.Concession.Arg1-as-denier	NA	NA	NA	NA	NA	Viele Lebens-Mittel im Supermarkt sind in Plastik verpackt	Das ist oft unnötig	NA
+79	!5504919.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Das ist oft unnötig	In Berlin gab es dagegen eine Aktion	NA
+80	!5504919.txt	Implicit	NA	genauer gesagt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	In Berlin gab es dagegen eine Aktion	In einem Supermarkt in Berlin hat eine Aktion stattgefunden	NA
+81	!5504919.txt	Implicit	NA	genauer gesagt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	In einem Supermarkt in Berlin hat eine Aktion stattgefunden	"Eine Gruppe von Menschen hat dort eingekauft.
+Sie hat Produkte in ihren Einkaufs-Wagen gepackt und bezahlt.
+Sie hat dann alle Produkte aus dem Einkaufs-Wagen geräumt
+und im Supermarkt auf den Boden gelegt"	NA
+82	!5504919.txt	Implicit	NA	das heißt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Eine Gruppe von Menschen hat dort eingekauft	Sie hat Produkte in ihren Einkaufs-Wagen gepackt und bezahlt	NA
+83	!5504919.txt	Explicit	dann	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Sie hat Produkte in ihren Einkaufs-Wagen gepackt und bezahlt	Sie hat...alle Produkte aus dem Einkaufs-Wagen geräumt	NA
+84	!5504919.txt	Implicit	NA	dann	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Sie hat dann alle Produkte aus dem Einkaufs-Wagen geräumt	und im Supermarkt auf den Boden gelegt	NA
+85	!5504919.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	"Sie hat dann alle Produkte aus dem Einkaufs-Wagen geräumt
+und im Supermarkt auf den Boden gelegt"	Warum hat die Gruppe das gemacht	NA
+86	!5504919.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Warum hat die Gruppe das gemacht	Um den Plastik-Müll von den Produkten zu entfernen	NA
+87	!5504919.txt	Explicit	zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Um den Plastik-Müll von den Produkten zu entfernen	"Die Menschen haben...die Plastik-Folie von einer Gurke abgezogen
+• Gummi-Bärchen aus der Tüte geholt
+• Milch aus dem Tetra-Pack gegossen"	NA
+88	!5504919.txt	Explicit	dann	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	"Die Menschen haben zum Beispiel:
+• die Plastik-Folie von einer Gurke abgezogen
+• Gummi-Bärchen aus der Tüte geholt
+• Milch aus dem Tetra-Pack gegossen"	Sie haben die Produkte...umgefüllt	Zum Beispiel in Stoffbeutel, Tupper-Dosen oder Glas-Flaschen
+89	!5504919.txt	Implicit	NA	anschließend	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	Zum Beispiel in Stoffbeutel, Tupper-Dosen oder Glas-Flaschen	Sie haben die Produkte dann umgefüllt	"Die Menschen haben die Plastik-Verpackungen
+in ihrem Einkaufs-Wagen liegen gelassen"	NA
+90	!5504919.txt	Explicit	Denn	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Die Menschen haben die Plastik-Verpackungen
+in ihrem Einkaufs-Wagen liegen gelassen"	"ein Super-Markt muss einen Teil
+von den Plastik-Verpackungen wieder zurücknehmen"	NA
+91	!5504919.txt	Implicit	NA	deshalb	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	"Die Menschen haben zum Beispiel:
+• die Plastik-Folie von einer Gurke abgezogen
+• Gummi-Bärchen aus der Tüte geholt
+• Milch aus dem Tetra-Pack gegossen
+Sie haben die Produkte dann umgefüllt.
+Zum Beispiel in Stoffbeutel, Tupper-Dosen oder Glas-Flaschen.
+Die Menschen haben die Plastik-Verpackungen
+in ihrem Einkaufs-Wagen liegen gelassen.
+Denn ein Super-Markt muss einen Teil
+von den Plastik-Verpackungen wieder zurücknehmen"	Warum haben die Menschen die Aktion gemacht	NA
+92	!5504919.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Aktion heißt „Plastik-Attacke	"Die Aktion hat es in anderen Städten in anderen Ländern
+schon öfter gegeben"	NA
+93	!5504919.txt	Explicit	schon	NA	Temporal.Asynchronous.Succession	Comparison.Contrast	NA	NA	NA	NA	In einem Supermarkt in Berlin hat eine Aktion stattgefunden	Die Aktion hat es in anderen Städten in anderen Ländern...öfter gegeben	NA
+94	!5504919.txt	AltLex	in anderen Städten...in Berlin	NA	Comparison.Contrast	NA	NA	NA	NA	Zum Beispiel in den Städten Brüssel, Amsterdam und Oslo	"Die Aktion hat es in anderen Städten in anderen Ländern
+schon öfter gegeben"	"Mit der Aktion in Berlin hat es „Plastik-Attacke“
+das 1. Mal in Deutschland gegeben"	NA
+95	!5504919.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Mit der Aktion in Berlin hat es „Plastik-Attacke“
+das 1. Mal in Deutschland gegeben"	"Mitglieder von dem Verband BUND-Jugend
+haben die Aktion in Berlin organisiert"	NA
+96	!5504919.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Mitglieder von dem Verband BUND-Jugend
+haben die Aktion in Berlin organisiert"	Der Verband BUND-Jugend setzt sich für Umwelt-Schutz ein	NA
+97	!5504919.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Mitglieder von dem Verband BUND-Jugend
+haben die Aktion in Berlin organisiert"	"Die Aktion „Plastik-Attacke“ soll zeigen:
+Es gibt zu viele Plastik-Verpackungen.
+Dadurch gibt es zu viel Plastik-Müll"	NA
+98	!5504919.txt	Explicit	Dadurch	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Es gibt zu viele Plastik-Verpackungen	gibt es zu viel Plastik-Müll	NA
+99	!5504919.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Dadurch gibt es zu viel Plastik-Müll	"Die Aktion „Plastik-Attacke“ soll Supermärkte dazu bringen,
+weniger Plastik-Verpackungen anzubieten"	NA
+100	!5504919.txt	Implicit	NA	aber	Comparison.Contrast	NA	NA	NA	NA	NA	"Die Aktion „Plastik-Attacke“ soll Supermärkte dazu bringen,
+weniger Plastik-Verpackungen anzubieten"	Warum ist Plastik-Müll schlecht	NA
+101	!5504919.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Warum ist Plastik-Müll schlecht	Plastik-Müll verschmutzt die Umwelt	NA
+102	!5504919.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Plastik-Müll verschmutzt die Umwelt	In Deutschland gibt es jedes Jahr 5 Millionen Tonnen Plastik-Müll	NA
+103	!5504919.txt	Implicit	NA	doch	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	In Deutschland gibt es jedes Jahr 5 Millionen Tonnen Plastik-Müll	"Die BUND-Jugend sagt:
+Weniger als die Hälfte von dem Plastik-Müll
+wird weiter verarbeitet und wieder verwendet"	NA
+104	!5504919.txt	Implicit	NA	stattdessen	Expansion.Substitution.Arg2-as-subst	NA	NA	NA	NA	NA	"Weniger als die Hälfte von dem Plastik-Müll
+wird weiter verarbeitet und wieder verwendet"	Der Großteil von dem Plastik-Müll wird verbrannt	NA
+105	!5504919.txt	Implicit	NA	doch	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Der Großteil von dem Plastik-Müll wird verbrannt	Das ist schlecht für das Klima	NA
+106	!5504919.txt	AltLex	Der Großteil von dem Plastik-Müll...Ein weiterer Teil von dem Plastik-Müll	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Der Großteil von dem Plastik-Müll wird verbrannt	"Ein weiterer Teil von dem Plastik-Müll
+landet über Umwege im Meer"	NA
+107	!5504919.txt	Explicit	dann	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	"Ein weiterer Teil von dem Plastik-Müll
+landet über Umwege im Meer"	"Wale, Delfine, Schildkröten und Fische verwechseln
+den Plastik-Müll...oft mit Nahrung"	NA
+108	!5504919.txt	Implicit	NA	deshalb	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	"Wale, Delfine, Schildkröten und Fische verwechseln
+den Plastik-Müll dann oft mit Nahrung"	Sie fressen den Plastik-Müll	NA
+109	!5504919.txt	Explicit	daran	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Sie fressen den Plastik-Müll	und sterben oft	NA
+110	!5504919.txt	NoRel	NA	NA	NA	NA	NA	NA	NA	NA	Sie fressen den Plastik-Müll und sterben oft daran	Wie reagieren Menschen auf die Aktionen BUND-Jugend	NA
+111	!5504919.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Wie reagieren Menschen auf die Aktionen BUND-Jugend	"Im Berliner Supermarkt war es zum Beispiel so:
+Manche Menschen haben nicht den Sinn
+von einer Aktion wie „Plastik-Attacke“ verstanden.
+Aber manche Menschen fanden die Aktionen gut.
+Manche Menschen haben bei „Plastik-Attacke“
+im Berliner Supermarkt sogar spontan mitgemacht"	NA
+112	!5504919.txt	Explicit	zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Wie reagieren Menschen auf die Aktionen BUND-Jugend	Im Berliner Supermarkt war es...so	"Manche Menschen haben nicht den Sinn
+von einer Aktion wie „Plastik-Attacke“ verstanden"
+113	!5504919.txt	Explicit	Aber	NA	Comparison.Contrast	NA	NA	NA	NA	NA	"Manche Menschen haben nicht den Sinn
+von einer Aktion wie „Plastik-Attacke“ verstanden"	manche Menschen fanden die Aktionen gut	NA
+114	!5504919.txt	Explicit	sogar	NA	Contingency.Cause.Result	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	Aber manche Menschen fanden die Aktionen gut	"Manche Menschen haben bei „Plastik-Attacke“
+im Berliner Supermarkt...spontan mitgemacht"	NA
+115	!5481861.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"
+Die Partei Die Grünen hat 2 neue Vorsitzende"	Sie wollen eine neue Politik für die Grünen	NA
+116	!5481861.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Sie wollen eine neue Politik für die Grünen	Die Grünen haben 2 neue Vorsitzende gewählt	NA
+117	!5481861.txt	AltLex	Die neuen Vorsitzenden heißen	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	"
+Die Grünen haben 2 neue Vorsitzende gewählt"	"Die neuen Vorsitzenden heißen:
+Annalena Baerbock [gesprochen: Bärbock] und Robert Habeck"	NA
+118	!5481861.txt	AltLex	Die neuen Vorsitzenden...Die neuen Vorsitzenden	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	"
+Die neuen Vorsitzenden heißen:
+Annalena Baerbock [gesprochen: Bärbock] und Robert Habeck"	Die neuen Vorsitzenden sind jung	NA
+119	!5481861.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	"
+Die neuen Vorsitzenden sind jung"	Sie haben neue Ideen	NA
+120	!5481861.txt	AltLex	Mit diesen Ideen	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	"
+Sie haben neue Ideen"	Mit diesen Ideen wollen sie die Partei neu gestalten	NA
+121	!5481861.txt	Implicit	NA	aber	Comparison.Contrast	NA	NA	NA	NA	NA	"
+Mit diesen Ideen wollen sie die Partei neu gestalten"	Warum könnte das schwierig werden	NA
+122	!5481861.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Warum könnte das schwierig werden	"In der Partei Die Grünen gibt es 2 Gruppen.
+Eine Gruppe möchte eine linke Politik.
+Diese Gruppe nennt man: Linke.
+Eine andere Gruppe möchte auch eine linke Politik.
+Doch diese Gruppe möchte sich dabei
+an andere Parteien anpassen.
+Denn diese Gruppe möchte,
+dass die Grünen in Deutschland mitregieren können.
+Diese Gruppe nennt man: Realos.
+Linke und Realos streiten oft,
+wie die Politik bei den Grünen sein soll.
+
+Bisher war es bei den Grünen so:
+Ein Vorsitzender kam von den Linken.
+Und ein Vorsitzender kam von den Realos.
+Sie waren sich bei vielen Themen nicht einig.
+
+Mit den neuen Vorsitzenden ist es bei den Grünen so:
+Annalena Baerbock und Robert Habeck
+sind beide von den Realos.
+Sie sind sich bei vielen Themen einig.
+Viele Menschen glauben zwar:
+Annalena Baerbock und Robert Habeck
+setzen sich nicht für die Politik von der linken Gruppe ein.
+Annalena Baerbock und Robert Habeck sagen aber:
+Wir sprechen auch über linke Themen.
+Wir wollen für alle in der Partei sprechen"	NA
+123	!5481861.txt	AltLex	Eine Gruppe	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	In der Partei Die Grünen gibt es 2 Gruppen	Eine Gruppe möchte eine linke Politik	NA
+124	!5481861.txt	Explicit	auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	Eine Gruppe möchte eine linke Politik	Eine andere Gruppe möchte...eine linke Politik	NA
+125	!5481861.txt	Explicit	Doch	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Eine andere Gruppe möchte auch eine linke Politik	"diese Gruppe möchte sich dabei
+an andere Parteien anpassen"	NA
+126	!5481861.txt	Explicit	Denn	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Doch diese Gruppe möchte sich dabei
+an andere Parteien anpassen"	"diese Gruppe möchte,
+dass die Grünen in Deutschland mitregieren können"	NA
+127	!5481861.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	"In der Partei Die Grünen gibt es 2 Gruppen.
+Eine Gruppe möchte eine linke Politik....Eine andere Gruppe möchte auch eine linke Politik.
+Doch diese Gruppe möchte sich dabei
+an andere Parteien anpassen"	"Denn diese Gruppe möchte,
+dass die Grünen in Deutschland mitregieren können"	"Linke und Realos streiten oft,
+wie die Politik bei den Grünen sein soll"	NA
+128	!5481861.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	denn	Contingency.Cause.Reason	NA	NA	"Linke und Realos streiten oft,
+wie die Politik bei den Grünen sein soll"	"Bisher war es bei den Grünen so:
+Ein Vorsitzender kam von den Linken.
+Und ein Vorsitzender kam von den Realos"	NA
+129	!5481861.txt	Explicit	Und	NA	Comparison.Contrast	NA	NA	NA	NA	NA	Ein Vorsitzender kam von den Linken	ein Vorsitzender kam von den Realos	NA
+130	!5481861.txt	Implicit	NA	daher	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Ein Vorsitzender kam von den Linken.
+Und ein Vorsitzender kam von den Realos"	Sie waren sich bei vielen Themen nicht einig	NA
+131	!5481861.txt	AltLex	Bisher...Mit den neuen Vorsitzenden	NA	Temporal.Asynchronous.Precedence	Comparison.Contrast	NA	NA	NA	"Ein Vorsitzender kam von den Linken.
+Und ein Vorsitzender kam von den Realos.
+Sie waren sich bei vielen Themen nicht einig"	Bisher war es bei den Grünen so	Mit den neuen Vorsitzenden ist es bei den Grünen so	"Annalena Baerbock und Robert Habeck
+sind beide von den Realos.
+Sie sind sich bei vielen Themen einig"
+132	!5481861.txt	Implicit	NA	daher	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Annalena Baerbock und Robert Habeck
+sind beide von den Realos"	Sie sind sich bei vielen Themen einig	NA
+133	!5481861.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Sie sind sich bei vielen Themen einig	"Viele Menschen glauben zwar:
+Annalena Baerbock und Robert Habeck
+setzen sich nicht für die Politik von der linken Gruppe ein"	NA
+134	!5481861.txt	Explicit	zwar...aber	NA	Comparison.Concession.Arg2-as-denier	Comparison.Contrast	NA	NA	NA	NA	"Viele Menschen glauben...Annalena Baerbock und Robert Habeck
+setzen sich nicht für die Politik von der linken Gruppe ein"	Annalena Baerbock und Robert Habeck sagen...Wir sprechen auch über linke Themen	NA
+135	!5481861.txt	Explicit	auch	NA	Expansion.Instantiation.Arg1-as-instance	NA	NA	NA	NA	NA	Wir sprechen...über linke Themen	Wir wollen für alle in der Partei sprechen	NA
+136	!5481861.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Wir sprechen auch über linke Themen	Wir wollen für alle in der Partei sprechen	NA
+137	!5481861.txt	Implicit	NA	deshalb	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	"Annalena Baerbock und Robert Habeck
+sind beide von den Realos.
+Sie sind sich bei vielen Themen einig.
+Viele Menschen glauben zwar:
+Annalena Baerbock und Robert Habeck
+setzen sich nicht für die Politik von der linken Gruppe ein"	"Annalena Baerbock und Robert Habeck sagen aber:
+Wir sprechen auch über linke Themen.
+Wir wollen für alle in der Partei sprechen"	Welche Themen sind Annalena Baerbock wichtig...Welche Themen sind Robert Habeck wichtig	NA
+138	!5481861.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Welche Themen sind Annalena Baerbock wichtig	Annalena Baerbock ist 37 Jahre alt	NA
+139	!5481861.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Annalena Baerbock ist 37 Jahre alt	Sie kommt aus dem Bundesland Brandenburg	NA
+140	!5481861.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Welche Themen sind Annalena Baerbock wichtig	"Annalena Baerbock findet diese linken Themen wichtig
+für die Politik der Grünen:
+Klima-Schutz und Familien-Nachzug"	NA
+141	!5481861.txt	Implicit	NA	zum Beispiel	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	Klima-Schutz und Familien-Nachzug	"Annalena Baerbock findet diese linken Themen wichtig
+für die Politik der Grünen"	Annalena Baerbock will sich für den Klima-Schutz einsetzen	NA
+142	!5481861.txt	Implicit	NA	nämlich	Contingency.Cause.Reason	Contingency.Cause+Belief.Reason+Belief	NA	NA	NA	NA	Annalena Baerbock will sich für den Klima-Schutz einsetzen	"Sie sagt:
+Die Grünen müssen noch mehr gegen den Klima-Wandel tun.
+Der Klima-Wandel nimmt weiter zu.
+Durch die Abgase von Autos und Fabriken
+steigt die Temperatur auf der Erde.
+Es wird immer wärmer.
+Das ist gefährlich für die Menschen und für die Natur"	NA
+143	!5481861.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Die Grünen müssen noch mehr gegen den Klima-Wandel tun	Der Klima-Wandel nimmt weiter zu	NA
+144	!5481861.txt	Implicit	NA	genauer gesagt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Der Klima-Wandel nimmt weiter zu	"Durch die Abgase von Autos und Fabriken
+steigt die Temperatur auf der Erde"	NA
+145	!5481861.txt	Implicit	NA	kurz gesagt	Expansion.Level-of-detail.Arg1-as-detail	NA	NA	NA	NA	NA	"Durch die Abgase von Autos und Fabriken
+steigt die Temperatur auf der Erde"	Es wird immer wärmer	NA
+146	!5481861.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Es wird immer wärmer	Das ist gefährlich für die Menschen und für die Natur	NA
+147	!5481861.txt	AltLex	Annalena Baerbock will...Annalena Baerbock will	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Annalena Baerbock will sich für den Klima-Schutz einsetzen	Annalena Baerbock will den Familien-Nachzug für Flüchtlinge	NA
+148	!5481861.txt	Implicit	NA	deshalb	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	Annalena Baerbock will den Familien-Nachzug für Flüchtlinge	Was ist der Familien-Nachzug	NA
+149	!5481861.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was ist der Familien-Nachzug	"Viele Flüchtlinge kommen alleine nach Deutschland.
+Viele Flüchtlinge wollen,
+dass ihre Familien-Mitglieder später
+nach Deutschland nachkommen können"	NA
+150	!5481861.txt	Implicit	NA	aber	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Viele Flüchtlinge kommen alleine nach Deutschland	"Viele Flüchtlinge wollen,
+dass ihre Familien-Mitglieder später
+nach Deutschland nachkommen können"	NA
+151	!5481861.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Viele Flüchtlinge wollen,
+dass ihre Familien-Mitglieder später
+nach Deutschland nachkommen können"	Sie vermissen ihre Eltern, Partner und Kinder	NA
+152	!5481861.txt	Explicit	Außerdem	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Sie vermissen ihre Eltern, Partner und Kinder	Viele Familien von Flüchtlingen sind in ihrer Heimat in Gefahr	NA
+153	!5481861.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Viele Familien von Flüchtlingen sind in ihrer Heimat in Gefahr	Dort gibt es oft Krieg, Verfolgung und Hunger	NA
+154	!5481861.txt	AltLex	Dort	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Viele Familien von Flüchtlingen sind in ihrer Heimat in Gefahr	Dort gibt es oft Krieg, Verfolgung und Hunger	NA
+155	!5481861.txt	AltLex	Welche Themen sind...wichtig	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Welche Themen sind Annalena Baerbock wichtig	Welche Themen sind Robert Habeck wichtig	NA
+156	!5481861.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Welche Themen sind Robert Habeck wichtig	Robert Habeck ist 48 Jahre alt	NA
+157	!5481861.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Robert Habeck ist 48 Jahre alt	Er kommt aus dem Bundesland Schleswig-Holstein	NA
+158	!5481861.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Welche Themen sind Robert Habeck wichtig	"Robert Habeck findet das linke Thema „Umverteilung“ wichtig
+für die Politik der Grünen"	NA
+159	!5481861.txt	AltLex	Das bedeutet	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	"Robert Habeck findet das linke Thema „Umverteilung“ wichtig
+für die Politik der Grünen"	"Ärmere Menschen sollen mehr Geld bekommen.
+Reichere Menschen sollen mehr Geld abgeben"	NA
+160	!5481861.txt	Implicit	NA	demgegenüber	Comparison.Contrast	NA	NA	NA	NA	NA	Ärmere Menschen sollen mehr Geld bekommen	Reichere Menschen sollen mehr Geld abgeben	NA
+161	!5481861.txt	Explicit	Zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Reichere Menschen sollen mehr Geld abgeben	sollen reichere Menschen mehr Steuern bezahlen	NA
+162	!5481861.txt	Implicit	NA	indem	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	NA	Reichere Menschen sollen mehr Geld abgeben	Zum Beispiel sollen reichere Menschen mehr Steuern bezahlen	NA
+163	!5492072.txt	Explicit	Aber	NA	Comparison.Concession.Arg1-as-denier	NA	NA	NA	NA	NA	Auch politisch rechte Verlage sind auf der Buch-Messe in Leipzig	viele Menschen sind dagegen	NA
+164	!5492072.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Aber viele Menschen sind dagegen	"Vom 15. bis zum 18. März 2018 findet
+die Buch-Messe in Leipzig statt"	NA
+165	!5492072.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	"Vom 15. bis zum 18. März 2018 findet
+die Buch-Messe in Leipzig statt"	Was ist eine Buch-Messe	NA
+166	!5492072.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was ist eine Buch-Messe	"Eine Buch-Messe ist eine große Veranstaltung zum Thema Lesen.
+Dort werden neue Bücher und Zeitschriften vorgestellt.
+Dort gibt es viele Diskussionen und Buch-Lesungen"	NA
+167	!5492072.txt	Implicit	NA	genauer gesagt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Eine Buch-Messe ist eine große Veranstaltung zum Thema Lesen	Dort werden neue Bücher und Zeitschriften vorgestellt	NA
+168	!5492072.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Dort werden neue Bücher und Zeitschriften vorgestellt	Dort gibt es viele Diskussionen und Buch-Lesungen	NA
+169	!5492072.txt	Explicit	Auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	"Eine Buch-Messe ist eine große Veranstaltung zum Thema Lesen.
+Dort werden neue Bücher und Zeitschriften vorgestellt"	Dort gibt es viele Diskussionen und Buch-Lesungen	politisch rechte Verlage sind auf der Buch-Messe in Leipzig	NA
+170	!5492072.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was ist ein Verlag	Ein Verlag gibt Bücher und Zeitschriften heraus	NA
+171	!5492072.txt	Explicit	Auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Dort werden neue Bücher und Zeitschriften vorgestellt	"rechte Verlage wollen auf der Buch-Messe
+ihre neuen Bücher und Zeitschriften vorstellen"	NA
+172	!5492072.txt	Explicit	Auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Dort gibt es viele Diskussionen und Buch-Lesungen	sie wollen Diskussionen und Buch-Lesungen anbieten	NA
+173	!5492072.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	Auch sie wollen Diskussionen und Buch-Lesungen anbieten	Was planen rechte Verlage für die Buch-Messe in Leipzig	NA
+174	!5492072.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was planen rechte Verlage für die Buch-Messe in Leipzig	"Die rechte Zeitschrift „Compact“ plant zum Beispiel
+eine Lesung mit dem Autor Akif Pirinçci"	NA
+175	!5492072.txt	Explicit	zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Was planen rechte Verlage für die Buch-Messe in Leipzig	Die rechte Zeitschrift „Compact“ plant...eine Lesung mit dem Autor Akif Pirinçci	NA
+176	!5492072.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	Comparison.Contrast	NA	NA	NA	NA	"Die rechte Zeitschrift „Compact“ plant zum Beispiel
+eine Lesung mit dem Autor Akif Pirinçci"	Wer ist Akif Pirinçci	NA
+177	!5492072.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Wer ist Akif Pirinçci	"Akif Pirinçci schreibt Bücher
+und kommt ursprünglich aus der Türkei.
+Akif Pirinçci hat gegen Flüchtlinge und Muslime gehetzt.
+Dafür wurde er von einem Gericht verurteilt.
+Hier ist ein Foto von Akif Pirinçci"	NA
+178	!5492072.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Akif Pirinçci schreibt Bücher
+und kommt ursprünglich aus der Türkei"	Akif Pirinçci hat gegen Flüchtlinge und Muslime gehetzt	NA
+179	!5492072.txt	Explicit	Dafür	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Akif Pirinçci hat gegen Flüchtlinge und Muslime gehetzt	wurde er von einem Gericht verurteilt	NA
+180	!5492072.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Dafür wurde er von einem Gericht verurteilt	Hier ist ein Foto von Akif Pirinçci	NA
+181	!5492072.txt	Explicit	Auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	Akif Pirinçci hat gegen Flüchtlinge und Muslime gehetzt	"andere Mitarbeiter und Autoren
+von rechten Verlagen und Zeitschriften
+hetzen oft gegen Flüchtlinge und Muslime"	NA
+182	!5492072.txt	Implicit	NA	jedoch	Comparison.Contrast	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	"Auch andere Mitarbeiter und Autoren
+von rechten Verlagen und Zeitschriften
+hetzen oft gegen Flüchtlinge und Muslime"	"Viele Menschen sind dagegen,
+dass rechte Verlage auf der Buch-Messe hetzen können"	NA
+183	!5492072.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Viele Menschen sind dagegen,
+dass rechte Verlage auf der Buch-Messe hetzen können"	"Diese Menschen wollen verbieten,
+dass rechte Verlage an der Buch-Messe teilnehmen"	NA
+184	!5492072.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	"Diese Menschen wollen verbieten,
+dass rechte Verlage an der Buch-Messe teilnehmen"	"die Leitung von der Buch-Messe sagt:
+Es gibt Meinungs-Freiheit in Deutschland.
+Auch rechte Verlage dürfen ihre Meinung sagen.
+Das gilt auch auf der Buch-Messe"	NA
+185	!5492072.txt	Explicit	Auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Es gibt Meinungs-Freiheit in Deutschland	rechte Verlage dürfen ihre Meinung sagen	NA
+186	!5492072.txt	Explicit	auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Auch rechte Verlage dürfen ihre Meinung sagen	Das gilt...auf der Buch-Messe	NA
+187	!5492072.txt	Explicit	nun	NA	Contingency.Cause.Result	Comparison.Contrast	NA	NA	NA	NA	"Aber die Leitung von der Buch-Messe sagt:
+Es gibt Meinungs-Freiheit in Deutschland.
+Auch rechte Verlage dürfen ihre Meinung sagen.
+Das gilt auch auf der Buch-Messe"	"Andere Verlage auf der Buch-Messe sagen...Wenn die Leitung von der Buch-Messe in Leipzig nichts macht,
+dann unternehmen wir selber etwas gegen die rechten Verlage"	NA
+188	!5492072.txt	Explicit	Wenn...dann	NA	Contingency.Negative-condition.Arg2-as-negcond	NA	NA	NA	NA	NA	unternehmen wir selber etwas gegen die rechten Verlage	die Leitung von der Buch-Messe in Leipzig nichts macht	NA
+189	!5492072.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Andere Verlage auf der Buch-Messe sagen nun:
+Wenn die Leitung von der Buch-Messe in Leipzig nichts macht,
+dann unternehmen wir selber etwas gegen die rechten Verlage"	Die anderen Verlage haben eine Gruppe gegründet	NA
+190	!5492072.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die anderen Verlage haben eine Gruppe gegründet	Diese Gruppe heißt „Verlage gegen Rechts	NA
+191	!5492072.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Diese Gruppe heißt „Verlage gegen Rechts	Die Gruppe bietet auf der Buch-Messe viele Veranstaltungen an	NA
+192	!5492072.txt	Explicit	Damit	NA	Expansion.Manner.Arg1-as-manner	NA	NA	NA	NA	Zum Beispiel Veranstaltungen zum Thema Rassismus	Die Gruppe bietet auf der Buch-Messe viele Veranstaltungen an	"zeigt die Gruppe:
+Wir sind gegen rechte Hetze.
+Wir sind gegen rechte Verlage auf der Buch-Messe"	NA
+193	!5492072.txt	Implicit	NA	also	Contingency.Cause.Result	NA	unter anderem	Expansion.Instantiation.Arg2-as-instance	NA	NA	Wir sind gegen rechte Hetze	Wir sind gegen rechte Verlage auf der Buch-Messe	NA
+194	!5492072.txt	AltLex	Wir sind gegen...Wir sind gegen	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Wir sind gegen rechte Hetze	Wir sind gegen rechte Verlage auf der Buch-Messe	NA
+195	!5486636.txt	Explicit	weil	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Kranke sterben oft	Medikamente nicht wirken	NA
+196	!5486636.txt	Explicit	Ein Grund	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	weil Medikamente nicht wirken	Ein Grund sind bestimmte Keime	NA
+197	!5486636.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Ein Grund sind bestimmte Keime	Auf der Welt gibt es sehr viele Keime	NA
+198	!5486636.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Auf der Welt gibt es sehr viele Keime	Was sind Keime	NA
+199	!5486636.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was sind Keime	Keime sind Krankheits-Erreger	NA
+200	!5486636.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Keime sind Krankheits-Erreger	Keime sieht man nicht mit dem bloßen Auge	NA
+201	!5486636.txt	Implicit	NA	zwar ... aber ...	Comparison.Concession.Arg2-as-denier	NA	und	Expansion.Conjunction	NA	NA	Keime sieht man nicht mit dem bloßen Auge	Keime sind in der Luft und im Wasser	NA
+202	!5486636.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	und	Expansion.Conjunction	NA	NA	Keime sind in der Luft und im Wasser	Keime können Menschen krank machen	Zum Beispiel, wenn die Keime in eine Wunde gelangen
+203	!5486636.txt	Implicit	NA	jedoch	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	Zum Beispiel, wenn die Keime in eine Wunde gelangen	Keime können Menschen krank machen	Keime können mit Medikamenten behandelt werden	NA
+204	!5486636.txt	AltLex	Ein...Problem	NA	Comparison.Concession.Arg2-as-denier	Expansion.Exception.Arg2-as-excpt	NA	NA	NA	Diese Medikamente heißen: Antibiotika	Keime können mit Medikamenten behandelt werden	"Ein großes Problem ist:
+Es gibt immer mehr Keime,
+bei denen Antibiotika nicht wirken"	NA
+205	!5486636.txt	Explicit	dann	NA	Contingency.Condition.Arg2-as-cond	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	"Es gibt immer mehr Keime,
+bei denen Antibiotika nicht wirken"	Man sagt...Diese Keime sind resistent	NA
+206	!5486636.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NONE	Expansion.Conjunction	NA	NA	"Man sagt dann:
+Diese Keime sind resistent"	Die Keime sind widerstandsfähig gegen Antibiotika	NA
+207	!5486636.txt	Implicit	NA	aber	Comparison.Contrast	NA	deshalb	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	Die Keime sind widerstandsfähig gegen Antibiotika	Warum gibt es immer mehr widerstandsfähige Keime	NA
+208	!5486636.txt	NoRel	NA	NA	NA	NA	NA	NA	NA	NA	Warum gibt es immer mehr widerstandsfähige Keime	Warum wirken die Antibiotika nicht	NA
+209	!5486636.txt	AltLex	Ein Grund dafür	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Warum wirken die Antibiotika nicht	"Ein Grund dafür ist:
+Deutsche Ärzte verschreiben große Mengen
+Antibiotika an kranke Menschen"	NA
+210	!5486636.txt	Explicit	deshalb	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Deutsche Ärzte verschreiben große Mengen
+Antibiotika an kranke Menschen"	Die Keime sind...immer öfter Antibiotika ausgesetzt	NA
+211	!5486636.txt	Implicit	NA	dadurch	Contingency.Cause.Result	NA	NA	NA	NA	NA	Die Keime sind deshalb immer öfter Antibiotika ausgesetzt	Die Keime gewöhnen sich an diese Antibiotika	NA
+212	!5486636.txt	Explicit	Und	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Die Keime gewöhnen sich an diese Antibiotika	die Keime entwickeln Abwehr-Kräfte gegen diese Antibiotika	NA
+213	!5486636.txt	AltLex	Die Folge davon	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Und die Keime entwickeln Abwehr-Kräfte gegen diese Antibiotika	"Die Folge davon ist:
+Antibiotika helfen nicht mehr gegen diese Keime"	NA
+214	!5486636.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Antibiotika helfen nicht mehr gegen diese Keime	Antibiotika heilen kranke Menschen nicht mehr	NA
+215	!5486636.txt	AltLex	An widerstandsfähigen Keimen	NA	Contingency.Cause.Result	NA	NA	NA	NA	Antibiotika helfen nicht mehr gegen diese Keime	Antibiotika heilen kranke Menschen nicht mehr	"An widerstandsfähigen Keimen sterben
+jedes Jahr 15.000 Menschen in Deutschland"	NA
+216	!5486636.txt	AltLex	Ein großes Problem ist...Ein weiteres Problem ist	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	"Ein großes Problem ist:
+Es gibt immer mehr Keime,
+bei denen Antibiotika nicht wirken"	"Ein weiteres Problem ist:
+Widerstandsfähige Keime verbreiten sich schnell"	NA
+217	!5486636.txt	Implicit	NA	genauer gesagt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Widerstandsfähige Keime verbreiten sich schnell	Sie verbreiten sich schnell in der Umwelt	NA
+218	!5486636.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Sie verbreiten sich schnell in der Umwelt	Kranke Menschen geben diese Keime weiter	NA
+219	!5486636.txt	Explicit	Und auch	NA	Expansion.Conjunction	Comparison.Similarity	NA	NA	NA	NA	Kranke Menschen geben diese Keime weiter	Tiere geben widerstandsfähige Keime weiter	NA
+220	!5486636.txt	Implicit	NA	aber	Comparison.Contrast	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	Und auch Tiere geben widerstandsfähige Keime weiter	Wie geben Tiere widerstandsfähige Keime weiter	NA
+221	!5486636.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Wie geben Tiere widerstandsfähige Keime weiter	"Rinder, Schweine und Hühner bekommen
+auf Bauern-Höfen oft Antibiotika.
+Zum Beispiel gegen Krankheiten oder damit sie schneller wachsen.
+Die Tiere entwickeln mit der Zeit
+ebenfalls widerstandsfähige Keime.
+Über die Tier-Ausscheidungen gelangen die Keime in die Gülle.
+Die Gülle wird zum Düngen der Felder benutzt.
+Die Gülle wird dort vom Regen in Gewässer geleitet.
+Zum Beispiel in Flüsse und Seen"	NA
+222	!5486636.txt	AltLex	mit der Zeit	NA	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	Zum Beispiel gegen Krankheiten oder damit sie schneller wachsen	"Rinder, Schweine und Hühner bekommen
+auf Bauern-Höfen oft Antibiotika"	"Die Tiere entwickeln mit der Zeit
+ebenfalls widerstandsfähige Keime"	NA
+223	!5486636.txt	Implicit	NA	anschließend	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	"Die Tiere entwickeln mit der Zeit
+ebenfalls widerstandsfähige Keime"	Über die Tier-Ausscheidungen gelangen die Keime in die Gülle	NA
+224	!5486636.txt	Implicit	NA	anschließend	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Über die Tier-Ausscheidungen gelangen die Keime in die Gülle	Die Gülle wird zum Düngen der Felder benutzt	NA
+225	!5486636.txt	Implicit	NA	anschließend	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Die Gülle wird zum Düngen der Felder benutzt	Die Gülle wird dort vom Regen in Gewässer geleitet	Zum Beispiel in Flüsse und Seen
+226	!5486636.txt	Implicit	NA	in der Tat	Expansion.Instantiation.Arg2-as-instance	Contingency.Cause+Belief.Reason+Belief	NA	NA	NA	Zum Beispiel in Flüsse und Seen	Die Gülle wird dort vom Regen in Gewässer geleitet	"Der Fernsehsender NDR hat herausgefunden:
+In vielen deutschen Gewässern
+gibt es widerstandsfähige Keime"	NA
+227	!5498501.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	Zu viel Zucker kann uns krank machen	Kann eine Zucker-Steuer helfen	NA
+228	!5498501.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Kann eine Zucker-Steuer helfen	In vielen Getränken ist viel Zucker	NA
+229	!5498501.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	trotzdem	Comparison.Concession.Arg1-as-denier	NA	zum Beispiel in Coca-Cola	In vielen Getränken ist viel Zucker	Viele Menschen trinken gern Getränke wie Coca-Cola	NA
+230	!5498501.txt	Explicit	Aber	NA	Comparison.Contrast	NA	NA	NA	NA	NA	Viele Menschen trinken gern Getränke wie Coca-Cola	"was passiert,
+wenn Menschen zu viel Zucker essen oder trinken"	NA
+231	!5498501.txt	Explicit	wenn	NA	Contingency.Condition.Arg2-as-cond	NA	NA	NA	NA	NA	Aber was passiert	Menschen zu viel Zucker essen oder trinken	NA
+232	!5498501.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	"Aber was passiert,
+wenn Menschen zu viel Zucker essen oder trinken"	Sie können krank werden	NA
+233	!5498501.txt	Explicit	zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Sie können krank werden	Sie können...Übergewicht bekommen	NA
+234	!5498501.txt	Explicit	Oder	NA	Expansion.Disjunction	NA	NA	NA	NA	NA	Sie können zum Beispiel Übergewicht bekommen	sie können die Krankheit Diabetes bekommen	NA
+235	!5498501.txt	Implicit	NA	deshalb	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	Oder sie können die Krankheit Diabetes bekommen	"Die Regierung im Land Großbritannien will verhindern,
+dass Menschen durch Zucker krank werden"	NA
+236	!5498501.txt	Explicit	Deshalb	NA	Contingency.Purpose.Arg1-as-goal	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	"Die Regierung im Land Großbritannien will verhindern,
+dass Menschen durch Zucker krank werden"	hat sie ein Gesetz gemacht	NA
+237	!5498501.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Deshalb hat sie ein Gesetz gemacht	"Das Gesetz bestimmt,
+dass es eine Zucker-Steuer für Getränke geben soll"	NA
+238	!5498501.txt	AltLex	Das bedeutet	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Das Gesetz bestimmt,
+dass es eine Zucker-Steuer für Getränke geben soll"	"Das bedeutet:
+Getränke mit viel Zucker sind jetzt teurer"	NA
+239	!5498501.txt	Implicit	NA	weil	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Getränke mit viel Zucker sind jetzt teurer	"Die Regierung in Großbritannien hofft:
+Wenn diese Getränke teurer sind,
+kaufen sich die Menschen weniger von diesen Getränken"	NA
+240	!5498501.txt	Explicit	Wenn	NA	Contingency.Condition.Arg2-as-cond	NA	NA	NA	NA	NA	kaufen sich die Menschen weniger von diesen Getränken	diese Getränke teurer sind	NA
+241	!5498501.txt	Explicit	Oder	NA	Expansion.Disjunction	NA	NA	NA	NA	NA	kaufen sich die Menschen weniger von diesen Getränken	"Getränke-Hersteller wie Coca-Cola verwenden
+weniger Zucker bei der Herstellung der Getränke"	NA
+242	!5498501.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	aber	Comparison.Contrast	NA	NA	"Die Regierung im Land Großbritannien will verhindern,
+dass Menschen durch Zucker krank werden.
+Deshalb hat sie ein Gesetz gemacht.
+Das Gesetz bestimmt,
+dass es eine Zucker-Steuer für Getränke geben soll.
+Das bedeutet:
+Getränke mit viel Zucker sind jetzt teurer.
+Die Regierung in Großbritannien hofft:
+Wenn diese Getränke teurer sind,
+kaufen sich die Menschen weniger von diesen Getränken.
+Oder Getränke-Hersteller wie Coca-Cola verwenden
+weniger Zucker bei der Herstellung der Getränke"	Wie ist das in Deutschland geregelt	NA
+243	!5498501.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Wie ist das in Deutschland geregelt	In Deutschland gibt es keine Zucker-Steuer	NA
+244	!5498501.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	In Deutschland gibt es keine Zucker-Steuer	warum nicht	NA
+245	!5498501.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	"In Deutschland gibt es keine Zucker-Steuer.
+Aber warum nicht"	"Die Regierung in Deutschland sagt:
+Getränke-Hersteller sollen freiwillig weniger Zucker verwenden.
+Auch Coca-Cola soll freiwillig weniger Zucker verwenden.
+Es soll kein Gesetz dafür geben"	NA
+246	!5498501.txt	Explicit	Auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Getränke-Hersteller sollen freiwillig weniger Zucker verwenden	Coca-Cola soll freiwillig weniger Zucker verwenden	NA
+247	!5498501.txt	Implicit	NA	also	Contingency.Cause.Result	NA	NA	NA	NA	NA	Auch Coca-Cola soll freiwillig weniger Zucker verwenden	Es soll kein Gesetz dafür geben	NA
+248	!5498501.txt	Explicit	Aber	NA	Comparison.Concession.Arg1-as-denier	NA	NA	NA	NA	NA	Es soll kein Gesetz dafür geben	"auch in Deutschland essen und trinken
+die Menschen zu viel Zucker"	NA
+249	!5498501.txt	Explicit	auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	"Die Regierung in Großbritannien hofft:
+Wenn diese Getränke teurer sind,
+kaufen sich die Menschen weniger von diesen Getränken"	"Aber...in Deutschland essen und trinken
+die Menschen zu viel Zucker"	NA
+250	!5498501.txt	Explicit	Auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	"Die Regierung im Land Großbritannien will verhindern,
+dass Menschen durch Zucker krank werden"	hier werden Menschen dadurch krank	NA
+251	!5498501.txt	Explicit	dadurch	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Aber auch in Deutschland essen und trinken
+die Menschen zu viel Zucker"	Auch hier werden Menschen...krank	NA
+252	!5498501.txt	Implicit	NA	aber	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Auch hier werden Menschen dadurch krank	Ein Gesetz kann das vielleicht ändern	NA
+253	!5498501.txt	Explicit	aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Ein Gesetz kann das vielleicht ändern	Es gibt...auch andere Möglichkeiten	NA
+254	!5498501.txt	Explicit	auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	Ein Gesetz kann das vielleicht ändern	Es gibt aber...andere Möglichkeiten	NA
+255	!5498501.txt	Implicit	NA	zum Beispiel	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Es gibt aber auch andere Möglichkeiten	Die Regierung kann auch für bessere Informationen sorgen	NA
+256	!5498501.txt	Explicit	auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	Ein Gesetz kann das vielleicht ändern	Die Regierung kann...für bessere Informationen sorgen	NA
+257	!5498501.txt	Implicit	NA	so	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Die Regierung kann auch für bessere Informationen sorgen	"Sie kann dafür sorgen,
+dass die Menschen genau wissen:
+• Wie viel Zucker ist in Getränken wie Coca-Cola?
+• Wie viel Zucker darf man am Tag essen oder trinken?
+• Was ist gesunde Ernährung?
+• Was sind die Folgen von ungesunder Ernährung"	NA
+258	!5498501.txt	AltLex	Wie viel Zucker	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Wie viel Zucker ist in Getränken wie Coca-Cola	Wie viel Zucker darf man am Tag essen oder trinken	NA
+259	!5498501.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Wie viel Zucker darf man am Tag essen oder trinken	Was ist gesunde Ernährung	NA
+260	!5498501.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Was ist gesunde Ernährung	Was sind die Folgen von ungesunder Ernährung	NA
+261	!5498501.txt	Explicit	Denn	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Sie kann dafür sorgen,
+dass die Menschen genau wissen:
+• Wie viel Zucker ist in Getränken wie Coca-Cola?
+• Wie viel Zucker darf man am Tag essen oder trinken?
+• Was ist gesunde Ernährung?
+• Was sind die Folgen von ungesunder Ernährung"	"die meisten Menschen kennen nicht
+die richtigen Antworten auf diese Fragen"	NA
+262	!5498501.txt	NoRel	NA	NA	NA	NA	NA	NA	NA	NA	"Denn die meisten Menschen kennen nicht
+die richtigen Antworten auf diese Fragen"	Gibt es eine andere Wahl als Zucker in Getränken	NA
+263	!5498501.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Gibt es eine andere Wahl als Zucker in Getränken	"Getränke können auch ohne Zucker süß schmecken.
+Aber wie geht das?
+Getränke-Firmen können auch Süß-Stoffe verwenden"	NA
+264	!5498501.txt	Explicit	Aber	NA	Comparison.Contrast	NA	NA	NA	NA	NA	Getränke können auch ohne Zucker süß schmecken	wie geht das	NA
+265	!5498501.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Aber wie geht das	Getränke-Firmen können auch Süß-Stoffe verwenden	NA
+266	!5498501.txt	Explicit	auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Getränke können auch ohne Zucker süß schmecken	Getränke-Firmen können...Süß-Stoffe verwenden	NA
+267	!5498501.txt	Explicit	zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Getränke-Firmen können auch Süß-Stoffe verwenden	Coca-Cola...verwendet auch Süß-Stoffe für Getränke	NA
+268	!5498501.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Coca-Cola zum Beispiel verwendet auch Süß-Stoffe für Getränke	Süß-Stoffe schmecken oft sogar süßer als Zucker	NA
+269	!5498501.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Süß-Stoffe schmecken oft sogar süßer als Zucker	auch Süß-Stoffe können schädlich sein	NA
+270	!5498501.txt	Explicit	auch	NA	Comparison.Similarity	NA	NA	NA	NA	"Aber auch in Deutschland essen und trinken
+die Menschen zu viel Zucker"	Auch hier werden Menschen dadurch krank	Aber...Süß-Stoffe können schädlich sein	NA
+271	!5498501.txt	Explicit	Denn	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Aber auch Süß-Stoffe können schädlich sein	Süß-Stoffe täuschen dem Körper etwas vor	NA
+272	!5498501.txt	Implicit	NA	nämlich	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Denn Süß-Stoffe täuschen dem Körper etwas vor	"Durch die Süß-Stoffe glaubt der Körper:
+Jetzt gibt es etwas Süßes mit vielen Kalorien"	NA
+273	!5498501.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Jetzt gibt es etwas Süßes mit vielen Kalorien	Zucker hat viele Kalorien	NA
+274	!5498501.txt	Explicit	Aber	NA	Comparison.Contrast	NA	NA	NA	NA	NA	Zucker hat viele Kalorien	Süß-Stoffe haben fast keine Kalorien	NA
+275	!5498501.txt	Explicit	Wenn	NA	Contingency.Condition.Arg2-as-cond	NA	NA	NA	NA	NA	will der Körper die Kalorien von woanders	der Körper nur noch Getränke mit Süß-Stoff bekommt	NA
+276	!5498501.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Aber Süß-Stoffe haben fast keine Kalorien	"Wenn der Körper nur noch Getränke mit Süß-Stoff bekommt,
+will der Körper die Kalorien von woanders"	NA
+277	!5498501.txt	Explicit	dann	NA	Contingency.Condition.Arg1-as-cond	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	"Wenn der Körper nur noch Getränke mit Süß-Stoff bekommt,
+will der Körper die Kalorien von woanders"	Der Körper will...zum Beispiel Süßigkeiten	NA
+278	!5498501.txt	Explicit	zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	"Wenn der Körper nur noch Getränke mit Süß-Stoff bekommt,
+will der Körper die Kalorien von woanders"	Der Körper will dann...Süßigkeiten	NA
+279	!5498501.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Der Körper will dann zum Beispiel Süßigkeiten	zu viele Süßigkeiten sind ungesund	NA
+280	!5498501.txt	Explicit	Deshalb	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Und zu viele Süßigkeiten sind ungesund	"sollte man süße Nahrungsmittel und süße Getränke
+nicht zu oft und nicht zu viel essen und trinken"	NA
+281	!5498501.txt	Explicit	Dabei	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	"Deshalb sollte man süße Nahrungsmittel und süße Getränke
+nicht zu oft und nicht zu viel essen und trinken"	"ist es egal, ob bei diesen Nahrungsmitteln und Getränken
+Zucker oder Süß-Stoffe verwendet wurde"	NA
+282	!5495125.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Hühner sind wichtig für die Lebensmittel-Industrie	sie werden oft sehr schlecht behandelt	NA
+283	!5495125.txt	NoRel	NA	NA	NA	NA	NA	NA	NA	NA	Aber sie werden oft sehr schlecht behandelt	In vielen Lebensmitteln sind Eier	NA
+284	!5495125.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	doch	Comparison.Contrast	NA	Zum Beispiel in Nudeln	In vielen Lebensmitteln sind Eier	Wo kommen diese Eier her	NA
+285	!5495125.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Wo kommen diese Eier her	Sie kommen meistens von Hühnern auf sehr großen Bauernhöfen	NA
+286	!5495125.txt	Implicit	NA	Das heißt	Expansion.Level-of-detail.Arg2-as-detail	Contingency.Cause.Result	dennoch	Comparison.Concession.Arg2-as-denier	NA	NA	Sie kommen meistens von Hühnern auf sehr großen Bauernhöfen	Oft leben dort viele Hühner zusammen in einem Stall	NA
+287	!5495125.txt	AltLex	Oft leben...dort	NA	Expansion.Conjunction	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Oft leben dort viele Hühner zusammen in einem Stall	Oft leben die Hühner dort in Gruppen in sehr kleinen Käfigen	NA
+288	!5495125.txt	Implicit	NA	aber	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Oft leben die Hühner dort in Gruppen in sehr kleinen Käfigen	In Deutschland gibt es sehr wenig Käfig-Haltung	NA
+289	!5495125.txt	Explicit	trotzdem	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	In Deutschland gibt es sehr wenig Käfig-Haltung	Wie kommen die Eier aus Käfig-Haltung...in die Lebensmittel in deutschen Supermärkten	NA
+290	!5495125.txt	AltLex	Ein Grund	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Wie kommen die Eier aus Käfig-Haltung
+trotzdem in die Lebensmittel in deutschen Supermärkten"	"Ein Grund ist:
+In anderen Ländern gibt es viel mehr Käfig-Haltung"	NA
+291	!5495125.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	"Wie kommen die Eier aus Käfig-Haltung
+trotzdem in die Lebensmittel in deutschen Supermärkten"	"Ein Grund ist:
+In anderen Ländern gibt es viel mehr Käfig-Haltung.
+Und Eier von Hühnern aus Käfig-Haltung sind billig.
+Einige deutsche Hersteller kaufen deshalb Eier aus Käfig-Haltung"	NA
+292	!5495125.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	In anderen Ländern gibt es viel mehr Käfig-Haltung	Eier von Hühnern aus Käfig-Haltung sind billig	NA
+293	!5495125.txt	Explicit	deshalb	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Und Eier von Hühnern aus Käfig-Haltung sind billig	Einige deutsche Hersteller kaufen...Eier aus Käfig-Haltung	Zum Beispiel Hersteller von Nudel-Produkten
+294	!5495125.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Einige deutsche Hersteller kaufen deshalb Eier aus Käfig-Haltung	Birkel“ und „3 Glocken“ sind zwei deutsche Nudel-Hersteller	NA
+295	!5495125.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Birkel“ und „3 Glocken“ sind zwei deutsche Nudel-Hersteller	"Die beiden Nudel-Hersteller sagen:
+Wir verwenden Eier von frei laufenden Hühnern.
+Den Hühnern geht es gut"	NA
+296	!5495125.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Wir verwenden Eier von frei laufenden Hühnern	Den Hühnern geht es gut	NA
+297	!5495125.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Die beiden Nudel-Hersteller sagen:
+Wir verwenden Eier von frei laufenden Hühnern.
+Den Hühnern geht es gut"	"Viele Käufer von Lebensmitteln finden es wichtig,
+dass es den Hühnern gut geht"	NA
+298	!5495125.txt	Implicit	NA	das heißt	Contingency.Cause.Result	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	"Viele Käufer von Lebensmitteln finden es wichtig,
+dass es den Hühnern gut geht"	"Viele Käufer wollen,
+• dass die Hühner genug Platz haben"	NA
+299	!5495125.txt	AltLex	dass die Hühner	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	dass die Hühner genug Platz haben	dass die Hühner das richtige Futter bekommen	NA
+300	!5495125.txt	Implicit	NA	entsprechend	Comparison.Similarity	Contingency.Cause.Result	NA	NA	NA	Das nennt man auch: art-gerechte Haltung	"Viele Käufer wollen,
+• dass die Hühner genug Platz haben,
+• dass die Hühner das richtige Futter bekommen"	In Europa gibt es Regeln für eine art-gerechte Haltung	NA
+301	!5495125.txt	Explicit	jetzt	NA	Temporal.Asynchronous.Precedence	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	"Die beiden Nudel-Hersteller sagen:
+Wir verwenden Eier von frei laufenden Hühnern.
+Den Hühnern geht es gut"	"Der Tierschutz-Verein „Peta“ hat...herausgefunden:
+Es ist falsch, was die Nudel-Hersteller sagen"	NA
+302	!5495125.txt	AltLex	Es ist falsch, was...Es ist falsch, was	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Es ist falsch, was die Nudel-Hersteller sagen	Es ist falsch, was „Birkel“ und „3 Glocken“ sagen	NA
+303	!5495125.txt	Implicit	NA	nämlich	Contingency.Cause+Belief.Reason+Belief	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Es ist falsch, was „Birkel“ und „3 Glocken“ sagen	"Der Tierschutz-Verein „Peta“ sagt:
+„Birkel“ und „3 Glocken“ benutzen nicht nur
+Eier von frei laufenden Hühnern"	NA
+304	!5495125.txt	Explicit	nicht nur...auch	NA	Expansion.Substitution.Arg2-as-subst	NA	NA	NA	NA	NA	Birkel“ und „3 Glocken“ benutzen...Eier von frei laufenden Hühnern	Sie benutzen für ihre Produkte...Eier aus Käfig-Haltung	NA
+305	!5495125.txt	AltLex	Sie benutzen	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Sie benutzen für ihre Produkte auch Eier aus Käfig-Haltung	Sie benutzen Eier von Bauern in den Niederlanden und in Polen	NA
+306	!5495125.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Sie benutzen Eier von Bauern in den Niederlanden und in Polen	Peta“ hat sich diese Bauernhöfe angesehen	NA
+307	!5495125.txt	Implicit	NA	anschließend	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Peta“ hat sich diese Bauernhöfe angesehen	"Peta“ sagt:
+Den Hühnern geht es dort nicht gut.
+Einige Hühner liegen tot herum.
+Einige Hühner haben offene Wunden.
+Einige Hühner haben zu wenig zu trinken.
+Die Hühner können nicht auf dem Boden scharren und picken.
+Die Hühner haben zu wenig Platz in den Käfigen.
+Das ist keine art-gerechte Haltung"	NA
+308	!5495125.txt	AltLex	Einige Hühner	NA	Expansion.Instantiation.Arg2-as-instance	Contingency.Cause+Belief.Reason+Belief	NA	NA	NA	NA	Den Hühnern geht es dort nicht gut	Einige Hühner liegen tot herum	NA
+309	!5495125.txt	AltLex	Einige Hühner	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Einige Hühner liegen tot herum	Einige Hühner haben offene Wunden	NA
+310	!5495125.txt	AltLex	Einige Hühner	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Einige Hühner haben offene Wunden	Einige Hühner haben zu wenig zu trinken	NA
+311	!5495125.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Einige Hühner haben zu wenig zu trinken	Die Hühner können nicht auf dem Boden scharren und picken	NA
+312	!5495125.txt	AltLex	Die Hühner	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Die Hühner können nicht auf dem Boden scharren und picken	Die Hühner haben zu wenig Platz in den Käfigen	NA
+313	!5495125.txt	Implicit	NA	insgesamt	Expansion.Level-of-detail.Arg1-as-detail	Contingency.Cause+Belief.Result+Belief	NA	NA	NA	NA	"Einige Hühner liegen tot herum.
+Einige Hühner haben offene Wunden.
+Einige Hühner haben zu wenig zu trinken.
+Die Hühner können nicht auf dem Boden scharren und picken.
+Die Hühner haben zu wenig Platz in den Käfigen"	Das ist keine art-gerechte Haltung	NA
+314	!5495125.txt	Implicit	NA	deshalb	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	Das ist keine art-gerechte Haltung	Der Tierschutz-Verein „Peta“ will dagegen kämpfen	NA
+315	!5495125.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Der Tierschutz-Verein „Peta“ will dagegen kämpfen	Peta“ will die Misshandlung von Hühnern stoppen	NA
+316	!5495125.txt	Explicit	deshalb	NA	Contingency.Purpose.Arg1-as-goal	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	Peta“ will die Misshandlung von Hühnern stoppen	"Peta“ hat...Bilder
+von den betroffenen Bauernhöfen veröffentlicht"	NA
+317	!5495125.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	"Peta“ hat deshalb Bilder
+von den betroffenen Bauernhöfen veröffentlicht"	Peta“ hat eine Aktion gestartet	NA
+318	!5495125.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Und „Peta“ hat eine Aktion gestartet	Die Aktion heißt: „Mach dich eifrei	NA
+319	!5495125.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Aktion heißt: „Mach dich eifrei	"Bei der Aktion zeigt „Peta“:
+• dass wir keine Eier zum Leben brauchen
+• und wodurch wir Eier in Lebensmitteln ersetzen können"	NA
+320	!5495125.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Bei der Aktion zeigt „Peta“:
+• dass wir keine Eier zum Leben brauchen
+• und wodurch wir Eier in Lebensmitteln ersetzen können"	"Peta“ sagt:
+Wenn die Menschen keine Eier mehr essen,
+dann werden dafür keine Hühner mehr gequält"	NA
+321	!5495125.txt	Explicit	Wenn...dann	NA	Contingency.Condition.Arg2-as-cond	NA	NA	NA	NA	NA	werden dafür keine Hühner mehr gequält	die Menschen keine Eier mehr essen	NA
+322	!5532612.txt	Implicit	NA	dann	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	An vielen Schulen in Deutschland fehlen Lehrer	Sie werden oft durch Quer-Einsteiger ersetzt	NA
+323	!5532612.txt	Implicit	NA	doch	Comparison.Contrast	NA	NA	NA	NA	NA	Sie werden oft durch Quer-Einsteiger ersetzt	Ist das gut	NA
+324	!5532612.txt	NoRel	NA	NA	NA	NA	NA	NA	NA	NA	Ist das gut	Schulen in Deutschland haben ein Problem	NA
+325	!5532612.txt	Implicit	NA	nämlich	Contingency.Cause.Reason	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Schulen in Deutschland haben ein Problem	Sie haben zu wenige Lehrer	NA
+326	!5532612.txt	Implicit	NA	genauer gesagt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Sie haben zu wenige Lehrer	In Deutschland fehlen ungefähr 40 Tausend Lehrer	NA
+327	!5532612.txt	AltLex	Ein Grund	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	In Deutschland fehlen ungefähr 40 Tausend Lehrer	"Ein Grund für den Lehrer-Mangel ist,
+dass zu wenige Menschen eine Ausbildung zum Lehrer machen"	NA
+328	!5532612.txt	AltLex	Ein Grund für den Lehrer-Mangel	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	In Deutschland fehlen ungefähr 40 Tausend Lehrer	"Ein Grund für den Lehrer-Mangel ist,
+dass zu wenige Menschen eine Ausbildung zum Lehrer machen"	NA
+329	!5532612.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Ein Grund für den Lehrer-Mangel ist,
+dass zu wenige Menschen eine Ausbildung zum Lehrer machen"	Schulen haben verschiedene Lösungen für den Lehrer-Mangel	NA
+330	!5532612.txt	Explicit	Zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Schulen haben verschiedene Lösungen für den Lehrer-Mangel	Es gibt weniger Unterricht für die Schüler	NA
+331	!5532612.txt	Implicit	NA	oder	Expansion.Disjunction	NA	NA	NA	NA	NA	Es gibt weniger Unterricht für die Schüler	Es gibt größere Schul-Klassen	NA
+332	!5532612.txt	Implicit	NA	oder	Expansion.Disjunction	NA	NA	NA	NA	NA	Es gibt größere Schul-Klassen	"Es unterrichten wieder Lehrer,
+die bereits in Rente waren"	NA
+333	!5532612.txt	Implicit	NA	oder	Expansion.Disjunction	NA	NA	NA	NA	NA	"Es unterrichten wieder Lehrer,
+die bereits in Rente waren"	"Es unterrichten angehende Lehrer,
+die noch keinen Berufs-Abschluss haben"	NA
+334	!5532612.txt	Explicit	auch	NA	Comparison.Similarity	Expansion.Conjunction	NA	NA	NA	Schulen stellen Quer-Einsteiger als Lehrer ein	"Es unterrichten angehende Lehrer,
+die noch keinen Berufs-Abschluss haben"	Oft wird...diese Lösung ausprobiert	NA
+335	!5532612.txt	Implicit	NA	obwohl	Comparison.Concession.Arg1-as-denier	NA	NA	NA	NA	NA	Schulen stellen Quer-Einsteiger als Lehrer ein	Quer-Einsteiger haben den Lehrer-Beruf nicht studiert	NA
+336	!5532612.txt	Implicit	NA	stattdessen	Expansion.Substitution.Arg2-as-subst	NA	NA	NA	NA	NA	Quer-Einsteiger haben den Lehrer-Beruf nicht studiert	Sie haben nur ein Fach studiert	zum Beispiel Geschichte, Deutsch oder Mathe
+337	!5532612.txt	Explicit	aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	zum Beispiel Geschichte, Deutsch oder Mathe	Sie haben nur ein Fach studiert	Sie haben...nicht gelernt,	NA
+338	!5532612.txt	AltLex	Sie haben...nicht gelernt	NA	Comparison.Similarity	NA	NA	NA	NA	NA	"Sie haben aber nicht gelernt,
+wie man Kinder und Jugendliche unterrichtet"	"Sie haben nicht gelernt,
+wie man anderen etwas beibringt"	NA
+339	!5532612.txt	Explicit	deshalb	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Sie haben nicht gelernt,
+wie man anderen etwas beibringt"	Viele Quer-Einsteiger machen...eine Weiter-Bildung	NA
+340	!5532612.txt	Implicit	NA	das heißt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Viele Quer-Einsteiger machen deshalb eine Weiter-Bildung	Sie lernen hier den Lehrer-Beruf	NA
+341	!5532612.txt	AltLex	Sie lernen...Sie lernen	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Sie lernen hier den Lehrer-Beruf	"Sie lernen,
+zu unterrichten und richtig mit Kindern
+und Jugendlichen umzugehen"	NA
+342	!5532612.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Sie lernen,
+zu unterrichten und richtig mit Kindern
+und Jugendlichen umzugehen"	Es gibt unterschiedliche Meinungen zu Quer-Einsteigern	NA
+343	!5532612.txt	AltLex	Einige Menschen	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Es gibt unterschiedliche Meinungen zu Quer-Einsteigern	"Einige Menschen finden:
+Quer-Einsteiger sind toll für den Lehrer-Beruf.
+Sie haben vielleicht schon woanders gearbeitet.
+Sie haben vielleicht einen praktischen Blick auf ihre Fächer.
+Sie bringen andere Erfahrungen mit als die anderen Lehrer.
+Aber:
+Die Politik muss sich darum kümmern,
+dass die Quer-Einsteiger
+eine gute pädagogische Ausbildung bekommen"	NA
+344	!5532612.txt	Implicit	NA	denn	Contingency.Cause+Belief.Reason+Belief	NA	NA	NA	NA	NA	Quer-Einsteiger sind toll für den Lehrer-Beruf	"Sie haben vielleicht schon woanders gearbeitet.
+Sie haben vielleicht einen praktischen Blick auf ihre Fächer.
+Sie bringen andere Erfahrungen mit als die anderen Lehrer"	NA
+345	!5532612.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Sie haben vielleicht schon woanders gearbeitet	Sie haben vielleicht einen praktischen Blick auf ihre Fächer	NA
+346	!5532612.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Sie haben vielleicht einen praktischen Blick auf ihre Fächer	Sie bringen andere Erfahrungen mit als die anderen Lehrer	NA
+347	!5532612.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Quer-Einsteiger sind toll für den Lehrer-Beruf	"Die Politik muss sich darum kümmern,
+dass die Quer-Einsteiger
+eine gute pädagogische Ausbildung bekommen"	NA
+348	!5532612.txt	Explicit	aber	NA	Comparison.Contrast	NA	NA	NA	NA	"Sie haben vielleicht schon woanders gearbeitet.
+Sie haben vielleicht einen praktischen Blick auf ihre Fächer.
+Sie bringen andere Erfahrungen mit als die anderen Lehrer.
+Aber:
+Die Politik muss sich darum kümmern,
+dass die Quer-Einsteiger
+eine gute pädagogische Ausbildung bekommen"	"Einige Menschen finden:
+Quer-Einsteiger sind toll für den Lehrer-Beruf"	"Einige Menschen finden...Quer-Einsteiger sind auf Dauer keine Lösung
+für den Lehrer-Mangel"	"In jedem Bundes-Land ist die Weiter-Bildung anders.
+Nicht jede Weiter-Bildung hat eine gute Qualität.
+Nicht immer sind Quer-Einsteiger danach für den Unterricht bereit.
+Schulen brauchen gut ausgebildete Lehrer.
+
+Außerdem werden seit ein paar Jahren
+wieder mehr Kinder in Deutschland geboren.
+In Zukunft gibt es also mehr Schüler.
+Und es werden noch mehr Lehrer gebraucht.
+Die Politik muss sich endlich kümmern.
+Sie muss den Lehrer-Beruf beliebter machen.
+Sie muss dafür sorgen,
+dass mehr Menschen eine Ausbildung zum Lehrer machen.
+Zum Beispiel durch mehr Studien-Plätze
+in der Lehrer-Ausbildung an den Universitäten.
+Und durch eine bessere Bezahlung der fertig ausgebildeten Lehrer"
+349	!5532612.txt	Implicit	NA	denn	Contingency.Cause+Belief.Reason+Belief	NA	NA	NA	NA	NA	"Quer-Einsteiger sind auf Dauer keine Lösung
+für den Lehrer-Mangel"	"In jedem Bundes-Land ist die Weiter-Bildung anders.
+Nicht jede Weiter-Bildung hat eine gute Qualität.
+Nicht immer sind Quer-Einsteiger danach für den Unterricht bereit.
+Schulen brauchen gut ausgebildete Lehrer"	NA
+350	!5532612.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	In jedem Bundes-Land ist die Weiter-Bildung anders	Nicht jede Weiter-Bildung hat eine gute Qualität	NA
+351	!5532612.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Nicht jede Weiter-Bildung hat eine gute Qualität	Nicht immer sind Quer-Einsteiger danach für den Unterricht bereit	NA
+352	!5532612.txt	Implicit	NA	aber	Comparison.Concession.Arg1-as-denier	NA	NA	NA	NA	NA	Nicht immer sind Quer-Einsteiger danach für den Unterricht bereit	Schulen brauchen gut ausgebildete Lehrer	NA
+353	!5532612.txt	Explicit	Außerdem	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	"Nicht immer sind Quer-Einsteiger danach für den Unterricht bereit.
+Schulen brauchen gut ausgebildete Lehrer"	"werden seit ein paar Jahren
+wieder mehr Kinder in Deutschland geboren.
+In Zukunft gibt es also mehr Schüler.
+Und es werden noch mehr Lehrer gebraucht"	NA
+354	!5532612.txt	AltLex	seit ein paar Jahren...In Zukunft	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	"Außerdem werden seit ein paar Jahren
+wieder mehr Kinder in Deutschland geboren"	In Zukunft gibt es also mehr Schüler	NA
+355	!5532612.txt	Explicit	also	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	"Außerdem werden seit ein paar Jahren
+wieder mehr Kinder in Deutschland geboren"	In Zukunft gibt es...mehr Schüler	NA
+356	!5532612.txt	Explicit	Und	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	In Zukunft gibt es also mehr Schüler	es werden noch mehr Lehrer gebraucht	NA
+357	!5532612.txt	Implicit	NA	deshalb	Contingency.Cause+Belief.Result+Belief	NA	NA	NA	NA	NA	Und es werden noch mehr Lehrer gebraucht	Die Politik muss sich endlich kümmern	NA
+358	!5532612.txt	Implicit	NA	indem	Expansion.Manner.Arg2-as-manner	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Die Politik muss sich endlich kümmern	Sie muss den Lehrer-Beruf beliebter machen	NA
+359	!5532612.txt	AltLex	Sie muss...Sie muss	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Sie muss den Lehrer-Beruf beliebter machen	"Sie muss dafür sorgen,
+dass mehr Menschen eine Ausbildung zum Lehrer machen"	"Zum Beispiel durch mehr Studien-Plätze
+in der Lehrer-Ausbildung an den Universitäten.
+Und durch eine bessere Bezahlung der fertig ausgebildeten Lehrer"
+360	!5527228.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Musik spielt eine große Rolle in Berlin	Menschen mit Behinderungen wollen daran teilhaben	NA
+361	!5527228.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Menschen mit Behinderungen wollen daran teilhaben	Elektronische Musik gehört zu Berlin	NA
+362	!5527228.txt	Implicit	NA	nämlich	Contingency.Cause+Belief.Reason+Belief	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Elektronische Musik gehört zu Berlin	"Bei vielen Partys in Berlin läuft elektronische Musik.
+Viele Menschen tanzen gern zu elektronischer Musik.
+Und viele Menschen machen selbst elektronische Musik"	NA
+363	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Bei vielen Partys in Berlin läuft elektronische Musik	Viele Menschen tanzen gern zu elektronischer Musik	NA
+364	!5527228.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Viele Menschen tanzen gern zu elektronischer Musik	viele Menschen machen selbst elektronische Musik	NA
+365	!5527228.txt	Implicit	NA	genauer gesagt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Und viele Menschen machen selbst elektronische Musik	Sie machen diese Musik in ihrer Freizeit oder als Beruf	NA
+366	!5527228.txt	Implicit	NA	auch	Comparison.Similarity	NA	NA	NA	NA	NA	Sie machen diese Musik in ihrer Freizeit oder als Beruf	Menschen mit Behinderungen wollen teilhaben	NA
+367	!5527228.txt	Explicit	auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	Und viele Menschen machen selbst elektronische Musik	Menschen mit Behinderungen machen...Musik	NA
+368	!5527228.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Menschen mit Behinderungen machen auch Musik	"für Menschen mit Behinderungen gibt es
+nur wenige Verbindungen mit elektronischer Musik"	NA
+369	!5527228.txt	AltLex	Das bedeutet	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	"Aber für Menschen mit Behinderungen gibt es
+nur wenige Verbindungen mit elektronischer Musik"	"Das bedeutet:
+Es gibt wenig Möglichkeiten zum Musik machen.
+Und bei den Partys mit elektronischer Musik
+können Menschen mit Behinderungen oft nicht mitfeiern"	NA
+370	!5527228.txt	Explicit	Und	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Es gibt wenig Möglichkeiten zum Musik machen	"bei den Partys mit elektronischer Musik
+können Menschen mit Behinderungen oft nicht mitfeiern"	NA
+371	!5527228.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	"Und bei den Partys mit elektronischer Musik
+können Menschen mit Behinderungen oft nicht mitfeiern"	Die Partys fangen oft zu spät an	NA
+372	!5527228.txt	Explicit	Dann	NA	Temporal.Synchronous	NA	NA	NA	NA	NA	Die Partys fangen oft zu spät an	gibt es keine Fahr-Dienste mehr	NA
+373	!5527228.txt	Explicit	und	NA	Contingency.Cause.Result	Expansion.Conjunction	NA	NA	NA	NA	Dann gibt es keine Fahr-Dienste mehr	die Menschen können nicht zur Party kommen	NA
+374	!5527228.txt	Explicit	auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	und die Menschen können nicht zur Party kommen	Sie können...nicht nach Hause kommen	NA
+375	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Sie können auch nicht nach Hause kommen	Das ist sehr schade	NA
+376	!5527228.txt	Implicit	NA	deshalb	Contingency.Cause.Result	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	Das ist sehr schade	Einige Menschen in Berlin wollen das ändern	NA
+377	!5527228.txt	Implicit	NA	indem	Expansion.Level-of-detail.Arg2-as-detail	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	Einige Menschen in Berlin wollen das ändern	"Sie wollen Menschen mit Behinderungen
+und elektronische Musik zusammenbringen"	NA
+378	!5527228.txt	Explicit	bereits	NA	Temporal.Asynchronous.Succession	NA	NA	NA	NA	NA	"Sie wollen Menschen mit Behinderungen
+und elektronische Musik zusammenbringen"	Welche Verbindungen gibt es	NA
+379	!5527228.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Welche Verbindungen gibt es bereits	"Der Verein Lebenshilfe will eine eigene Platten-Firma
+für Menschen mit Behinderungen gründen.
+Das ist ein großes Ziel.
+Aber zuerst fängt der Verein klein an.
+Er organisiert verschiedene Musik-Angebote
+für Menschen mit Behinderungen.
+
+Dazu gehören zum Beispiel:
+• eine Arbeits-Gruppe zum Musik machen
+• eine inklusive Party"	NA
+380	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Der Verein Lebenshilfe will eine eigene Platten-Firma
+für Menschen mit Behinderungen gründen"	Das ist ein großes Ziel	NA
+381	!5527228.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Das ist ein großes Ziel	zuerst fängt der Verein klein an	NA
+382	!5527228.txt	Explicit	zuerst	NA	Temporal.Asynchronous.Succession	NA	NA	NA	NA	"Der Verein Lebenshilfe will eine eigene Platten-Firma
+für Menschen mit Behinderungen gründen"	Das ist ein großes Ziel	Aber...fängt der Verein klein an	"Er organisiert verschiedene Musik-Angebote
+für Menschen mit Behinderungen"
+383	!5527228.txt	Implicit	NA	indem	Expansion.Manner.Arg2-as-manner	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Aber zuerst fängt der Verein klein an	"Er organisiert verschiedene Musik-Angebote
+für Menschen mit Behinderungen"	NA
+384	!5527228.txt	Explicit	zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	"Er organisiert verschiedene Musik-Angebote
+für Menschen mit Behinderungen"	"Dazu gehören...eine Arbeits-Gruppe zum Musik machen
+• eine inklusive Party"	NA
+385	!5527228.txt	Implicit	NA	also	Contingency.Cause+SpeechAct.Result+SpeechAct	NA	NA	NA	NA	NA	"Dazu gehören zum Beispiel:
+• eine Arbeits-Gruppe zum Musik machen
+• eine inklusive Party"	Was ist die Arbeits-Gruppe zum Musik machen	NA
+386	!5527228.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was ist die Arbeits-Gruppe zum Musik machen	"Der Verein Lebenshilfe organisiert
+eine Arbeits-Gruppe zum Musik machen.
+Die Arbeits-Gruppe heißt: Ick mach Welle.
+In der Arbeits-Gruppe können Menschen mit Behinderungen
+verschiedene Instrumente ausprobieren.
+Dazu gehören zum Beispiel auch Geräte von einem DJ"	NA
+387	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Der Verein Lebenshilfe organisiert
+eine Arbeits-Gruppe zum Musik machen"	Die Arbeits-Gruppe heißt: Ick mach Welle	NA
+388	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Arbeits-Gruppe heißt: Ick mach Welle	"In der Arbeits-Gruppe können Menschen mit Behinderungen
+verschiedene Instrumente ausprobieren"	NA
+389	!5527228.txt	Explicit	zum Beispiel auch	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	"In der Arbeits-Gruppe können Menschen mit Behinderungen
+verschiedene Instrumente ausprobieren"	Dazu gehören...Geräte von einem DJ	NA
+390	!5527228.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was ist ein DJ	"DJs arbeiten oft auf Partys.
+Sie machen Musik zum Tanzen.
+In Berlin machen DJs oft elektronische Musik"	NA
+391	!5527228.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	dort	Temporal.Synchronous	NA	NA	DJs arbeiten oft auf Partys	Sie machen Musik zum Tanzen	NA
+392	!5527228.txt	Implicit	NA	besonders	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Sie machen Musik zum Tanzen	In Berlin machen DJs oft elektronische Musik	NA
+393	!5527228.txt	NoRel	NA	NA	NA	NA	NA	NA	NA	NA	Dazu gehören zum Beispiel auch Geräte von einem DJ	Die Arbeits-Gruppe wird begleitet von Musikern	NA
+394	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Arbeits-Gruppe wird begleitet von Musikern	Sie erklären die Instrumente und Geräte	NA
+395	!5527228.txt	Explicit	zum Beispiel	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Sie erklären die Instrumente und Geräte	"Dazu gehören...Computer-Programme,
+Schlag-Zeug und Platten-Teller für Schall-Platten"	NA
+396	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Dazu gehören zum Beispiel Computer-Programme,
+Schlag-Zeug und Platten-Teller für Schall-Platten"	Die Arbeits-Gruppe probiert alles aus	NA
+397	!5527228.txt	Explicit	Und dann	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Die Arbeits-Gruppe probiert alles aus	macht sie selbst Musik	NA
+398	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Und dann macht sie selbst Musik	"Bisher bekommt die Arbeits-Gruppe Geld
+von der Stadt Berlin"	NA
+399	!5527228.txt	Explicit	Und	NA	Comparison.Similarity	NA	NA	NA	NA	NA	"Bisher bekommt die Arbeits-Gruppe Geld
+von der Stadt Berlin"	"sie bekommt Unterstützung
+von Instrumente-Herstellern"	NA
+400	!5527228.txt	Explicit	Aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	"Und sie bekommt Unterstützung
+von Instrumente-Herstellern"	es fehlt noch Geld	NA
+401	!5527228.txt	NoRel	NA	NA	NA	NA	NA	NA	NA	NA	Aber es fehlt noch Geld	Was ist die inklusive Party	NA
+402	!5527228.txt	Hypophora	NA	NA	NA	NA	NA	NA	NA	NA	Was ist die inklusive Party	"In Berlin-Lichtenberg gibt es diesen Club: Mensch Meier.
+Dort findet ab und zu eine inklusive Party statt.
+Die Party heißt: Spaceship.
+Spaceship spricht man so aus: Speys-Schipp.
+Das ist Englisch und heißt übersetzt: Raum-Schiff.
+Die Party ist für Menschen mit und ohne Behinderungen.
+Alle können hier zu elektronischer Musik tanzen.
+Es läuft aber auch Hip-Hop und Funk.
+Funk spricht man so aus: Fank"	NA
+403	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	In Berlin-Lichtenberg gibt es diesen Club: Mensch Meier	Dort findet ab und zu eine inklusive Party statt	NA
+404	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Dort findet ab und zu eine inklusive Party statt	Die Party heißt: Spaceship	NA
+405	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Spaceship spricht man so aus: Speys-Schipp	Das ist Englisch und heißt übersetzt: Raum-Schiff	NA
+406	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Party heißt: Spaceship	Die Party ist für Menschen mit und ohne Behinderungen	NA
+407	!5527228.txt	Implicit	NA	das heißt	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Die Party ist für Menschen mit und ohne Behinderungen	Alle können hier zu elektronischer Musik tanzen	NA
+408	!5527228.txt	Explicit	aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Alle können hier zu elektronischer Musik tanzen	Es läuft...auch Hip-Hop und Funk	NA
+409	!5527228.txt	Explicit	auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	Alle können hier zu elektronischer Musik tanzen	Es läuft aber...Hip-Hop und Funk	NA
+410	!5527228.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Es läuft aber auch Hip-Hop und Funk	Die Party macht viel Spaß	NA
+411	!5527228.txt	Implicit	NA	deshalb	Contingency.Cause+Belief.Result+Belief	NA	NA	NA	NA	NA	Die Party macht viel Spaß	"Es sollte noch viel mehr Partys
+für Menschen mit ohne Behinderungen geben"	NA
+412	!5527228.txt	Explicit	Denn	NA	Contingency.Cause+Belief.Reason+Belief	NA	NA	NA	NA	NA	"Es sollte noch viel mehr Partys
+für Menschen mit ohne Behinderungen geben"	eine gemeinsame Party ist sehr schön	NA

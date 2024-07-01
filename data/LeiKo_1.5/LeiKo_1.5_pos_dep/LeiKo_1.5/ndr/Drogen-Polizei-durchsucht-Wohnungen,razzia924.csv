@@ -1,0 +1,205 @@
+1	Drogen	Droge	_	NN	nom|pl|fem	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+
+1	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	durchsucht	durchsuchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Wohnungen	Wohnung	_	NN	acc|pl|fem	2	OBJA	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+5	großer	groß	_	ADJA	nom|sg|masc|pos	6	ATTR	_	_
+6	Polizei·einsatz	Polizei·einsatz	_	NN	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	200	200	_	CARD	_	2	ATTR	_	_
+2	Polizisten	Polizist	_	NN	nom|pl|masc	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	16	16	_	CARD	_	5	ATTR	_	_
+5	Wohnungen	Wohnung	_	NN	acc|pl|fem	3	SUBJ	_	_
+6	durchsucht	durchsuchen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|fem	3	DET	_	_
+2	16	16	_	CARD	_	3	ATTR	_	_
+3	Wohnungen	Wohnung	_	NN	nom|pl|fem	4	SUBJ	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	•	LI	_	XY	_	0	ROOT	_	_
+7	In	in	_	APPR	_	4	PP	_	_
+8	Hameln	Hamel	_	NN	dat|pl|fem	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+10	•	LI	_	XY	_	0	ROOT	_	_
+11	In	in	_	APPR	_	7	KON	_	_
+12	Fischbeck	Fischbeck	_	NE	dat|sg|neut	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+14	•	LI	_	XY	dat|sg|neut	0	ROOT	_	_
+15	Und	und	_	KON	_	11	KON	_	_
+16	in	in	_	APPR	_	15	CJ	_	_
+17	Emmerthal	Emmerthal	_	NE	dat|sg|neut	16	PN	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Wohnungen	Wohnung	_	NN	dat|pl|fem	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Polizisten	Polizist	_	NN	nom|pl|masc	11	ETH	_	_
+7	zum	zu	_	APPRART	dat|sg|neut	11	PP	_	_
+8	Beispiel	Beispiel	_	NN	dat|sg|neut	7	PN	_	_
+9	nach	nach	_	APPR	_	11	OBJP	_	_
+10	Drogen	Droge	_	NN	dat|pl|fem	9	PN	_	_
+11	gesucht	suchen	_	VVPP	_	4	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Wir	wir	_	PPER	nom|pl|*|1	7	SUBJ	_	_
+7	ermitteln	ermitteln	_	VVFIN	pl|1|pres|ind	0	S	_	_
+8	gegen	gegen	_	APPR	_	7	PP	_	_
+9	12	12	_	CARD	_	10	ATTR	_	_
+10	Männer	Mann	_	NN	acc|pl|masc	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	glauben	glauben	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	nämlich	nämlich	_	ADV	_	2	ADV	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Die	der	_	ART	nom|sg|fem	7	DET	_	_
+6	12	12	_	CARD	_	7	ATTR	_	_
+7	Männer	Mann	_	NN	nom|pl|masc	8	OBJA	_	_
+8	verkaufen	verkaufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+9	Drogen	Droge	_	NN	acc|pl|fem	8	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Drogen	Droge	_	NN	acc|pl|fem	2	OBJA	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	nach	nach	_	APPR	_	9	OBJP	_	_
+5	Beweisen	Beweis	_	NN	dat|pl|masc	4	PN	_	_
+6	gegen	gegen	_	APPR	_	5	PP	_	_
+7	die	der	_	ART	acc|pl|masc	8	DET	_	_
+8	Männer	Mann	_	NN	acc|pl|masc	6	PN	_	_
+9	gesucht	suchen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	8	OBJD	_	_
+5	jetzt	jetzt	_	ADV	_	8	ADV	_	_
+6	16	16	_	CARD	_	7	ATTR	_	_
+7	Wohnungen	Wohnung	_	NN	acc|pl|fem	8	OBJA	_	_
+8	durchsucht	durchsuchen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Durchsuchungen	Durchsuchung	_	NN	dat|pl|fem	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Polizei	Polizei	_	NN	nom|sg|fem	4	SUBJ	_	_
+7	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Wir	wir	_	PPER	nom|pl|*|1	10	SUBJ	_	_
+10	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+11	in	in	_	APPR	_	15	PP	_	_
+12	mehreren	mehrere	_	PIAT	acc|pl|fem	13	DET	_	_
+13	Wohnungen	Wohnung	_	NN	acc|pl|fem	11	PN	_	_
+14	Drogen	Droge	_	NN	acc|pl|fem	15	OBJA	_	_
+15	gefunden	finden	_	VVPP	_	10	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	wir	wir	_	PPER	nom|pl|*|1	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|1|pres|ind	1	CJ	_	_
+4	verschiedene	verschieden	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Waffen	Waffe	_	NN	acc|pl|fem	6	OBJA	_	_
+6	gefunden	finden	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	6	PP	_	_
+2	einem	ein	_	ART	dat|sg|masc	3	DET	_	_
+3	Haus	Haus	_	NN	dat|sg|masc	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Emmerthal	Emmerthal	_	NE	dat|sg|neut	4	PN	_	_
+6	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+7	wir	wir	_	PPER	nom|pl|*|1	6	SUBJ	_	_
+8	viele	vieler	_	PIAT	acc|pl|fem	9	DET	_	_
+9	Cannabis-Pflanzen	Cannabis-Pflanze	_	NN	acc|pl|fem	10	OBJA	_	_
+10	gefunden	finden	_	VVPP	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Anbau	Anbau	_	NN	nom|sg|masc	5	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Cannabis-Pflanzen	Cannabis-Pflanze	_	NN	dat|sg|neut	3	PN	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	verboten	verbieten	_	VVPP	_	5	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aus	aus	_	APPR	_	3	PP	_	_
+2	Cannabis-Pflanzen	Cannabis-Pflanze	_	NN	dat|pl|fem	1	PN	_	_
+3	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	7	OBJA	_	_
+5	nämlich	nämlich	_	ADV	_	7	ADV	_	_
+6	Drogen	Droge	_	NN	nom|pl|fem	7	PRED	_	_
+7	machen	machen	_	VVINF	pl|3|pres|ind	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	Marihuana	Marihuana	_	NE	nom|sg|neut	0	S	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	muss	muss	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	beweisen	beweisen	_	VVINF	_	2	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|pl|masc	8	DET	_	_
+8	Männer	Mann	_	NN	nom|pl|masc	12	ETH	_	_
+9	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+10	die	der	_	ART	acc|pl|fem	11	DET	_	_
+11	Cannabis-Pflanzen	Cannabis-Pflanze	_	NN	acc|pl|fem	12	OBJG	_	_
+12	angebaut	anbauen	_	VVPP	_	9	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Männer	Mann	_	NN	nom|pl|masc	9	OBJA	_	_
+5	aus	aus	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	dat|pl|masc	7	DET	_	_
+7	Cannabis-Pflanzen	Cannabis-Pflanz	_	NN	dat|pl|masc	5	PN	_	_
+8	Drogen	Droge	_	NN	nom|pl|fem	7	APP	_	_
+9	gemacht	machen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Männer	Mann	_	NN	nom|pl|masc	8	OBJD	_	_
+6	die	der	_	ART	acc|pl|fem	7	DET	_	_
+7	Drogen	Droge	_	NN	acc|pl|fem	5	GMOD	_	_
+8	verkauft	verkaufen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	bekommen	bekommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Männer	Mann	_	NN	nom|pl|masc	2	OBJA	_	_
+5	vielleicht	vielleicht	_	ADV	_	2	ADV	_	_
+6	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+7	Strafe	Strafe	_	NN	acc|sg|fem	2	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_

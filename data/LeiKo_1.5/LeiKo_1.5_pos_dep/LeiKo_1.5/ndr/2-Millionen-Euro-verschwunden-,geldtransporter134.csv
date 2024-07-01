@@ -1,0 +1,266 @@
+1	2	2	_	CARD	_	2	ATTR	_	_
+2	Millionen	Million	_	NN	nom|pl|fem	3	ATTR	_	_
+3	Euro	Euro	_	NN	*|*|neut	4	SUBJ	_	_
+4	verschwunden	verschwinden	_	VVPP	_	0	S	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	viel	viel	_	PIAT	*|*|*	5	ATTR	_	_
+5	Geld	Geld	_	NN	acc|sg|neut	3	SUBJ	_	_
+6	verschwunden	verschwinden	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Geld	Geld	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	war	sein	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	einem	ein	_	ART	dat|sg|neut	6	DET	_	_
+6	Geld·transporter	Geldtransporter	_	NN	dat|sg|neut	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Geld·transporter	Geldtransporter	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	besonderes	besonderer	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Auto	Auto	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Geld·transporter	Geldtransporter	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	besonders	besonders	_	ADV	_	5	ADV	_	_
+5	gesichert	sichern	_	VVPP	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Geld·transporter	Geldtransporter	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	hat	haben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	dicke	dick	_	ADJA	nom|sg|neut|pos	8	ATTR	_	_
+8	Türen	Tür	_	NN	nom|sg|neut	3	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Geld·transporter	Geldtransporter	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	bringt	bringen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	Geld	Geld	_	NN	nom|sg|neut	3	OBJA	_	_
+7	zu	zu	_	APPR	_	3	PP	_	_
+8	einer	ein	_	ART	dat|sg|fem	9	DET	_	_
+9	Bank	Bank	_	NN	dat|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	In	in	_	APPR	_	9	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Geld·transporter	Geldtransporter	_	NN	dat|sg|neut	6	PN	_	_
+9	war	sein	_	VVFIN	sg|3|past|ind	4	S	_	_
+10	sehr	sehr	_	ADV	_	11	ADV	_	_
+11	viel	viel	_	PIAT	*|*|*	12	ATTR	_	_
+12	Geld	Geld	_	NN	acc|sg|neut	9	SUBJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Von	von	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Geld	Geld	_	NN	dat|sg|neut	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	2	2	_	CARD	_	6	ATTR	_	_
+6	Millionen	Million	_	NN	nom|pl|fem	7	ATTR	_	_
+7	Euro	Euro	_	NN	*|*|neut	4	SUBJ	_	_
+8	verschwunden	verschwinden	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	4	DET	_	_
+2	2	2	_	CARD	_	3	ATTR	_	_
+3	Millionen	Million	_	NN	nom|pl|fem	4	ATTR	_	_
+4	Euro	Euro	_	NN	*|*|fem	5	OBJA	_	_
+5	suchen	suchen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+6	wir	wir	_	PPER	nom|pl|*|1	5	SUBJ	_	_
+7	jetzt	jetzt	_	ADV	_	5	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	passiert	passieren	_	VVPP	_	2	AUX	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Geld·transporter	Geldtransporter	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	6	PP	_	_
+5	Hamburg	Hamburg	_	NE	dat|sg|neut	4	PN	_	_
+6	losgefahren	losfahren	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Geld·transporter	Geldtransporter	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	sollte	sollen	_	VMFIN	sg|3|past|ind	0	S	_	_
+4	zu	zu	_	APPR	_	7	PP	_	_
+5	einer	ein	_	ART	dat|sg|fem	6	DET	_	_
+6	Firma	Firma	_	NN	dat|sg|fem	4	PN	_	_
+7	fahren	fahren	_	VVINF	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Firma	Firma	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Kiel	Kiel	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kiel	Kiel	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Haupt·stadt	Hauptstadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Geld·transporter	Geldtransporter	_	NN	dat|sg|neut	1	PN	_	_
+4	waren	sein	_	VVFIN	pl|3|past|ind	0	S	_	_
+5	2	2	_	CARD	_	6	ATTR	_	_
+6	Fahrer	Fahrer	_	NN	nom|pl|masc	4	SUBJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Der	der	_	ART	nom|sg|masc	7	DET	_	_
+7	Geld·transporter	Geldtransporter	_	NN	nom|sg|masc	8	SUBJ	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	4	S	_	_
+9	auf	auf	_	APPR	_	12	PP	_	_
+10	einem	ein	_	ART	dat|sg|masc	11	DET	_	_
+11	Rastplatz	Rastplatz	_	NN	dat|sg|masc	9	PN	_	_
+12	angehalten	anhalten	_	VVPP	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Rastplatz	Rastplatz	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	an	an	_	APPR	_	3	PP	_	_
+7	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+8	Autobahn	Autobahn	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|masc	3	DET	_	_
+3	Rastplatz	Rastplatz	_	NN	dat|sg|masc	1	PN	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	Auto·fahrer	Autofahrer	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	zum	zu	_	APPRART	dat|sg|neut	11	PP	_	_
+7	Beispiel	Beispiel	_	NN	dat|sg|neut	6	PN	_	_
+8	auf	auf	_	APPR	_	11	PP	_	_
+9	die	der	_	ART	acc|pl|neut	10	DET	_	_
+10	Toilette	Toilette	_	NN	acc|pl|neut	8	PN	_	_
+11	gehen	gehen	_	VVINF	_	4	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Rastplatz	Rastplatz	_	NN	dat|sg|masc	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|*	7	DET	_	_
+6	2	2	_	CARD	_	7	ATTR	_	_
+7	Fahrer	Fahrer	_	NN	nom|pl|masc	4	SUBJ	_	_
+8	eine	ein	_	ART	acc|sg|fem	9	DET	_	_
+9	Pause	Pause	_	NN	acc|sg|fem	10	OBJA	_	_
+10	gemacht	machen	_	VVPP	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	eine	einer	_	PIS	nom|sg|masc	7	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|neut	6	DET	_	_
+5	2	2	_	CARD	_	6	ATTR	_	_
+6	Fahrern	Fahrer	_	NN	dat|pl|masc	3	PN	_	_
+7	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	vom	von	_	APPRART	dat|sg|neut	10	PP	_	_
+9	Geld·transporter	Geldtransporter	_	NN	dat|sg|neut	8	PN	_	_
+10	weggegangen	weggehen	_	VVPP	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vielleicht	vielleicht	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	5	ADV	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	andere	anderer	_	PIS	nom|sg|masc	2	SUBJ	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	den	der	_	ART	dat|pl|neut	9	DET	_	_
+8	2	2	_	CARD	_	9	ATTR	_	_
+9	Fahrern	Fahrer	_	NN	dat|pl|masc	6	PN	_	_
+10	vom	von	_	APPRART	dat|sg|neut	12	PP	_	_
+11	Geld·transporter	Geldtransporter	_	NN	dat|sg|neut	10	PN	_	_
+12	weggegangen	weggehen	_	VVPP	_	2	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Pause	Pause	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|neut	7	DET	_	_
+6	2	2	_	CARD	_	7	ATTR	_	_
+7	Fahrer	Fahrer	_	NN	nom|pl|masc	4	SUBJ	_	_
+8	zu	zu	_	APPR	_	11	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Firma	Firma	_	NN	dat|sg|fem	8	PN	_	_
+11	weiter·gefahren	weiterfahren	_	VVPP	_	4	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Firma	Firma	_	NN	dat|sg|fem	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	bemerkt	bemerken	_	VVPP	_	4	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	In	in	_	APPR	_	11	PP	_	_
+9	dem	der	_	ART	dat|sg|masc	10	DET	_	_
+10	Geld·transporter	Geldtransporter	_	NN	dat|sg|masc	8	PN	_	_
+11	fehlt	fehlen	_	VVFIN	sg|3|pres|ind	6	S	_	_
+12	Geld	Geld	_	NN	acc|sg|neut	11	SUBJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	2	2	_	CARD	_	2	ATTR	_	_
+2	Millionen	Million	_	NN	nom|pl|fem	3	ATTR	_	_
+3	Euro	Euro	_	NN	nom|pl|fem	7	SUBJ	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|neut	6	DET	_	_
+6	Geld	Geld	_	NN	dat|sg|neut	4	PN	_	_
+7	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+8	verschwunden	verschwinden	_	VVPP	_	7	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	ermittelt	ermitteln	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+5	wissen	wissen	_	VVINF	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Wo	wo	_	PWAV	_	8	ADV	_	_
+8	sind	sein	_	VVFIN	pl|3|pres|ind	5	S	_	_
+9	die	der	_	ART	nom|pl|*	12	DET	_	_
+10	2	2	_	CARD	_	11	ATTR	_	_
+11	Millionen	Million	_	NN	nom|pl|fem	12	ATTR	_	_
+12	Euro	Euro	_	NN	*|*|*	8	SUBJ	_	_
+13	?	--	_	$.	_	0	ROOT	_	_

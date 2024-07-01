@@ -1,0 +1,158 @@
+1	Neue	neu	_	ADJA	nom|pl|masc|pos	2	ATTR	_	_
+2	Kämpfe	Kampf	_	NN	nom|pl|masc	0	S	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Syrien	Syrien	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	noch	noch	_	ADV	_	3	ADV	_	_
+6	Krieg	Krieg	_	NN	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Kämpfe	Kampf	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	seit	seit	_	APPR	_	8	PP	_	_
+5	einigen	einiger	_	PIAT	acc|pl|fem	6	DET	_	_
+6	Wochen	Woche	_	NN	acc|pl|fem	4	PN	_	_
+7	schlimmer	schlimm	_	ADJD	comp	8	ADV	_	_
+8	geworden	werden	_	VAPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	auf	auf	_	APPR	_	3	PRED	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Flucht	Flucht	_	NN	dat|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Kämpfe	Kampf	_	NN	nom|sg|fem	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	vor	vor	_	APPR	_	6	PP	_	_
+5	allem	alle	_	PIS	dat|sg|neut	4	PN	_	_
+6	in	in	_	APPR	_	3	PRED	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Provinz	Provinz	_	NN	dat|sg|fem	6	PN	_	_
+9	Idlib	Idlib	_	NE	nom|sg|neut	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	PDS	nom|sg|fem	2	SUBJ	_	_
+2	liegt	liegen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Norden	Norden	_	NN	dat|sg|masc	3	PN	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Syrien	Syrien	_	NE	dat|sg|neut	5	PN	_	_
+7	an	an	_	APPR	_	2	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Grenze	Grenze	_	NN	dat|sg|fem	7	PN	_	_
+10	zu	zu	_	APPR	_	9	PP	_	_
+11	dem	der	_	ART	dat|sg|neut	12	DET	_	_
+12	Land	Land	_	NN	dat|sg|neut	10	PN	_	_
+13	Türkei	Türkei	_	NE	nom|sg|fem	12	APP	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Idlib	Idlib	_	NN	dat|sg|fem	1	PN	_	_
+3	kämpfen	kämpfen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Soldaten	Soldat	_	NN	nom|pl|masc	3	SUBJ	_	_
+5	von	von	_	APPR	_	3	PP	_	_
+6	der	der	_	ART	dat|sg|fem	8	DET	_	_
+7	syrischen	syrisch	_	ADJA	dat|sg|fem|pos	8	ATTR	_	_
+8	Regierung	Regierung	_	NN	dat|sg|fem	5	PN	_	_
+9	gegen	gegen	_	APPR	_	3	PP	_	_
+10	Aufständische	aufständisch	_	NN	acc|pl|masc	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beide	beide	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Seiten	Seite	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	mächtige	mächtig	_	ADJA	nom|pl|masc|pos	5	ATTR	_	_
+5	Helfer	Helfer	_	NN	nom|pl|masc	3	OBJA	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|neut	2	DET	_	_
+2	Länder	Land	_	NN	nom|pl|neut	6	OBJA	_	_
+3	Russland	Russland	_	NE	nom|sg|neut	2	GMOD	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	Iran	Iran	_	NE	nom|sg|masc	4	CJ	_	_
+6	unterstützen	unterstützen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+7	die	der	_	ART	nom|sg|fem	9	DET	_	_
+8	syrische	syrisch	_	ADJA	nom|sg|fem|pos	9	ATTR	_	_
+9	Regierung	Regierung	_	NN	nom|sg|fem	6	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Türkei	Türkei	_	NE	nom|sg|fem	3	OBJA	_	_
+3	unterstützt	unterstützen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	acc|pl|fem	5	DET	_	_
+5	Aufständischen	aufständische	_	NN	acc|pl|fem	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	letzten	letzter	_	ADJA	dat|sg|fem|pos	4	ATTR	_	_
+4	Woche	Woche	_	NN	dat|sg|fem	1	PN	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	Kampf-Flugzeuge	Kampf-Flugzeug	_	NN	nom|pl|neut	10	OBJA	_	_
+7	Bomben	Bombe	_	NN	nom|pl|neut	6	APP	_	_
+8	über	über	_	APPR	_	10	PP	_	_
+9	Idlib	Idlib	_	NN	acc|sg|masc	8	PN	_	_
+10	abgeworfen	abwerfen	_	VVPP	_	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eigentlich	eigentlich	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Russland	Russland	_	NE	dat|sg|neut	10	OBJA	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Iran	Iran	_	NE	nom|sg|masc	3	KON	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	die	der	_	ART	nom|sg|fem	9	DET	_	_
+9	Türkei	Türkei	_	NE	nom|sg|fem	7	CJ	_	_
+10	vereinbart	vereinbaren	_	VVPP	_	2	AUX	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+12	In	in	_	APPR	_	14	PP	_	_
+13	Idlib	Idlib	_	NN	dat|pl|neut	12	PN	_	_
+14	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+15	nicht	nicht	_	PTKNEG	_	16	ADV	_	_
+16	gekämpft	kämpfen	_	VVPP	_	17	AUX	_	_
+17	werden	werden	_	VAINF	_	14	AUX	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	UNO	UNO	_	NE	nom|sg|fem	3	OBJA	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Die	der	_	ART	acc|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	3	APP	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	die	der	_	PRELS	nom|pl|masc	11	SUBJ	_	_
+9	in	in	_	APPR	_	11	PP	_	_
+10	Idlib	Idlib	_	NN	dat|sg|neut	9	PN	_	_
+11	wohnen	wohnen	_	VVFIN	pl|3|pres|ind	6	REL	_	_
+12	,	--	_	$,	_	0	ROOT	_	_
+13	leiden	leiden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+14	am	an	_	PTKA	_	15	ADV	_	_
+15	meisten	meister	_	PIS	*|*|*	13	SUBJ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Seit	seit	_	APPR	_	3	PP	_	_
+2	Dezember	Dezember	_	NN	dat|sg|masc	1	PN	_	_
+3	mussten	mussten	_	VVFIN	pl|3|past|ind	0	S	_	_
+4	mehr	mehr	_	PIAT	*|*|*	5	DET	_	_
+5	als	als	_	KOKOM	_	10	KOM	_	_
+6	100000	100000	_	CARD	_	7	ATTR	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	5	CJ	_	_
+8	aus	aus	_	APPR	_	7	PP	_	_
+9	Idlib	Idlib	_	NE	dat|sg|neut	8	PN	_	_
+10	fliehen	fliehen	_	VVINF	_	3	OBJI	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIS	nom|pl|*	2	SUBJ	_	_
+2	fliehen	fliehen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Richtung	Richtung	_	NN	acc|sg|fem	2	OBJA	_	_
+4	Türkei	Türkei	_	NE	acc|sg|fem	3	APP	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+

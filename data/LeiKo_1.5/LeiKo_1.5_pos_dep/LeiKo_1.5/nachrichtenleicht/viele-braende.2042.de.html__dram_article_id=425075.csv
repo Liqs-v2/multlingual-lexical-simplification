@@ -1,0 +1,180 @@
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Brände	Brand	_	NN	nom|pl|*	0	S	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	Deutschland	Deutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Europa	Europa	_	NE	dat|sg|neut	3	CJ	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	zur	zu	_	APPRART	dat|sg|fem	5	PP	_	_
+8	Zeit	Zeit	_	NN	dat|sg|fem	7	PN	_	_
+9	viele	vieler	_	PIAT	acc|pl|masc	10	DET	_	_
+10	Brände	Brand	_	NN	acc|pl|masc	5	OBJA	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Grund	Grund	_	NN	nom|sg|masc	4	PRED	_	_
+3	dafür	dafür	_	PROAV	_	2	DET	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Trockenheit	Trockenheit	_	NN	nom|sg|fem	4	PRED	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	6	ADV	_	_
+4	lange	lange	_	ADV	_	6	ADV	_	_
+5	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	geregnet	regnen	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	3	DET	_	_
+2	großer	groß	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Brand	Brand	_	NN	nom|sg|masc	4	PRED	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Stadt	Stadt	_	NN	dat|sg|fem	5	PN	_	_
+8	Siegburg	Siegburg	_	NE	nom|sg|neut	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Nähe	Nähe	_	NN	dat|sg|fem	3	PN	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Köln	Köln	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Erst	erst	_	ADV	_	2	ADV	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Gebüsch	Gebüsch	_	NN	nom|sg|neut	8	OBJA	_	_
+5	neben	neben	_	APPR	_	8	PP	_	_
+6	einer	ein	_	ART	dat|sg|fem	7	DET	_	_
+7	Bahn-Strecke	Bahn-Strecke	_	NN	dat|sg|fem	5	PN	_	_
+8	gebrannt	gebrennen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	daneben	daneben	_	PROAV	_	7	DET	_	_
+4	ganz	ganz	_	ADV	_	5	ADV	_	_
+5	schnell	schnell	_	ADJD	pos	10	ADV	_	_
+6	mehrere	mehrere	_	PIAT	acc|pl|neut	7	DET	_	_
+7	Häuser	Haus	_	NN	acc|pl|neut	2	SUBJ	_	_
+8	angefangen	anfangen	_	VVPP	_	10	ADV	_	_
+9	zu	zu	_	PTKZU	_	10	PART	_	_
+10	brennen	brennen	_	VVINF	_	7	OBJI	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mehr	mehr	_	PIAT	*|*|*	2	DET	_	_
+2	als	als	_	KOKOM	_	5	KOM	_	_
+3	30	30	_	CARD	_	4	ATTR	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	CJ	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	verletzt	verletzen	_	VVPP	_	7	AUX	_	_
+7	worden	werden	_	VAPP	_	5	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bahn-Strecke	Bahn-Strecke	_	NN	nom|sg|fem	9	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Köln	Köln	_	NE	dat|sg|neut	3	PN	_	_
+5	nach	nach	_	APPR	_	2	PP	_	_
+6	Frankfurt	Frankfurt	_	NE	dat|sg|neut	5	PN	_	_
+7	am	an	_	APPRART	dat|sg|neut	6	PP	_	_
+8	Main	Main	_	NE	dat|sg|neut	7	PN	_	_
+9	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+10	lange	lange	_	ADV	_	11	ADV	_	_
+11	gesperrt	sperren	_	VVPP	_	9	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bundes-Kanzlerin	Bundes-Kanzlerin	_	NN	nom|sg|fem	8	ETH	_	_
+2	Merkel	Merkel	_	NE	nom|sg|fem	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Verletzten	verletzter	_	NN	acc|sg|masc	8	OBJD	_	_
+6	gute	gut	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Besserung	Besserung	_	NN	nom|sg|fem	5	GMOD	_	_
+8	gewünscht	wünschen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	5	ADV	_	_
+2	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+3	in	in	_	APPR	_	5	PP	_	_
+4	Siegburg	Siegburg	_	NE	dat|sg|neut	3	PN	_	_
+5	gebrannt	gebrennen	_	VVPP	_	6	AUX	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	8	REL	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	noch	noch	_	ADV	_	8	ADV	_	_
+10	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+11	fest	fest	_	PTKVZ	_	8	AVZ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	in	in	_	APPR	_	4	PP	_	_
+3	Süd-Deutschland	Süd-Deutschland	_	NE	dat|sg|neut	2	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	9	OBJD	_	_
+6	einen	ein	_	ART	acc|sg|masc	8	DET	_	_
+7	großen	groß	_	ADJA	acc|sg|masc|pos	8	ATTR	_	_
+8	Brand	Brand	_	NN	acc|sg|masc	9	OBJA	_	_
+9	gegeben	geben	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	6	PP	_	_
+2	Königs-See	Königs-See	_	NN	dat|sg|masc	1	PN	_	_
+3	bei	bei	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Stadt	Stadt	_	NN	dat|sg|fem	3	PN	_	_
+6	Berchtesgaden	Berchtesgade	_	VVPP	_	7	AUX	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	ein	ein	_	ART	nom|sg|neut	9	DET	_	_
+9	Wald	Wald	_	NN	nom|sg|neut	10	OBJG	_	_
+10	gebrannt	gebrennen	_	VVPP	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+4	bergig	bergig	_	ADJD	pos	2	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	ETH	_	_
+4	für	für	_	APPR	_	2	PP	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Feuer-Wehr	Feuer-Wehr	_	NN	acc|sg|fem	4	PN	_	_
+7	sehr	sehr	_	ADV	_	8	ADV	_	_
+8	schwierig	schwierig	_	ADJD	pos	2	PRED	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	den	der	_	ART	acc|sg|masc	11	DET	_	_
+11	Brand	Brand	_	NN	acc|sg|masc	13	OBJA	_	_
+12	zu	zu	_	PTKZU	_	13	PART	_	_
+13	löschen	löschen	_	VVINF	_	2	SUBJC	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	in	in	_	APPR	_	4	PP	_	_
+3	Süd-Europa	Süd-Europa	_	NE	dat|sg|neut	2	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	viele	vieler	_	PIAT	acc|pl|masc	7	DET	_	_
+7	Wald-Brände	Wald-Brände	_	NN	acc|pl|masc	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	PTKA	_	2	ADV	_	_
+2	schlimmsten	schlimm	_	ADJD	sup	3	ADV	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	ETH	_	_
+5	in	in	_	APPR	_	3	PP	_	_
+6	dem	der	_	ART	dat|sg|neut	7	DET	_	_
+7	Land	Land	_	NN	dat|sg|neut	5	PN	_	_
+8	Portugal	Portugal	_	NE	nom|sg|neut	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+

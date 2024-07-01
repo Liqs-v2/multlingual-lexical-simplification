@@ -1,0 +1,220 @@
+﻿1	Feuer	Feuer	_	NN	nom|sg|neut	2	SUBJ	_	_
+2	zerstört	zerstören	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	acc|sg|fem	2	OBJA	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Emsland	Emsland	_	NE	dat|sg|neut	1	PN	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	5	DET	_	_
+5	Feuer	Feuer	_	NN	nom|sg|neut	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Emsland	Emsland	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Region	Region	_	NN	nom|sg|fem	3	PRED	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Feuer	Feuer	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PRED	_	_
+5	Rhede	Rhede	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Feuer	Feuer	_	NN	dat|sg|masc	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+6	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	acc|sg|fem	7	OBJG	_	_
+7	gebrannt	gebrennen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+5	hoher	hoch	_	ADJA	nom|sg|masc|pos	6	ATTR	_	_
+6	Turm	Turm	_	NN	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Turm	Turm	_	NN	dat|sg|neut	1	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|neut	7	DET	_	_
+6	großes	groß	_	ADJA	nom|sg|neut|pos	7	ATTR	_	_
+7	Wind·rad	Wind·rad	_	NN	nom|sg|neut	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Wind·rad	Wind·rad	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	dreht	drehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|sg|3	3	OBJA	_	_
+5	im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+6	Wind	Wind	_	NN	dat|sg|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Wind·rad	Wind·rad	_	NE	nom|sg|neut	2	SUBJ	_	_
+5	Strom	Strom	_	NN	acc|sg|masc	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Feuer	Feuer	_	NN	dat|sg|masc	1	PN	_	_
+4	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	kein	kein	_	PIAT	nom|sg|masc	6	DET	_	_
+6	Mensch	Mensch	_	NN	nom|sg|masc	7	OBJA	_	_
+7	verletzt	verletzen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	3	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	3	REL	_	_
+3	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Maschinen	Maschine	_	NN	nom|pl|fem	4	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|fem	2	DET	_	_
+2	Maschinen	Maschine	_	NN	nom|pl|fem	3	OBJG	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	auf	auf	_	APPR	_	3	PRED	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Turm	Turm	_	NN	dat|sg|masc	4	PN	_	_
+7	von	von	_	APPR	_	3	PRED	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	dat|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|pl|fem	3	DET	_	_
+3	Maschinen	Maschine	_	NN	nom|pl|fem	4	SUBJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	zuerst	zuerst	_	ADV	_	6	ADV	_	_
+6	gebrannt	gebrennen	_	VVPP	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Feuer	Feuer	_	NN	nom|sg|neut	2	ETH	_	_
+5	schnell	schnell	_	ADJD	pos	7	ADV	_	_
+6	größer	groß	_	ADJD	comp	7	ADV	_	_
+7	geworden	werden	_	VAPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	acc|sg|fem	6	DET	_	_
+5	ganze	ganz	_	ADJA	acc|sg|fem|pos	6	ATTR	_	_
+6	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	acc|sg|fem	3	SUBJ	_	_
+7	gebrannt	gebrennen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Feuerwehr	Feuerwehr	_	NN	nom|sg|fem	4	OBJD	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Wir	wir	_	PPER	nom|pl|*|1	7	SUBJ	_	_
+7	sind	sein	_	VAFIN	pl|1|pres|ind	0	S	_	_
+8	mit	mit	_	APPR	_	14	PP	_	_
+9	19	19	_	CARD	_	10	ATTR	_	_
+10	Feuerwehr·leuten	Feuerwehr·leute	_	NN	dat|pl|*	8	PN	_	_
+11	zu	zu	_	APPR	_	14	PP	_	_
+12	dem	der	_	ART	dat|sg|neut	13	DET	_	_
+13	Feuer	Feuer	_	NN	dat|sg|neut	11	PN	_	_
+14	gefahren	fahren	_	VVPP	_	7	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	wir	wir	_	PPER	nom|pl|*|1	3	SUBJ	_	_
+3	konnten	können	_	VMFIN	pl|3|past|ind	1	CJ	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	Feuer	Feuer	_	NN	acc|sg|neut	7	ADV	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	löschen	löschen	_	VVINF	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Feuer	Feuer	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+5	oben	oben	_	ADV	_	3	ADV	_	_
+6	auf	auf	_	APPR	_	3	PRED	_	_
+7	dem	der	_	ART	dat|sg|masc	8	DET	_	_
+8	Turm	Turm	_	NN	dat|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Turm	Turm	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+5	zu	zu	_	PTKA	_	6	ADV	_	_
+6	hoch	hoch	_	ADJD	pos	4	PRED	_	_
+7	zum	zu	_	APPRART	dat|sg|neut	6	PP	_	_
+8	Löschen	löschen	_	NN	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Feuer	Feuer	_	NN	nom|sg|neut	2	ETH	_	_
+5	immer	immer	_	ADV	_	6	ADV	_	_
+6	größer	groß	_	ADJD	comp	7	ADV	_	_
+7	geworden	werden	_	VAPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	Feuer	Feuer	_	NN	acc|sg|neut	9	OBJA	_	_
+6	die	der	_	ART	nom|sg|fem	8	DET	_	_
+7	ganze	ganz	_	ADJA	nom|sg|fem|pos	8	ATTR	_	_
+8	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	nom|sg|fem	5	GMOD	_	_
+9	zerstört	zerstören	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	zerstörte	zerstört	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	nom|sg|fem	8	OBJA	_	_
+4	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	keinen	kein	_	PIAT	acc|sg|masc	6	DET	_	_
+6	Strom	Strom	_	NN	acc|sg|masc	8	OBJA	_	_
+7	mehr	mehr	_	ADV	_	6	ADV	_	_
+8	machen	machen	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	ermittelt	ermitteln	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+5	wissen	wissen	_	VVINF	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Warum	warum	_	PWAV	_	8	ADV	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	die	der	_	ART	nom|sg|fem	10	DET	_	_
+10	Wind·kraft·anlage	Wind·kraft·anlage	_	NN	nom|sg|fem	11	OBJG	_	_
+11	gebrannt	gebrennen	_	VVPP	_	8	AUX	_	_
+12	?	--	_	$.	_	0	ROOT	_	_
+

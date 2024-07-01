@@ -1,0 +1,247 @@
+1	Geheimer	Geheimer	_	ADJA	nom|sg|masc|pos	2	ATTR	_	_
+2	Besuch	Besuch	_	NN	nom|sg|masc	0	S	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Diktator	Diktator	_	NN	nom|sg|masc	9	OBJD	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Nord-Korea	Nord-Korea	_	NE	dat|sg|neut	3	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	das	der	_	ART	nom|sg|neut	7	DET	_	_
+7	Land	Land	_	NN	nom|sg|neut	9	OBJD	_	_
+8	China	China	_	NE	nom|sg|neut	7	APP	_	_
+9	besucht	besuchen	_	VVPP	_	5	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Kim	Kim	_	NE	nom|sg|masc	2	PRED	_	_
+4	Jong	Jong	_	NE	nom|sg|masc	2	PRED	_	_
+5	Un	UN	_	NE	nom|sg|masc	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Besuch	Besuch	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	geheim	geheim	_	ADJD	pos	3	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	etwas	etwas	_	PIAT	*|*|*	4	DET	_	_
+4	Besonderes	besondere	_	NN	nom|sg|neut	11	OBJD	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	dass	daß	_	KOUS	_	7	KONJ	_	_
+7	Kim	Kim	_	NE	nom|sg|*	4	PAR	_	_
+8	ein	ein	_	ART	acc|sg|neut	10	DET	_	_
+9	anderes	anderer	_	ADJA	acc|sg|neut|pos	10	ATTR	_	_
+10	Land	Land	_	NN	acc|sg|neut	7	GMOD	_	_
+11	besucht	besuchen	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	Nord-Korea	Nord-Korea	_	NE	nom|sg|neut	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	mit	mit	_	APPR	_	3	PP	_	_
+5	fast	fast	_	ADV	_	6	ADV	_	_
+6	allen	aller	_	PIAT	dat|pl|neut	7	DET	_	_
+7	Ländern	Land	_	NN	dat|pl|neut	4	PN	_	_
+8	Streit	Streit	_	NN	nom|sg|masc	3	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kim	Kim	_	NE	nom|sg|masc	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	mit	mit	_	APPR	_	11	PP	_	_
+4	einem	ein	_	ART	dat|sg|masc	5	DET	_	_
+5	Zug	Zug	_	NN	dat|sg|masc	3	PN	_	_
+6	in	in	_	APPR	_	11	PP	_	_
+7	die	der	_	ART	acc|sg|fem	9	DET	_	_
+8	chinesische	chinesisch	_	ADJA	acc|sg|fem|pos	9	ATTR	_	_
+9	Haupt-Stadt	Haupt-Stadt	_	NN	acc|sg|fem	6	PN	_	_
+10	Peking	Peking	_	NE	nom|sg|neut	9	APP	_	_
+11	gefahren	fahren	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nord-Korea	Nord-Korea	_	NE	nom|sg|neut	4	PRED	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	China	China	_	NE	nom|sg|neut	2	CJ	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Nachbar-Länder	Nachbar-Land	_	NN	nom|pl|neut	4	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Peking	Peking	_	NE	dat|sg|neut	1	PN	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	er	er	_	PPER	nom|sg|masc|3	3	SUBJ	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	Staats-Chef	Staats-Chef	_	NN	acc|sg|masc	9	OBJA	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	China	China	_	NE	dat|sg|neut	7	PN	_	_
+9	getroffen	treffen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Xi	Xi	_	NE	_	2	PRED	_	_
+4	Jinping	Jinping	_	NE	_	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	4	PP	_	_
+2	nächsten	nächster	_	ADJA	dat|sg|masc|pos	3	ATTR	_	_
+3	Tag	Tag	_	NN	dat|sg|masc	1	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	Kim	Kim	_	NE	dat|sg|masc	4	ETH	_	_
+6	wieder	wieder	_	ADV	_	10	ADV	_	_
+7	zurück	zurück	_	ADV	_	10	ADV	_	_
+8	nach	nach	_	APPR	_	10	PP	_	_
+9	Nord-Korea	Nord-Korea	_	NE	dat|sg|neut	8	PN	_	_
+10	gefahren	fahren	_	VVPP	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Besuch	Besuch	_	NN	nom|sg|masc	3	ETH	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	etwas	etwas	_	PIAT	*|*|*	5	DET	_	_
+5	Besonderes	besondere	_	NN	acc|sg|neut	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nord-Korea	Nord-Korea	_	NE	nom|sg|neut	4	SUBJ	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	China	China	_	NE	nom|sg|neut	2	CJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	zwar	zwar	_	ADV	_	4	ADV	_	_
+6	Beziehungen	Beziehung	_	NN	acc|pl|fem	4	OBJA	_	_
+7	zueinander	zueinander	_	ADV	_	4	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	Nord-Korea	Nord-Korea	_	NE	nom|sg|neut	3	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	viele	vieler	_	PIAT	acc|pl|masc	5	DET	_	_
+5	Geheimnisse	Geheimnis	_	NN	acc|pl|masc	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|neut	2	DET	_	_
+2	Länder	Land	_	NN	nom|pl|neut	3	OBJD	_	_
+3	glauben	glauben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Nord-Korea	Nord-Korea	_	NE	nom|sg|neut	0	S	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	3	S	_	_
+7	Atom-Waffen	Atom-Waffe	_	NN	acc|pl|fem	6	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	den	der	_	ART	dat|pl|fem	4	DET	_	_
+3	letzten	letzter	_	ADJA	dat|pl|fem|pos	4	ATTR	_	_
+4	Wochen	Woche	_	NN	dat|pl|fem	1	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	aber	aber	_	ADV	_	9	ADV	_	_
+8	Zeichen	Zeichen	_	NN	acc|pl|fem	9	OBJD	_	_
+9	gegeben	geben	_	VVPP	_	5	AUX	_	_
+10	,	--	_	$,	_	0	ROOT	_	_
+11	dass	dass	_	KOUS	_	18	KONJ	_	_
+12	Nord-Korea	Nord-Korea	_	NE	nom|sg|neut	18	SUBJ	_	_
+13	wieder	wieder	_	ADV	_	17	ADV	_	_
+14	mit	mit	_	APPR	_	17	PP	_	_
+15	anderen	anderer	_	ADJA	dat|pl|neut|pos	16	ATTR	_	_
+16	Ländern	Land	_	NN	dat|pl|neut	14	PN	_	_
+17	reden	reden	_	VVINF	_	18	AUX	_	_
+18	will	wollen	_	VMFIN	sg|3|pres|ind	8	OBJC	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	18	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+6	Treffen	Treffen	_	NN	nom|sg|neut	18	OBJA	_	_
+7	zwischen	zwischen	_	APPR	_	6	PP	_	_
+8	dem	der	_	ART	dat|sg|masc	9	DET	_	_
+9	Diktator	Diktator	_	NN	dat|sg|masc	7	PN	_	_
+10	Kim	Kim	_	NE	nom|sg|masc	9	APP	_	_
+11	Jong	Jong	_	NE	nom|sg|masc	10	APP	_	_
+12	Un	UN	_	NE	nom|sg|masc	11	APP	_	_
+13	und	und	_	KON	_	12	KON	_	_
+14	dem	der	_	ART	dat|sg|masc	15	DET	_	_
+15	Präsidenten	Präsident	_	NN	dat|sg|masc	13	CJ	_	_
+16	von	von	_	APPR	_	15	PP	_	_
+17	Süd-Korea	Süd-Korea	_	NE	dat|sg|neut	16	PN	_	_
+18	geben	geben	_	VVINF	_	2	AUX	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beide	beide	_	PIAT	nom|pl|neut	2	DET	_	_
+2	Länder	Land	_	NN	nom|pl|neut	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	seit	seit	_	APPR	_	3	PP	_	_
+5	Langem	Langem	_	ADJA	dat|sg|neut|pos	4	PN	_	_
+6	Streit	Streit	_	NN	nom|sg|masc	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Außerdem	außerdem	_	PROAV	_	2	DET	_	_
+2	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	12	OBJD	_	_
+4	ein	ein	_	ART	acc|sg|neut	5	DET	_	_
+5	Treffen	Treffen	_	NN	acc|sg|neut	12	OBJA	_	_
+6	mit	mit	_	APPR	_	5	PP	_	_
+7	dem	der	_	ART	dat|sg|masc	8	DET	_	_
+8	Präsidenten	Präsident	_	NN	dat|sg|masc	6	PN	_	_
+9	von	von	_	APPR	_	12	PP	_	_
+10	den	der	_	ART	dat|pl|*	11	DET	_	_
+11	USA	USA	_	NE	dat|pl|*	9	PN	_	_
+12	geben	geben	_	VVINF	_	2	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Treffen	Treffen	_	NN	dat|pl|fem	1	PN	_	_
+4	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	13	OBJA	_	_
+6	vor	vor	_	APPR	_	8	PP	_	_
+7	allem	alle	_	PIS	dat|sg|neut	6	PN	_	_
+8	um	um	_	APPR	_	13	PP	_	_
+9	das	der	_	ART	acc|sg|neut	10	DET	_	_
+10	Atom-Programm	Atom-Programm	_	NN	acc|sg|neut	8	PN	_	_
+11	von	von	_	APPR	_	10	PP	_	_
+12	Nord-Korea	Nord-Korea	_	NE	dat|sg|neut	11	PN	_	_
+13	gehen	gehen	_	VVINF	_	4	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Land	Land	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	9	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Vergangenheit	Vergangenheit	_	NN	dat|sg|fem	4	PN	_	_
+7	oft	oft	_	ADV	_	9	ADV	_	_
+8	Raketen	Rakete	_	NN	acc|pl|fem	9	OBJA2	_	_
+9	getestet	testen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Damit	damit	_	PROAV	_	6	DET	_	_
+2	wollte	wollen	_	VMFIN	sg|3|past|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Land	Land	_	NN	nom|sg|neut	7	OBJD	_	_
+5	anderen	anderer	_	ADJA	dat|pl|neut|pos	6	ATTR	_	_
+6	Ländern	Land	_	NN	dat|pl|neut	4	GMOD	_	_
+7	drohen	drohen	_	VVFIN	pl|3|pres|ind	2	KON	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Raketen	Rakete	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	könnten	können	_	VMFIN	pl|3|past|subj	1	CJ	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	Atom-Waffen	Atom-Waffe	_	NN	acc|pl|fem	7	OBJA	_	_
+7	tragen	tragen	_	VVINF	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|*	3	DET	_	_
+2	Vereinten	vereint	_	ADJA	nom|pl|fem|pos	3	ATTR	_	_
+3	Nationen	Nation	_	NN	nom|pl|fem	8	OBJD	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Nord-Korea	Nord-Korea	_	NE	acc|sg|neut	8	OBJD	_	_
+6	solche	solcher	_	PIAT	nom|pl|masc	7	DET	_	_
+7	Tests	Test	_	NN	nom|pl|masc	8	OBJD	_	_
+8	verboten	verbieten	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+

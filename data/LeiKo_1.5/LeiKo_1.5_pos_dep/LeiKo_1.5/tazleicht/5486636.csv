@@ -1,0 +1,362 @@
+1	Wenn	wenn	_	KOUS	_	4	KONJ	_	_
+2	Medikamente	Medikament	_	NN	nom|pl|neut	4	SUBJ	_	_
+3	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+4	wirken	wirken	_	VVFIN	_	0	NEB	_	_
+
+1	Kranke	kranke	_	NN	nom|pl|*	2	SUBJ	_	_
+2	sterben	sterben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	oft	oft	_	ADV	_	2	ADV	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	weil	weil	_	KOUS	_	8	KONJ	_	_
+6	Medikamente	Medikament	_	NN	nom|pl|neut	8	SUBJ	_	_
+7	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+8	wirken	wirken	_	VVFIN	_	2	NEB	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Grund	Grund	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	bestimmte	bestimmt	_	ADJA	nom|pl|neut|pos	5	ATTR	_	_
+5	Keime	Keim	_	NN	nom|pl|neut	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	%% Bild taz_A3 %%
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Welt	Welt	_	NN	dat|sg|fem	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	viele	vieler	_	PIAT	acc|pl|masc	8	DET	_	_
+8	Keime	Keim	_	NN	acc|pl|masc	4	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Keime	Keim	_	NN	nom|pl|neut	2	SUBJ	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Keime	Keim	_	NN	nom|pl|neut	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Krankheits-Erreger	Krankheitserreger	_	NN	nom|sg|masc	2	PRED	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Keime	Keim	_	NN	nom|sg|fem	2	OBJA	_	_
+2	sieht	sehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+5	mit	mit	_	APPR	_	2	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	8	DET	_	_
+7	bloßen	bloß	_	ADJA	dat|sg|masc|pos	8	ATTR	_	_
+8	Auge	Auge	_	NN	dat|sg|masc	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Keime	Keim	_	NN	nom|pl|neut	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Luft	Luft	_	NN	dat|sg|fem	3	PN	_	_
+6	und	und	_	KON	_	3	KON	_	_
+7	im	in	_	APPRART	dat|sg|masc	6	CJ	_	_
+8	Wasser	Wasser	_	NN	dat|sg|masc	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Keime	Keim	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	5	OBJA	_	_
+4	krank	krank	_	ADJD	pos	5	PRED	_	_
+5	machen	machen	_	VVINF	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	wenn	wenn	_	KOUS	_	10	KONJ	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Keime	Keim	_	NN	nom|sg|fem	10	SUBJ	_	_
+7	in	in	_	APPR	_	10	PP	_	_
+8	eine	ein	_	ART	acc|sg|fem	9	DET	_	_
+9	Wunde	Wunde	_	NN	acc|sg|fem	7	PN	_	_
+10	gelangen	gelangen	_	VVFIN	_	0	NEB	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Keime	Keim	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	mit	mit	_	APPR	_	5	PP	_	_
+4	Medikamenten	Medikament	_	NN	dat|pl|neut	3	PN	_	_
+5	behandelt	behandeln	_	VVPP	_	6	AUX	_	_
+6	werden	werden	_	VAINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	acc|pl|neut	2	DET	_	_
+2	Medikamente	Medikament	_	NN	acc|pl|neut	3	SUBJ	_	_
+3	heißen	heißen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Antibiotika	Antibiotikum	_	NN	nom|pl|neut	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	3	DET	_	_
+2	großes	groß	_	ADJA	nom|sg|neut|pos	3	ATTR	_	_
+3	Problem	Problem	_	NN	nom|sg|neut	4	PRED	_	_
+4	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Es	es	_	PPER	nom|sg|neut|3	7	SUBJ	_	_
+7	gibt	geben	_	VVFIN	sg|3|pres|ind	4	S	_	_
+8	immer	immer	_	ADV	_	9	ADV	_	_
+9	mehr	mehr	_	PIAT	*|*|*	10	DET	_	_
+10	Keime	Keim	_	NN	acc|pl|*	7	OBJA	_	_
+11	,	--	_	$,	_	0	ROOT	_	_
+12	bei	bei	_	APPR	_	16	PP	_	_
+13	denen	der	_	PRELS	dat|pl|neut	12	PN	_	_
+14	Antibiotika	Antibiotikum	_	NN	nom|sg|fem	16	SUBJ	_	_
+15	nicht	nicht	_	PTKNEG	_	16	ADV	_	_
+16	wirken	wirken	_	VVFIN	_	10	REL	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	dann	dann	_	ADV	_	2	ADV	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Diese	dieser	_	PDAT	nom|sg|fem	6	DET	_	_
+6	Keime	Keim	_	NN	nom|sg|fem	7	SUBJ	_	_
+7	sind	sein	_	VVFIN	pl|3|pres|ind	2	S	_	_
+8	resistent	resistent	_	ADJD	pos	7	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Keime	Keim	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	widerstandsfähig	widerstandsfähig	_	ADJD	pos	3	PRED	_	_
+5	gegen	gegen	_	APPR	_	4	PP	_	_
+6	Antibiotika	Antibiotikum	_	NN	acc|sg|fem	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+6	widerstandsfähige	widerstandsfähig	_	ADJA	acc|pl|neut|pos	7	ATTR	_	_
+7	Keime	Keim	_	NN	acc|pl|neut	2	OBJA	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	wirken	wirken	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|*	4	DET	_	_
+4	Antibiotika	Antibiotikum	_	NN	nom|pl|*	2	SUBJ	_	_
+5	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Grund	Grund	_	NN	nom|sg|masc	4	PRED	_	_
+3	dafür	dafür	_	PROAV	_	2	PP	_	_
+4	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Deutsche	deutsch	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Ärzte	Arzt	_	NN	nom|sg|fem	8	SUBJ	_	_
+8	verschreiben	verschreiben	_	VVFIN	_	4	S	_	_
+9	große	groß	_	ADJA	acc|pl|fem|pos	10	ATTR	_	_
+10	Mengen	Menge	_	NN	acc|pl|fem	8	OBJA	_	_
+11	Antibiotika	Antibiotikum	_	NN	nom|sg|fem	10	APP	_	_
+12	an	an	_	APPR	_	8	PP	_	_
+13	kranke	krank	_	ADJA	acc|pl|masc|pos	14	ATTR	_	_
+14	Menschen	Mensch	_	NN	acc|pl|masc	12	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Keime	Keim	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	8	PP	_	_
+5	immer	immer	_	ADV	_	6	ADV	_	_
+6	öfter	öfter	_	ADV	_	8	ADV	_	_
+7	Antibiotika	Antibiotikum	_	NN	nom|sg|neut	8	OBJD	_	_
+8	ausgesetzt	aussetzen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Keime	Keim	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	gewöhnen	gewöhnen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|pl|3	3	OBJA	_	_
+5	an	an	_	APPR	_	3	OBJP	_	_
+6	diese	dieser	_	PDAT	acc|sg|fem	7	DET	_	_
+7	Antibiotika	Antibiotikum	_	NN	acc|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Keime	Keim	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	entwickeln	entwickeln	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	Abwehr-Kräfte	Abwehrkräfte	_	NN	acc|sg|fem	4	OBJA	_	_
+6	gegen	gegen	_	APPR	_	5	PP	_	_
+7	diese	dieser	_	PDAT	acc|sg|fem	8	DET	_	_
+8	Antibiotika	Antibiotikum	_	NN	acc|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Folge	Folge	_	NN	nom|sg|fem	4	PRED	_	_
+3	davon	davon	_	PROAV	_	2	PP	_	_
+4	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Antibiotika	Antibiotikum	_	NN	nom|sg|fem	7	SUBJ	_	_
+7	helfen	helfen	_	VVFIN	_	4	S	_	_
+8	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+9	mehr	mehr	_	ADV	_	8	ADV	_	_
+10	gegen	gegen	_	APPR	_	7	PP	_	_
+11	diese	dieser	_	PDAT	acc|sg|fem	12	DET	_	_
+12	Keime	Keim	_	NN	acc|sg|fem	10	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Antibiotika	Antibiotikum	_	NN	nom|pl|neut	2	SUBJ	_	_
+2	heilen	heilen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	kranke	krank	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	OBJA	_	_
+5	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+6	mehr	mehr	_	ADV	_	5	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	An	an	_	APPR	_	4	PP	_	_
+2	widerstandsfähigen	widerstandsfähig	_	ADJA	dat|pl|fem|pos	3	ATTR	_	_
+3	Keimen	Keim	_	NN	dat|pl|fem	1	PN	_	_
+4	sterben	sterben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	jedes	jeder	_	PIAT	acc|sg|neut	6	DET	_	_
+6	Jahr	Jahr	_	NN	acc|sg|neut	4	ZEIT	_	_
+7	15000	15000	_	CARD	_	8	ATTR	_	_
+8	Menschen	Mensch	_	NN	acc|pl|masc	4	SUBJ	_	_
+9	in	in	_	APPR	_	8	PP	_	_
+10	Deutschland	Deutschland	_	NE	dat|sg|neut	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	3	DET	_	_
+2	weiteres	weit	_	ADJA	nom|sg|neut|comp	3	ATTR	_	_
+3	Problem	Problem	_	NN	nom|sg|neut	4	PRED	_	_
+4	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Widerstandsfähige	widerstandsfähig	_	ADJA	acc|pl|masc|pos	7	ATTR	_	_
+7	Keime	Keim	_	NN	acc|pl|masc	8	SUBJ	_	_
+8	verbreiten	verbreiten	_	VVFIN	pl|3|pres|ind	4	S	_	_
+9	sich	sich	_	PRF	acc|pl|3	8	OBJA	_	_
+10	schnell	schnell	_	ADJD	pos	8	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	verbreiten	verbreiten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	2	OBJA	_	_
+4	schnell	schnell	_	ADJD	pos	2	ADV	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Umwelt	Umwelt	_	NN	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kranke	krank	_	ADJA	nom|pl|masc|pos	2	ATTR	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	geben	geben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	diese	dieser	_	PDAT	acc|sg|fem	5	DET	_	_
+5	Keime	Keim	_	NN	acc|sg|fem	3	OBJA	_	_
+6	weiter	weiter	_	PTKVZ	_	3	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	auch	auch	_	ADV	_	3	ADV	_	_
+3	Tiere	Tier	_	NN	nom|pl|neut	4	SUBJ	_	_
+4	geben	geben	_	VVFIN	_	1	CJ	_	_
+5	widerstandsfähige	widerstandsfähig	_	ADJA	acc|pl|masc|pos	6	ATTR	_	_
+6	Keime	Keim	_	NN	acc|pl|masc	4	OBJA	_	_
+7	weiter	weiter	_	PTKVZ	_	4	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	geben	geben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Tiere	Tier	_	NN	nom|pl|neut	2	SUBJ	_	_
+4	widerstandsfähige	widerstandsfähig	_	ADJA	acc|pl|masc|pos	5	ATTR	_	_
+5	Keime	Keim	_	NN	acc|pl|masc	2	OBJA	_	_
+6	weiter	weiter	_	PTKVZ	_	2	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Rinder	Rind	_	NN	nom|pl|neut	6	SUBJ	_	_
+2	,	--	_	$,	_	0	ROOT	_	_
+3	Schweine	Schwein	_	NN	nom|pl|neut	1	KON	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	Hühner	Huhn	_	NN	nom|pl|masc	4	CJ	_	_
+6	bekommen	bekommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+7	auf	auf	_	APPR	_	6	PP	_	_
+8	Bauern-Höfen	Bauernhof	_	NN	dat|pl|masc	7	PN	_	_
+9	oft	oft	_	ADV	_	6	ADV	_	_
+10	Antibiotika	Antibiotikum	_	NN	nom|sg|neut	6	OBJA	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	gegen	gegen	_	APPR	_	0	S	_	_
+4	Krankheiten	Krankheit	_	NN	acc|pl|fem	3	PN	_	_
+5	oder	oder	_	KON	_	3	KON	_	_
+6	damit	damit	_	KOUS	_	9	KONJ	_	_
+7	sie	sie	_	PPER	acc|pl|neut|3	9	SUBJ	_	_
+8	schneller	schnell	_	ADJD	comp	9	ADV	_	_
+9	wachsen	wachsen	_	VVFIN	_	5	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	acc|pl|neut	2	DET	_	_
+2	Tiere	Tier	_	NN	acc|pl|neut	3	SUBJ	_	_
+3	entwickeln	entwickeln	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	mit	mit	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Zeit	Zeit	_	NN	dat|sg|fem	4	PN	_	_
+7	ebenfalls	ebenfalls	_	ADV	_	3	ADV	_	_
+8	widerstandsfähige	widerstandsfähig	_	ADJA	acc|pl|masc|pos	9	ATTR	_	_
+9	Keime	Keim	_	NN	acc|pl|masc	3	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Über	über	_	APPR	_	4	PP	_	_
+2	die	der	_	ART	acc|pl|fem	3	DET	_	_
+3	Tier-Ausscheidungen	Tierausscheidung	_	NN	acc|pl|fem	1	PN	_	_
+4	gelangen	gelangen	_	VVFIN	pl|3|past|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Keime	Keim	_	NN	nom|pl|masc	4	SUBJ	_	_
+7	in	in	_	APPR	_	4	PP	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Gülle	Gülle	_	NN	acc|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Gülle	Gülle	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	8	PP	_	_
+5	Düngen	düngen	_	NN	dat|sg|neut	4	PN	_	_
+6	der	der	_	ART	gen|pl|neut	7	DET	_	_
+7	Felder	Feld	_	NN	gen|pl|neut	5	GMOD	_	_
+8	benutzt	benutzen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Gülle	Gülle	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	dort	dort	_	ADV	_	9	ADV	_	_
+5	vom	von	_	APPRART	dat|sg|masc	9	PP	_	_
+6	Regen	Regen	_	NN	dat|sg|masc	5	PN	_	_
+7	in	in	_	APPR	_	9	PP	_	_
+8	Gewässer	Gewässer	_	NN	dat|sg|neut	7	PN	_	_
+9	geleitet	leiten	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	in	in	_	APPR	_	0	S	_	_
+4	Flüsse	Fluss	_	NN	dat|sg|fem	3	PN	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Seen	See	_	NN	dat|pl|fem	5	CJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Fernsehsender	Fernsehsender	_	NN	nom|sg|masc	4	SUBJ	_	_
+3	NDR	NDR	_	NE	nom|sg|*	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	herausgefunden	herausfinden	_	VVPP	_	4	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	In	in	_	APPR	_	11	PP	_	_
+8	vielen	vieler	_	PIAT	dat|pl|masc	10	DET	_	_
+9	deutschen	deutsch	_	ADJA	dat|pl|masc|pos	10	ATTR	_	_
+10	Gewässern	Gewässer	_	NN	dat|pl|masc	7	PN	_	_
+11	gibt	geben	_	VVFIN	sg|3|pres|ind	5	S	_	_
+12	es	es	_	PPER	nom|sg|neut|3	11	SUBJ	_	_
+13	widerstandsfähige	widerstandsfähig	_	ADJA	acc|pl|masc|pos	14	ATTR	_	_
+14	Keime	Keim	_	NN	acc|pl|masc	11	OBJA	_	_
+15	.	--	_	$.	_	0	ROOT	_	_

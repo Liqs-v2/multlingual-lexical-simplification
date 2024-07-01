@@ -1,0 +1,72 @@
+﻿1	Firma	Firma	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	Jobs	Job	_	NN	acc|pl|masc	6	OBJA	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Behinderte	behinderter	_	NN	acc|pl|*	4	PN	_	_
+6	schaffen	schaffen	_	VVINF	_	2	AUX	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	Saarbrücker	Saarbrücker	_	ADJA	*|*|*|pos	3	ATTR	_	_
+3	Firma	Firma	_	NN	nom|sg|fem	5	SUBJ	_	_
+4	Reha	Reha	_	NE	nom|sg|fem	3	APP	_	_
+5	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+6	neue	neu	_	ADJA	acc|pl|masc|pos	7	ATTR	_	_
+7	Arbeits·plätze	Arbeits·platz	_	NN	acc|pl|masc	12	OBJA	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Menschen	Mensch	_	NN	acc|pl|masc	8	PN	_	_
+10	mit	mit	_	APPR	_	9	PP	_	_
+11	Behinderung	Behinderung	_	NN	dat|sg|fem	10	PN	_	_
+12	schaffen	schaffen	_	VVINF	_	5	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Reha	Reha	_	NE	nom|sg|*	2	SUBJ	_	_
+2	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	6	PP	_	_
+4	Zukunft	Zukunft	_	NN	dat|sg|fem	3	PN	_	_
+5	Elektro-Roller	Elektro-Roller	_	NN	dat|sg|fem	6	OBJA	_	_
+6	verkaufen	verkaufen	_	VVINF	_	2	AUX	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	reparieren	reparieren	_	VVINF	_	7	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Geschäfts·führer	Geschäfts·führer	_	NN	nom|sg|masc	5	OBJD	_	_
+3	Thomas	Thomas	_	NE	nom|sg|masc	2	APP	_	_
+4	Vogelsang	Vogelsang	_	NE	nom|sg|masc	3	APP	_	_
+5	sagte	sagen	_	VVFIN	sg|3|past|ind	0	S	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Dafür	dafür	_	PROAV	_	8	DET	_	_
+8	werden	werden	_	VAFIN	pl|3|pres|ind	5	S	_	_
+9	zur	zu	_	APPRART	dat|sg|fem	12	PP	_	_
+10	Zeit	Zeit	_	NN	dat|sg|fem	9	PN	_	_
+11	Mitarbeiter	Mitarbeiter	_	NN	acc|pl|masc	0	S	_	_
+12	geschult	schulen	_	VVPP	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Reha	Reha	_	NE	nom|sg|*	2	SUBJ	_	_
+2	plant	planen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	2	ADV	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	einen	ein	_	ART	acc|sg|masc	6	DET	_	_
+6	Verleih	Verleih	_	NN	acc|sg|masc	9	OBJA	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	Elektro-Roller	Elektro-Roller	_	NN	acc|pl|masc	7	PN	_	_
+9	aufzubauen	aufbauen	_	VVIZU	_	2	OBJI	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	9	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Firma	Firma	_	NN	dat|sg|fem	1	PN	_	_
+4	Reha	Reha	_	NE	nom|sg|*	3	APP	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	acc|sg|masc	8	DET	_	_
+7	Saarbrücker	Saarbrücker	_	ADJA	*|*|*|pos	8	ATTR	_	_
+8	Saar·terrassen	Saar·terrasse	_	NN	acc|sg|masc	5	PN	_	_
+9	arbeiten	arbeiten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+10	zur	zu	_	APPRART	dat|sg|fem	9	PP	_	_
+11	Zeit	Zeit	_	NN	dat|sg|fem	10	PN	_	_
+12	rund	rund	_	ADV	pos	13	ADV	_	_
+13	100	100	_	CARD	_	14	ATTR	_	_
+14	Menschen	Mensch	_	NN	acc|pl|masc	9	ADV	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+

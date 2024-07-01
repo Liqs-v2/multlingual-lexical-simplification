@@ -1,0 +1,193 @@
+1	Bundes·garten·schau	Bundes·garten·schau	_	NN	nom|sg|masc	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Rostock	Rostock	_	NE	dat|sg|neut	2	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Rostock	Rostock	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	bald	bald	_	ADV	_	3	ADV	_	_
+5	eine	ein	_	ART	nom|sg|fem	7	DET	_	_
+6	besondere	besonderer	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Ausstellung	Ausstellung	_	NN	nom|sg|fem	3	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Rostock	Rostock	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Ausstellung	Ausstellung	_	NN	nom|sg|fem	3	S	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Bundes·garten·schau	Bundes·garten·schau	_	NN	acc|sg|masc	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Bundes·garten·schau	Bundes·garten·schau	_	NN	dat|sg|fem	1	PN	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	Besucher	Besucher	_	NN	nom|pl|masc	0	S	_	_
+6	viele	vieler	_	PIAT	nom|pl|masc	8	DET	_	_
+7	besondere	besonderer	_	ADJA	acc|pl|fem|pos	8	ATTR	_	_
+8	Gärten	Garten	_	NN	acc|pl|fem	9	OBJA	_	_
+9	sehen	sehen	_	VVINF	pl|3|pres|ind	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Gärten	Garten	_	NN	dat|pl|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	•	LI	_	CARD	_	0	ROOT	_	_
+9	Besondere	besonderer	_	ADJA	acc|pl|fem|pos	10	ATTR	_	_
+10	Blumen	Blume	_	NN	acc|pl|fem	4	SUBJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+12	•	LI	_	XY	acc|pl|neut	0	ROOT	_	_
+13	Besondere	besonderer	_	ADJA	acc|pl|neut|pos	14	ATTR	_	_
+14	Bäume	Baum	_	NN	acc|pl|neut	10	KON	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+16	•	LI	_	XY	_	0	ROOT	_	_
+17	Oder	Oder	_	KON	_	14	KON	_	_
+18	besondere	besonderer	_	ADJA	acc|pl|neut|pos	19	ATTR	_	_
+19	Kräuter	Kräuter	_	NN	acc|pl|neut	17	CJ	_	_
+20	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sehr	sehr	_	ADV	_	2	ADV	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	interessieren	interessieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	sich	sich	_	PRF	acc|pl|3	4	OBJA	_	_
+6	für	für	_	APPR	_	4	PP	_	_
+7	diese	dieser	_	PDAT	acc|sg|fem	8	DET	_	_
+8	Gärten	Garten	_	NN	acc|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	4	ADV	_	_
+4	viele	vieler	_	PIAT	nom|pl|masc	5	ATTR	_	_
+5	Besucher	Besucher	_	NN	nom|pl|masc	2	SUBJ	_	_
+6	bei	bei	_	APPR	_	2	PRED	_	_
+7	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+8	Bundes·garten·schau	Bundes·garten·schau	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Bürgermeister	Bürgermeister	_	NN	nom|sg|masc	5	PRED	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Rostock	Rostock	_	NE	dat|sg|neut	3	PN	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	Roland	Roland	_	NE	nom|sg|masc	5	PRED	_	_
+7	Methling	Methling	_	NE	nom|sg|masc	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Roland	Roland	_	NE	nom|sg|neut	3	SUBJ	_	_
+2	Methling	Methling	_	NE	nom|sg|neut	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Jetzt	jetzt	_	ADV	_	7	ADV	_	_
+7	wissen	wissen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+8	wir	wir	_	PPER	nom|pl|*|1	7	SUBJ	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Die	der	_	ART	nom|sg|fem	11	DET	_	_
+11	Bundes·garten·schau	Bundes·garten·schau	_	NN	nom|sg|fem	13	SUBJ	_	_
+12	2025	2025	_	CARD	_	11	APP	_	_
+13	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+14	in	in	_	APPR	_	13	PRED	_	_
+15	Rostock	Rostock	_	NE	dat|sg|neut	14	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Darüber	darüber	_	PROAV	_	2	DET	_	_
+2	freuen	freuen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	uns	uns	_	PPER	acc|pl|1	2	OBJD	_	_
+5	sehr	sehr	_	ADV	_	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bundes·garten·schau	Bundes·garten·schau	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	sehr	sehr	_	ADV	_	5	ADV	_	_
+5	gut	gut	_	ADJD	pos	3	ADV	_	_
+6	für	für	_	APPR	_	3	PP	_	_
+7	Rostock	Rostock	_	NE	acc|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zur	zu	_	APPRART	dat|sg|fem	3	PP	_	_
+2	Bundes·garten·schau	Bundes·garten·schau	_	NN	dat|sg|fem	1	PN	_	_
+3	kommen	kommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+5	viele	vieler	_	PIAT	acc|pl|masc	6	DET	_	_
+6	Besucher	Besucher	_	NN	acc|pl|masc	3	SUBJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bundes·garten·schau	Bundes·garten·schau	_	NN	nom|sg|fem	0	S	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bundes·garten·schau	Bundes·garten·schau	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	sehr	sehr	_	ADV	_	5	ADV	_	_
+5	groß	groß	_	ADJD	pos	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Bundes·garten·schau	Bundes·garten·schau	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	teuer	teuer	_	ADJD	pos	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	3	DET	_	_
+2	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Rostock	Rostock	_	NE	nom|sg|neut	2	OBJA	_	_
+4	100	100	_	CARD	_	5	ATTR	_	_
+5	Millionen	Million	_	NN	acc|pl|fem	6	ATTR	_	_
+6	Euro	Euro	_	NE	nom|sg|*	3	APP	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Bundes·garten·schau	Bundes·garten·schau	_	NN	acc|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Roland	Roland	_	NE	nom|sg|neut	3	SUBJ	_	_
+2	Methling	Methling	_	NE	nom|sg|neut	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Wir	wir	_	PPER	nom|pl|*|1	7	SUBJ	_	_
+7	müssen	müssen	_	VMFIN	pl|1|pres|ind	0	S	_	_
+8	noch	noch	_	ADV	_	13	ADV	_	_
+9	viel	viel	_	PIS	*|*|*	13	OBJA	_	_
+10	für	für	_	APPR	_	9	PP	_	_
+11	die	der	_	ART	acc|sg|fem	12	DET	_	_
+12	Bundes·garten·schau	Bundes·garten·schau	_	NN	acc|sg|fem	10	PN	_	_
+13	machen	machen	_	VVINF	_	7	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|1|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	8	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+6	neue	neu	_	ADJA	acc|sg|fem|pos	7	ATTR	_	_
+7	Halle	Halle	_	NN	acc|sg|fem	8	OBJA	_	_
+8	bauen	bauen	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	wir	wir	_	PPER	nom|pl|*|1	3	SUBJ	_	_
+3	freuen	freuen	_	VVFIN	pl|1|pres|ind	1	CJ	_	_
+4	uns	uns	_	PPER	acc|pl|*|1	3	OBJD	_	_
+5	schon	schon	_	ADV	_	6	ADV	_	_
+6	sehr	sehr	_	ADV	_	3	ADV	_	_
+7	auf	auf	_	APPR	_	3	PP	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Bundes·garten·schau	Bundes·garten·schau	_	NN	acc|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_

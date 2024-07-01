@@ -1,0 +1,650 @@
+1	Wahl	Wahl	_	NN	nom|sg|fem	0	S	_	_
+2	zur	zu	_	APPRART	dat|sg|fem	1	PP	_	_
+3	Behinderten-Vertretung	Behinderten-Vertretung	_	NN	dat|sg|fem	2	PN	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Firmen	Firma	_	NN	nom|pl|fem	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Schwer-Behinderten-Vertretung	Schwer-Behinderten-Vertretung	_	NN	acc|sg|fem	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Vertretung	Vertretung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	aktuell	aktuell	_	ADJD	pos	6	ADV	_	_
+5	neu	neu	_	ADJD	pos	6	ADV	_	_
+6	gewählt	wählen	_	VVPP	_	3	AUX	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	zum	zu	_	APPRART	dat|sg|neut	10	PP	_	_
+9	Beispiel	Beispiel	_	NN	dat|sg|neut	8	PN	_	_
+10	in	in	_	APPR	_	6	PP	_	_
+11	der	der	_	ART	dat|sg|fem	12	DET	_	_
+12	Stadt	Stadt	_	NN	dat|sg|fem	10	PN	_	_
+13	Bremen	Bremen	_	NE	nom|sg|neut	12	APP	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Firmen	Firma	_	NN	nom|pl|fem	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Schwer-Behinderten-Vertretung	Schwer-Behinderten-Vertretung	_	NN	acc|sg|fem	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Vertretung	Vertretung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	besteht	bestehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	aus	aus	_	APPR	_	3	OBJP	_	_
+5	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+6	oder	oder	_	KON	_	5	KON	_	_
+7	mehreren	mehrere	_	ADJA	dat|sg|fem|comp	6	CJ	_	_
+8	Personen	Person	_	NN	nom|pl|fem	4	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	acc|sg|neut	2	SUBJ	_	_
+2	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	diese	dieser	_	PDAT	nom|pl|fem	4	DET	_	_
+4	Personen	Person	_	NN	nom|pl|fem	2	OBJA	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Firma	Firma	_	NN	dat|sg|fem	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	unterstützen	unterstützen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	schwer-behinderte	schwer-behindert	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	vertreten	vertreten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|neut	4	DET	_	_
+4	Interessen	Interesse	_	NN	acc|pl|neut	2	OBJA	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	schwer-behinderten	schwer-behindert	_	ADJA	dat|pl|neut|pos	7	ATTR	_	_
+7	Mitarbeitern	Mitarbeiter	_	NN	dat|pl|neut	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Schwer-Behinderten-Vertreter	Schwer-Behinderten-Vertreter	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	alle	aller	_	PIAT	acc|pl|fem	6	DET	_	_
+5	4	4	_	CARD	_	6	ATTR	_	_
+6	Jahre	Jahr	_	NN	acc|pl|neut	8	ZEIT	_	_
+7	neu	neu	_	ADJD	pos	8	ADV	_	_
+8	gewählt	wählen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aktuell	Aktuell	_	ADJD	pos	2	ADV	_	_
+2	finden	finden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|*	4	DET	_	_
+4	Neu-Wahlen	Neu-Wahl	_	NN	nom|pl|*	2	SUBJ	_	_
+5	statt	statt	_	PTKVZ	_	2	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Haben	Haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+2	alle	aller	_	PIAT	nom|pl|fem	3	DET	_	_
+3	Firmen	Firma	_	NN	nom|pl|fem	1	PRED	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Schwer-Behinderten-Vertretung	Schwer-Behinderten-Vertretung	_	NN	acc|sg|fem	3	GMOD	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Schwer-Behinderten-Vertretung	Schwer-Behinderten-Vertretung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	nur	nur	_	ADV	_	5	ADV	_	_
+5	Firmen	Firma	_	NN	acc|pl|fem	3	SUBJ	_	_
+6	mit	mit	_	APPR	_	5	PP	_	_
+7	5	5	_	CARD	_	6	PN	_	_
+8	oder	oder	_	KON	_	5	KON	_	_
+9	mehr	mehr	_	ADV	_	8	ADV	_	_
+10	schwer-behinderten	schwer-behindert	_	ADJA	dat|pl|neut|pos	11	ATTR	_	_
+11	Mitarbeitern	Mitarbeiter	_	NN	dat|pl|neut	3	OBJA	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	OBJA	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	"Schwer-Behinderung"	"Schwer-Behinderung"	_	NE	nom|sg|*	2	SUBJ	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Wort	Wort	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	aus	aus	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Sozial-Gesetz-Buch	Sozial-Gesetz-Buch	_	NN	dat|sg|masc	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Danach	danach	_	PROAV	_	2	DET	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Behinderungen	Behinderung	_	NN	nom|pl|fem	2	ETH	_	_
+4	verschieden	verschieden	_	ADJD	_	5	ADV	_	_
+5	schwer	schwer	_	ADJD	pos	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	3	DET	_	_
+2	leichte	leicht	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Behinderung	Behinderung	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PRED	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	wenn	wenn	_	KOUS	_	12	KONJ	_	_
+9	man	man	_	PIS	nom|sg|*	12	SUBJ	_	_
+10	eine	ein	_	ART	acc|sg|fem	11	DET	_	_
+11	Gehhilfe	Gehhilfe	_	NN	acc|sg|fem	12	OBJA	_	_
+12	braucht	brauchen	_	VVFIN	sg|3|pres|ind	4	NEB	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+2	sehr	sehr	_	ADV	_	3	ADV	_	_
+3	schwere	schwer	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+4	Behinderung	Behinderung	_	NN	nom|sg|fem	5	PRED	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	zum	zu	_	APPRART	dat|sg|neut	5	PRED	_	_
+7	Beispiel	Beispiel	_	NN	dat|sg|neut	6	PN	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	wenn	wenn	_	KOUS	_	14	KONJ	_	_
+10	man	man	_	PIS	nom|sg|*	14	SUBJ	_	_
+11	dauerhaft	dauerhaft	_	ADJD	pos	14	ADV	_	_
+12	im	in	_	APPRART	dat|sg|masc	14	PP	_	_
+13	Rollstuhl	Rollstuhl	_	NN	dat|sg|masc	12	PN	_	_
+14	sitzt	sitzen	_	VVFIN	sg|3|pres|ind	5	NEB	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Versorgungs-Amt	Versorgungs-Amt	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	kümmert	kümmern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|sg|3	3	OBJA	_	_
+5	um	um	_	APPR	_	3	PP	_	_
+6	die	der	_	ART	acc|pl|fem	7	DET	_	_
+7	Angelegenheiten	Angelegenheit	_	NN	acc|pl|fem	5	PN	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	Menschen	Mensch	_	NN	dat|pl|masc	8	PN	_	_
+10	mit	mit	_	APPR	_	9	PP	_	_
+11	einer	ein	_	ART	dat|sg|fem	12	DET	_	_
+12	Schwer-Behinderung	Schwer-Behinderung	_	NN	dat|sg|fem	10	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Amt	Amt	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	bestimmt	bestimmen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	6	ADV	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	Schwere-Grad	Schwere-Grad	_	NN	acc|sg|masc	3	OBJA	_	_
+7	einer	ein	_	ART	gen|sg|fem	8	DET	_	_
+8	Behinderung	Behinderung	_	NN	gen|sg|fem	6	GMOD	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	bestimmt	bestimmen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Amt	Amt	_	NN	nom|sg|neut	2	OBJA	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	Schwere-Grad	Schwere-Grad	_	NN	acc|sg|masc	4	GMOD	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	OBJA	_	_
+2	benutzt	benutzen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	dazu	dazu	_	PROAV	_	2	DET	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Zahlen-Werte	Zahlen-Wert	_	NN	acc|sg|fem	2	OBJD	_	_
+6	20	20	_	CARD	_	5	APP	_	_
+7	bis	bis	_	KON	_	6	KON	_	_
+8	100	100	_	CARD	_	7	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Zahlen-Wert	Zahlen-Wert	_	NN	nom|sg|masc	4	OBJA	_	_
+3	20	20	_	CARD	_	2	APP	_	_
+4	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Person	Person	_	NN	nom|sg|fem	0	S	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	4	NEB	_	_
+9	eine	ein	_	ART	acc|sg|fem	11	DET	_	_
+10	leichte	leicht	_	ADJA	acc|sg|fem|pos	11	ATTR	_	_
+11	Behinderung	Behinderung	_	NN	acc|sg|fem	8	OBJA	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Zahlen-Wert	Zahlen-Wert	_	NN	nom|sg|masc	4	OBJA	_	_
+3	100	100	_	CARD	_	2	APP	_	_
+4	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Person	Person	_	NN	nom|sg|fem	0	S	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	4	NEB	_	_
+9	eine	ein	_	ART	acc|sg|fem	12	DET	_	_
+10	sehr	sehr	_	ADV	_	11	ADV	_	_
+11	schwere	schwer	_	ADJA	acc|sg|fem|pos	12	ATTR	_	_
+12	Behinderung	Behinderung	_	NN	acc|sg|fem	0	S	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ab	ab	_	APPR	_	6	PP	_	_
+2	einem	ein	_	ART	dat|sg|masc	3	DET	_	_
+3	Zahlen-Wert	Zahlen-Wert	_	NN	dat|sg|masc	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	50	50	_	CARD	_	4	PN	_	_
+6	gilt	gelten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	ein	ein	_	ART	nom|sg|masc	8	DET	_	_
+8	Mensch	Mensch	_	NN	nom|sg|masc	6	SUBJ	_	_
+9	als	als	_	APPR	_	6	PP	_	_
+10	schwer-behindert	schwer-behindern	_	ADJD	pos	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Außerdem	außerdem	_	PROAV	_	4	DET	_	_
+2	gilt	gelten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Ab	ab	_	APPR	_	9	PP	_	_
+5	einem	ein	_	ART	dat|sg|masc	6	DET	_	_
+6	Zahlen-Wert	Zahlen-Wert	_	NN	dat|sg|masc	4	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	30	30	_	CARD	_	7	PN	_	_
+9	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+10	es	es	_	PPER	nom|sg|neut|3	9	SUBJ	_	_
+11	eine	ein	_	ART	acc|sg|fem	12	DET	_	_
+12	Gleichstellung	Gleichstellung	_	NN	acc|sg|fem	9	OBJA	_	_
+13	zur	zu	_	APPRART	dat|sg|fem	12	PP	_	_
+14	Schwer-Behinderung	Schwer-Behinderung	_	NN	dat|sg|fem	13	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Gleichgestellte	gleichgestellt	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	acc|pl|fem	6	SUBJ	_	_
+6	haben	haben	_	VAFIN	pl|3|pres|ind	2	S	_	_
+7	ähnliche	ähnlich	_	ADJA	nom|pl|masc|pos	8	ATTR	_	_
+8	Rechte	Recht	_	NN	nom|pl|masc	6	OBJA	_	_
+9	wie	wie	_	KOKOM	_	8	KOM	_	_
+10	schwer-behinderte	schwer-behindert	_	ADJA	acc|pl|fem|pos	11	ATTR	_	_
+11	Menschen	Mensch	_	NN	acc|pl|fem	9	CJ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	acc|pl|neut	2	DET	_	_
+2	Rechte	Recht	_	NN	acc|pl|neut	3	OBJA	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Sozial-Gesetz-Buch	Sozial-Gesetz-Buch	_	NN	dat|sg|masc	1	PN	_	_
+3	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Schwer-behinderte	Schwer-behindert	_	NN	nom|sg|masc	9	AUX	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	gleichgestellte	gleichgestellt	_	ADJA	nom|pl|masc|pos	8	ATTR	_	_
+8	Menschen	Mensch	_	NN	nom|pl|masc	6	CJ	_	_
+9	können	können	_	VMFIN	pl|3|pres|ind	3	S	_	_
+10	am	an	_	APPRART	dat|sg|masc	14	PP	_	_
+11	Arbeitsplatz	Arbeitsplatz	_	NN	dat|sg|masc	10	PN	_	_
+12	ähnliche	ähnlich	_	ADJA	nom|pl|masc|pos	13	ATTR	_	_
+13	Dinge	Ding	_	NN	nom|pl|masc	11	GMOD	_	_
+14	fordern	fordern	_	VVFIN	pl|3|pres|ind	9	KON	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dazu	dazu	_	PROAV	_	2	DET	_	_
+2	gehören	gehören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	OBJP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	diese	dieser	_	PDAT	nom|sg|fem	6	DET	_	_
+6	Dinge	Ding	_	NN	nom|sg|fem	4	GMOD	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	PPER	_	0	ROOT	_	_
+2	ein	ein	_	ART	nom|sg|masc	3	DET	_	_
+3	Arbeitsplatz	Arbeitsplatz	_	NN	nom|sg|masc	1	APP	_	_
+4	ohne	ohne	_	APPR	_	3	PP	_	_
+5	Hindernisse	Hindernis	_	NN	acc|pl|neut	4	PN	_	_
+
+1	•	LI	_	CARD	_	0	ROOT	_	_
+2	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+3	besonderer	besonderer	_	ADJA	nom|sg|masc|pos	4	ATTR	_	_
+4	Kündigungs-Schutz	Kündigungs-Schutz	_	NN	nom|sg|masc	1	GMOD	_	_
+
+1	•	LI	_	APPR	_	0	ROOT	_	_
+2	zusätzlicher	zusätzlich	_	ADJA	gen|sg|fem|pos	3	ATTR	_	_
+3	Urlaub	Urlaub	_	NN	gen|sg|fem	1	PN	_	_
+
+1	•	LI	_	ADJA	nom|pl|fem|pos	0	ROOT	_	_
+2	Reha-Maßnahmen	Reha-Maßnahme	_	NN	nom|pl|fem	0	S	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	beginnt	beginnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Arbeit	Arbeit	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	der	der	_	ART	gen|pl|neut	6	DET	_	_
+6	Schwer-Behinderten-Vertreter	Schwer-Behinderten-Vertreter	_	NN	gen|pl|neut	4	GMOD	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	unterstützen	unterstützen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	diese	dieser	_	PDAT	acc|pl|fem	5	DET	_	_
+4	beiden	beide	_	PIAT	acc|pl|fem	5	DET	_	_
+5	Mitarbeiter-Gruppen	Mitarbeiter-Gruppe	_	NN	acc|pl|fem	2	OBJA	_	_
+6	bei	bei	_	APPR	_	2	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Durchsetzung	Durchsetzung	_	NN	dat|sg|fem	6	PN	_	_
+9	ihrer	ihr	_	PPOSAT	gen|pl|masc	10	DET	_	_
+10	Rechte	Recht	_	NN	gen|pl|masc	8	GMOD	_	_
+11	am	an	_	APPRART	dat|sg|masc	10	PP	_	_
+12	Arbeitsplatz	Arbeitsplatz	_	NN	dat|sg|masc	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Außerdem	außerdem	_	PROAV	_	3	DET	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Schwer-Behinderten-Vertreter	Schwer-Behinderten-Vertreter	_	NN	nom|pl|masc	2	OBJA	_	_
+4	diese	dieser	_	PDAT	acc|pl|fem	5	DET	_	_
+5	Aufgaben	Aufgabe	_	NN	acc|pl|fem	2	OBJA	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	CARD	_	0	ROOT	_	_
+2	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	setzen	setzen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|pl|3	3	OBJA	_	_
+5	für	für	_	APPR	_	3	PP	_	_
+6	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+7	Teilhabe	Teilhabe	_	NN	acc|sg|fem	5	PN	_	_
+8	in	in	_	APPR	_	3	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Firma	Firma	_	NN	dat|sg|fem	8	PN	_	_
+11	ein	ein	_	PTKVZ	_	3	AVZ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	planen	planen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Weiterbildungen	Weiterbildung	_	NN	acc|pl|fem	3	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	pl|3|pres|ind	0	ROOT	_	_
+2	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	bei	bei	_	APPR	_	3	PP	_	_
+5	Bewerbungs-Gesprächen	Bewerbungs-Gespräch	_	NN	dat|pl|masc	4	PN	_	_
+6	dabei	dabei	_	PROAV	_	3	DET	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	beraten	beraten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	bei	bei	_	APPR	_	3	PP	_	_
+5	Verträgen	Vertrag	_	NN	dat|pl|masc	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	pl|3|pres|ind	0	ROOT	_	_
+2	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Ansprech-Partner	Ansprech-Partner	_	NN	nom|pl|masc	3	PRED	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Vertrauens-Person	Vertrauens-Person	_	NN	nom|pl|masc	5	CJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Alle	aller	_	PIAT	nom|sg|fem	2	DET	_	_
+2	Mitarbeiter	Mitarbeiter	_	NN	nom|sg|fem	6	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	einer	ein	_	ART	dat|sg|fem	5	DET	_	_
+5	Firma	Firma	_	NN	dat|sg|fem	3	PN	_	_
+6	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+7	Schwer-Behinderten-Vertreter	Schwer-Behinderten-Vertreter	_	NN	nom|pl|masc	8	PRED	_	_
+8	werden	werden	_	VAINF	_	6	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	wie	wie	_	PWAV	_	3	ADV	_	_
+3	gesagt	sagen	_	VVPP	_	1	CJ	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+
+1	Aktuell	Aktuell	_	ADJD	pos	2	ADV	_	_
+2	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	neue	neu	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Vertreter	Vertreter	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	gewählt	wählen	_	VVPP	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Noch	noch	_	ADV	_	2	ADV	_	_
+2	bis	bis	_	APPR	_	7	PP	_	_
+3	zum	zu	_	APPRART	dat|sg|masc	2	PN	_	_
+4	30.	30.	_	ADJA	dat|sg|masc|pos	5	ATTR	_	_
+5	November	November	_	NN	dat|sg|masc	3	PN	_	_
+6	2018	2018	_	CARD	_	5	ZEIT	_	_
+7	finden	finden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+8	die	der	_	ART	acc|pl|fem	9	DET	_	_
+9	Wahlen	Wahl	_	NN	acc|pl|fem	7	OBJA	_	_
+10	statt	statt	_	PTKVZ	_	7	AVZ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	taz	taz	_	NN	nom|sg|fem	10	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|sg|3	10	OBJD	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Wahl	Wahl	_	NN	nom|sg|fem	10	OBJA	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	Bremen	Bremen	_	NE	dat|sg|neut	7	PN	_	_
+9	genauer	genau	_	ADJD	comp	10	ADV	_	_
+10	angeschaut	anschauen	_	VVPP	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Firmen	Firma	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	bei	bei	_	APPR	_	3	PP	_	_
+5	dieser	dieser	_	PDAT	dat|sg|fem	6	DET	_	_
+6	Wahl	Wahl	_	NN	dat|sg|fem	4	PN	_	_
+7	mit	mit	_	PTKVZ	_	3	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Insgesamt	insgesamt	_	ADV	_	2	ADV	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	1700	1700	_	CARD	_	4	ATTR	_	_
+4	schwer-behinderte	schwer-behindern	_	ADJA	acc|pl|fem|pos	7	ATTR	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	gleichgestellte	gleichgestellt	_	ADJA	acc|pl|fem|pos	5	CJ	_	_
+7	Personen	Person	_	NN	acc|pl|fem	2	SUBJ	_	_
+8	in	in	_	APPR	_	7	PP	_	_
+9	Bremen	Bremen	_	NE	dat|sg|neut	8	PN	_	_
+10	ihre	ihr	_	PPOSAT	acc|sg|fem	11	DET	_	_
+11	Schwer-Behinderten-Vertretung	Schwer-Behinderten-Vertretung	_	NN	acc|sg|fem	12	OBJA	_	_
+12	wählen	wählen	_	VVINF	_	2	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	PIS	nom|sg|fem	4	PRED	_	_
+2	dieser	dieser	_	PDAT	gen|pl|fem	3	DET	_	_
+3	Firmen	Firma	_	NN	gen|pl|fem	1	GMOD	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Sender	Sender	_	NN	nom|sg|masc	4	PAR	_	_
+7	"Radio	"Radio	_	NE	nom|sg|masc	6	APP	_	_
+8	Bremen"	Bremen"	_	NE	nom|sg|masc	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Dagmar	Dagmar	_	NE	nom|sg|fem	2	ETH	_	_
+4	Schwärmer	Schwärmer	_	NE	nom|sg|fem	3	APP	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Schwer-Behinderten-Vertreterin	Schwer-Behinderten-Vertreterin	_	NN	nom|sg|fem	2	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	gerade	gerade	_	ADV	_	6	ADV	_	_
+4	viel	viel	_	PIS	*|*|*	6	OBJA	_	_
+5	zu	zu	_	PTKZU	_	6	PART	_	_
+6	tun	tun	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|sg|fem|3	3	SUBJ	_	_
+3	muss	muss	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Wahl	Wahl	_	NN	acc|sg|fem	0	S	_	_
+6	planen	planen	_	VVINF	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Gleichzeitig	gleichzeitig	_	ADJD	pos	2	ADV	_	_
+2	muss	muss	_	ADJD	pos	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	8	OBJA	_	_
+4	ihre	ihr	_	PPOSAT	acc|pl|fem	5	DET	_	_
+5	Aufgaben	Aufgabe	_	NN	acc|pl|fem	0	S	_	_
+6	als	als	_	APPR	_	8	PP	_	_
+7	Vertreterin	Vertreterin	_	NN	nom|sg|fem	6	PN	_	_
+8	erfüllen	erfüllen	_	VVINF	_	2	OBJI	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	über	über	_	APPR	_	2	PP	_	_
+4	ihre	ihr	_	PPOSAT	acc|pl|fem	5	DET	_	_
+5	Aufgaben	Aufgabe	_	NN	acc|pl|fem	3	PN	_	_
+6	bei	bei	_	APPR	_	5	PP	_	_
+7	"Radio	"Radio	_	NE	*|*|*	6	PN	_	_
+8	Bremen"	Bremen"	_	NE	dat|sg|neut	7	APP	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Ich	ich	_	PPER	nom|sg|*|1	11	SUBJ	_	_
+11	mache	machen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+12	auf	auf	_	APPR	_	11	PP	_	_
+13	das	der	_	ART	acc|sg|neut	14	DET	_	_
+14	Thema	Thema	_	NN	acc|sg|neut	12	PN	_	_
+15	Inklusion	Inklusion	_	NN	nom|sg|fem	14	APP	_	_
+16	aufmerksam	aufmerksam	_	ADJD	pos	11	ADV	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+2	frage	fragen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+3	mich	mich	_	PRF	acc|sg|1	2	OBJA	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Wie	wie	_	PWAV	_	6	ADV	_	_
+6	können	können	_	VMFIN	pl|1|pres|ind	0	S	_	_
+7	wir	wir	_	PPER	nom|pl|*|1	6	SUBJ	_	_
+8	die	der	_	ART	acc|pl|fem	9	DET	_	_
+9	Bedingungen	Bedingung	_	NN	acc|pl|fem	10	OBJA	_	_
+10	verbessern	verbessern	_	VVINF	_	6	AUX	_	_
+11	für	für	_	APPR	_	10	PP	_	_
+12	Menschen	Mensch	_	NN	acc|pl|masc	11	PN	_	_
+13	mit	mit	_	APPR	_	12	PP	_	_
+14	Behinderungen	Behinderung	_	NN	dat|pl|fem	13	PN	_	_
+15	in	in	_	APPR	_	14	PP	_	_
+16	unserer	unser	_	PPOSAT	dat|sg|fem	17	DET	_	_
+17	Firma	Firma	_	NN	dat|sg|fem	15	PN	_	_
+18	?	--	_	$.	_	0	ROOT	_	_
+
+1	Manchmal	manchmal	_	ADV	_	2	ADV	_	_
+2	muss	muss	_	VVFIN	sg|1|pres|ind	0	S	_	_
+3	ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+4	dafür	dafür	_	PROAV	_	3	DET	_	_
+5	immer	immer	_	ADV	_	6	ADV	_	_
+6	wieder	wieder	_	ADV	_	9	ADV	_	_
+7	dieselben	derselbe	_	PDAT	nom|pl|neut	8	DET	_	_
+8	Dinge	Ding	_	NN	nom|pl|neut	9	OBJA	_	_
+9	sagen	sagen	_	VVINF	pl|3|pres|ind	2	OBJI	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nur	nur	_	ADV	_	2	ADV	_	_
+2	so	so	_	ADV	_	3	ADV	_	_
+3	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	Inklusion	Inklusion	_	NN	nom|sg|fem	3	SUBJ	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	Teil	Teil	_	NN	nom|sg|masc	3	PRED	_	_
+7	des	der	_	ART	gen|sg|masc	8	DET	_	_
+8	Alltags	Alltag	_	NN	gen|sg|masc	6	GMOD	_	_
+9	in	in	_	APPR	_	8	PP	_	_
+10	der	der	_	ART	dat|sg|fem	11	DET	_	_
+11	Firma	Firma	_	NN	dat|sg|fem	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	muss	muss	_	VVFIN	sg|1|pres|ind	0	S	_	_
+4	ich	ich	_	PPER	nom|sg|*|1	3	SUBJ	_	_
+5	immer	immer	_	ADV	_	6	ADV	_	_
+6	wieder	wieder	_	ADV	_	3	ADV	_	_
+7	sagen	sagen	_	VVFIN	pl|3|pres|ind	3	REL	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Bewerber	Bewerber	_	NN	nom|pl|masc	0	S	_	_
+10	sollen	sollen	_	VMFIN	pl|3|pres|ind	3	KON	_	_
+11	nur	nur	_	ADV	_	12	ADV	_	_
+12	nach	nach	_	APPR	_	15	PP	_	_
+13	ihren	ihr	_	PPOSAT	dat|pl|fem	14	DET	_	_
+14	Fähigkeiten	Fähigkeit	_	NN	dat|pl|fem	12	PN	_	_
+15	beurteilt	beurteilen	_	VVPP	_	16	AUX	_	_
+16	werden	werden	_	VAINF	_	10	AUX	_	_
+17	!	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	6	OBJA	_	_
+2	für	für	_	APPR	_	1	PP	_	_
+3	Fähigkeiten	Fähigkeit	_	NN	acc|pl|fem	2	PN	_	_
+4	und	und	_	KON	_	1	KON	_	_
+5	Ziele	Ziel	_	NN	acc|pl|neut	4	CJ	_	_
+6	braucht	brauchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	ein	ein	_	ART	nom|sg|masc	8	DET	_	_
+8	Schwer-Behinderten-Vertreter	Schwer-Behinderten-Vertreter	_	NN	nom|sg|masc	6	PAR	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Dagmar	dagmar	_	NE	nom|sg|neut	3	OBJA	_	_
+2	Schwärmer	Schwärmer	_	NE	nom|sg|neut	1	APP	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Schwer-Behinderten-Vertreter	Schwer-Behinderten-Vertreter	_	NN	nom|pl|masc	6	SUBJ	_	_
+6	arbeiten	arbeiten	_	VVFIN	pl|3|pres|ind	3	S	_	_
+7	ehrenamtlich	ehrenamtlich	_	ADJD	pos	6	ADV	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	also	also	_	ADV	_	10	ADV	_	_
+10	freiwillig	freiwillig	_	ADJD	pos	7	KON	_	_
+11	und	und	_	KON	_	10	KON	_	_
+12	manchmal	manchmal	_	ADV	_	13	ADV	_	_
+13	ohne	ohne	_	APPR	_	11	CJ	_	_
+14	Bezahlung	Bezahlung	_	NN	acc|sg|fem	13	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Trotzdem	trotzdem	_	PROAV	_	5	DET	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+4	viele	vieler	_	PIAT	acc|pl|fem	5	DET	_	_
+5	Aufgaben	Aufgabe	_	NN	acc|pl|fem	7	OBJA	_	_
+6	zu	zu	_	PTKZU	_	7	PART	_	_
+7	erledigen	erledigen	_	VVINF	_	2	OBJI	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	also	also	_	ADV	_	6	ADV	_	_
+4	viel	viel	_	PIAT	*|*|*	5	ATTR	_	_
+5	Einsatz	Einsatz	_	NN	acc|sg|masc	6	OBJA	_	_
+6	zeigen	zeigen	_	VVFIN	_	2	KON	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dagmar	dagmar	_	NE	nom|sg|neut	3	OBJA	_	_
+2	Schwärmer	Schwärmer	_	NE	nom|sg|neut	1	APP	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Mein	mein	_	PPOSAT	nom|sg|neut	6	DET	_	_
+6	Ziel	Ziel	_	NN	nom|sg|neut	7	PRED	_	_
+7	ist	sein	_	VAFIN	sg|3|pres|ind	3	S	_	_
+8	zum	zu	_	APPRART	dat|sg|neut	11	PP	_	_
+9	Beispiel	Beispiel	_	NN	dat|sg|neut	8	PN	_	_
+10	ein	ein	_	ART	nom|sg|neut	11	DET	_	_
+11	Wandel	Wandel	_	NN	nom|sg|neut	7	ETH	_	_
+12	in	in	_	APPR	_	11	PP	_	_
+13	der	der	_	ART	dat|sg|fem	14	DET	_	_
+14	Gesellschaft	Gesellschaft	_	NN	dat|sg|fem	12	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+2	will	wollen	_	VMFIN	sg|1|pres|ind	0	S	_	_
+3	mehr	mehr	_	PIAT	*|*|*	4	DET	_	_
+4	Zusammenhalt	Zusammenhalt	_	NN	acc|sg|masc	2	OBJA	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Inklusion	Inklusion	_	NN	acc|sg|fem	5	CJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Damit	damit	_	PROAV	_	2	DET	_	_
+2	fange	fangen	_	VVFIN	sg|1|pres|ind	0	S	_	_
+3	ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+4	bei	bei	_	APPR	_	2	PP	_	_
+5	"Radio	"Radio	_	NE	dat|sg|neut	4	PN	_	_
+6	Bremen"	Bremen"	_	NE	dat|sg|neut	5	APP	_	_
+7	an	an	_	PTKVZ	_	2	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_

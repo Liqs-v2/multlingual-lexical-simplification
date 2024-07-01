@@ -1,0 +1,330 @@
+1	Großes	groß	_	ADJA	nom|sg|neut|pos	2	ATTR	_	_
+2	Fest	Fest	_	NN	nom|sg|neut	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Kiel	Kiel	_	NE	dat|sg|neut	3	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Kiel	Kiel	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	großes	groß	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Fest	Fest	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kiel	Kiel	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Haupt·stadt	Haupt·stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieses	dieser	_	PDAT	nom|sg|neut	2	DET	_	_
+2	Fest	Fest	_	NN	nom|sg|neut	3	PRED	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Kieler	Kieler	_	ADJA	*|*|*|pos	6	ATTR	_	_
+6	Woche	Woche	_	NN	dat|sg|fem	3	ZEIT	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	Kieler	Kieler	_	ADJA	*|*|*|pos	3	ATTR	_	_
+3	Woche	Woche	_	NN	nom|sg|fem	4	ZEIT	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	jedes	jeder	_	PIAT	nom|sg|neut	6	DET	_	_
+6	Jahr	Jahr	_	NN	nom|sg|neut	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+4	beginnt	beginnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	7	DET	_	_
+6	Kieler	Kieler	_	ADJA	*|*|*|pos	7	ATTR	_	_
+7	Woche	Woche	_	NN	nom|sg|fem	4	ZEIT	_	_
+8	am	an	_	APPRART	dat|sg|masc	4	PP	_	_
+9	16.	16.	_	ADJA	dat|sg|masc|pos	10	ATTR	_	_
+10	Juni	Juni	_	NN	dat|sg|masc	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	4	DET	_	_
+3	Kieler	Kieler	_	ADJA	*|*|*|pos	4	ATTR	_	_
+4	Woche	Woche	_	NN	nom|sg|fem	5	ZEIT	_	_
+5	endet	enden	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+6	am	an	_	APPRART	dat|sg|masc	5	PP	_	_
+7	24.	24.	_	ADJA	dat|sg|masc|pos	8	ATTR	_	_
+8	Juni	Juni	_	NN	dat|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	OBJD	_	_
+3	besuchen	besuchen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	jedes	jeder	_	PIAT	acc|sg|neut	5	DET	_	_
+5	Jahr	Jahr	_	NN	acc|sg|neut	3	ZEIT	_	_
+6	die	der	_	ART	acc|pl|neut	8	DET	_	_
+7	Kieler	Kieler	_	ADJA	*|*|*|pos	8	ATTR	_	_
+8	Woche	Woche	_	NN	acc|sg|fem	3	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Chef	Chef	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	Kieler	Kieler	_	ADJA	*|*|*|pos	6	ATTR	_	_
+6	Woche	Woche	_	NN	dat|sg|fem	3	PN	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Vielleicht	vielleicht	_	ADV	_	11	ADV	_	_
+11	besuchen	besuchen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+12	in	in	_	APPR	_	11	PP	_	_
+13	diesem	dieser	_	PDAT	dat|sg|neut	14	DET	_	_
+14	Jahr	Jahr	_	NN	dat|sg|neut	12	PN	_	_
+15	3	3	_	CARD	_	16	ATTR	_	_
+16	Millionen	Million	_	NN	nom|pl|fem	17	ATTR	_	_
+17	Menschen	Mensch	_	NN	nom|pl|masc	11	SUBJ	_	_
+18	die	der	_	ART	acc|sg|fem	20	DET	_	_
+19	Kieler	Kieler	_	ADJA	*|*|*|pos	20	ATTR	_	_
+20	Woche	Woche	_	NN	acc|sg|fem	11	SUBJ	_	_
+21	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Veranstaltungen	Veranstaltung	_	NN	nom|pl|fem	0	S	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	Kieler	Kieler	_	ADJA	*|*|*|pos	4	ATTR	_	_
+4	Woche	Woche	_	NN	dat|sg|fem	1	PN	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	sehr	sehr	_	ADV	_	8	ADV	_	_
+8	viele	vieler	_	PIAT	acc|pl|fem	9	DET	_	_
+9	Veranstaltungen	Veranstaltung	_	NN	acc|pl|fem	5	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	Segel·regatten	Segel·regatte	_	NN	nom|pl|fem	0	S	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Segel·regatten	Segel·regatte	_	NN	nom|pl|fem	2	PRED	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Wett·fahrten	Wett·fahrte	_	NN	nom|pl|fem	2	PRED	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Segel·boote	Segel·boot	_	NN	acc|pl|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Segel·regatten	Segel·regatte	_	NN	dat|pl|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	in	in	_	APPR	_	9	PP	_	_
+6	diesem	dieser	_	PDAT	dat|sg|neut	7	DET	_	_
+7	Jahr	Jahr	_	NN	dat|sg|neut	5	PN	_	_
+8	4000	4000	_	CARD	_	9	ATTR	_	_
+9	Sportler	Sportler	_	NN	nom|pl|masc	4	PAR	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Sportler	Sportler	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	aus	aus	_	APPR	_	3	PRED	_	_
+5	60	60	_	CARD	_	6	ATTR	_	_
+6	Ländern	Land	_	NN	dat|pl|neut	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	Kieler	Kieler	_	ADJA	*|*|*|pos	4	ATTR	_	_
+4	Woche	Woche	_	NN	dat|sg|fem	1	PN	_	_
+5	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+6	die	der	_	ART	nom|pl|masc	7	DET	_	_
+7	Besucher	Besucher	_	NN	nom|pl|masc	12	ETH	_	_
+8	auch	auch	_	ADV	_	11	ADV	_	_
+9	viele	vieler	_	PIAT	nom|pl|masc	11	DET	_	_
+10	andere	anderer	_	ADJA	nom|pl|masc|pos	11	ATTR	_	_
+11	Dinge	Ding	_	NN	nom|pl|masc	12	OBJA	_	_
+12	machen	machen	_	VVINF	_	5	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	Kieler	Kieler	_	ADJA	*|*|*|pos	4	ATTR	_	_
+4	Woche	Woche	_	NN	dat|sg|fem	1	PN	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+8	zum	zu	_	APPRART	dat|sg|neut	5	PP	_	_
+9	Beispiel	Beispiel	_	NN	dat|sg|neut	8	PN	_	_
+10	Essen	Essen	_	NN	dat|sg|neut	8	GRAD	_	_
+11	aus	aus	_	APPR	_	10	PP	_	_
+12	vielen	vieler	_	PIAT	dat|pl|masc	14	DET	_	_
+13	verschiedenen	verschieden	_	ADJA	dat|pl|masc|pos	14	ATTR	_	_
+14	Ländern	Land	_	NN	dat|pl|masc	11	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	bei	bei	_	APPR	_	6	PP	_	_
+3	der	der	_	ART	dat|sg|fem	5	DET	_	_
+4	Kieler	Kieler	_	ADJA	*|*|*|pos	5	ATTR	_	_
+5	Woche	Woche	_	NN	dat|sg|fem	2	PN	_	_
+6	gibt	geben	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	viele	vieler	_	PIAT	acc|pl|masc	9	DET	_	_
+9	Musik·konzerte	Musik·konzert	_	NN	acc|pl|masc	6	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Von	von	_	APPR	_	0	S	_	_
+3	Tim	Tim	_	NE	nom|sg|masc	2	PN	_	_
+4	Bendzko	Bendzko	_	NE	dat|sg|masc	3	APP	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|sg|*	0	ROOT	_	_
+2	Und	und	_	KON	_	0	S	_	_
+3	von	von	_	APPR	_	2	CJ	_	_
+4	Sasha	Sasha	_	NE	dat|sg|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Besucher	Besucher	_	NN	nom|pl|masc	0	S	_	_
+7	auf	auf	_	APPR	_	13	PP	_	_
+8	der	der	_	ART	dat|sg|fem	10	DET	_	_
+9	Kieler	Kieler	_	ADJA	*|*|*|pos	10	ATTR	_	_
+10	Woche	Woche	_	NN	dat|sg|fem	7	PN	_	_
+11	auch	auch	_	ADV	_	12	ADV	_	_
+12	Fußball	Fußball	_	NN	nom|sg|masc	13	OBJA	_	_
+13	gucken	gucken	_	VVINF	_	4	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+6	Public	--	_	NE	nom|sg|*	4	PRED	_	_
+7	Viewing	Viewing	_	NE	dat|sg|*	6	APP	_	_
+8	auf	auf	_	APPR	_	4	PRED	_	_
+9	der	der	_	ART	dat|sg|fem	11	DET	_	_
+10	Kieler	Kieler	_	ADJA	*|*|*|pos	11	ATTR	_	_
+11	Woche	Woche	_	NN	dat|sg|fem	8	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Public	--	_	NE	nom|sg|*	3	SUBJ	_	_
+2	Viewing	Viewing	_	NE	nom|sg|*	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	englisch	englisch	_	ADJD	pos	3	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Public	--	_	NE	nom|sg|*	4	PRED	_	_
+3	Viewing	Viewing	_	NE	nom|sg|*	2	APP	_	_
+4	heißt	heißen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Öffentliches	öffentlich	_	ADJA	nom|sg|neut|pos	7	ATTR	_	_
+7	Anschauen	anschauen	_	NN	nom|sg|neut	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beim	bei	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Public	--	_	NN	dat|sg|neut	1	PN	_	_
+3	Viewing	Viewing	_	NE	_	2	APP	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	einen	ein	_	ART	acc|sg|masc	8	DET	_	_
+7	großen	groß	_	ADJA	acc|sg|masc|pos	8	ATTR	_	_
+8	Bildschirm	Bildschirm	_	NN	acc|sg|masc	4	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	gucken	gucken	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	gemeinsam	gemeinsam	_	ADJD	pos	3	ADV	_	_
+5	auf	auf	_	APPR	_	3	PP	_	_
+6	diesen	dieser	_	PDAT	acc|sg|masc	7	DET	_	_
+7	Bildschirm	Bildschirm	_	NN	acc|sg|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	bei	bei	_	APPR	_	0	S	_	_
+4	einem	ein	_	ART	dat|sg|neut	5	DET	_	_
+5	Fußball·spiel	Fußball·spiel	_	NN	dat|sg|neut	3	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieses	dieser	_	PDAT	nom|sg|neut	2	DET	_	_
+2	Public	--	_	NN	nom|sg|neut	4	SUBJ	_	_
+3	Viewing	Viewing	_	NE	nom|sg|neut	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	zur	zu	_	APPRART	dat|sg|fem	4	PRED	_	_
+6	Fußball-WM	Fußball-WM	_	NN	dat|sg|fem	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fußball-WM	Fußball-WM	_	NN	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Fußball-Welt·meisterschaft	Fußball-Welt·meisterschaft	_	NN	acc|sg|fem	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Fußball-WM	Fußball-WM	_	NN	dat|sg|fem	1	PN	_	_
+4	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|fem	7	DET	_	_
+6	besten	gut	_	ADJA	nom|pl|fem|pos	7	ATTR	_	_
+7	Fußball·mannschaften	Fußball·mannschaft	_	NN	nom|pl|fem	4	OBJA	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Welt	Welt	_	NN	dat|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Chef	Chef	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	Kieler	Kieler	_	ADJA	*|*|*|pos	6	ATTR	_	_
+6	Woche	Woche	_	NN	dat|sg|fem	3	PN	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Viele	vieler	_	PIAT	nom|pl|masc	11	ATTR	_	_
+11	Menschen	Mensch	_	NN	nom|pl|masc	12	SUBJ	_	_
+12	interessieren	interessieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+13	sich	sich	_	PRF	acc|pl|3	12	OBJA	_	_
+14	für	für	_	APPR	_	12	PP	_	_
+15	die	der	_	ART	acc|sg|fem	16	DET	_	_
+16	Fußball-WM	Fußball-WM	_	NN	acc|sg|fem	14	PN	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	zeigen	zeigen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	2	2	_	CARD	_	5	ATTR	_	_
+5	Fußball·spiele	Fußball·spiel	_	NN	acc|pl|neut	2	OBJA	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	9	DET	_	_
+8	deutschen	deutsch	_	ADJA	dat|sg|fem|pos	9	ATTR	_	_
+9	National·mannschaft	National·mannschaft	_	NN	dat|sg|fem	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	deutschen	deutsch	_	ADJA	dat|sg|fem|pos	4	ATTR	_	_
+4	National·mannschaft	National·mannschaft	_	NN	dat|sg|fem	1	PN	_	_
+5	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	die	der	_	ART	nom|pl|masc	8	DET	_	_
+7	besten	gut	_	ADJA	nom|pl|masc|pos	8	ATTR	_	_
+8	Fußball·spieler	Fußball·spieler	_	NN	nom|pl|masc	5	SUBJ	_	_
+9	aus	aus	_	APPR	_	8	PP	_	_
+10	Deutschland	Deutschland	_	NE	dat|sg|neut	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_

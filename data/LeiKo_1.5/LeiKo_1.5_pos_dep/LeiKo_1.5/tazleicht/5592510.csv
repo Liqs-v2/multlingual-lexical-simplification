@@ -1,0 +1,347 @@
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	taz	taz	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	berichtet	berichten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	über	über	_	APPR	_	3	OBJP	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Europa-Wahl	Europa-Wahl	_	NN	acc|sg|fem	4	PN	_	_
+
+1	Bald	bald	_	ADV	_	2	ADV	_	_
+2	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Europa-Wahl	Europa-Wahl	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	statt	statt	_	PTKVZ	_	2	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Zeitung	Zeitung	_	NN	nom|sg|fem	4	OBJD	_	_
+3	taz	taz	_	NE	nom|sg|*	2	APP	_	_
+4	berichtet	berichten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	darüber	darüber	_	PROAV	_	4	DET	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	in	in	_	APPR	_	0	S	_	_
+3	Leichter	Leichter	_	ADJA	*|*|*|pos	4	ATTR	_	_
+4	Sprache	Sprache	_	NN	dat|sg|fem	2	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bald	Bald	_	ADV	_	2	ADV	_	_
+2	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Europa-Wahl	Europa-Wahl	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	statt	statt	_	PTKVZ	_	2	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	5	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Europa	Europa	_	NE	dat|sg|neut	3	PN	_	_
+5	wählen	wählen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	bei	bei	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Wahl	Wahl	_	NN	dat|sg|fem	6	PN	_	_
+9	mit	mit	_	PTKVZ	_	5	AVZ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	wählen	wählen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|neut	4	DET	_	_
+4	Mitglieder	Mitglied	_	NN	acc|pl|neut	2	OBJA	_	_
+5	vom	von	_	APPRART	dat|sg|neut	2	PP	_	_
+6	Europäischen	europäisch	_	ADJA	dat|sg|neut|pos	7	ATTR	_	_
+7	Parlament	Parlament	_	NN	dat|sg|neut	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	3	DET	_	_
+2	Europäische	europäisch	_	ADJA	nom|sg|neut|pos	3	ATTR	_	_
+3	Parlament	Parlament	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	wichtige	wichtig	_	ADJA	acc|pl|fem|pos	6	ATTR	_	_
+6	Aufgaben	Aufgabe	_	NN	acc|pl|fem	4	OBJA	_	_
+7	in	in	_	APPR	_	4	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	EU	EU	_	NE	dat|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	EU	EU	_	NE	nom|sg|fem	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Europäische	europäisch	_	ADJA	nom|sg|fem|pos	8	ATTR	_	_
+8	Union	Union	_	NN	nom|sg|fem	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	EU	EU	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	besteht	bestehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	aus	aus	_	APPR	_	3	OBJP	_	_
+5	28	28	_	CARD	_	6	ATTR	_	_
+6	Mitglieds-Ländern	Mitglieds-Land	_	NN	dat|pl|neut	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	acc|pl|neut	2	DET	_	_
+2	Mitglieds-Länder	Mitglieds-Land	_	NN	acc|pl|neut	3	SUBJ	_	_
+3	arbeiten	arbeiten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	bei	bei	_	APPR	_	3	PP	_	_
+5	Politik	Politik	_	NN	dat|sg|fem	4	PN	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Wirtschaft	Wirtschaft	_	NN	dat|sg|fem	6	CJ	_	_
+8	zusammen	zusammen	_	PTKVZ	_	3	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	EU-Mitglied	EU-Mitglied	_	NN	nom|sg|neut	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Deutschland	Deutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Europa-Wahl	Europa-Wahl	_	NN	nom|sg|fem	3	PRED	_	_
+6	am	an	_	APPRART	dat|sg|masc	5	PP	_	_
+7	26.	26.	_	ADJA	dat|sg|masc|pos	8	ATTR	_	_
+8	Mai	Mai	_	NN	dat|sg|masc	6	PN	_	_
+9	2019	2019	_	CARD	_	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Wähler	Wähler	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	fragen	fragen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|pl|3	3	OBJA	_	_
+5	aktuell	aktuell	_	ADJD	pos	3	ADV	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Was	was	_	PWS	nom|sg|neut	8	PRED	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+9	mir	sich	_	PPER	dat|sg|*|1	8	ETH	_	_
+10	wichtig	wichtig	_	ADJD	pos	8	ADV	_	_
+11	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|sg|fem	2	DET	_	_
+2	Parteien	Partei	_	NN	nom|sg|fem	5	OBJA	_	_
+3	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	ich	ich	_	PPER	nom|sg|*|1	5	OBJA	_	_
+5	wählen	wählen	_	VVINF	_	3	AUX	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Antwort	Antwort	_	NN	nom|sg|fem	4	SUBJ	_	_
+3	darauf	darauf	_	PROAV	_	2	DET	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+6	leicht	leicht	_	ADJD	pos	4	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	EU	EU	_	NE	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	groß	groß	_	ADJD	pos	4	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	acc|pl|masc	5	DET	_	_
+4	wichtige	wichtig	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Themen	Thema	_	NN	acc|pl|fem	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	taz	taz	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	berichtet	berichten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+5	über	über	_	APPR	_	3	OBJP	_	_
+6	diese	dieser	_	PDAT	acc|pl|neut	7	DET	_	_
+7	Themen	Thema	_	NN	acc|pl|neut	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	berichtet	berichten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	3	3	_	CARD	_	4	ATTR	_	_
+4	Wochen	Woche	_	NN	acc|pl|fem	2	ZEIT	_	_
+5	lang	lang	_	ADJD	pos	2	ADV	_	_
+6	über	über	_	APPR	_	2	OBJP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Europa-Wahl	Europa-Wahl	_	NN	acc|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Worüber	worüber	_	PWAV	_	2	ADV	_	_
+2	berichtet	berichten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	taz	taz	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	genau	genau	_	ADJD	pos	2	ADV	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	taz	taz	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	diese	dieser	_	PDAT	acc|pl|fem	5	DET	_	_
+5	Fragen	Frage	_	NN	acc|pl|fem	6	OBJA	_	_
+6	beantworten	beantworten	_	VVINF	_	3	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	EU	EU	_	NE	nom|sg|fem	2	PRED	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	6	OBJA	_	_
+5	dort	dort	_	ADV	_	6	ADV	_	_
+6	leben	leben	_	VVFIN	pl|3|pres|ind	2	OBJC	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	acc|pl|masc	2	DET	_	_
+2	Wünsche	Wunsch	_	NN	acc|pl|masc	3	OBJA	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	diese	dieser	_	PDAT	acc|pl|masc	5	DET	_	_
+5	Menschen	Mensch	_	NN	acc|pl|masc	3	OBJA	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	taz	taz	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	gute	gut	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Antworten	Antwort	_	NN	acc|pl|fem	7	OBJA	_	_
+6	darauf	darauf	_	PROAV	_	5	DET	_	_
+7	finden	finden	_	VVINF	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	berichtet	berichten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	deshalb	deshalb	_	PROAV	_	2	DET	_	_
+4	von	von	_	APPR	_	2	OBJP	_	_
+5	vielen	vieler	_	PIAT	dat|pl|masc	6	DET	_	_
+6	Orten	Ort	_	NN	dat|pl|masc	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	taz-Mitarbeiter	taz-mitarbeiter	_	ADJD	pos	2	ADV	_	_
+2	berichten	berichten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	aus	aus	_	APPR	_	2	OBJP	_	_
+4	Ländern	Land	_	NN	dat|pl|neut	3	PN	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	EU	EU	_	NE	dat|sg|fem	5	PN	_	_
+8	und	und	_	KON	_	5	KON	_	_
+9	außerhalb	außerhalb	_	APPR	_	8	CJ	_	_
+10	der	der	_	ART	dat|sg|fem	11	DET	_	_
+11	EU	EU	_	NE	dat|sg|fem	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	taz-Mitarbeiter	taz-mitarbeiter	_	ADJD	pos	2	ADV	_	_
+2	berichten	berichten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	über	über	_	APPR	_	2	OBJP	_	_
+6	diese	dieser	_	PDAT	acc|pl|neut	7	DET	_	_
+7	Themen	Thema	_	NN	acc|pl|neut	5	PN	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	APPR	_	0	ROOT	_	_
+2	den	der	_	ART	acc|sg|masc	3	DET	_	_
+3	Alltag	Alltag	_	NN	acc|sg|masc	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	Menschen	Mensch	_	NN	dat|pl|masc	4	PN	_	_
+6	in	in	_	APPR	_	3	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	EU	EU	_	NE	dat|sg|fem	6	PN	_	_
+
+1	•	LI	_	CARD	_	0	ROOT	_	_
+2	die	der	_	ART	nom|pl|masc	4	DET	_	_
+3	politischen	politisch	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Probleme	Problem	_	NN	nom|pl|masc	1	GMOD	_	_
+
+1	•	LI	_	VVFIN	sg|3|past|ind	0	ROOT	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Flucht	Flucht	_	NN	nom|sg|fem	1	SUBJ	_	_
+4	nach	nach	_	APPR	_	3	PP	_	_
+5	Europa	Europa	_	NE	dat|sg|neut	4	PN	_	_
+
+1	•	LI	_	CARD	_	0	ROOT	_	_
+2	Gefahren	Gefahr	_	NN	nom|pl|fem	0	S	_	_
+3	durch	durch	_	APPR	_	2	PP	_	_
+4	rechte	rechter	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Parteien	Partei	_	NN	acc|pl|fem	3	PN	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	taz-Mitarbeiter	Taz-Mitarbeiter	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	berichten	berichten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	"schwerer"	"schwerer"	_	NE	dat|sg|neut	4	PN	_	_
+6	Sprache	Sprache	_	NN	acc|sg|fem	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	"schweren"	"schweren"	_	ADJA	*|*|*|pos	3	ATTR	_	_
+3	Texte	Text	_	NN	acc|pl|masc	4	OBJA	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	hier	hier	_	ADV	_	4	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	aber	aber	_	ADV	_	8	ADV	_	_
+4	auch	auch	_	ADV	_	7	ADV	_	_
+5	einige	einiger	_	PIAT	acc|pl|masc	7	DET	_	_
+6	leichte	leicht	_	ADJA	acc|pl|masc|pos	7	ATTR	_	_
+7	Texte	Text	_	NN	acc|pl|masc	8	OBJA	_	_
+8	geben	geben	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	taz	taz	_	NE	nom|sg|fem	5	OBJA	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	8	DET	_	_
+5	wissen	wissen	_	VVINF	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Welche	welcher	_	PWAT	acc|pl|neut	8	DET	_	_
+8	Themen	Thema	_	NN	acc|pl|neut	9	PRED	_	_
+9	finden	finden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+10	Sie	sie	_	PPER	nom|pl|*|3	9	SUBJ	_	_
+11	wichtig	wichtig	_	ADJD	pos	9	ADV	_	_
+12	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|sg|fem	2	DET	_	_
+2	Texte	Text	_	NN	nom|sg|fem	8	OBJA	_	_
+3	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	8	OBJA	_	_
+5	in	in	_	APPR	_	8	PP	_	_
+6	Leichter	Leichter	_	ADJA	*|*|*|pos	7	ATTR	_	_
+7	Sprache	Sprache	_	NN	dat|sg|fem	5	PN	_	_
+8	geben	geben	_	VVINF	_	3	AUX	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Schicken	schicken	_	VVFIN	pl|3|pres|ind	0	S	_	_
+2	Sie	sie	_	PPER	nom|pl|*|3	1	OBJA	_	_
+3	uns	uns	_	PPER	acc|pl|*|1	1	OBJD	_	_
+4	Ihre	ihr	_	PPOSAT	acc|sg|fem	5	DET	_	_
+5	Antwort	Antwort	_	NN	acc|sg|fem	1	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Per	per	_	APPR	_	0	S	_	_
+2	E-Mail	E-Mail	_	NN	acc|sg|masc	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	leicht	leicht	_	ADJD	pos	3	ADV	_	_
+2	@	@	_	$(	_	0	ROOT	_	_
+3	taz.de	taz.d	_	ADJA	pos	0	S	_	_
+
+1	Auf	auf	_	APPR	_	0	S	_	_
+2	Facebook	Facebook	_	NN	acc|sg|masc	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	facebook.de/taz.leicht	facebook.de/taz.leichen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+
+1	Oder	Oder	_	NE	nom|sg|fem	0	S	_	_
+2	bei	bei	_	APPR	_	1	PP	_	_
+3	Twitter	Twitter	_	NE	dat|sg|*	2	PN	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+
+1	twitter.de/tazleicht	twitter.de/tazleichen	_	VVFIN	sg|3|pres|ind	0	S	_	_

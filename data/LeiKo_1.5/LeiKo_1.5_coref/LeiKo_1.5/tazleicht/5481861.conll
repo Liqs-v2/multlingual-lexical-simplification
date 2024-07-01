@@ -1,0 +1,536 @@
+1	Neue	(8
+2	Vorsitzende	8)
+3	bei	-
+4	den	(12
+5	Grünen	12)
+
+1	Die	(12
+2	Partei	-
+3	Die	-
+4	Grünen	12)
+5	hat	-
+6	2	(8
+7	neue	-
+8	Vorsitzende	8)
+9	.	-
+
+1	Sie	(8)
+2	wollen	-
+3	eine	-
+4	neue	-
+5	Politik	-
+6	für	-
+7	die	(12
+8	Grünen	12)
+9	.	-
+
+1	Die	(12
+2	Grünen	12)
+3	haben	-
+4	2	(8
+5	neue	-
+6	Vorsitzende	8)
+7	gewählt	-
+8	.	-
+
+1	Die	(17|(6|(8
+2	neuen	-
+3	Vorsitzenden	17)|6)|8)
+4	heißen	-
+5	:	-
+6	Annalena	(17
+7	Baerbock	17)
+8	[	-
+9	gesprochen	-
+10	:	-
+11	Bärbock	-
+12	]	-
+13	und	-
+14	Robert	(6
+15	Habeck	6)
+16	.	-
+
+1	Die	(8
+2	neuen	-
+3	Vorsitzenden	8)
+4	sind	-
+5	jung	-
+6	.	-
+
+1	Sie	(8)
+2	haben	-
+3	neue	(16
+4	Ideen	16)
+5	.	-
+
+1	Mit	-
+2	diesen	(16
+3	Ideen	16)
+4	wollen	-
+5	sie	(8)
+6	die	(12
+7	Partei	12)
+8	neu	-
+9	gestalten	-
+10	.	-
+
+1	Warum	-
+2	könnte	-
+3	das	-
+4	schwierig	-
+5	werden	-
+6	?	
+
+1	In	-
+2	der	(12
+3	Partei	-
+4	Die	-
+5	Grünen	12)
+6	gibt	-
+7	es	-
+8	2	(15|(20|(7
+9	Gruppen	15)|20)|7)
+10	.	-
+
+1	Eine	(15
+2	Gruppe	15)
+3	möchte	-
+4	eine	-
+5	linke	-
+6	Politik	-
+7	.	-
+
+1	Diese	(15
+2	Gruppe	15)
+3	nennt	-
+4	man	-
+5	:	-
+6	Linke	(15)
+7	.	-
+
+1	Eine	(7
+2	andere	-
+3	Gruppe	7)
+4	möchte	-
+5	auch	-
+6	eine	-
+7	linke	-
+8	Politik	-
+9	.	-
+
+1	Doch	-
+2	diese	(7
+3	Gruppe	7)
+4	möchte	-
+5	sich	-
+6	dabei	-
+7	an	-
+8	andere	-
+9	Parteien	-
+10	anpassen	-
+11	.	-
+
+1	Denn	-
+2	diese	(7
+3	Gruppe	7)
+4	möchte	-
+5	,	-
+6	dass	-
+7	die	(12
+8	Grünen	12)
+9	in	-
+10	Deutschland	(13)
+11	mitregieren	-
+12	können	-
+13	.	-
+
+1	Diese	(7
+2	Gruppe	7)
+3	nennt	-
+4	man	-
+5	:	-
+6	Realos	(7)
+7	.	-
+
+1	Linke	(20|(15)
+2	und	-
+3	Realos	20)|(7)
+4	streiten	-
+5	oft	-
+6	,	-
+7	wie	-
+8	die	-
+9	Politik	-
+10	bei	-
+11	den	(12
+12	Grünen	12)
+13	sein	-
+14	soll	-
+15	.	-
+
+1	Bisher	-
+2	war	-
+3	es	-
+4	bei	-
+5	den	(12
+6	Grünen	12)
+7	so	-
+8	:	-
+
+1	Ein	(5
+2	Vorsitzender	5)
+3	kam	-
+4	von	-
+5	den	(15
+6	Linken	15)
+7	.	-
+
+1	Und	-
+2	ein	(1
+3	Vorsitzender	1)
+4	kam	-
+5	von	-
+6	den	(7
+7	Realos	7)
+8	.	-
+
+1	Sie	(1)|(5)
+2	waren	-
+3	sich	-
+4	bei	-
+5	vielen	-
+6	Themen	-
+7	nicht	-
+8	einig	-
+9	.	-
+
+1	Mit	-
+2	den	(8
+3	neuen	-
+4	Vorsitzenden	8)
+5	ist	-
+6	es	-
+7	bei	-
+8	den	(12
+9	Grünen	12)
+10	so	-
+11	:	-
+
+1	Annalena	(8|(17
+2	Baerbock	17)
+3	und	-
+4	Robert	(6
+5	Habeck	8)|6)
+6	sind	-
+7	beide	(8)
+8	von	-
+9	den	(7
+10	Realos	7)
+11	.	-
+
+1	Sie	(8)
+2	sind	-
+3	sich	-
+4	bei	-
+5	vielen	-
+6	Themen	-
+7	einig	-
+8	.	-
+
+1	Viele	-
+2	Menschen	-
+3	glauben	-
+4	zwar	-
+5	:	-
+6	Annalena	(8|(17
+7	Baerbock	17)
+8	und	-
+9	Robert	(6
+10	Habeck	8)|6)
+11	setzen	-
+12	sich	-
+13	nicht	-
+14	für	-
+15	die	-
+16	Politik	-
+17	von	-
+18	der	(15
+19	linken	-
+20	Gruppe	15)
+21	ein	-
+22	.	-
+
+1	Annalena	(8|(17
+2	Baerbock	17)
+3	und	-
+4	Robert	(6
+5	Habeck	8)|6)
+6	sagen	-
+7	aber	-
+8	:	-
+9	Wir	(8)
+10	sprechen	-
+11	auch	-
+12	über	-
+13	linke	-
+14	Themen	-
+15	.	-
+
+1	Wir	(8)
+2	wollen	-
+3	für	-
+4	alle	-
+5	in	-
+6	der	(12
+7	Partei	12)
+8	sprechen	-
+9	.	-
+
+1	Welche	-
+2	Themen	-
+3	sind	-
+4	Annalena	(17
+5	Baerbock	17)
+6	wichtig	-
+7	?	-
+
+1	Annalena	(17
+2	Baerbock	17)
+3	ist	-
+4	37	-
+5	Jahre	-
+6	alt	-
+7	.	-
+
+1	Sie	(17)
+2	kommt	-
+3	aus	-
+4	dem	-
+5	Bundesland	-
+6	Brandenburg	-
+7	.	-
+
+1	Annalena	(17
+2	Baerbock	17)
+3	findet	-
+4	diese	-
+5	linken	-
+6	Themen	-
+7	wichtig	-
+8	für	-
+9	die	(14
+10	Politik	-
+11	der	(12
+12	Grünen	14)|12)
+13	:	-
+
+1	Klima-Schutz	(2)
+2	und	-
+3	Familien-Nachzug	(19)
+4	.	-
+
+1	Annalena	(17
+2	Baerbock	17)
+3	will	-
+4	sich	(17)
+5	für	-
+6	den	(2
+7	Klima-Schutz	2)
+8	einsetzen	-
+9	.	-
+
+1	Sie	(17)
+2	sagt	-
+3	:	-
+4	Die	(12
+5	Grünen	12)
+6	müssen	-
+7	noch	-
+8	mehr	-
+9	gegen	-
+10	den	(3
+11	Klima-Wandel	3)
+12	tun	-
+13	.	-
+
+1	Der	(3
+2	Klima-Wandel	3)
+3	nimmt	-
+4	weiter	-
+5	zu	-
+6	.	-
+
+1	Durch	-
+2	die	-
+3	Abgase	-
+4	von	-
+5	Autos	-
+6	und	-
+7	Fabriken	-
+8	steigt	-
+9	die	-
+10	Temperatur	-
+11	auf	-
+12	der	-
+13	Erde	-
+14	.	-
+
+1	Es	-
+2	wird	-
+3	immer	-
+4	wärmer	-
+5	.	-
+
+1	Das	-
+2	ist	-
+3	gefährlich	-
+4	für	-
+5	die	-
+6	Menschen	-
+7	und	-
+8	für	-
+9	die	-
+10	Natur	-
+11	.	-
+
+1	Annalena	(17
+2	Baerbock	17)
+3	will	-
+4	den	(19
+5	Familien-Nachzug	-
+6	für	-
+7	Flüchtlinge	19)|(4)
+8	.	-
+
+1	Was	-
+2	ist	-
+3	der	(19
+4	Familien-Nachzug	19)
+5	?	-
+
+1	Viele	-
+2	Flüchtlinge	-
+3	kommen	-
+4	alleine	-
+5	nach	-
+6	Deutschland	(13)
+7	.	-
+
+1	Viele	(10
+2	Flüchtlinge	10)
+3	wollen	-
+4	,	-
+5	dass	-
+6	ihre	(11|(10)
+7	Familien-Mitglieder	11)
+8	später	-
+9	nach	-
+10	Deutschland	(13)
+11	nachkommen	-
+12	können	-
+13	.	-
+
+1	Sie	(10)
+2	vermissen	-
+3	ihre	(11|(10)
+4	Eltern	-
+5	,	-
+6	Partner	-
+7	und	-
+8	Kinder	11)
+9	.	-
+
+1	Außerdem	-
+2	:	-
+3	Viele	(9
+4	Familien	-
+5	von	-
+6	Flüchtlingen	9)|(4)
+7	sind	-
+8	in	-
+9	ihrer	(9)
+10	Heimat	-
+11	in	-
+12	Gefahr	-
+13	.	-
+
+1	Dort	-
+2	gibt	-
+3	es	-
+4	oft	-
+5	Krieg	-
+6	,	-
+7	Verfolgung	-
+8	und	-
+9	Hunger	-
+10	.	-
+
+1	Welche	-
+2	Themen	-
+3	sind	-
+4	Robert	(6
+5	Habeck	6)
+6	wichtig	-
+7	?	-
+
+1	Robert	(6
+2	Habeck	6)
+3	ist	-
+4	48	-
+5	Jahre	-
+6	alt	-
+7	.	-
+
+1	Er	(6)
+2	kommt	-
+3	aus	-
+4	dem	-
+5	Bundesland	-
+6	Schleswig-Holstein	-
+7	.	-
+
+1	Robert	(6
+2	Habeck	6)
+3	findet	-
+4	das	-
+5	linke	-
+6	Thema	-
+7	"	-
+8	Umverteilung	-
+9	"	-
+10	wichtig	-
+11	für	-
+12	die	(14
+13	Politik	-
+14	der	(12
+15	Grünen	14)|12)
+16	.	-
+
+1	Das	-
+2	bedeutet	-
+3	:	-
+4	Ärmere	-
+5	Menschen	-
+6	sollen	-
+7	mehr	-
+8	Geld	(18)
+9	bekommen	-
+10	.	-
+
+1	Reichere	(21
+2	Menschen	21)
+3	sollen	-
+4	mehr	-
+5	Geld	(18)
+6	abgeben	-
+7	.	-
+
+1	Zum	-
+2	Beispiel	-
+3	sollen	-
+4	reichere	(21
+5	Menschen	21)
+6	mehr	-
+7	Steuern	-
+8	bezahlen	-
+9	.	-

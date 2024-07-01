@@ -1,0 +1,650 @@
+1	Wahl	-
+2	zur	-
+3	Behinderten-Vertretung	(0)
+
+1	Viele	-
+2	Firmen	-
+3	haben	-
+4	eine	(0
+5	Schwer-Behinderten-Vertretung	0)
+6	.	-
+
+1	Diese	(0
+2	Vertretung	0)
+3	wird	-
+4	aktuell	-
+5	neu	-
+6	gewählt	-
+7	,	-
+8	zum	-
+9	Beispiel	-
+10	in	-
+11	der	(11
+12	Stadt	-
+13	Bremen	11)
+14	.	-
+
+1	Viele	-
+2	Firmen	-
+3	haben	-
+4	eine	(0
+5	Schwer-Behinderten-Vertretung	0)
+6	.	-
+
+1	Diese	(0
+2	Vertretung	0)
+3	besteht	-
+4	aus	-
+5	einer	(1
+6	oder	-
+7	mehreren	-
+8	Personen	1)
+9	.	-
+
+1	Was	-
+2	machen	-
+3	diese	(1
+4	Personen	1)
+5	in	-
+6	der	-
+7	Firma	-
+8	?	-
+
+1	Sie	(1)
+2	unterstützen	-
+3	schwer-behinderte	(2
+4	Mitarbeiter	2)
+5	.	-
+
+1	Sie	(1)
+2	vertreten	-
+3	die	-
+4	Interessen	-
+5	von	-
+6	schwer-behinderten	(2
+7	Mitarbeitern	2)
+8	.	-
+
+1	Die	(1
+2	Schwer-Behinderten-Vertreter	1)
+3	werden	-
+4	alle	-
+5	4	-
+6	Jahre	-
+7	neu	-
+8	gewählt	-
+9	.	-
+
+1	Aktuell	-
+2	finden	-
+3	die	(10
+4	Neu-Wahlen	10)
+5	statt	-
+6	.	-
+
+1	Haben	-
+2	alle	-
+3	Firmen	-
+4	eine	(0
+5	Schwer-Behinderten-Vertretung	0)
+6	?	-
+
+1	Die	(0
+2	Schwer-Behinderten-Vertretung	0)
+3	haben	-
+4	nur	-
+5	Firmen	-
+6	mit	-
+7	5	-
+8	oder	-
+9	mehr	-
+10	schwer-behinderten	-
+11	Mitarbeitern	-
+12	.	-
+
+1	Was	-
+2	bedeutet	-
+3	"Schwer-Behinderung"	(3)
+4	?	-
+
+1	Das	(3
+2	Wort	3)
+3	kommt	-
+4	aus	-
+5	dem	(7
+6	Sozial-Gesetz-Buch	7)
+7	.	-
+
+1	Danach	-
+2	sind	-
+3	Behinderungen	-
+4	verschieden	-
+5	schwer	-
+6	.	-
+
+1	Eine	-
+2	leichte	-
+3	Behinderung	-
+4	ist	-
+5	zum	-
+6	Beispiel	-
+7	,	-
+8	wenn	-
+9	man	-
+10	eine	-
+11	Gehhilfe	-
+12	braucht	-
+13	.	-
+
+1	Eine	-
+2	sehr	-
+3	schwere	-
+4	Behinderung	-
+5	ist	-
+6	zum	-
+7	Beispiel	-
+8	,	-
+9	wenn	-
+10	man	-
+11	dauerhaft	-
+12	im	-
+13	Rollstuhl	-
+14	sitzt	-
+15	.	-
+
+1	Das	(4
+2	Versorgungs-Amt	4)
+3	kümmert	-
+4	sich	-
+5	um	-
+6	die	-
+7	Angelegenheiten	-
+8	von	-
+9	Menschen	-
+10	mit	-
+11	einer	-
+12	Schwer-Behinderung	-
+13	.	-
+
+1	Das	(4
+2	Amt	4)
+3	bestimmt	-
+4	auch	-
+5	den	(5
+6	Schwere-Grad	-
+7	einer	-
+8	Behinderung	5)
+9	.	-
+
+1	Wie	-
+2	bestimmt	-
+3	das	(4
+4	Amt	4)
+5	den	(5
+6	Schwere-Grad	5)
+7	?	-
+
+1	Es	(4)
+2	benutzt	-
+3	dazu	-
+4	die	-
+5	Zahlen-Werte	-
+6	20	-
+7	bis	-
+8	100	-
+9	.	-
+
+1	Der	-
+2	Zahlen-Wert	-
+3	20	-
+4	bedeutet	-
+5	:	-
+6	Die	(6
+7	Person	6)
+8	hat	-
+9	eine	-
+10	leichte	-
+11	Behinderung	-
+12	.	-
+
+1	Der	-
+2	Zahlen-Wert	-
+3	100	-
+4	bedeutet	-
+5	:	-
+6	Die	(6
+7	Person	6)
+8	hat	-
+9	eine	-
+10	sehr	-
+11	schwere	-
+12	Behinderung	-
+13	.	-
+
+1	Ab	-
+2	einem	-
+3	Zahlen-Wert	-
+4	von	-
+5	50	-
+6	gilt	-
+7	ein	-
+8	Mensch	-
+9	als	-
+10	schwer-behindert	-
+11	.	-
+
+1	Außerdem	-
+2	gilt	-
+3	:	-
+4	Ab	-
+5	einem	-
+6	Zahlen-Wert	-
+7	von	-
+8	30	-
+9	gibt	-
+10	es	-
+11	eine	-
+12	Gleichstellung	-
+13	zur	-
+14	Schwer-Behinderung	-
+15	.	-
+
+1	Das	-
+2	bedeutet	-
+3	:	-
+4	Gleichgestellte	-
+5	Menschen	-
+6	haben	-
+7	ähnliche	-
+8	Rechte	-
+9	wie	-
+10	schwer-behinderte	-
+11	Menschen	-
+12	.	-
+
+1	Welche	-
+2	Rechte	-
+3	gibt	-
+4	es	-
+5	?	-
+
+1	Im	-
+2	Sozial-Gesetz-Buch	(7)
+3	steht	-
+4	:	-
+5	Schwer-behinderte	(9
+6	und	-
+7	gleichgestellte	-
+8	Menschen	9)
+9	können	-
+10	am	-
+11	Arbeitsplatz	-
+12	ähnliche	-
+13	Dinge	-
+14	fordern	-
+15	.	-
+
+1	Dazu	-
+2	gehören	-
+3	zum	-
+4	Beispiel	-
+5	diese	-
+6	Dinge	-
+7	:	-
+
+1	•	-
+2	ein	-
+3	Arbeitsplatz	-
+4	ohne	-
+5	Hindernisse	-
+
+1	•	-
+2	ein	-
+3	besonderer	-
+4	Kündigungs-Schutz	-
+
+1	•	-
+2	zusätzlicher	-
+3	Urlaub	-
+
+1	•	-
+2	Reha-Maßnahmen	-
+
+1	Hier	-
+2	beginnt	-
+3	die	-
+4	Arbeit	-
+5	der	(8
+6	Schwer-Behinderten-Vertreter	8)
+7	.	-
+
+1	Sie	(8)
+2	unterstützen	-
+3	diese	(9
+4	beiden	-
+5	Mitarbeiter-Gruppen	9)
+6	bei	-
+7	der	-
+8	Durchsetzung	-
+9	ihrer	(9)
+10	Rechte	-
+11	am	-
+12	Arbeitsplatz	-
+13	.	-
+
+1	Außerdem	-
+2	haben	-
+3	Schwer-Behinderten-Vertreter	(8)
+4	diese	-
+5	Aufgaben	-
+6	:	-
+
+1	•	-
+2	Sie	(8)
+3	setzen	-
+4	sich	-
+5	für	-
+6	mehr	-
+7	Teilhabe	-
+8	in	-
+9	der	-
+10	Firma	-
+11	ein	-
+12	.	-
+
+1	•	-
+2	Sie	(8)
+3	planen	-
+4	Weiterbildungen	-
+5	.	-
+
+1	•	-
+2	Sie	(8)
+3	sind	-
+4	bei	-
+5	Bewerbungs-Gesprächen	-
+6	dabei	-
+7	.	-
+
+1	•	-
+2	Sie	(8)
+3	beraten	-
+4	bei	-
+5	Verträgen	-
+6	.	-
+
+1	•	-
+2	Sie	(8)
+3	sind	-
+4	Ansprech-Partner	-
+5	und	-
+6	Vertrauens-Person	-
+7	.	-
+
+1	Alle	-
+2	Mitarbeiter	-
+3	in	-
+4	einer	-
+5	Firma	-
+6	können	-
+7	Schwer-Behinderten-Vertreter	-
+8	werden	-
+9	.	-
+
+1	Und	-
+2	wie	-
+3	gesagt	-
+4	:	-
+
+1	Aktuell	-
+2	werden	-
+3	neue	-
+4	Vertreter	-
+5	gewählt	-
+6	.	-
+
+1	Noch	-
+2	bis	-
+3	zum	-
+4	30.	-
+5	November	-
+6	2018	-
+7	finden	-
+8	die	(10
+9	Wahlen	10)
+10	statt	-
+11	.	-
+
+1	Die	-
+2	taz	-
+3	hat	-
+4	sich	-
+5	die	-
+6	Wahl	-
+7	in	-
+8	Bremen	(11)
+9	genauer	-
+10	angeschaut	-
+11	.	-
+
+1	Viele	-
+2	Firmen	-
+3	machen	-
+4	bei	-
+5	dieser	(10
+6	Wahl	10)
+7	mit	-
+8	.	-
+
+1	Insgesamt	-
+2	können	-
+3	1700	(12
+4	schwer-behinderte	-
+5	und	-
+6	gleichgestellte	-
+7	Personen	-
+8	in	-
+9	Bremen	12)|(11)
+10	ihre	(12)
+11	Schwer-Behinderten-Vertretung	-
+12	wählen	-
+13	.	-
+
+1	Eine	-
+2	dieser	-
+3	Firmen	-
+4	ist	-
+5	der	(14
+6	Sender	-
+7	"Radio	-
+8	Bremen"	14)
+9	.	-
+
+1	Hier	-
+2	ist	-
+3	Dagmar	(13
+4	Schwärmer	13)
+5	die	-
+6	Schwer-Behinderten-Vertreterin	-
+7	.	-
+
+1	Sie	(13)
+2	hat	-
+3	gerade	-
+4	viel	-
+5	zu	-
+6	tun	-
+7	.	-
+
+1	Denn	-
+2	sie	(13)
+3	muss	-
+4	die	-
+5	Wahl	-
+6	planen	-
+7	.	-
+
+1	Gleichzeitig	-
+2	muss	-
+3	sie	(13)
+4	ihre	(13)
+5	Aufgaben	-
+6	als	-
+7	Vertreterin	-
+8	erfüllen	-
+9	.	-
+
+1	Sie	(13)
+2	sagt	-
+3	über	-
+4	ihre	(13)
+5	Aufgaben	-
+6	bei	-
+7	"Radio	(14
+8	Bremen"	14)
+9	:	-
+10	Ich	(13)
+11	mache	-
+12	auf	-
+13	das	-
+14	Thema	-
+15	Inklusion	-
+16	aufmerksam	-
+17	.	-
+
+1	Ich	(13)
+2	frage	-
+3	mich	-
+4	:	-
+5	Wie	-
+6	können	-
+7	wir	(15)
+8	die	-
+9	Bedingungen	-
+10	verbessern	-
+11	für	-
+12	Menschen	-
+13	mit	-
+14	Behinderungen	-
+15	in	-
+16	unserer	(15)|(14
+17	Firma	14)
+18	?	-
+
+1	Manchmal	-
+2	muss	-
+3	ich	(13)
+4	dafür	-
+5	immer	-
+6	wieder	-
+7	dieselben	-
+8	Dinge	-
+9	sagen	-
+10	.	-
+
+1	Nur	-
+2	so	-
+3	wird	-
+4	Inklusion	-
+5	auch	-
+6	Teil	-
+7	des	-
+8	Alltags	-
+9	in	-
+10	der	(14
+11	Firma	14)
+12	.	-
+
+1	Zum	-
+2	Beispiel	-
+3	muss	-
+4	ich	(13)
+5	immer	-
+6	wieder	-
+7	sagen	-
+8	:	-
+9	Bewerber	(16)
+10	sollen	-
+11	nur	-
+12	nach	-
+13	ihren	(16)
+14	Fähigkeiten	-
+15	beurteilt	-
+16	werden	-
+17	!	-
+
+1	Was	-
+2	für	-
+3	Fähigkeiten	-
+4	und	-
+5	Ziele	-
+6	braucht	-
+7	ein	-
+8	Schwer-Behinderten-Vertreter	-
+9	?	-
+
+1	Dagmar	(13
+2	Schwärmer	13)
+3	sagt	-
+4	:	-
+5	Schwer-Behinderten-Vertreter	(17)
+6	arbeiten	-
+7	ehrenamtlich	-
+8	,	-
+9	also	-
+10	freiwillig	-
+11	und	-
+12	manchmal	-
+13	ohne	-
+14	Bezahlung	-
+15	.	-
+
+1	Trotzdem	-
+2	haben	-
+3	sie	(17)
+4	viele	-
+5	Aufgaben	-
+6	zu	-
+7	erledigen	-
+8	.	-
+
+1	Sie	(17)
+2	müssen	-
+3	also	-
+4	viel	-
+5	Einsatz	-
+6	zeigen	-
+7	.	-
+
+1	Dagmar	(13
+2	Schwärmer	13)
+3	sagt	-
+4	:	-
+5	Mein	(13)
+6	Ziel	-
+7	ist	-
+8	zum	-
+9	Beispiel	-
+10	ein	-
+11	Wandel	-
+12	in	-
+13	der	-
+14	Gesellschaft	-
+15	.	-
+
+1	Ich	(13)
+2	will	-
+3	mehr	-
+4	Zusammenhalt	-
+5	und	-
+6	Inklusion	-
+7	.	-
+
+1	Damit	-
+2	fange	-
+3	ich	(13)
+4	bei	-
+5	"Radio	(14
+6	Bremen"	14)
+7	an	-
+8	.	-

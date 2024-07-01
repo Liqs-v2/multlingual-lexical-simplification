@@ -1,0 +1,202 @@
+﻿1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Feuer·wehr·leute	Feuer·wehr·leute	_	NN	nom|pl|*	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Saarbrücken	Saarbrücken	_	NE	dat|sg|neut	3	PN	_	_
+5	krank	krank	_	ADJD	pos	2	ADV	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Saarbrücken	Saarbrücken	_	NE	dat|sg|neut	1	PN	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|pl|3	9	OBJA	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Mit·arbeiter	Mit·arbeiter	_	NN	nom|pl|masc	9	OBJD	_	_
+7	der	der	_	ART	gen|sg|fem	8	DET	_	_
+8	Berufs·feuer·wehr	Berufs·feuer·wehr	_	NN	gen|sg|fem	6	GMOD	_	_
+9	krank·gemeldet	krank·gemelden	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	acc|pl|fem	2	DET	_	_
+2	Wachen	Wache	_	NN	acc|pl|fem	3	SUBJ	_	_
+3	konnten	können	_	VMFIN	pl|3|past|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	7	DET	_	_
+5	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+6	mehr	mehr	_	ADV	_	5	ADV	_	_
+7	besetzt	besetzen	_	VVPP	_	8	AUX	_	_
+8	werden	werden	_	VAINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	acc|sg|neut	2	SUBJ	_	_
+2	gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	noch	noch	_	ADV	_	5	ADV	_	_
+5	nie	nie	_	ADV	_	2	ADV	_	_
+6	in	in	_	APPR	_	2	PP	_	_
+7	einer	ein	_	ART	dat|sg|fem	9	DET	_	_
+8	deutschen	deutsch	_	ADJA	dat|sg|fem|pos	9	ATTR	_	_
+9	Groß·stadt	Groß·stadt	_	NN	dat|sg|fem	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Stadt	Stadt	_	NN	nom|sg|fem	4	OBJA	_	_
+3	Saarbrücken	Saarbrücken	_	NE	nom|sg|neut	2	APP	_	_
+4	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Sicherheit	Sicherheit	_	NN	nom|sg|fem	10	SUBJ	_	_
+8	der	der	_	ART	gen|pl|masc	9	DET	_	_
+9	Bürger	Bürger	_	NN	gen|pl|masc	7	GMOD	_	_
+10	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+11	aber	aber	_	ADV	_	10	ADV	_	_
+12	nicht	nicht	_	PTKNEG	_	10	ADV	_	_
+13	in	in	_	APPR	_	10	PRED	_	_
+14	Gefahr	Gefahr	_	NN	dat|sg|fem	13	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit·arbeiter	Mit·arbeiter	_	NN	nom|pl|masc	5	SUBJ	_	_
+2	der	der	_	ART	gen|pl|fem	4	DET	_	_
+3	Freiwilligen	freiwillige	_	ADJA	gen|pl|fem|pos	4	ATTR	_	_
+4	Feuer·wehr	Feuer·wehr	_	NN	gen|pl|fem	1	GMOD	_	_
+5	springen	springen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Berufs·feuerwehr	Berufs·feuerwehr	_	NN	acc|sg|fem	6	PN	_	_
+9	ein	ein	_	PTKVZ	_	5	AVZ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	4	PRED	_	_
+2	der	der	_	ART	gen|sg|fem	3	DET	_	_
+3	Berufs·feuerwehr	Berufs·feuerwehr	_	NN	gen|sg|fem	1	GMOD	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Beamte	Beamter	_	NN	nom|pl|masc	4	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Freiwillige	freiwillig	_	ADJA	nom|pl|*	2	ATTR	_	_
+2	Feuerwehr·leute	Feuerwehr·leute	_	NN	nom|pl|*	3	ZEIT	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	einen	ein	_	ART	acc|sg|masc	6	DET	_	_
+5	anderen	anderer	_	ADJA	acc|sg|masc|pos	6	ATTR	_	_
+6	Beruf	Beruf	_	NN	acc|sg|masc	3	OBJA	_	_
+7	und	und	_	KON	_	3	KON	_	_
+8	werden	werden	_	VAFIN	pl|3|pres|ind	7	CJ	_	_
+9	nur	nur	_	ADV	_	10	ADV	_	_
+10	zu	zu	_	APPR	_	12	PP	_	_
+11	Einsätzen	Einsatz	_	NN	dat|pl|masc	10	PN	_	_
+12	gerufen	rufen	_	VVPP	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	8	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	8	OBJA	_	_
+4	so	so	_	ADV	_	8	ADV	_	_
+5	viele	vieler	_	PIAT	nom|pl|*	6	DET	_	_
+6	Feuer·wehr·leute	Feuer·wehr·leute	_	NN	nom|pl|*	8	OBJA	_	_
+7	krank	krank	_	ADJD	pos	8	ADV	_	_
+8	gemeldet	melden	_	VVPP	_	2	AUX	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Zuvor	zuvor	_	ADV	_	2	ADV	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	bekannt	bekannt	_	ADJD	pos	4	PRED	_	_
+4	geworden	werden	_	VAPP	_	2	AUX	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	dass	dass	_	KOUS	_	10	KONJ	_	_
+7	ihr	ihr	_	PPOSAT	dat|sg|fem|3	9	DET	_	_
+8	früherer	früh	_	ADJA	nom|sg|masc|comp	9	ATTR	_	_
+9	Chef	Chef	_	NN	nom|sg|masc	10	OBJA	_	_
+10	zurück·kommt	zurück·kommen	_	VVFIN	sg|3|pres|ind	2	SUBJC	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Josef	Josef	_	NE	nom|sg|masc	2	PRED	_	_
+4	Schun	Schun	_	NE	nom|sg|masc	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Feuerwehr·leute	Feuerwehr·leute	_	NN	nom|pl|*	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Probleme	Problem	_	NN	acc|pl|neut	3	OBJA	_	_
+5	mit	mit	_	APPR	_	4	PP	_	_
+6	ihm	ihm	_	PPER	dat|sg|*|3	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	11	OBJD	_	_
+5	Saarbrücken	Saarbrücken	_	NE	nom|sg|neut	4	APP	_	_
+6	Josef	Josef	_	NE	nom|sg|masc	5	APP	_	_
+7	Schun	Schun	_	NE	nom|sg|masc	6	APP	_	_
+8	eine	ein	_	ART	acc|sg|fem	10	DET	_	_
+9	andere	anderer	_	ADJA	acc|sg|fem|pos	10	ATTR	_	_
+10	Stelle	Stelle	_	NN	acc|sg|fem	11	OBJA	_	_
+11	gegeben	geben	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dagegen	dagegen	_	PROAV	_	2	DET	_	_
+2	hatte	haben	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	Josef	Josef	_	NE	nom|sg|masc	5	OBJA2	_	_
+4	Schun	Schun	_	NE	nom|sg|masc	3	APP	_	_
+5	geklagt	klagen	_	VVPP	_	2	AUX	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	vor	vor	_	APPR	_	10	PP	_	_
+8	Gericht	Gericht	_	NN	dat|sg|neut	7	PN	_	_
+9	Recht	Recht	_	NN	dat|sg|neut	10	OBJA	_	_
+10	bekommen	bekommen	_	VVINF	_	6	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Richter	Richter	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Wir	wir	_	PPER	nom|pl|*|1	8	SUBJ	_	_
+8	glauben	glauben	_	VVFIN	pl|1|pres|ind	0	S	_	_
+9	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+10	,	--	_	$,	_	0	ROOT	_	_
+11	dass	daß	_	KOUS	_	15	KONJ	_	_
+12	alle	aller	_	PIAT	nom|pl|*	13	DET	_	_
+13	Feuer·wehr·leute	Feuer·wehr·leute	_	NN	nom|pl|*	15	PRED	_	_
+14	krank	krank	_	ADJD	pos	13	ADV	_	_
+15	sind	sein	_	VAFIN	pl|3|pres|ind	8	OBJC	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	3	PRED	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	sein	sein	_	VAINF	_	2	AUX	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	dass	dass	_	KOUS	_	10	KONJ	_	_
+6	sie	sie	_	PPER	nom|sg|fem|3	10	OBJA	_	_
+7	sich	sich	_	PRF	acc|sg|3	3	ETH	_	_
+8	weigern	weigern	_	ADV	_	10	ADV	_	_
+9	zu	zu	_	PTKZU	_	10	PART	_	_
+10	arbeiten	arbeiten	_	VVINF	_	2	SUBJC	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	verboten	verbieten	_	VVPP	_	2	AUX	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Amts·ärzte	Amts·arzt	_	NN	nom|pl|masc	6	OBJA	_	_
+4	die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Feuer·wehr·leute	Feuer·wehr·leute	_	NN	acc|pl|neut	3	GMOD	_	_
+6	untersuchen	untersuchen	_	VVINF	pl|3|pres|ind	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Amts·ärzte	Amts·arzt	_	NN	nom|sg|fem	3	OBJA	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Bisher	bisher	_	ADV	_	6	ADV	_	_
+6	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+7	alle	aller	_	PIAT	nom|pl|fem	9	DET	_	_
+8	untersuchten	untersucht	_	ADJA	gen|pl|*|pos	9	ATTR	_	_
+9	Feuer·wehr·leute	Feuer·wehr·leute	_	NN	gen|pl|*	6	SUBJ	_	_
+10	wirklich	wirklich	_	ADJD	pos	11	ADV	_	_
+11	krank	krank	_	ADJD	pos	6	PRED	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+

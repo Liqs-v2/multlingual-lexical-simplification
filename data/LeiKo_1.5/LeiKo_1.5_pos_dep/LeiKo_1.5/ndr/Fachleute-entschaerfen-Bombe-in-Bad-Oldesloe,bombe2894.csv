@@ -1,0 +1,315 @@
+﻿1	Fach·leute	Fach·leute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	entschärfen	entschärfen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Bombe	Bombe	_	NN	acc|sg|fem	2	OBJA	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Bad	Bad	_	NE	*|*|neut	4	PN	_	_
+6	Oldesloe	Oldesloe	_	NE	dat|sg|neut	5	APP	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	1	PN	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Fach·leute	Fach·leute	_	NN	nom|pl|*	7	OBJD	_	_
+5	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+6	Bombe	Bombe	_	NN	acc|sg|fem	4	GMOD	_	_
+7	entschärft	entschärfen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Bombe	Bombe	_	NN	nom|sg|fem	6	SUBJ	_	_
+6	war	sein	_	VAFIN	sg|3|past|ind	2	S	_	_
+7	gefährlich	gefährlich	_	ADJD	pos	6	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Fach·leute	Fach·leute	_	NN	nom|sg|fem	4	OBJA	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Bombe	Bombe	_	NN	acc|sg|fem	8	OBJA	_	_
+7	ungefährlich	ungefährlich	_	ADJD	pos	8	ADV	_	_
+8	gemacht	machen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Bombe	Bombe	_	NN	nom|sg|fem	7	OBJA	_	_
+5	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+6	mehr	mehr	_	ADV	_	5	ADV	_	_
+7	explodieren	explodieren	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bombe	Bombe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Bad	Bad	_	NE	*|*|neut	4	PN	_	_
+6	Oldesloe	Oldesloe	_	NE	dat|sg|neut	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bad	Bad	_	NE	*|*|neut	3	SUBJ	_	_
+2	Oldesloe	Oldesloe	_	NE	nom|sg|fem	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	zwischen	zwischen	_	APPR	_	3	PP	_	_
+5	Hamburg	Hamburg	_	NE	dat|sg|neut	4	PN	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Lübeck	Lübeck	_	NE	dat|sg|neut	6	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vor	vor	_	APPR	_	7	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Entschärfung	Entschärfung	_	NN	dat|sg|fem	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Bombe	Bombe	_	NN	dat|sg|fem	4	PN	_	_
+7	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Fach·leute	Fach·leute	_	NN	nom|pl|*	10	OBJG	_	_
+10	gedacht	denken	_	VVPP	_	7	AUX	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+12	Vielleicht	vielleicht	_	ADV	_	13	ADV	_	_
+13	explodiert	explodieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+14	die	der	_	ART	nom|sg|fem	15	DET	_	_
+15	Bombe	Bombe	_	NN	nom|sg|fem	13	SUBJ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	9	OBJD	_	_
+5	1200	1200	_	CARD	_	6	ATTR	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	9	OBJA	_	_
+7	in	in	_	APPR	_	9	PP	_	_
+8	Sicherheit	Sicherheit	_	NN	acc|sg|fem	7	PN	_	_
+9	gebracht	bringen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Diese	dieser	_	PDAT	acc|pl|masc	5	DET	_	_
+5	Menschen	Mensch	_	NN	acc|pl|masc	6	OBJA	_	_
+6	mussten	mussen	_	VVFIN	pl|3|past|ind	2	S	_	_
+7	ihre	ihr	_	PPOSAT	acc|pl|neut	8	DET	_	_
+8	Häuser	Haus	_	NN	acc|pl|neut	6	SUBJ	_	_
+9	verlassen	verlassen	_	VVINF	_	6	OBJI	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|neut	2	DET	_	_
+2	Häuser	Haus	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+5	in	in	_	APPR	_	3	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Nähe	Nähe	_	NN	dat|sg|fem	5	PN	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Bombe	Bombe	_	NN	dat|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	7	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Entschärfung	Entschärfung	_	NN	dat|sg|fem	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Bombe	Bombe	_	NN	dat|sg|fem	4	PN	_	_
+7	durften	dürfen	_	VMFIN	pl|3|past|ind	0	S	_	_
+8	die	der	_	ART	nom|pl|masc	9	DET	_	_
+9	Menschen	Mensch	_	NN	nom|pl|masc	7	SUBJ	_	_
+10	in	in	_	APPR	_	9	PP	_	_
+11	die	der	_	ART	acc|pl|neut	12	DET	_	_
+12	Häuser	Haus	_	NN	acc|pl|neut	10	PN	_	_
+13	zurück	zurück	_	PTKVZ	_	7	AVZ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bombe	Bombe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Nähe	Nähe	_	NN	dat|sg|fem	3	SUBJ	_	_
+7	vom	von	_	APPRART	dat|sg|masc	6	PP	_	_
+8	Bahnhof	Bahnhof	_	NN	dat|sg|masc	7	PN	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	Bad	Bad	_	NE	*|*|neut	9	PN	_	_
+11	Oldesloe	Oldesloe	_	NE	dat|sg|fem	10	APP	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Polizei	Polizei	_	NN	nom|sg|fem	7	OBJA	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	Bahnhof	Bahnhof	_	NN	acc|sg|masc	4	GMOD	_	_
+7	gesperrt	sperren	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Durch	durch	_	APPR	_	10	PP	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	Bahnhof	Bahnhof	_	NN	acc|sg|masc	4	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Bad	Bad	_	NE	*|*|neut	7	PN	_	_
+9	Oldesloe	Oldesloe	_	NE	dat|sg|fem	8	APP	_	_
+10	durften	dürfen	_	VMFIN	pl|3|past|ind	0	S	_	_
+11	keine	kein	_	PIAT	nom|pl|masc	12	DET	_	_
+12	Züge	Zug	_	NN	nom|pl|masc	13	OBJA	_	_
+13	fahren	fahren	_	VVINF	_	10	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Polizei	Polizei	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	viele	vieler	_	PIAT	acc|pl|fem	6	DET	_	_
+6	Straßen	Straße	_	NN	acc|pl|fem	13	OBJA	_	_
+7	in	in	_	APPR	_	13	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Nähe	Nähe	_	NN	dat|sg|fem	7	PN	_	_
+10	von	von	_	APPR	_	13	PP	_	_
+11	der	der	_	ART	dat|sg|fem	12	DET	_	_
+12	Bombe	Bombe	_	NN	dat|sg|fem	10	PN	_	_
+13	gesperrt	sperren	_	VVPP	_	4	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Auf	auf	_	APPR	_	7	PP	_	_
+5	diesen	dieser	_	PDAT	dat|pl|fem	6	DET	_	_
+6	Straßen	Straße	_	NN	dat|pl|fem	4	PN	_	_
+7	durften	dürfen	_	VMFIN	pl|3|past|ind	0	S	_	_
+8	keine	kein	_	PIAT	acc|pl|neut	9	DET	_	_
+9	Autos	Auto	_	NN	acc|pl|neut	10	OBJA	_	_
+10	fahren	fahren	_	VVINF	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Woher	woher	_	PWAV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Bombe	Bombe	_	NN	nom|sg|fem	2	PRED	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bauarbeiter	Bauarbeiter	_	NN	nom|pl|masc	7	OBJA	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Bombe	Bombe	_	NN	acc|sg|fem	7	OBJA	_	_
+5	im	in	_	APPRART	dat|sg|masc	7	PP	_	_
+6	Boden	Boden	_	NN	dat|sg|masc	5	PN	_	_
+7	gefunden	finden	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bombe	Bombe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	lag	liegen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	5	5	_	CARD	_	5	ATTR	_	_
+5	Meter	Meter	_	NN	acc|sg|masc	6	GRAD	_	_
+6	tief	tief	_	ADJD	pos	3	ADV	_	_
+7	in	in	_	APPR	_	3	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Erde	Erde	_	NN	dat|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bombe	Bombe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	aus	aus	_	APPR	_	3	PRED	_	_
+5	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+6	2.	2	_	CARD	dat|sg|masc|pos	7	ATTR	_	_
+7	Welt·krieg	Welt·krieg	_	NN	dat|sg|masc	4	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	4	PP	_	_
+2	2.	2	_	CARD	dat|sg|masc|pos	3	ATTR	_	_
+3	Welt·krieg	Welt·krieg	_	NN	dat|sg|masc	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Flugzeuge	Flugzeug	_	NN	nom|pl|neut	10	ADV	_	_
+6	über	über	_	APPR	_	10	PP	_	_
+7	vielen	vieler	_	PIAT	dat|pl|fem	8	ATTR	_	_
+8	Städten	Stadt	_	NN	dat|pl|fem	6	PN	_	_
+9	Bomben	Bombe	_	NN	dat|pl|fem	10	VOK	_	_
+10	abgeworfen	abwerfen	_	VVPP	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	über	über	_	APPR	_	0	S	_	_
+3	Bad	Bad	_	NE	*|*|neut	2	PN	_	_
+4	Oldesloe	Oldesloe	_	NE	nom|sg|neut	3	APP	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	manche	mancher	_	PIAT	nom|pl|*	3	DET	_	_
+3	Bomben	Bombe	_	NN	nom|pl|*	4	SUBJ	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	explodiert	explodieren	_	VVPP	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	acc|pl|fem	2	DET	_	_
+2	Bomben	Bombe	_	NN	acc|pl|fem	3	PRED	_	_
+3	heißen	heißen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Blind·gänger	blind·gänger	_	NN	acc|pl|masc	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bombe	Bombe	_	NN	nom|sg|fem	6	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Bad	Bad	_	NE	*|*|neut	3	PN	_	_
+5	Oldesloe	Oldesloe	_	NE	dat|sg|neut	4	APP	_	_
+6	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+7	auch	auch	_	ADV	_	9	ADV	_	_
+8	ein	ein	_	ART	nom|sg|masc	9	DET	_	_
+9	Blind·gänger	Blind·gänger	_	NN	nom|sg|masc	6	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Polizei	Polizei	_	NN	nom|sg|fem	4	OBJD	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	8	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Fach·leute	Fach·leute	_	NN	nom|sg|fem	4	PAR	_	_
+8	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+9	die	der	_	ART	acc|sg|fem	10	DET	_	_
+10	Bombe	Bombe	_	NN	acc|sg|fem	12	OBJA	_	_
+11	schnell	schnell	_	ADJD	pos	12	ADV	_	_
+12	entschärft	entschärfen	_	VVPP	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Bombe	Bombe	_	NN	nom|sg|fem	7	OBJA	_	_
+5	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+6	mehr	mehr	_	ADV	_	5	ADV	_	_
+7	explodieren	explodieren	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	ihre	ihr	_	PPOSAT	acc|pl|neut	7	DET	_	_
+7	Häuser	Haus	_	NN	acc|pl|neut	5	PN	_	_
+8	zurück	zurück	_	PTKVZ	_	2	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	wieder	wieder	_	ADV	_	10	ADV	_	_
+6	Züge	Zug	_	NN	nom|pl|masc	0	S	_	_
+7	durch	durch	_	APPR	_	10	PP	_	_
+8	Bad	Bad	_	NE	*|*|neut	7	PN	_	_
+9	Oldesloe	Oldesloe	_	NE	dat|sg|neut	8	APP	_	_
+10	fahren	fahren	_	VVINF	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+

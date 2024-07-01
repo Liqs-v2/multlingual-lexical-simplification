@@ -1,0 +1,151 @@
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	rennt	rennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Neuer	neuer	_	NN	nom|sg|neut	2	SUBJ	_	_
+4	aus	aus	_	APPR	_	3	PP	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Tor	Tor	_	NN	dat|sg|masc	4	PN	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Christian	Christian	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Specht	Specht	_	NE	nom|sg|masc	1	APP	_	_
+3	ärgert	ärgern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|sg|3	3	OBJA	_	_
+5	über	über	_	APPR	_	3	PP	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	WM-Spiel	WM-Spiel	_	NN	acc|sg|neut	5	PN	_	_
+8	der	der	_	ART	gen|pl|fem	10	DET	_	_
+9	deutschen	deutsch	_	ADJA	gen|pl|fem|pos	10	ATTR	_	_
+10	Mannschaft	Mannschaft	_	NN	gen|pl|fem	7	GMOD	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vor	vor	_	APPR	_	3	PP	_	_
+2	allem	alle	_	PIS	dat|sg|neut	1	PN	_	_
+3	über	über	_	APPR	_	0	S	_	_
+4	Torwart	Torwart	_	NN	acc|sg|masc	3	PN	_	_
+5	Manuel	Manuel	_	NE	acc|sg|masc	4	APP	_	_
+6	Neuer	neuer	_	NE	acc|sg|masc	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Bild	Bild	_	NN	nom|sg|neut	3	OBJA	_	_
+3	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Manuel	Manuel	_	NE	nom|sg|masc	5	GMOD	_	_
+5	Neuer	neuer	_	NN	nom|sg|masc	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Den	der	_	ART	acc|sg|masc	2	DET	_	_
+2	Torwart	Torwart	_	NN	acc|sg|masc	0	S	_	_
+3	der	der	_	ART	gen|pl|masc	5	DET	_	_
+4	deutschen	deutsch	_	ADJA	gen|pl|masc|pos	5	ATTR	_	_
+5	Mannschaft	Mannschaft	_	NN	gen|pl|masc	2	GMOD	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sein	sein	_	PPOSAT	nom|sg|neut	2	DET	_	_
+2	Verhalten	verhalten	_	NN	nom|sg|neut	3	OBJA	_	_
+3	ärgert	ärgern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	mich	mich	_	PPER	acc|sg|*|1	3	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	beim	bei	_	APPRART	dat|sg|masc	11	PP	_	_
+4	Spiel	Spiel	_	NN	dat|sg|masc	3	PN	_	_
+5	gegen	gegen	_	APPR	_	4	PP	_	_
+6	Südkorea	Südkorea	_	NE	acc|sg|neut	5	PN	_	_
+7	einfach	einfach	_	ADJD	_	11	ADV	_	_
+8	aus	aus	_	APPR	_	11	PP	_	_
+9	dem	der	_	ART	dat|sg|neut	10	DET	_	_
+10	Tor	Tor	_	NN	dat|sg|neut	8	PN	_	_
+11	gerannt	gerennen	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	südkoreanische	südkoreanisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	dann	dann	_	ADV	_	8	ADV	_	_
+6	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+7	Tor	Tor	_	NN	nom|sg|masc	8	ETH	_	_
+8	gemacht	machen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Spiel	Spiel	_	NN	nom|sg|neut	3	PRED	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	sowieso	sowieso	_	ADV	_	3	ADV	_	_
+5	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+6	Reinfall	Reinfall	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	Neuer	neuer	_	NN	nom|sg|fem	3	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	es	es	_	PPER	acc|sg|neut|3	6	OBJA	_	_
+5	total	total	_	ADJD	pos	6	ADV	_	_
+6	versaut	versauen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Torwart	Torwart	_	NN	nom|sg|neut	9	OBJA	_	_
+3	darf	dürfen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+5	einfach	einfach	_	ADV	_	9	ADV	_	_
+6	aus	aus	_	APPR	_	9	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Tor	Tor	_	NN	dat|sg|neut	6	PN	_	_
+9	abhauen	abhauen	_	VVINF	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	6	OBJA	_	_
+2	,	--	_	$,	_	0	ROOT	_	_
+3	wenn	wenn	_	KOUS	_	5	KONJ	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	alle	aller	_	PIS	nom|pl|*	6	OBJA	_	_
+6	machen	machen	_	VVINF	_	0	S	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wenn	wenn	_	KOUS	_	8	KONJ	_	_
+2	alle	alle	_	PIS	nom|pl|*	8	SUBJ	_	_
+3	einfach	einfach	_	ADV	pos	8	ADV	_	_
+4	so	so	_	ADV	_	8	ADV	_	_
+5	mit	mit	_	APPR	_	8	PP	_	_
+6	ihrem	ihr	_	PPOSAT	dat|sg|masc	7	DET	_	_
+7	Job	Job	_	NN	dat|sg|masc	5	PN	_	_
+8	aufhören	aufhören	_	VVFIN	pl|3|pres|ind	0	NEB	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wenn	wenn	_	KOUS	_	8	KONJ	_	_
+2	die	der	_	ART	nom|pl|neut	0	S	_	_
+3	hier	hier	_	ADV	_	8	ADV	_	_
+4	in	in	_	APPR	_	8	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	taz	taz	_	NN	dat|sg|fem	4	PN	_	_
+7	einfach	einfach	_	ADV	_	8	ADV	_	_
+8	aufhören	aufhören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	eine	ein	_	ART	acc|sg|fem	11	DET	_	_
+11	Zeitung	Zeitung	_	NN	acc|sg|fem	13	OBJA	_	_
+12	zu	zu	_	PTKZU	_	13	PART	_	_
+13	machen	machen	_	VVINF	_	8	NEB	_	_
+14	?	--	_	$.	_	0	ROOT	_	_
+
+1	Ich	ich	_	PPER	nom|sg|*|1	2	SUBJ	_	_
+2	kann	können	_	VMFIN	sg|1|pres|ind	0	S	_	_
+3	es	es	_	PPER	acc|sg|neut|3	7	OBJA	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	noch	noch	_	ADV	_	7	ADV	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	glauben	glauben	_	VVINF	_	2	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Neuer	neuer	_	NN	nom|sg|neut	0	S	_	_
+10	hat	haben	_	VAFIN	sg|3|pres|ind	2	KON	_	_
+11	einfach	einfach	_	ADV	_	14	ADV	_	_
+12	das	der	_	ART	acc|sg|neut	13	DET	_	_
+13	Tor	Tor	_	NN	acc|sg|neut	14	ADV	_	_
+14	verlassen	verlassen	_	VVINF	_	10	AUX	_	_
+15	!	--	_	$.	_	0	ROOT	_	_
