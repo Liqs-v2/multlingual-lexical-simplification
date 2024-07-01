@@ -97,7 +97,6 @@ class BenchmarkSuite:
             complex_word = sample[1]
             ground_truth_substitutions = sample[3]
 
-            print(sentence, complex_word)
             # To easily capture implementations not supporting a specific number of substitutions,
             # we do not pass top_k here and simply use the default in those cases.
             predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
