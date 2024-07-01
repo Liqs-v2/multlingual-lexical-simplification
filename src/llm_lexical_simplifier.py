@@ -25,8 +25,8 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         pattern: The format string used to dynamically build prompts for generating substitutions. For this implementation,
             the pattern should contain placeholders for the original sentence and the sentence with the masked complex word.
             Between these, an instruction is injected to guide the model towards simplifying the complex word.
-        exemplars: A list of exemplar words used for in-context learning. REQUIRED for this implementation, to
-            specify the output format.
+        exemplars: A list of exemplars used for in-context learning. If provided, these will be prepended to the every
+            prompt.
         mask_token: The token used to mask the complex word in the input sentence. Defaults to '[MASK]'.
         device: The device that is used for model inference. Used to determine if CUDA is available.
         _pipe: Text generation pipeline for the model. Refer to HuggingFace
@@ -51,13 +51,10 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
         super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
 
-        # TODO Dont think I can or want to use this, since we already batch elsewhere
-        #   it does seem easy to use tho, I ll just try to refactor with it for now
         self._pipe = pipeline(
             "text-generation",
             model=self.model,
             tokenizer=self.tokenizer,
-            batch_size=16
         )
 
         self._generation_args = generation_args
@@ -84,10 +81,6 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         Raises:
             ValueError: If the string returned by the LLM is not a valid list representation and parsing fails.
         """
-        # TODO Iterate over minibatch and apply preprocessing
-        #   - Apply pattern to sentence
-        #   - Append to exemplars
-        #   - Tokenize
         # Setup prompt
         # Assumes that complex_word is in the original_sentence, in the same case
         if complex_word not in original_sentence:

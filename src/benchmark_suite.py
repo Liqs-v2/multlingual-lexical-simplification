@@ -21,7 +21,8 @@ class BenchmarkSuite:
 
     Attributes:
         testee_model (LexicalSimplifier): The lexical simplification model which an instance of this class will benchmark.
-        language_configurations: (Set[Language]): The languages for which testee_model will be benchmarked.
+        language_configurations: (Dict[Language, Dict]): The languages for which testee_model will be benchmarked
+            as keys with a dict containing the 'pattern' and 'exemplars' as values.
         _AVAILABLE_DATASETS (Dict[Language, List[DataProvider]]): The currently implemented and available datasets.
             This is constant and serves as a baseline to compare against when synchronizing the enabled languages and
             datasets.
@@ -30,7 +31,7 @@ class BenchmarkSuite:
     """
 
     testee_model: LexicalSimplifier = None
-    language_configurations: Dict[Language, str] = None
+    language_configurations: Dict[Language, Dict] = None
     # Rather than dynamically initializing self._datasets right away via self inspection and the like,
     # I decided to simply remove unused languages after the fact.
     # This tradeoff is essentially compute vs memory bound and since the DataProvider implementations
@@ -42,15 +43,16 @@ class BenchmarkSuite:
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
-    def __init__(self, testee_model: LexicalSimplifier, language_configurations: Dict[Language, str]):
+    def __init__(self, testee_model: LexicalSimplifier, language_configurations: Dict[Language, Dict]):
         """
         Creates a BenchmarkSuite instance for a specific LexicalSimplifier model. The model is going to be benchmarked
         on the languages configured in this class.
 
         Args:
             testee_model (LexicalSimplifier): The lexical simplification model to benchmark.
-            languages: (Dict[Language, str]): A dictionary where the keys are the languages for which testee_model
-                will be benchmarked and the values are the prompts used for the benchmarking of the models.
+            language_configurations: (Dict[Language, Dict]): A dictionary where the keys are the languages for
+            which testee_model will be benchmarked and the values are dictionaties containing the 'pattern' and
+            'exemplars' for the benchmarking of the model.
         """
         self.testee_model = testee_model
         self.language_configurations = language_configurations
@@ -67,7 +69,8 @@ class BenchmarkSuite:
 
         for language in self.language_configurations.keys():
             print(f'Benchmarking model on {language.name} ...')
-            self.testee_model.set_pattern(self.language_configurations[language])
+            self.testee_model.set_pattern(self.language_configurations[language]['pattern'])
+            self.testee_model.set_exemplars(self.language_configurations[language]['exemplars'])
 
             for dataset in self._enabled_datasets[language]:
                 print(f'Benchmarking model on {dataset.__class__.__name__}...')
@@ -89,7 +92,6 @@ class BenchmarkSuite:
         potential_at_k = 0
         accuracy_at_k_top_1 = 0
 
-        # TODO This is why we arent batch processing, we sequentially loop
         for sample in tqdm(benchmark_data, desc='Benchmarking'):
             sentence = sample[0]
             complex_word = sample[1]
@@ -134,27 +136,27 @@ class BenchmarkSuite:
             'accuracy_at_k_top_1': round(accuracy_at_k_top_1, 4)
         })
 
-    def enable_language(self, language: Language, prompt: str):
+    def enable_language(self, language: Language, pattern: str):
         """
         Enables the specified language and related datasets for benchmarking.
         Updates the state of self.__enabled_datasets.
 
         Args:
             language (Language): The language to enable for benchmarking.
-            prompt (str): The prompt to use for the benchmarking of the model on the specified language.
+            pattern (str): The pattern to use for the benchmarking of the model on the specified language.
         """
-        self.language_configurations[language] = prompt
+        self.language_configurations[language]['pattern'] = pattern
 
         self.__enable_datasets_by_languages()
 
-    def enable_languages(self, language_configuration: Dict[Language, str]):
+    def enable_languages(self, language_configuration: Dict[Language, Dict]):
         """
             Enables the specified languages and related datasets for benchmarking.
             Updates the state of self.__enabled_datasets.
 
             Args:
-                language_configuration (Dict[Language, str]): The languages to enable for benchmarking and
-                    the prompts to use for the benchmarking of the model.
+                language_configuration (Dict[Language, Dict]): The languages to enable for benchmarking and
+                    the dict containing the 'pattern' and 'exemplars' to use for the benchmarking of the model.
         """
         self.language_configurations.update(language_configuration)
 

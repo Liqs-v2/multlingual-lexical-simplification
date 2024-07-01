@@ -18,14 +18,14 @@ class LexicalSimplifier(metaclass=ABCMeta):
         pattern: The format string used to dynamically build prompts for generating substitutions. In the simplest
             case this could be a string with one placeholder, into which the input sentence with the masked complex
             word is inserted (eg. for a BERT model).
-        exemplars: A list of exemplar words used for zero-shot learning. If provided, these will be prepended to the every
+        exemplars: A list of exemplars used for in-context learning. If provided, these will be prepended to the every
             prompt.
         mask_token: The token used to mask the complex word in the input sentence. Defaults to '[MASK]'.
     """
     model = None
     tokenizer = None
     pattern: str = None
-    exemplars: List[dict] = None
+    exemplars = None  # Duck-typing
     mask_token = '[MASK]'
 
     def __init__(self, model, tokenizer, pattern, exemplars, mask_token):
@@ -61,6 +61,9 @@ class LexicalSimplifier(metaclass=ABCMeta):
 
     def set_pattern(self, pattern):
         self.pattern = pattern
+
+    def set_exemplars(self, exemplars):
+        self.exemplars = exemplars
 
     def apply_pattern_to(self, original_sentence: str, sentence_with_complex_word_masked: str) -> str:
         """
