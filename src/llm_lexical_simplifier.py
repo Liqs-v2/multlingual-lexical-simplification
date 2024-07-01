@@ -25,8 +25,8 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         pattern: The format string used to dynamically build prompts for generating substitutions. For this implementation,
             the pattern should contain placeholders for the original sentence and the sentence with the masked complex word.
             Between these, an instruction is injected to guide the model towards simplifying the complex word.
-        exemplars: A list of exemplar words used for in-context learning. REQUIRED for this implementation, to
-            specify the output format.
+        exemplars: A list of exemplars used for in-context learning. If provided, these will be prepended to the every
+            prompt.
         mask_token: The token used to mask the complex word in the input sentence. Defaults to '[MASK]'.
         device: The device that is used for model inference. Used to determine if CUDA is available.
         _pipe: Text generation pipeline for the model. Refer to HuggingFace
@@ -41,23 +41,21 @@ class LLMLexicalSimplifier(LexicalSimplifier):
     _pipe = None
     _generation_args = None
 
-    def __init__(self, model, tokenizer, pattern, exemplars, mask_token, generation_args):
+    def __init__(self, model, tokenizer, mask_token, pattern=None, exemplars=None, generation_args=None):
         if exemplars is None or len(exemplars) == 0:
             raise ValueError("Please provide a list of exemplars for in-context learning."
                              "Without exemplars the model will not produce output in in the expected format.")
 
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        print(f"Using {device} for model inference.")
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        print(f"Using {self.device} for model inference.")
 
-        super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
+        super().__init__(model.to(self.device), tokenizer, mask_token, pattern, exemplars)
 
-        # TODO Dont think I can or want to use this, since we already batch elsewhere
-        #   it does seem easy to use tho, I ll just try to refactor with it for now
         self._pipe = pipeline(
             "text-generation",
             model=self.model,
             tokenizer=self.tokenizer,
-            batch_size=16
+            device=self.device
         )
 
         self._generation_args = generation_args
@@ -84,10 +82,6 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         Raises:
             ValueError: If the string returned by the LLM is not a valid list representation and parsing fails.
         """
-        # TODO Iterate over minibatch and apply preprocessing
-        #   - Apply pattern to sentence
-        #   - Append to exemplars
-        #   - Tokenize
         # Setup prompt
         # Assumes that complex_word is in the original_sentence, in the same case
         if complex_word not in original_sentence:
@@ -103,7 +97,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         try:
             parsed_substitutions = self.__parse_llm_output(substitutions)
         except ValueError as e:
-            print(f"Failed to parse the output from the LLM: {e}"
+            print(f"Failed to parse the output from the LLM: {e}\n"
                   f"Returning empty list.")
             return []
 
