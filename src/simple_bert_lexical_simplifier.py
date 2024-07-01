@@ -27,8 +27,8 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using {device} for model inference.")
 
-    def __init__(self, model, tokenizer, pattern, exemplars, mask_token):
-        super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
+    def __init__(self, model, tokenizer, mask_token, pattern=None, exemplars=None):
+        super().__init__(model.to(self.device), tokenizer, mask_token, pattern, exemplars)
 
     def generate_substitutions_for(self, complex_word: str, original_sentence: str, top_k: int = 10):
         """

@@ -41,7 +41,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
     _pipe = None
     _generation_args = None
 
-    def __init__(self, model, tokenizer, pattern, exemplars, mask_token, generation_args):
+    def __init__(self, model, tokenizer, mask_token, pattern=None, exemplars=None, generation_args=None):
         if exemplars is None or len(exemplars) == 0:
             raise ValueError("Please provide a list of exemplars for in-context learning."
                              "Without exemplars the model will not produce output in in the expected format.")
@@ -49,7 +49,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         print(f"Using {self.device} for model inference.")
 
-        super().__init__(model.to(self.device), tokenizer, pattern, exemplars, mask_token)
+        super().__init__(model.to(self.device), tokenizer, mask_token, pattern, exemplars)
 
         self._pipe = pipeline(
             "text-generation",
@@ -97,7 +97,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         try:
             parsed_substitutions = self.__parse_llm_output(substitutions)
         except ValueError as e:
-            print(f"Failed to parse the output from the LLM: {e}"
+            print(f"Failed to parse the output from the LLM: {e}\n"
                   f"Returning empty list.")
             return []
 
