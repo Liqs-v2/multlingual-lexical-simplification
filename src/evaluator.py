@@ -54,7 +54,6 @@ class Evaluator:
         potential_at_1 = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, 1)
         potential_at_5 = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, 5)
         potential_at_10 = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, 10)
-        print("evaluator: " +str(potential_at_10))
 
         #Calculate accuracy_at_k_top_1
         accuracy_at_1_top_1 = evaluation_metrics_shared_task.accuracy_at_k_top_1(predicted_substitutions, ground_truth_substitutions, 1)

@@ -88,7 +88,6 @@ class BenchmarkSuite:
                 print(f'Benchmarking model on {dataset.__class__.__name__}...')
                 benchmark_data = dataset.provide_data_as_numpy_array()
                 results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on(benchmark_data)
-                print(results.loc[f'{language.name}-{dataset.__class__.__name__}'])
 
         results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
                        f'benchmark_results_{self.testee_model.__class__.__name__}_'
@@ -146,10 +145,8 @@ class BenchmarkSuite:
             if sample_accuracy_at_5_top_1:
                 accuracy_at_5_top_1 += 1
 
-            print(sample_potential_at_10)
             if sample_potential_at_10:
                 potential_at_10 += 1
-                print(potential_at_10)
             map_at_10 += sample_map_at_10
             if sample_accuracy_at_10_top_1:
                 accuracy_at_10_top_1 += 1
@@ -159,7 +156,6 @@ class BenchmarkSuite:
         recall = recall / len(benchmark_data)
         f1 = f1 / len(benchmark_data)
         
-        print(potential_at_10)
         potential_at_10 = potential_at_10 / len(benchmark_data)
         potential_at_5 = potential_at_5 / len(benchmark_data)
         potential_at_1 = potential_at_1 / len(benchmark_data)
@@ -171,7 +167,6 @@ class BenchmarkSuite:
         accuracy_at_10_top_1 = accuracy_at_10_top_1 / len(benchmark_data)
         accuracy_at_5_top_1 = accuracy_at_5_top_1 / len(benchmark_data)
         accuracy_at_1_top_1 = accuracy_at_1_top_1 / len(benchmark_data)
-        print(accuracy_at_10_top_1)
 
         return pd.Series({
             'potential': round(potential, 4),
