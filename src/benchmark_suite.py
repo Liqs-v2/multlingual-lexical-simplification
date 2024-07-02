@@ -68,9 +68,9 @@ class BenchmarkSuite:
         The result of the benchmark is persisted in 'data/benchmark_results_<model_clazz_name>.csv'
         """
         results = pd.DataFrame(columns=['potential', 'precision', 'recall', 'f1', 'map_at_k', 'potential_at_k',
-                                        'accuracy_at_k_top_1','potential at 10', 'potential at 5', 'potential at 1', 
-                                        'map at 10', 'map at 5', 'map at 1', 'accuracy at 10 top 1', 'accuracy at 5 top 1', 
-                                        'accuracy at 1 top 1'])
+                                        'accuracy_at_k_top_1','potential_at_10', 'potential_at_5', 'potential_at_1',
+                                        'map_at_1', 'map_at_5', 'map_at_10', 'accuracy_at_10_top_1', 'accuracy_at_5_top_1',
+                                        'accuracy_at_1_top_1'])
 
         for language in self.language_configurations.keys():
             print(f'Benchmarking model on {language.name} ...')
