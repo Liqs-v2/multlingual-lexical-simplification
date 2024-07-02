@@ -69,6 +69,9 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
             outputs = self.model(**inputs)
 
         # Get predicted probabilities for the masked token
+        if (print(self.tokenizer.mask_token_id) ==5):
+            print(inputs["input_ids"].squeeze().tolist())
+            print(self.tokenizer.mask_token_id)
         masked_index = inputs["input_ids"].squeeze().tolist().index(self.tokenizer.mask_token_id)
         probs = torch.nn.functional.softmax(outputs.logits[0, masked_index], dim=-1)
 
