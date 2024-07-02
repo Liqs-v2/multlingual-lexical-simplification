@@ -166,9 +166,11 @@ class BenchmarkSuite:
         map_at_5 = map_at_5 / len(benchmark_data)
         map_at_1 = map_at_1 / len(benchmark_data)
 
+        print(accuracy_at_10_top_1)
         accuracy_at_10_top_1 = accuracy_at_10_top_1 / len(benchmark_data)
         accuracy_at_5_top_1 = accuracy_at_5_top_1 / len(benchmark_data)
         accuracy_at_1_top_1 = accuracy_at_1_top_1 / len(benchmark_data)
+        print(accuracy_at_10_top_1)
 
         return pd.Series({
             'potential': round(potential, 4),
