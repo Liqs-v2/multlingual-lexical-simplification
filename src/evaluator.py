@@ -8,7 +8,7 @@ class Evaluator:
 
     # TODO Typing for args
     @classmethod
-    def evaluate(cls, ground_truth_substitutions, predicted_substitutions, k=10):
+    def evaluate(cls, ground_truth_substitutions, predicted_substitutions):
         """
         Evaluates the predicted substitutions for a complex word with the provided ground truth
         substitutions with the metrics defined in the class.
@@ -46,12 +46,18 @@ class Evaluator:
             sample_f1 = 2 * (sample_precision * sample_recall) / (sample_precision + sample_recall)
 
         #Calculate MAP@K
-        map_at_k = evaluation_metrics_shared_task.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, k)
+        map_at_1 = evaluation_metrics_shared_task.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, 1)
+        map_at_5 = evaluation_metrics_shared_task.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, 5)
+        map_at_10 = evaluation_metrics_shared_task.mean_average_precision_at_k(predicted_substitutions, ground_truth_substitutions, 10)
 
         #Calculate potential_at_k
-        potential_at_k = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, k)
+        potential_at_1 = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, 1)
+        potential_at_5 = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, 5)
+        potential_at_10 = evaluation_metrics_shared_task.potential_at_k(predicted_substitutions, ground_truth_substitutions, 10)
 
         #Calculate accuracy_at_k_top_1
-        accuracy_at_k_top_1 = evaluation_metrics_shared_task.accuracy_at_k_top_1(predicted_substitutions, ground_truth_substitutions, k)
+        accuracy_at_1_top_1 = evaluation_metrics_shared_task.accuracy_at_k_top_1(predicted_substitutions, ground_truth_substitutions, 1)
+        accuracy_at_5_top_1 = evaluation_metrics_shared_task.accuracy_at_k_top_1(predicted_substitutions, ground_truth_substitutions, 5)
+        accuracy_at_10_top_1 = evaluation_metrics_shared_task.accuracy_at_k_top_1(predicted_substitutions, ground_truth_substitutions, 10)
 
-        return sample_potential, sample_precision, sample_recall, sample_f1, map_at_k, potential_at_k, accuracy_at_k_top_1
+        return sample_potential, sample_precision, sample_recall, sample_f1, map_at_1, map_at_5, map_at_10,potential_at_1, potential_at_5, potential_at_10, accuracy_at_1_top_1, accuracy_at_5_top_1, accuracy_at_10_top_1
