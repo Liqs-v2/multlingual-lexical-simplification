@@ -181,12 +181,12 @@ class BenchmarkSuite:
             'potential_at_10': round(potential_at_10, 4),
             'potential_at_5': round(potential_at_5, 4),
             'potential_at_1': round(potential_at_1, 4),
-            'map at 10': round(map_at_10, 4),
-            'map at 5': round(map_at_5, 4),
-            'map at 1': round(map_at_1, 4),
-            'accuracy at 10 top 1': round(accuracy_at_10_top_1, 4),
-            'accuracy at 5 top 1': round(accuracy_at_5_top_1, 4),
-            'accuracy at 1 top 1': round(accuracy_at_1_top_1, 4)
+            'map_at_10': round(map_at_10, 4),
+            'map_at_5': round(map_at_5, 4),
+            'map_at_1': round(map_at_1, 4),
+            'accuracy_at_10_top_1': round(accuracy_at_10_top_1, 4),
+            'accuracy_at_5_top_1': round(accuracy_at_5_top_1, 4),
+            'accuracy_at_1_top_1': round(accuracy_at_1_top_1, 4)
         })
 
 
