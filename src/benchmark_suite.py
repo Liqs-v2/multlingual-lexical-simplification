@@ -176,7 +176,7 @@ class BenchmarkSuite:
             'precision': round(precision, 4),
             'recall': round(recall, 4),
             'f1': round(f1, 4),
-             'potential at 10': round(potential_at_10, 4),
+            'potential at 10': round(potential_at_10, 4),
             'potential at 5': round(potential_at_5, 4),
             'potential at 1': round(potential_at_1, 4),
             'map at 10': round(map_at_10, 4),
