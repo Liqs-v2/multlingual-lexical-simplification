@@ -8,7 +8,7 @@ class Evaluator:
 
     # TODO Typing for args
     @classmethod
-    def evaluate(cls, ground_truth_substitutions, predicted_substitutions, k = 10):
+    def evaluate(cls, ground_truth_substitutions, predicted_substitutions):
         """
         Evaluates the predicted substitutions for a complex word with the provided ground truth
         substitutions with the metrics defined in the class.
