@@ -88,4 +88,5 @@ class GPTLexicalSimplifier(LexicalSimplifier):
             print(gpt_output)
             return ast.literal_eval(gpt_output)
         except (ValueError, SyntaxError):
-            raise ValueError(f"The provided string is not a valid list representation: {gpt_output}")
+            return []
+            #raise ValueError(f"The provided string is not a valid list representation: {gpt_output}")
