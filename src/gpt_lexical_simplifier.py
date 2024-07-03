@@ -84,8 +84,7 @@ class GPTLexicalSimplifier(LexicalSimplifier):
         Raises:
             ValueError: If the provided string is not a valid list representation.
         """
-
         try:
-            return ast.literal_eval(gpt_output.strip())
+            return ast.literal_eval(gpt_output)
         except (ValueError, SyntaxError):
             raise ValueError(f"The provided string is not a valid list representation: {gpt_output}")
