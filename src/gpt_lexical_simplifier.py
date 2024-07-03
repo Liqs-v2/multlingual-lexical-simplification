@@ -42,6 +42,7 @@ class GPTLexicalSimplifier(LexicalSimplifier):
     _pipe = None
     _generation_args = None
     counter_mistake = 0
+    max_tries = 3
 
     def __init__(self, model=None, tokenizer=None, mask_token="[MASK]", pattern=None, exemplars=None, generation_args=None):
 
@@ -70,9 +71,9 @@ class GPTLexicalSimplifier(LexicalSimplifier):
             messages=message
         )
         response = str(completion.choices[0].message.content)
-        return self.__parse_gpt_output(response)
+        return self.__parse_gpt_output(response, complex_word=complex_word, original_sentence=original_sentence)
 
-    def __parse_gpt_output(self, gpt_output: str) -> List[str]:
+    def __parse_gpt_output(self, gpt_output: str, complex_word: str, original_sentence: str) -> List[str]:
         """
         Parses the string returned by the GPT API call into a list of possible substitutions.
 
@@ -89,6 +90,8 @@ class GPTLexicalSimplifier(LexicalSimplifier):
             return ast.literal_eval(gpt_output)
         except (ValueError, SyntaxError):
             self.counter_mistake += 1
-            print(str(self.counter_mistake))
-            return []
+            if self.max_tries == self.counter_mistake:
+                raise ValueError(f"The provided string is not a valid list representation: {gpt_output}")
+            print(f"Error parsing response: {gpt_output} Retrying... {self.counter_mistake}/{self.max_tries}")
+            return self.generate_substitutions_for(complex_word, original_sentence)
             #raise ValueError(f"The provided string is not a valid list representation: {gpt_output}")
