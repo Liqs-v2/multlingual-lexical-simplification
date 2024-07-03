@@ -31,10 +31,10 @@ class LexicalSimplifier(metaclass=ABCMeta):
 
     def __init__(self, model, tokenizer, mask_token, pattern=None, exemplars=None):
         if model is None:
-            raise ValueError("Please initialize the model for this LexicalSimplifier.")
+            warnings.warn("Please initialize the model for this LexicalSimplifier. Only exception if for the GPT LexicalSimplifier.")
 
         if tokenizer is None:
-            raise ValueError("Please initialize the model for this LexicalSimplifier.")
+            warnings.warn("Please initialize the tokenizer for this LexicalSimplifier. Only exception if for the GPT LexicalSimplifier.")
 
         if pattern is None or pattern == "":
             warnings.warn("No pattern provided, please use specify one or set it via the BenchmarkSuite!")
