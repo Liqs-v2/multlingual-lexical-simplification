@@ -41,6 +41,7 @@ class GPTLexicalSimplifier(LexicalSimplifier):
     device = None
     _pipe = None
     _generation_args = None
+    counter_mistake = 0
 
     def __init__(self, model=None, tokenizer=None, mask_token="[MASK]", pattern=None, exemplars=None, generation_args=None):
 
@@ -85,8 +86,9 @@ class GPTLexicalSimplifier(LexicalSimplifier):
             ValueError: If the provided string is not a valid list representation.
         """
         try:
-            print(gpt_output)
             return ast.literal_eval(gpt_output)
         except (ValueError, SyntaxError):
+            self.counter_mistake += 1
+            print(str(self.counter_mistake))
             return []
             #raise ValueError(f"The provided string is not a valid list representation: {gpt_output}")
