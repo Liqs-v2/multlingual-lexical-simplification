@@ -2,7 +2,7 @@ import ast
 from typing import List
 import openai
 
-from src.config import OPENAI_API_KEY
+from config import OPENAI_API_KEY
 from transformers import pipeline
 
 from lexical_simplifier import LexicalSimplifier
