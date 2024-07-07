@@ -8,20 +8,19 @@ class CreateNewSet:
 
     _original_data = germaneval_data_provider.GermanEvalDataProvider().provide_data_as_numpy_array()
 
-    _messages = [
-            {"role": "user", "content": "kreiere ein neues Dataset mit 10 Sätzen für lexical simplification."},
-            {"role": "assistant", "content": str(dataset.tolist())},
-            {"role": "user", "content": "kreiere ein neues Dataset mit 30 Sätzen für lexical simplification."},
-            ]
-
     def __init__(self):
         openai.api_key = OPENAI_API_KEY
     
     def create_new_set(self, interval_lower, interval_upper):
         dataset = self._original_data[interval_lower:interval_upper]
+        messages = [
+            {"role": "user", "content": "kreiere ein neues Dataset mit 10 Sätzen für lexical simplification."},
+            {"role": "assistant", "content": str(dataset.tolist())},
+            {"role": "user", "content": "kreiere ein neues Dataset mit 30 Sätzen für lexical simplification."},
+            ]
         completion = openai.chat.completions.create(
             model="gpt-3.5-turbo-0125",
-            messages= self._messages
+            messages= messages
             )
         response = str(completion.choices[0].message.content)
         with open('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/created_dataset/new_set' +datetime.datetime.now().strftime("%I:%M%p on %B %d, %Y") +'.txt', 'w') as file:
