@@ -1,11 +1,11 @@
 import numpy as np
-from src.utils.create_script import get_dataset
+from src.utils.create_gpt_set_script import get_dataset
 from src.utils.data_provider import DataProvider
 
 # DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 class GPT_Created_Data_Provider(DataProvider):
 
-    _filename = "/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/src/utils/create_script.py"
+    _filename = "/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/src/utils/create_gpt_set_script.py"
 
 
     def provide_data_as_numpy_array(self):
