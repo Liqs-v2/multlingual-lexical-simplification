@@ -35,7 +35,7 @@ class LexicalSimplifier(metaclass=ABCMeta):
 
         if tokenizer is None:
             warnings.warn("Please initialize the tokenizer for this LexicalSimplifier. Only exception if for the GPT LexicalSimplifier.")
-            
+
         if pattern is None or pattern == "":
             warnings.warn("No pattern provided, please use specify one or set it via the BenchmarkSuite!")
 
