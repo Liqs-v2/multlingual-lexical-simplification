@@ -10,8 +10,8 @@ from src.utils.data_provider import DataProvider
 
 class GermanEvalDataProvider(DataProvider):
 
-    _path_to_data = 'data/germeval/train-dataset.xml'
-    _path_to_substitutes = 'data/germeval/train-dataset.gold'
+    _path_to_data = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.xml'
+    _path_to_substitutes = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/germeval/train-dataset.gold'
 
     def get_position(self, word, sentence):
         """
