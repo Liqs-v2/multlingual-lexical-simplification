@@ -1,0 +1,353 @@
+1	HSH	HSH	_	NE	nom|sg|fem	3	SUBJ	_	_
+2	Nord·bank	Nord·bank	_	NE	nom|sg|fem	1	APP	_	_
+3	verkauft	verkaufen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+
+1	Hamburg	Hamburg	_	NE	nom|sg|neut	4	OBJA	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	Schleswig-Holstein	Schleswig-Holstein	_	NE	nom|sg|neut	2	CJ	_	_
+4	verkaufen	verkaufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	HSH	HSH	_	NE	*|*|*	4	OBJA	_	_
+7	Nord·bank	Nord·bank	_	NE	acc|sg|fem	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	HSH	HSH	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Nord·bank	Nord·bank	_	NE	nom|sg|fem	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+6	Landes·bank	Landes·bank	_	NN	nom|sg|fem	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Landes·bank	Landes·bank	_	NN	nom|sg|fem	3	OBJD	_	_
+3	gehört	gehören	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	einem	ein	_	ART	dat|sg|masc	5	DET	_	_
+5	Bundes·land	Bundes·land	_	NN	dat|sg|masc	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	mehreren	mehrere	_	PIAT	dat|pl|masc	3	DET	_	_
+3	Bundes·ländern	Bundes·land	_	NN	dat|pl|masc	1	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	HSH	HSH	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Nord·bank	Nord·bank	_	NE	nom|sg|fem	2	APP	_	_
+4	gehört	gehören	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	den	der	_	ART	dat|pl|masc	6	DET	_	_
+6	Bundes·ländern	Bundes·land	_	NN	dat|pl|masc	4	OBJD	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	•	LI	_	$.	_	0	ROOT	_	_
+9	Hamburg	Hamburg	_	NE	nom|sg|neut	6	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+11	•	LI	_	XY	_	0	ROOT	_	_
+12	Und	und	_	KON	_	9	KON	_	_
+13	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	12	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	HSH	HSH	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Nord·bank	Nord·bank	_	NE	nom|sg|fem	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+6	viele	vieler	_	PIAT	acc|pl|fem	7	DET	_	_
+7	Schulden	Schuld	_	NN	acc|pl|fem	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|*	2	OBJD	_	_
+2	kauft	kaufen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	HSH	HSH	_	NE	acc|sg|fem	2	OBJA	_	_
+5	Nord·bank	Nord·bank	_	NE	nom|sg|fem	4	APP	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Mehrere	mehrere	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Investoren	Investor	_	NN	nom|pl|masc	3	OBJD	_	_
+3	kaufen	kaufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	HSH	HSH	_	NE	*|*|*	3	SUBJ	_	_
+6	Nord·bank	Nord·bank	_	NE	acc|sg|fem	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Investor	Investor	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	7	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+7	Mensch	Mensch	_	NN	nom|sg|masc	3	PAR	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	eine	ein	_	ART	nom|sg|fem	3	DET	_	_
+3	Firma	Firma	_	NN	nom|sg|fem	1	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Investor	Investor	_	NN	nom|sg|masc	3	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	viel	viel	_	PIAT	*|*|*	5	ATTR	_	_
+5	Geld	Geld	_	NN	acc|sg|neut	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Geld	Geld	_	NN	dat|sg|neut	1	PN	_	_
+4	kauft	kaufen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Investor	Investor	_	NN	nom|sg|masc	4	OBJA	_	_
+7	zum	zu	_	APPRART	dat|sg|neut	10	PP	_	_
+8	Beispiel	Beispiel	_	NN	dat|sg|neut	7	PN	_	_
+9	andere	anderer	_	ADJA	acc|pl|fem|pos	10	ATTR	_	_
+10	Firmen	Firma	_	NN	acc|pl|fem	6	APP	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	mit	mit	_	APPR	_	6	PP	_	_
+3	diesen	dieser	_	PDAT	dat|pl|fem	5	DET	_	_
+4	anderen	anderer	_	ADJA	dat|pl|fem|pos	5	ATTR	_	_
+5	Firmen	Firma	_	NN	dat|pl|fem	2	PN	_	_
+6	will	wollen	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+7	ein	ein	_	ART	nom|sg|masc	8	DET	_	_
+8	Investor	Investor	_	NN	nom|sg|masc	6	OBJA	_	_
+9	noch	noch	_	ADV	_	10	ADV	_	_
+10	mehr	mehr	_	PIAT	*|*|*	11	DET	_	_
+11	Geld	Geld	_	NN	acc|sg|neut	12	OBJA	_	_
+12	verdienen	verdienen	_	VVFIN	pl|3|pres|ind	6	REL	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einer	einer	_	PIS	nom|sg|masc	4	SUBJ	_	_
+2	dieser	dieser	_	PDAT	gen|pl|masc	3	DET	_	_
+3	Investoren	Investor	_	NN	gen|pl|masc	1	GMOD	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	7	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	Christopher	Christopher	_	NE	nom|sg|masc	4	PRED	_	_
+8	Flowers	Flower	_	NE	gen|sg|masc	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Christopher	Christopher	_	ADJA	*|*|*|pos	2	ATTR	_	_
+2	Flowers	Flower	_	NN	gen|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	aus	aus	_	APPR	_	3	PP	_	_
+5	Amerika	Amerika	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+3	anderer	anderer	_	ADJA	nom|sg|masc|pos	4	ATTR	_	_
+4	Investor	Investor	_	NN	nom|sg|masc	5	PRED	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	Cerberus	Cerberus	_	NE	nom|sg|masc	5	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Cerberus	Cerberus	_	NE	nom|sg|*	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Firma	Firma	_	NN	nom|sg|fem	2	PRED	_	_
+5	aus	aus	_	APPR	_	4	PP	_	_
+6	Amerika	Amerika	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Investoren	Investor	_	NN	nom|pl|masc	3	OBJD	_	_
+3	bezahlen	bezahlen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Milliarde	Milliarde	_	NN	acc|sg|fem	6	ATTR	_	_
+6	Euro	Euro	_	NE	nom|sg|*	3	SUBJ	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	HSH	HSH	_	NE	acc|sg|fem	7	PN	_	_
+10	Nord·bank	Nord·bank	_	NE	acc|sg|fem	9	APP	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bundes·länder	Bundes·land	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	verlieren	verlieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	viel	viel	_	PIAT	*|*|*	4	ATTR	_	_
+4	Geld	Geld	_	NN	acc|sg|neut	2	OBJA	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	HSH	HSH	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Nord·bank	Nord·bank	_	NE	nom|sg|fem	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	viele	vieler	_	PIAT	acc|pl|fem	6	DET	_	_
+6	Schulden	Schuld	_	NN	acc|pl|fem	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	HSH	HSH	_	NE	nom|sg|fem	4	SUBJ	_	_
+3	Nord·bank	Nord·bank	_	NE	nom|sg|fem	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	sich	sich	_	PRF	acc|sg|3	11	OBJA	_	_
+6	nämlich	nämlich	_	ADV	_	11	ADV	_	_
+7	zum	zu	_	APPRART	dat|sg|neut	11	PP	_	_
+8	Beispiel	Beispiel	_	NN	dat|sg|neut	7	PN	_	_
+9	viel	viel	_	PIAT	*|*|*	10	ATTR	_	_
+10	Geld	Geld	_	NN	acc|sg|neut	4	SUBJ	_	_
+11	geliehen	leihen	_	VVPP	_	4	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	dieses	dieser	_	PDAT	acc|sg|neut	3	DET	_	_
+3	Geld	Geld	_	NN	acc|sg|neut	4	SUBJ	_	_
+4	konnte	können	_	VMFIN	sg|3|past|ind	1	CJ	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	HSH	HSH	_	NE	nom|sg|fem	10	OBJA	_	_
+7	Nord·bank	Nord·bank	_	NE	nom|sg|fem	6	APP	_	_
+8	noch	noch	_	ADV	_	10	ADV	_	_
+9	nicht	nicht	_	PTKNEG	_	10	ADV	_	_
+10	zurück·bezahlen	zurück·bezahlen	_	VVINF	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Hamburg	Hamburg	_	NE	nom|sg|neut	9	OBJA	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	Schleswig-Holstein	Schleswig-Holstein	_	NE	nom|sg|neut	4	CJ	_	_
+6	wahrscheinlich	wahrscheinlich	_	ADJD	pos	9	ADV	_	_
+7	dieses	dieser	_	PDAT	acc|sg|neut	8	DET	_	_
+8	Geld	Geld	_	NN	acc|sg|neut	9	OBJA	_	_
+9	zurück·bezahlen	zurück·bezahlen	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Investoren	Investor	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	bezahlen	bezahlen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+5	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+6	Milliarde	Milliarde	_	NN	acc|sg|fem	7	ATTR	_	_
+7	Euro	Euro	_	NE	nom|sg|*	3	OBJA	_	_
+8	für	für	_	APPR	_	3	PP	_	_
+9	die	der	_	ART	acc|sg|fem	10	DET	_	_
+10	HSH	HSH	_	NE	acc|sg|fem	8	PN	_	_
+11	Nord·bank	Nord·bank	_	NE	acc|sg|fem	10	APP	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	HSH	HSH	_	NE	nom|sg|fem	11	OBJA	_	_
+4	Nord·bank	Nord·bank	_	NE	nom|sg|fem	3	APP	_	_
+5	muss	muss	_	NE	_	4	APP	_	_
+6	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+7	als	als	_	KOKOM	_	11	KOM	_	_
+8	eine	ein	_	ART	nom|sg|fem	9	DET	_	_
+9	Milliarde	Milliarde	_	NN	nom|sg|fem	10	ATTR	_	_
+10	Euro	Euro	_	NE	nom|sg|*	7	CJ	_	_
+11	zurück·bezahlen	zurück·bezahlen	_	VVIZU	_	1	CJ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	4	DET	_	_
+2	verlieren	verlieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Hamburg	Hamburg	_	NE	nom|sg|neut	2	OBJD	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	Schleswig-Holstein	Schleswig-Holstein	_	NE	nom|sg|neut	4	CJ	_	_
+6	durch	durch	_	APPR	_	2	PP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	HSH	HSH	_	NE	*|*|*	6	PN	_	_
+9	Nord·bank	Nord·bank	_	NE	*|*|*	8	APP	_	_
+10	viel	viel	_	PIAT	*|*|*	11	ATTR	_	_
+11	Geld	Geld	_	NN	acc|sg|neut	2	OBJA	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Politiker	Politiker	_	NN	nom|pl|masc	4	OBJD	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Wir	wir	_	PPER	nom|pl|*|1	7	SUBJ	_	_
+7	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	HSH	HSH	_	NE	*|*|*	11	OBJD	_	_
+10	Nord·bank	Nord·bank	_	NE	acc|sg|fem	9	APP	_	_
+11	verkauft	verkaufen	_	VVPP	_	7	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Durch	durch	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	acc|sg|masc	3	DET	_	_
+3	Verkauf	Verkauf	_	NN	acc|sg|masc	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+5	wir	wir	_	PPER	nom|pl|*|1	7	OBJA	_	_
+6	Geld	Geld	_	NN	acc|sg|neut	7	OBJA	_	_
+7	bekommen	bekommen	_	VVINF	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Verkauf	Verkauf	_	NN	nom|sg|masc	8	OBJG	_	_
+5	der	der	_	ART	gen|sg|fem	6	DET	_	_
+6	HSH	HSH	_	NE	gen|sg|fem	4	GMOD	_	_
+7	Nord·bank	Nord·bank	_	NE	nom|sg|fem	6	APP	_	_
+8	gut	gut	_	ADJD	pos	2	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ermittlungen	Ermittlung	_	NN	nom|pl|fem	0	S	_	_
+2	gegen	gegen	_	APPR	_	1	PP	_	_
+3	Mitarbeiter	Mitarbeiter	_	NN	acc|sg|masc	2	PN	_	_
+
+1	Über	über	_	APPR	_	5	PP	_	_
+2	die	der	_	ART	acc|sg|fem	3	DET	_	_
+3	HSH	HSH	_	NE	acc|sg|fem	1	PN	_	_
+4	Nord·bank	Nord·bank	_	NE	acc|sg|fem	3	APP	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	seit	seit	_	APPR	_	5	PP	_	_
+8	vielen	vieler	_	PIAT	dat|pl|neut	9	ATTR	_	_
+9	Jahren	Jahr	_	NN	dat|pl|neut	7	PN	_	_
+10	Streit	Streit	_	NN	nom|sg|masc	5	OBJA	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Leute	Leute	_	NN	nom|pl|*	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	7	ADV	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	7	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Wichtige	wichtig	_	ADJA	nom|pl|masc|pos	10	ATTR	_	_
+10	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	15	SUBJ	_	_
+11	von	von	_	APPR	_	10	PP	_	_
+12	der	der	_	ART	dat|sg|fem	13	DET	_	_
+13	HSH	HSH	_	NE	dat|sg|fem	11	PN	_	_
+14	Nord·bank	Nord·bank	_	NE	dat|sg|fem	13	APP	_	_
+15	haben	haben	_	VAFIN	pl|3|pres|ind	7	S	_	_
+16	schlecht	schlecht	_	ADJD	pos	17	ADV	_	_
+17	gearbeitet	arbeiten	_	VVPP	_	15	AUX	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	8	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	HSH	HSH	_	NE	nom|sg|fem	2	OBJA	_	_
+5	Nord·bank	Nord·bank	_	NE	nom|sg|fem	4	APP	_	_
+6	so	so	_	ADV	_	7	ADV	_	_
+7	viele	vieler	_	PIAT	acc|pl|fem	8	DET	_	_
+8	Schulden	Schuld	_	NN	acc|pl|fem	2	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Polizei	Polizei	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Vielleicht	vielleicht	_	ADV	_	8	ADV	_	_
+8	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+9	die	der	_	ART	nom|pl|masc	11	DET	_	_
+10	wichtigen	wichtig	_	ADJA	nom|pl|masc|pos	11	ATTR	_	_
+11	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	8	SUBJ	_	_
+12	gegen	gegen	_	APPR	_	15	OBJP	_	_
+13	das	der	_	ART	acc|sg|neut	14	DET	_	_
+14	Gesetz	Gesetz	_	NN	acc|sg|neut	12	PN	_	_
+15	verstoßen	verstoßen	_	VVPP	_	8	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	ermitteln	ermitteln	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	gegen	gegen	_	APPR	_	2	PP	_	_
+5	diese	dieser	_	PDAT	acc|sg|fem	6	DET	_	_
+6	Mitarbeiter	Mitarbeiter	_	NN	acc|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_

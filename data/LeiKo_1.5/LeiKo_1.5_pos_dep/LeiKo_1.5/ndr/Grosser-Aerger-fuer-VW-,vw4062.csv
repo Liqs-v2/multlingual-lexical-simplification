@@ -1,0 +1,366 @@
+﻿1	Großer	groß	_	ADJA	nom|sg|masc|pos	2	ATTR	_	_
+2	Ärger	Ärger	_	NN	nom|sg|masc	0	S	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	VW	VW	_	NE	acc|sg|*	3	PN	_	_
+
+1	VW	VW	_	NE	nom|sg|*	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	großen	groß	_	ADJA	acc|pl|masc|pos	4	ATTR	_	_
+4	Ärger	Ärger	_	NN	acc|pl|masc	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	VW	VW	_	NE	nom|sg|*	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Volkswagen	Volkswagen	_	NE	acc|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	VW	VW	_	NE	nom|sg|*	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+4	große	groß	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Firma	Firma	_	NN	nom|sg|fem	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	VW	VW	_	NE	nom|sg|*	2	OBJA	_	_
+2	baut	bauen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Autos	Auto	_	NN	acc|pl|neut	2	OBJA	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	VW	VW	_	NE	nom|sg|*	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	aus	aus	_	APPR	_	3	PP	_	_
+5	Wolfsburg	Wolfsburg	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wolfsburg	Wolfsburg	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	VW	VW	_	NE	nom|sg|*	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	nämlich	nämlich	_	ADV	_	6	ADV	_	_
+4	besondere	besonderer	_	ADJA	acc|pl|neut|pos	5	ATTR	_	_
+5	Tests	Test	_	NN	acc|pl|neut	6	OBJA	_	_
+6	gemacht	machen	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Tests	Test	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	mit	mit	_	APPR	_	3	PRED	_	_
+5	Affen	Affen	_	NN	dat|pl|masc	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+3	Tests	Test	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	waren	sein	_	VAFIN	pl|3|past|ind	1	CJ	_	_
+5	wahrscheinlich	wahrscheinlich	_	ADJD	pos	4	ADV	_	_
+6	auch	auch	_	ADV	_	7	ADV	_	_
+7	mit	mit	_	APPR	_	4	PP	_	_
+8	Menschen	Mensch	_	NN	dat|pl|masc	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	3	DET	_	_
+2	andere	anderer	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	5	S	_	_
+5	gesagt	sagen	_	VVPP	_	9	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|pl|masc	8	DET	_	_
+8	Tests	Test	_	NN	nom|pl|masc	5	PAR	_	_
+9	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+10	die	der	_	ART	acc|pl|fem	11	DET	_	_
+11	Affen	Affen	_	NN	acc|pl|fem	13	OBJA	_	_
+12	krank	krank	_	ADJD	pos	13	ADV	_	_
+13	machen	machen	_	VVINF	_	9	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Tests	Test	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	die	der	_	ART	acc|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	8	OBJA	_	_
+7	krank	krank	_	ADJD	pos	8	ADV	_	_
+8	machen	machen	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	durfte	dürfen	_	VMFIN	sg|3|past|ind	0	S	_	_
+3	VW	VW	_	NE	nom|sg|*	7	OBJA	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Tests	Test	_	NN	acc|sg|fem	7	OBJA	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	machen	machen	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	3	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	3	REL	_	_
+3	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Mehrere	mehrere	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Auto·firmen	Auto·firma	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+4	Abgase	Abgase	_	NN	nom|pl|masc	8	OBJA	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	ihren	ihr	_	PPOSAT	dat|pl|*	7	DET	_	_
+7	Autos	Auto	_	NN	dat|pl|*	5	PN	_	_
+8	testen	testen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Abgase	Abgase	_	NN	nom|pl|*	2	SUBJ	_	_
+2	kommen	kommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	Autos	Auto	_	NN	dat|pl|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Abgase	Abgas	_	NN	nom|pl|masc	2	PRED	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	gefährlich	gefährlich	_	ADJD	pos	2	ADV	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Abgasen	Abgasen	_	NN	dat|sg|neut	1	PN	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+5	Schad·stoffe	Schad·stoff	_	NN	nom|pl|masc	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Abgase	Abgase	_	NN	nom|pl|masc	2	OBJA	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	2	OBJP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Luft	Luft	_	NN	nom|sg|fem	2	ETH	_	_
+8	schmutzig	schmutzig	_	ADJD	pos	2	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	VW	VW	_	NE	nom|sg|*	0	S	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Tests	Test	_	NN	dat|pl|fem	1	PN	_	_
+4	mussten	mus	_	ADJA	dat|pl|fem|sup	5	ATTR	_	_
+5	Affen	Affen	_	NN	dat|pl|fem	0	S	_	_
+6	mehrere	mehrere	_	PIAT	acc|pl|fem	7	DET	_	_
+7	Stunden	Stunde	_	NN	acc|pl|fem	10	ZEIT	_	_
+8	lang	lang	_	ADJD	pos	10	ADV	_	_
+9	Abgase	Abgase	_	NN	acc|pl|masc	10	OBJA	_	_
+10	einatmen	einatmen	_	VVFIN	_	5	REL	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Auto·firmen	Auto·firma	_	NN	nom|pl|fem	5	OBJA	_	_
+3	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+5	zeigen	zeigen	_	VVINF	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	In	in	_	APPR	_	13	PP	_	_
+8	den	der	_	ART	dat|pl|fem	9	DET	_	_
+9	Abgasen	Abgase	_	NN	dat|pl|fem	7	PN	_	_
+10	aus	aus	_	APPR	_	9	PP	_	_
+11	unseren	unser	_	PPOSAT	dat|pl|masc	12	DET	_	_
+12	Autos	Auto	_	NN	nom|pl|neut	10	PN	_	_
+13	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+14	wenig	wenig	_	PIAT	*|*|*	15	ATTR	_	_
+15	Schad·stoffe	Schad·stoff	_	NN	nom|pl|masc	13	PRED	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	3	ATTR	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	5	S	_	_
+5	gesagt	sagen	_	VVPP	_	9	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|pl|masc	8	DET	_	_
+8	Auto·firmen	Auto·firma	_	NN	nom|pl|masc	0	S	_	_
+9	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+10	keine	kein	_	PIAT	acc|pl|masc	11	DET	_	_
+11	Tests	Test	_	NN	acc|pl|masc	14	OBJA	_	_
+12	mit	mit	_	APPR	_	11	PP	_	_
+13	Tieren	Tier	_	NN	dat|pl|neut	12	PN	_	_
+14	machen	machen	_	VVINF	pl|3|pres|ind	9	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Tests	Test	_	NN	dat|pl|fem	1	PN	_	_
+4	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|neut	6	DET	_	_
+6	Tiere	Tier	_	NN	nom|pl|neut	4	SUBJ	_	_
+7	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+8	vielleicht	vielleicht	_	ADV	_	9	ADV	_	_
+9	krank	krank	_	ADJD	pos	4	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	kein	kein	_	PIAT	nom|sg|masc	3	DET	_	_
+3	Mensch	Mensch	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	darf	dürfen	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+5	Tiere	Tier	_	NN	acc|pl|neut	9	OBJA	_	_
+6	mit	mit	_	APPR	_	5	PP	_	_
+7	Absicht	Absicht	_	NN	dat|sg|fem	6	PN	_	_
+8	krank	krank	_	ADJD	pos	9	ADV	_	_
+9	machen	machen	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|neut	3	DET	_	_
+3	Tests	Test	_	NN	dat|pl|neut	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	VW	VW	_	NE	nom|sg|*	4	OBJA	_	_
+6	sich	sich	_	PRF	acc|sg|3	7	OBJA	_	_
+7	entschuldigt	entschuldigen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	VW	VW	_	NE	nom|sg|*	3	OBJD	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Tests	Test	_	NN	nom|sg|fem	7	SUBJ	_	_
+7	waren	sein	_	VAFIN	pl|3|past|ind	3	S	_	_
+8	falsch	falsch	_	ADJD	pos	7	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	tut	tun	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	uns	uns	_	PPER	acc|pl|*|1	2	OBJA	_	_
+4	sehr	sehr	_	ADV	_	5	ADV	_	_
+5	leid	leid	_	ADJD	pos	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|1|pres|ind	0	S	_	_
+3	keine	kein	_	PIAT	acc|sg|fem	4	DET	_	_
+4	Tiere	Tier	_	NN	acc|sg|fem	6	OBJA	_	_
+5	krank	krank	_	ADJD	pos	6	ADV	_	_
+6	machen	machen	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Tests	Test	_	ADV	_	3	ADV	_	_
+2	auch	auch	_	ADV	_	3	ADV	_	_
+3	mit	mit	_	APPR	_	0	S	_	_
+4	Menschen	Mensch	_	NN	dat|pl|masc	3	PN	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	5	S	_	_
+4	Zeitungen	Zeitung	_	NN	nom|pl|fem	3	SUBJ	_	_
+5	berichtet	berichten	_	VVPP	_	9	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Die	der	_	ART	nom|pl|fem	8	DET	_	_
+8	Auto·firmen	Auto·firma	_	NN	nom|pl|fem	0	S	_	_
+9	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+10	die	der	_	ART	nom|pl|masc	11	DET	_	_
+11	Tests	Test	_	NN	nom|pl|masc	15	OBJA	_	_
+12	auch	auch	_	ADV	_	13	ADV	_	_
+13	mit	mit	_	APPR	_	15	PP	_	_
+14	Menschen	Mensch	_	NN	dat|pl|masc	13	PN	_	_
+15	gemacht	machen	_	VVPP	_	9	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Tests	Test	_	NN	nom|pl|masc	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	25	25	_	CARD	_	6	ATTR	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+7	mehrere	mehrere	_	PIAT	acc|pl|fem	8	DET	_	_
+8	Stunden	Stunde	_	NN	acc|pl|fem	11	ZEIT	_	_
+9	lang	lang	_	ADJD	pos	11	ADV	_	_
+10	Abgase	Abgase	_	NN	acc|pl|masc	0	S	_	_
+11	eingeatmet	eieatmen	_	VVPP	_	4	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Ärzte	Ärzt	_	NN	nom|pl|masc	7	OBJA	_	_
+4	diese	dieser	_	PDAT	nom|pl|masc	6	DET	_	_
+5	25	25	_	CARD	_	6	ATTR	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+7	untersucht	untersuchen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Ärzte	Ärzt	_	NN	nom|pl|masc	4	OBJA	_	_
+3	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+4	wissen	wissen	_	VVINF	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	die	der	_	ART	nom|pl|masc	8	DET	_	_
+8	Abgase	Abgase	_	NN	nom|pl|masc	13	OBJA	_	_
+9	die	der	_	ART	nom|pl|masc	11	DET	_	_
+10	25	25	_	CARD	_	11	ATTR	_	_
+11	Menschen	Mensch	_	NN	nom|pl|masc	8	GMOD	_	_
+12	krank	krank	_	ADJD	pos	13	ADV	_	_
+13	gemacht	machen	_	VVPP	_	6	AUX	_	_
+14	?	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	wütend	wütend	_	ADJD	pos	4	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	OBJA	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Auto·firmen	Auto·firma	_	NN	nom|pl|masc	7	SUBJ	_	_
+7	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+8	ihre	ihr	_	PPOSAT	acc|pl|fem	9	DET	_	_
+9	Autos	Auto	_	NN	acc|pl|neut	11	OBJA	_	_
+10	besser	gut	_	ADJD	comp	11	ADV	_	_
+11	machen	machen	_	VVINF	_	7	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|neut	2	DET	_	_
+2	Autos	Auto	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	8	OBJP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	weniger	weniger	_	PIAT	*|*|*	7	DET	_	_
+7	Schad·stoffe	Schad·stoff	_	NN	acc|pl|masc	0	S	_	_
+8	machen	machen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Auto·firmen	Auto·firma	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	sollen	sollen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	keine	kein	_	PIAT	acc|pl|masc	6	DET	_	_
+6	Tests	Test	_	NN	acc|pl|masc	9	OBJA	_	_
+7	mit	mit	_	APPR	_	6	PP	_	_
+8	Tieren	Tier	_	NN	dat|pl|neut	7	PN	_	_
+9	machen	machen	_	VVINF	pl|3|pres|ind	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Auto·firmen	Auto·firma	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	sollen	sollen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	keine	kein	_	PIAT	acc|pl|masc	6	DET	_	_
+6	Tests	Test	_	NN	acc|pl|masc	9	OBJA	_	_
+7	mit	mit	_	APPR	_	6	PP	_	_
+8	Menschen	Mensch	_	NN	acc|pl|masc	7	PN	_	_
+9	machen	machen	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+

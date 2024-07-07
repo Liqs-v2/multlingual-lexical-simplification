@@ -1,0 +1,563 @@
+1	Inklusive	inklusiv	_	ADJA	nom|sg|fem|pos	2	ATTR	_	_
+2	Musik	Musik	_	NN	nom|sg|fem	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Berlin	Berlin	_	NE	dat|sg|neut	3	PN	_	_
+
+1	Musik	Musik	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+4	große	groß	_	ADJA	acc|sg|fem|pos	5	ATTR	_	_
+5	Rolle	Rolle	_	NN	acc|sg|fem	2	OBJA	_	_
+6	in	in	_	APPR	_	2	PP	_	_
+7	Berlin	Berlin	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+2	mit	mit	_	APPR	_	1	PP	_	_
+3	Behinderungen	Behinderung	_	NN	dat|pl|fem	2	PN	_	_
+4	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	daran	daran	_	PROAV	_	6	OBJP	_	_
+6	teilhaben	teilhaben	_	VVINF	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	%% Bild taz_A11 %%
+
+1	Elektronische	elektronisch	_	ADJA	nom|sg|fem|pos	2	ATTR	_	_
+2	Musik	Musik	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	gehört	gehören	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	zu	zu	_	APPR	_	3	OBJP	_	_
+5	Berlin	Berlin	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	6	PP	_	_
+2	vielen	vieler	_	PIAT	dat|pl|masc	3	DET	_	_
+3	Partys	Party	_	NN	dat|pl|masc	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Berlin	Berlin	_	NE	dat|sg|neut	4	PN	_	_
+6	läuft	laufen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	elektronische	elektronisch	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Musik	Musik	_	NN	acc|sg|fem	6	SUBJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	tanzen	tanzen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	gern	gern	_	ADV	_	3	ADV	_	_
+5	zu	zu	_	APPR	_	3	PP	_	_
+6	elektronischer	elektronisch	_	ADJA	gen|sg|fem|pos	7	ATTR	_	_
+7	Musik	Musik	_	NN	gen|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	3	ATTR	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	machen	machen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	selbst	selbst	_	ADV	_	4	ADV	_	_
+6	elektronische	elektronisch	_	ADJA	acc|sg|fem|pos	7	ATTR	_	_
+7	Musik	Musik	_	NN	acc|sg|fem	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	diese	dieser	_	PDAT	acc|sg|fem	4	DET	_	_
+4	Musik	Musik	_	NN	acc|sg|fem	2	OBJA	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	ihrer	ihr	_	PPOSAT	dat|sg|fem	7	DET	_	_
+7	Freizeit	Freizeit	_	NN	dat|sg|fem	5	PN	_	_
+8	oder	oder	_	KON	_	5	KON	_	_
+9	als	als	_	KOKOM	_	8	CJ	_	_
+10	Beruf	Beruf	_	NN	nom|sg|masc	9	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+2	mit	mit	_	APPR	_	1	PP	_	_
+3	Behinderungen	Behinderung	_	NN	dat|pl|fem	2	PN	_	_
+4	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	teilhaben	teilhaben	_	VVINF	_	4	AUX	_	_
+
+1	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+2	mit	mit	_	APPR	_	1	PP	_	_
+3	Behinderungen	Behinderung	_	NN	dat|pl|fem	2	PN	_	_
+4	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	auch	auch	_	ADV	_	4	ADV	_	_
+6	Musik	Musik	_	NN	nom|sg|fem	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	für	für	_	APPR	_	6	PP	_	_
+3	Menschen	Mensch	_	NN	acc|pl|masc	2	PN	_	_
+4	mit	mit	_	APPR	_	3	PP	_	_
+5	Behinderungen	Behinderung	_	NN	dat|pl|fem	4	PN	_	_
+6	gibt	geben	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	nur	nur	_	ADV	_	9	ADV	_	_
+9	wenige	weniger	_	PIAT	acc|pl|fem	10	DET	_	_
+10	Verbindungen	Verbindung	_	NN	acc|pl|fem	6	OBJA	_	_
+11	mit	mit	_	APPR	_	10	PP	_	_
+12	elektronischer	elektronisch	_	ADJA	dat|sg|fem|pos	13	ATTR	_	_
+13	Musik	Musik	_	NN	dat|sg|fem	11	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	2	S	_	_
+6	wenig	wenig	_	PIAT	*|*|*	7	ATTR	_	_
+7	Möglichkeiten	Möglichkeit	_	NN	acc|pl|fem	5	OBJA	_	_
+8	zum	zu	_	APPRART	dat|sg|masc	7	PP	_	_
+9	Musik	Musik	_	NN	dat|sg|masc	10	ATTR	_	_
+10	machen	machen	_	VVINF	_	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	bei	bei	_	APPR	_	8	PP	_	_
+3	den	der	_	ART	dat|pl|fem	4	DET	_	_
+4	Partys	Party	_	NN	dat|pl|fem	2	PN	_	_
+5	mit	mit	_	APPR	_	4	PP	_	_
+6	elektronischer	elektronisch	_	ADJA	dat|sg|fem|pos	7	ATTR	_	_
+7	Musik	Musik	_	NN	dat|sg|fem	5	PN	_	_
+8	können	können	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+9	Menschen	Mensch	_	NN	nom|pl|masc	8	SUBJ	_	_
+10	mit	mit	_	APPR	_	9	PP	_	_
+11	Behinderungen	Behinderung	_	NN	dat|pl|fem	10	PN	_	_
+12	oft	oft	_	ADV	_	14	ADV	_	_
+13	nicht	nicht	_	PTKNEG	_	14	ADV	_	_
+14	mitfeiern	mitfeiern	_	VVINF	_	8	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Partys	Party	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	fangen	fangen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	oft	oft	_	ADV	_	3	ADV	_	_
+5	zu	zu	_	PTKA	_	6	ADV	_	_
+6	spät	spät	_	ADJD	pos	3	ADV	_	_
+7	an	an	_	PTKVZ	_	3	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	keine	kein	_	PIAT	acc|pl|masc	5	DET	_	_
+5	Fahr-Dienste	Fahrdienst	_	NN	acc|pl|masc	2	OBJA	_	_
+6	mehr	mehr	_	ADV	_	5	ADV	_	_
+7	und	und	_	KON	_	2	KON	_	_
+8	die	der	_	ART	acc|pl|masc	9	DET	_	_
+9	Menschen	Mensch	_	NN	acc|pl|masc	10	SUBJ	_	_
+10	können	können	_	VMFIN	pl|3|pres|ind	7	CJ	_	_
+11	nicht	nicht	_	PTKNEG	_	14	ADV	_	_
+12	zur	zu	_	APPRART	dat|sg|fem	14	PP	_	_
+13	Party	Party	_	NN	dat|sg|fem	12	PN	_	_
+14	kommen	kommen	_	VVINF	_	10	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	7	ADV	_	_
+4	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+5	nach	nach	_	APPR	_	7	PP	_	_
+6	Hause	Haus	_	NN	dat|sg|neut	5	PN	_	_
+7	kommen	kommen	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	4	ADV	_	_
+4	schade	schade	_	ADJD	pos	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einige	einiger	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	5	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Berlin	Berlin	_	NE	dat|sg|neut	3	PN	_	_
+5	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+6	das	der	_	PDS	acc|sg|neut	7	OBJA	_	_
+7	ändern	ändern	_	VVINF	_	5	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	9	OBJA	_	_
+4	mit	mit	_	APPR	_	3	PP	_	_
+5	Behinderungen	Behinderung	_	NN	dat|pl|fem	4	PN	_	_
+6	und	und	_	KON	_	3	KON	_	_
+7	elektronische	elektronisch	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Musik	Musik	_	NN	acc|sg|fem	6	CJ	_	_
+9	zusammenbringen	zusammenbringen	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	acc|pl|fem	2	DET	_	_
+2	Verbindungen	Verbindung	_	NN	acc|pl|fem	3	OBJA	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	bereits	bereits	_	ADV	_	3	ADV	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Verein	Verein	_	NN	nom|sg|masc	4	SUBJ	_	_
+3	Lebenshilfe	Lebenshilfe	_	NN	acc|sg|fem	2	APP	_	_
+4	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+6	eigene	eigen	_	ADJA	acc|sg|fem|pos	7	ATTR	_	_
+7	Platten-Firma	Plattenfirma	_	NN	acc|sg|fem	12	OBJA	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Menschen	Mensch	_	NN	acc|pl|masc	8	PN	_	_
+10	mit	mit	_	APPR	_	9	PP	_	_
+11	Behinderungen	Behinderung	_	NN	dat|pl|fem	10	PN	_	_
+12	gründen	gründen	_	VVINF	_	4	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	5	DET	_	_
+4	großes	groß	_	ADJA	nom|sg|neut|pos	5	ATTR	_	_
+5	Ziel	Ziel	_	NN	nom|sg|neut	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	zuerst	zuerst	_	ADV	_	3	ADV	_	_
+3	fängt	fangen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Verein	Verein	_	NN	nom|sg|masc	3	SUBJ	_	_
+6	klein	klein	_	ADJD	pos	3	ADV	_	_
+7	an	an	_	PTKVZ	_	3	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	organisiert	organisieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	verschiedene	verschieden	_	ADJA	acc|pl|neut|pos	4	ATTR	_	_
+4	Musik-Angebote	Musikangebot	_	NN	acc|pl|neut	2	OBJA	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	5	PN	_	_
+7	mit	mit	_	APPR	_	6	PP	_	_
+8	Behinderungen	Behinderung	_	NN	dat|pl|fem	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dazu	dazu	_	PROAV	_	2	PP	_	_
+2	gehören	gehören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	•	•	_	LI	_	0	ROOT	_	_
+7	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+8	Arbeits-Gruppe	Arbeitsgruppe	_	NN	acc|sg|fem	2	SUBJ	_	_
+9	zum	zu	_	APPRART	dat|sg|masc	8	PP	_	_
+10	Musik	Musik	_	NN	dat|sg|masc	11	OBJA	_	_
+11	machen	machen	_	VVINF	_	9	PN	_	_
+12	•	•	_	LI	_	0	ROOT	_	_
+13	eine	ein	_	ART	nom|sg|fem	15	DET	_	_
+14	inklusive	inklusiv	_	ADJA	nom|sg|fem|pos	15	ATTR	_	_
+15	Party	Party	_	NN	nom|sg|fem	8	KON	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Arbeits-Gruppe	Arbeits-Gruppe	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	zum	zu	_	APPRART	dat|sg|masc	4	PP	_	_
+6	Musik	Musik	_	NN	dat|sg|masc	7	OBJA	_	_
+7	machen	machen	_	VVINF	_	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Verein	Verein	_	NN	nom|sg|masc	4	SUBJ	_	_
+3	Lebenshilfe	Lebenshilfe	_	NN	nom|sg|fem	2	APP	_	_
+4	organisiert	organisieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+6	Arbeits-Gruppe	Arbeitsgruppe	_	NN	acc|sg|fem	4	OBJA	_	_
+7	zum	zu	_	APPRART	dat|sg|masc	6	PP	_	_
+8	Musik	Musik	_	NN	dat|sg|masc	9	OBJA	_	_
+9	machen	machen	_	VVINF	_	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Arbeits-Gruppe	Arbeitsgruppe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Ick	ich	_	PPER	nom|sg|*|1	6	SUBJ	_	_
+6	mach	machen	_	VVFIN	sg|1|pres|ind	3	S	_	_
+7	Welle	Welle	_	NN	acc|sg|fem	6	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Arbeits-Gruppe	Arbeitsgruppe	_	NN	dat|sg|fem	1	PN	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	mit	mit	_	APPR	_	5	PP	_	_
+7	Behinderungen	Behinderung	_	NN	dat|pl|fem	6	PN	_	_
+8	verschiedene	verschieden	_	ADJA	acc|pl|neut|pos	9	ATTR	_	_
+9	Instrumente	Instrument	_	NN	acc|pl|neut	10	OBJA	_	_
+10	ausprobieren	ausprobieren	_	VVINF	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dazu	dazu	_	PROAV	_	2	PP	_	_
+2	gehören	gehören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	Geräte	Gerät	_	NN	acc|pl|neut	2	SUBJ	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	einem	ein	_	ART	dat|sg|masc	9	DET	_	_
+9	DJ	DJ	_	NN	dat|sg|masc	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	DJ	DJ	_	NN	nom|sg|neut	2	PRED	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	DJ	DJ	_	NN	nom|sg|fem	2	OBJA	_	_
+2	spricht	sprechen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	so	so	_	ADV	_	2	ADV	_	_
+5	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Di-Dschey	Di-Dschey	_	NN	nom|sg|fem	0	S	_	_
+2	.	--	_	$.	_	0	ROOT	_	_
+
+1	DJ	DJ	_	NN	nom|sg|masc	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	das	der	_	ART	acc|sg|neut	8	DET	_	_
+7	englische	englisch	_	ADJA	acc|sg|neut|pos	8	ATTR	_	_
+8	Wort	Wort	_	NN	acc|sg|neut	5	PN	_	_
+9	Discjockey	Discjockey	_	NN	acc|sg|neut	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Disjockey	Disjockey	_	NN	nom|sg|fem	2	OBJA	_	_
+2	spricht	sprechen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	so	so	_	ADV	_	2	ADV	_	_
+5	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Disk-Dschocki	Disk-Dschocki	_	NN	nom|sg|masc	0	S	_	_
+2	.	--	_	$.	_	0	ROOT	_	_
+
+1	DJs	DJ	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	arbeiten	arbeiten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	oft	oft	_	ADV	_	2	ADV	_	_
+4	auf	auf	_	APPR	_	2	PP	_	_
+5	Partys	Party	_	NN	acc|pl|masc	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Musik	Musik	_	NN	acc|sg|fem	2	OBJA	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Tanzen	tanzen	_	NN	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Berlin	Berlin	_	NE	dat|sg|neut	1	PN	_	_
+3	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	DJs	DJ	_	NN	nom|pl|neut	3	SUBJ	_	_
+5	oft	oft	_	ADV	_	3	ADV	_	_
+6	elektronische	elektronisch	_	ADJA	acc|sg|fem|pos	7	ATTR	_	_
+7	Musik	Musik	_	NN	acc|sg|fem	3	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Arbeits-Gruppe	Arbeitsgruppe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	begleitet	begleiten	_	VVPP	_	3	AUX	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Musikern	Musiker	_	NN	dat|pl|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	erklären	erklären	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Instrumente	Instrument	_	NN	acc|sg|fem	2	OBJA	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Geräte	Gerät	_	NN	acc|pl|neut	5	CJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dazu	dazu	_	PROAV	_	2	PP	_	_
+2	gehören	gehören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	Computer-Programme	Computerprogramm	_	NN	acc|pl|neut	2	SUBJ	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	Schlag-Zeug	Schlagzeug	_	NN	acc|sg|neut	5	KON	_	_
+8	und	und	_	KON	_	7	KON	_	_
+9	Platten-Teller	Plattenteller	_	NN	acc|sg|masc	8	CJ	_	_
+10	für	für	_	APPR	_	9	PP	_	_
+11	Schall-Platten	Schallplatte	_	NN	acc|pl|fem	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Arbeits-Gruppe	Arbeitsgruppe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	probiert	probieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	alles	alle	_	PIS	acc|sg|neut	3	OBJA	_	_
+5	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	macht	machen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	sie	sie	_	PPER	nom|sg|fem|3	3	SUBJ	_	_
+5	selbst	selbst	_	ADV	_	4	ADV	_	_
+6	Musik	Musik	_	NN	nom|sg|fem	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bisher	bisher	_	ADV	_	2	ADV	_	_
+2	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Arbeits-Gruppe	Arbeitsgruppe	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	Geld	Geld	_	NN	nom|sg|neut	2	OBJA	_	_
+6	von	von	_	APPR	_	2	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Stadt	Stadt	_	NN	dat|sg|fem	6	PN	_	_
+9	Berlin	Berlin	_	NE	nom|sg|neut	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|sg|fem|3	3	SUBJ	_	_
+3	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	Unterstützung	Unterstützung	_	NN	acc|sg|fem	3	OBJA	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Instrumente-Herstellern	Instrumentehersteller	_	NN	dat|pl|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	3	EXPL	_	_
+3	fehlt	fehlen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	noch	noch	_	ADV	_	3	ADV	_	_
+5	Geld	Geld	_	NN	acc|sg|neut	3	SUBJ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	für	für	_	APPR	_	0	S	_	_
+4	einen	ein	_	ART	acc|sg|masc	5	DET	_	_
+5	Probe-Raum	Proberaum	_	NN	acc|sg|masc	3	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	5	DET	_	_
+4	inklusive	inklusive	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Party	Party	_	NN	nom|sg|fem	2	SUBJ	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Berlin-Lichtenberg	Berlin-Lichtenberg	_	NE	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	diesen	dieser	_	PDAT	acc|sg|masc	6	DET	_	_
+6	Club	Club	_	NN	acc|sg|masc	3	OBJA	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	Mensch	Mensch	_	NN	nom|sg|masc	0	S	_	_
+2	Meier	Meier	_	NE	nom|sg|masc	1	APP	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ab	ab	_	ADV	_	2	ADV	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	zu	zu	_	ADV	_	4	CJ	_	_
+6	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+7	inklusive	inklusiv	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Party	Party	_	NN	acc|sg|fem	2	SUBJ	_	_
+9	statt	statt	_	PTKVZ	_	2	AVZ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Party	Party	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Spaceship	Spaceship	_	NN	acc|sg|neut	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Spaceship	Spaceship	_	NN	nom|sg|fem	2	OBJA	_	_
+2	spricht	sprechen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	so	so	_	ADV	_	2	ADV	_	_
+5	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Speys-Schipp	Speys-Schipp	_	NN	nom|sg|masc	0	S	_	_
+2	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Englisch	Englisch	_	NN	nom|sg|neut	2	PRED	_	_
+4	und	und	_	KON	_	2	KON	_	_
+5	heißt	heißen	_	VVFIN	sg|3|pres|ind	4	CJ	_	_
+6	übersetzt	übersetzen	_	ADJD	_	5	ADV	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Raum-Schiff	Raumschiff	_	NN	nom|sg|neut	5	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Party	Party	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Menschen	Mensch	_	NN	acc|pl|masc	4	PN	_	_
+6	mit	mit	_	APPR	_	5	PP	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	ohne	ohne	_	APPR	_	7	CJ	_	_
+9	Behinderungen	Behinderung	_	NN	acc|pl|fem	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Alle	aller	_	PIS	nom|pl|*	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	hier	hier	_	ADV	_	7	ADV	_	_
+4	zu	zu	_	APPR	_	7	PP	_	_
+5	elektronischer	elektronisch	_	ADJA	gen|sg|fem|pos	6	ATTR	_	_
+6	Musik	Musik	_	NN	gen|sg|fem	4	PN	_	_
+7	tanzen	tanzen	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	läuft	laufen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	aber	aber	_	ADV	_	2	ADV	_	_
+4	auch	auch	_	ADV	_	2	ADV	_	_
+5	Hip-Hop	Hip-Hop	_	NN	nom|sg|masc	2	SUBJ	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Funk	Funk	_	NN	nom|sg|fem	6	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Funk	Funk	_	NN	nom|sg|fem	2	OBJA	_	_
+2	spricht	sprechen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	so	so	_	ADV	_	2	ADV	_	_
+5	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Fank	Fank	_	NN	nom|sg|fem	0	S	_	_
+2	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Party	Party	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	viel	viel	_	PIAT	*|*|*	5	ATTR	_	_
+5	Spaß	Spaß	_	NN	acc|sg|masc	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	sollte	sollen	_	VMFIN	sg|3|past|ind	0	S	_	_
+3	noch	noch	_	ADV	_	5	ADV	_	_
+4	viel	viel	_	ADV	_	5	ADV	_	_
+5	mehr	mehr	_	PIAT	*|*|*	6	DET	_	_
+6	Partys	Party	_	NN	nom|pl|masc	12	OBJA	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	Menschen	Mensch	_	NN	acc|pl|masc	7	PN	_	_
+9	mit	mit	_	APPR	_	8	PP	_	_
+10	ohne	ohne	_	APPR	_	9	KON	_	_
+11	Behinderungen	Behinderung	_	NN	dat|pl|fem	10	PN	_	_
+12	geben	geben	_	VVINF	_	2	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+3	gemeinsame	gemeinsam	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+4	Party	Party	_	NN	nom|sg|fem	5	SUBJ	_	_
+5	ist	sein	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	schön	schön	_	ADJD	pos	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_

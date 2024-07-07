@@ -1,0 +1,318 @@
+1	Unwetter	Unwetter	_	NN	nom|sg|neut	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Nord·deutschland	Nord·deutschland	_	NE	dat|sg|neut	2	PN	_	_
+
+1	In	in	_	APPR	_	6	PP	_	_
+2	vielen	vieler	_	PIAT	dat|pl|masc	3	DET	_	_
+3	Orten	Ort	_	NN	dat|pl|masc	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Nord·deutschland	Nord·deutschland	_	NE	dat|sg|neut	4	PN	_	_
+6	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+7	Unwetter	Unwetter	_	NN	nom|pl|masc	6	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Unwetter	Unwetter	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	•	LI	_	CARD	_	0	ROOT	_	_
+7	Starke	stark	_	ADJA	nom|pl|masc|pos	8	ATTR	_	_
+8	Gewitter	Gewitter	_	NN	nom|pl|masc	2	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+10	•	LI	_	XY	_	0	ROOT	_	_
+11	Oder	Oder	_	KON	_	8	KON	_	_
+12	starke	stark	_	ADJA	acc|pl|masc|pos	13	ATTR	_	_
+13	Stürme	Sturm	_	NN	acc|pl|masc	11	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Unwetter	Unwetter	_	NN	nom|sg|fem	6	OBJA	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	viele	vieler	_	PIAT	acc|pl|fem	5	ATTR	_	_
+5	Schäden	Schaden	_	NN	acc|pl|masc	6	OBJA	_	_
+6	gemacht	machen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	acc|pl|fem	2	DET	_	_
+2	Schäden	Schaden	_	NN	acc|pl|fem	3	SUBJ	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	•	LI	_	XY	_	0	ROOT	_	_
+8	In	in	_	APPR	_	3	PP	_	_
+9	Hamburg	Hamburg	_	NE	dat|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+11	•	LI	_	XY	_	0	ROOT	_	_
+12	In	in	_	APPR	_	8	KON	_	_
+13	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	12	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+15	•	LI	_	XY	dat|sg|neut	0	ROOT	_	_
+16	Und	und	_	KON	_	12	KON	_	_
+17	in	in	_	APPR	_	16	CJ	_	_
+18	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	17	PN	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|fem	4	DET	_	_
+4	Feuerwehr·leute	Feuerwehr·leute	_	NN	nom|pl|fem	2	PRED	_	_
+5	im	in	_	APPRART	dat|sg|masc	2	PRED	_	_
+6	Einsatz	Einsatz	_	NN	dat|sg|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Unwetter	Unwetter	_	ADJD	comp	2	ADV	_	_
+2	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|*	4	DET	_	_
+4	Schäden	Schaden	_	NN	acc|pl|masc	2	OBJA	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|masc	3	DET	_	_
+3	Unwettern	Unwetter	_	NN	dat|pl|masc	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	7	OBJA	_	_
+6	viel	viel	_	PIS	*|*|*	7	ADV	_	_
+7	geregnet	regnen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|fem	4	ATTR	_	_
+4	Straßen	Straße	_	NN	nom|pl|fem	5	OBJA	_	_
+5	über·schwemmt	über·schwemmen	_	VVPP	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Auf	auf	_	APPR	_	7	PP	_	_
+5	diesen	dieser	_	PDAT	acc|sg|masc	6	DET	_	_
+6	Straßen	Straße	_	NN	acc|sg|masc	4	PN	_	_
+7	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+8	sehr	sehr	_	ADV	_	9	ADV	_	_
+9	viel	viel	_	ADV	_	10	ADV	_	_
+10	Wasser	Wasser	_	NN	acc|sg|neut	7	PAR	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	konnten	können	_	VMFIN	pl|3|past|ind	1	CJ	_	_
+4	auf	auf	_	APPR	_	10	PP	_	_
+5	diesen	dieser	_	PDAT	acc|sg|masc	6	DET	_	_
+6	Straßen	Straße	_	NN	acc|sg|masc	4	PN	_	_
+7	keine	kein	_	PIAT	acc|pl|neut	8	DET	_	_
+8	Autos	Auto	_	NN	acc|pl|neut	10	OBJA	_	_
+9	mehr	mehr	_	ADV	_	8	ADV	_	_
+10	fahren	fahren	_	VVINF	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	viele	vieler	_	PIAT	nom|pl|neut	5	ATTR	_	_
+5	Häuser	Haus	_	NN	nom|pl|neut	6	OBJD	_	_
+6	voll·gelaufen	voll·gelaufen	_	VVINF	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	In	in	_	APPR	_	7	PP	_	_
+5	diesen	dieser	_	PDAT	dat|pl|neut	6	DET	_	_
+6	Häusern	Haus	_	NN	dat|pl|neut	4	PN	_	_
+7	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+8	sehr	sehr	_	ADV	_	9	ADV	_	_
+9	viel	viel	_	ADV	_	10	ADV	_	_
+10	Wasser	Wasser	_	NN	acc|sg|neut	7	PAR	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Feuerwehr	Feuerwehr	_	NN	nom|sg|fem	3	OBJA	_	_
+3	musste	mussen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	Wasser	Wasser	_	NN	acc|sg|neut	3	OBJA	_	_
+6	aus	aus	_	APPR	_	9	PP	_	_
+7	den	der	_	ART	dat|pl|neut	8	DET	_	_
+8	Häusern	Haus	_	NN	dat|pl|neut	6	PN	_	_
+9	rauspumpen	rauspump	_	VVINF	_	3	OBJI	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Häuser	Haus	_	NN	nom|pl|neut	0	S	_	_
+2	gesperrt	sperren	_	VVPP	_	1	ADV	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	5	PP	_	_
+2	Osten	Osten	_	NN	dat|sg|masc	1	PN	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Hamburg	Hamburg	_	NE	dat|sg|neut	3	PN	_	_
+5	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+6	die	der	_	ART	nom|pl|masc	7	DET	_	_
+7	Unwetter	Unwetter	_	NN	nom|pl|masc	5	SUBJ	_	_
+8	besonders	besonders	_	ADV	_	9	ADV	_	_
+9	stark	stark	_	ADJD	pos	5	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Unwettern	Unwetter	_	NN	dat|pl|fem	1	PN	_	_
+4	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+5	große	groß	_	ADJA	nom|pl|neut|pos	6	ATTR	_	_
+6	Hagel·körner	Hagel·körner	_	NN	nom|pl|neut	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	bei	bei	_	APPR	_	5	PP	_	_
+3	diesen	dieser	_	PDAT	dat|pl|masc	4	DET	_	_
+4	Unwettern	Unwetter	_	NN	dat|pl|masc	2	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	es	es	_	PPER	nom|sg|neut|3	9	OBJA	_	_
+7	sehr	sehr	_	ADV	_	8	ADV	_	_
+8	viel	viel	_	PIS	acc|sg|neut	9	ADV	_	_
+9	geregnet	regnen	_	VVPP	_	5	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	8	DET	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	auf	auf	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|masc	5	DET	_	_
+5	Straßen	Straße	_	NN	dat|pl|masc	3	PN	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	viel	viel	_	ADV	_	8	ADV	_	_
+8	Wasser	Wasser	_	NN	acc|sg|neut	2	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Feuerwehr	Feuerwehr	_	NN	nom|sg|fem	4	OBJD	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gesagt	sagen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Das	der	_	ART	nom|sg|neut	7	DET	_	_
+7	Wasser	Wasser	_	NN	nom|sg|neut	0	S	_	_
+8	hat	haben	_	VAFIN	sg|3|pres|ind	4	S	_	_
+9	viele	vieler	_	PIAT	acc|pl|masc	10	ATTR	_	_
+10	Bereiche	Bereich	_	NN	acc|pl|masc	11	OBJG	_	_
+11	unterspült	unterspülen	_	VVPP	_	8	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Erde	Erde	_	NN	nom|sg|fem	6	SUBJ	_	_
+6	war	sein	_	VAFIN	sg|3|past|ind	2	S	_	_
+7	durch	durch	_	APPR	_	6	PP	_	_
+8	das	der	_	ART	acc|sg|neut	9	DET	_	_
+9	Wasser	Wasser	_	NN	acc|sg|neut	7	PN	_	_
+10	ganz	ganz	_	ADV	_	11	ADV	_	_
+11	weich	weich	_	ADJD	pos	6	ADV	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Erde	Erde	_	NN	nom|sg|fem	9	OBJD	_	_
+6	an	an	_	APPR	_	9	PP	_	_
+7	einigen	einiger	_	PIAT	dat|pl|masc	8	DET	_	_
+8	Stellen	Stelle	_	NN	dat|pl|masc	6	PN	_	_
+9	weggesackt	weggesacken	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	an	an	_	APPR	_	2	PP	_	_
+4	einigen	einiger	_	PIAT	dat|pl|neut	5	DET	_	_
+5	Häusern	Haus	_	NN	dat|pl|neut	3	PN	_	_
+6	die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Mauern	Mauer	_	NN	nom|sg|fem	2	SUBJ	_	_
+8	kaputt	kaputt	_	PTKVZ	_	2	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	In	in	_	APPR	_	0	S	_	_
+3	Hamburg-Lohbrügge	Hamburg-Lohbrügge	_	NN	dat|sg|fem	2	PN	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Lohbrügge	Lohbrügge	_	NN	nom|sg|masc	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Stadtteil	Stadtteil	_	NN	nom|sg|masc	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Hamburg	Hamburg	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|sg|*	0	ROOT	_	_
+2	Und	und	_	KON	_	0	S	_	_
+3	in	in	_	APPR	_	2	CJ	_	_
+4	Oststeinbek	Oststeinbek	_	NE	dat|sg|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oststeinbek	Oststeinbek	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Ort	Ort	_	NN	nom|sg|neut	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fachleute	Fachleute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Einige	einiger	_	PIS	nom|pl|masc	10	SUBJ	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	diesen	dieser	_	PDAT	dat|pl|fem	9	DET	_	_
+8	kaputten	kaputt	_	ADJA	dat|pl|fem|pos	9	ATTR	_	_
+9	Häusern	Haus	_	NN	dat|pl|fem	6	PN	_	_
+10	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+11	vielleicht	vielleicht	_	ADV	_	12	ADV	_	_
+12	einstürzen	einstürzen	_	VVINF	_	10	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	haben	haben	_	VAFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	OBJA	_	_
+4	diese	dieser	_	PDAT	acc|pl|neut	5	DET	_	_
+5	Häuser	Haus	_	NN	acc|pl|neut	7	OBJA	_	_
+6	jetzt	jetzt	_	ADV	_	7	ADV	_	_
+7	gesperrt	sperren	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	In	in	_	APPR	_	7	PP	_	_
+5	diesen	dieser	_	PDAT	dat|pl|neut	6	DET	_	_
+6	Häusern	Haus	_	NN	dat|pl|neut	4	PN	_	_
+7	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+8	keine	kein	_	PIAT	nom|pl|masc	9	DET	_	_
+9	Menschen	Mensch	_	NN	nom|pl|masc	11	OBJA	_	_
+10	mehr	mehr	_	ADV	_	9	ADV	_	_
+11	wohnen	wohnen	_	VVINF	_	7	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Fachleute	Fachleute	_	NN	nom|pl|*	2	SUBJ	_	_
+4	prüfen	prüfen	_	VVINF	_	6	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Können	können	_	VMFIN	pl|3|pres|ind	10	S	_	_
+7	diese	dieser	_	PDAT	nom|pl|fem	9	DET	_	_
+8	kaputten	kaputt	_	ADJA	nom|pl|fem|pos	9	ATTR	_	_
+9	Häuser	Haus	_	NN	nom|pl|fem	6	SUBJ	_	_
+10	repariert	reparieren	_	VVPP	_	11	AUX	_	_
+11	werden	werden	_	VAINF	_	2	AUX	_	_
+12	?	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+3	diese	dieser	_	PDAT	nom|pl|*	5	DET	_	_
+4	kaputten	kaputt	_	ADJA	nom|pl|*|pos	5	ATTR	_	_
+5	Häuser	Haus	_	NN	nom|pl|neut	0	S	_	_
+6	abgerissen	abreißen	_	VVPP	_	7	AUX	_	_
+7	werden	werden	_	VAINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_

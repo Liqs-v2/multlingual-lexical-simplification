@@ -1,0 +1,240 @@
+1	Beton	Beton	_	NN	_	0	S	_	_
+2	kaputt	kaputt	_	ADJD	pos	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	Flugzeuge	Flugzeug	_	NN	nom|pl|neut	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+4	starten	starten	_	VVINF	_	2	AUX	_	_
+
+1	Am	an	_	APPRART	dat|sg|neut	5	PP	_	_
+2	Flughafen	Flughafen	_	NN	dat|sg|neut	1	PN	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Hannover	Hannover	_	NE	dat|sg|neut	3	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	Flüge	Flug	_	NN	nom|pl|masc	5	SUBJ	_	_
+7	ausgefallen	ausfallen	_	VVPP	_	5	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hannover	Hannover	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Haupt·stadt	Hauptstadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Start·bahn	Startbahn	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	vom	von	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Flughafen	Flughafen	_	NN	dat|sg|neut	3	PN	_	_
+5	war	sein	_	VVFIN	sg|3|past|ind	0	S	_	_
+6	nämlich	nämlich	_	ADV	_	5	ADV	_	_
+7	kaputt	kaputt	_	ADJD	pos	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Start·bahn	Startbahn	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Fläche	Fläche	_	NN	nom|sg|fem	3	PRED	_	_
+6	auf	auf	_	APPR	_	5	PP	_	_
+7	einem	ein	_	ART	dat|sg|masc	8	DET	_	_
+8	Flughafen	Flughafen	_	NN	dat|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	einer	ein	_	ART	dat|sg|fem	3	DET	_	_
+3	Start·bahn	Startbahn	_	NN	dat|sg|fem	1	PN	_	_
+4	starten	starten	_	VVFIN	pl|3|past|ind	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	Flugzeuge	Flugzeug	_	NN	nom|pl|neut	4	SUBJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Start·bahn	Startbahn	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	aus	aus	_	APPR	_	3	PRED	_	_
+5	Beton	Beton	_	NN	dat|sg|fem	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beton	Beton	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Bau·stoff	Baustoff	_	NN	nom|sg|masc	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Beton	Beton	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	zuerst	zuerst	_	ADV	_	2	ADV	_	_
+4	flüssig	flüssig	_	ADJD	pos	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	wird	werden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Beton	Beton	_	NN	nom|sg|*	2	SUBJ	_	_
+4	schnell	schnell	_	ADJD	pos	2	ADV	_	_
+5	hart	hart	_	ADJD	pos	2	PRED	_	_
+6	wie	wie	_	KOKOM	_	5	KOM	_	_
+7	Stein	Stein	_	NN	nom|sg|masc	6	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieser	dieser	_	PDAT	nom|sg|masc	2	DET	_	_
+2	Beton	Beton	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	aufgeplatzt	aufplatzen	_	VVPP	_	3	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	konnte	können	_	VMFIN	sg|3|past|ind	0	S	_	_
+3	in	in	_	APPR	_	7	PP	_	_
+4	Hannover	Hannover	_	NE	dat|sg|neut	3	PN	_	_
+5	kein	kein	_	PIAT	nom|sg|masc	6	DET	_	_
+6	Flugzeug	Flugzeug	_	NN	nom|sg|masc	2	SUBJ	_	_
+7	starten	starten	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Beton	Beton	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	aufgeplatzt	aufplatzen	_	VVPP	_	2	AUX	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Hannover	Hannover	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	heiß	heiß	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Beton	Beton	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Start·bahn	Startbahn	_	NN	dat|sg|fem	5	PN	_	_
+8	sehr	sehr	_	ADV	_	9	ADV	_	_
+9	heiß	heiß	_	ADJD	pos	10	PRED	_	_
+10	geworden	werden	_	VVPP	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+4	gut	gut	_	ADJD	pos	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Beton	Beton	_	NN	acc|sg|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	großer	groß	_	ADJA	dat|sg|fem|pos	3	ATTR	_	_
+3	Hitze	Hitze	_	NN	dat|sg|fem	1	PN	_	_
+4	dehnt	dehnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	Beton	Beton	_	NN	nom|sg|neut	4	SUBJ	_	_
+6	sich	sich	_	PRF	acc|sg|3	4	OBJA	_	_
+7	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+8	aus	aus	_	PTKVZ	_	4	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Beton	Beton	_	NN	nom|sg|masc	6	SUBJ	_	_
+6	wird	werden	_	VVFIN	sg|3|pres|ind	2	S	_	_
+7	größer	groß	_	ADJD	comp	6	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	platzt	platzen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Beton	Beton	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	auf	auf	_	PTKVZ	_	2	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Beton	Beton	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	Risse	Riss	_	NN	acc|pl|neut	4	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Flüge	Flug	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	ausgefallen	ausfallen	_	VVPP	_	2	AUX	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Dienstag	Dienstag	_	NN	dat|sg|masc	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Start·bahn	Startbahn	_	NN	nom|sg|fem	3	SUBJ	_	_
+6	kaputtgegangen	kaputtgehen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Start·bahn	Startbahn	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	am	an	_	APPRART	dat|sg|masc	7	PP	_	_
+6	Abend	Abend	_	NN	dat|sg|masc	5	PN	_	_
+7	gesperrt	sperren	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	deshalb	deshalb	_	PROAV	_	3	PP	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	am	an	_	APPRART	dat|sg|masc	11	PP	_	_
+5	Abend	Abend	_	NN	dat|sg|masc	4	PN	_	_
+6	keine	kein	_	PIAT	nom|sg|fem	7	DET	_	_
+7	Flugzeuge	Flugzeug	_	NN	nom|sg|fem	3	SUBJ	_	_
+8	mehr	mehr	_	ADV	_	7	ADV	_	_
+9	in	in	_	APPR	_	11	PP	_	_
+10	Hannover	Hannover	_	NE	dat|sg|neut	9	PN	_	_
+11	gestartet	starten	_	VVPP	_	3	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	in	in	_	APPR	_	5	PP	_	_
+3	der	der	_	ART	dat|sg|fem	4	DET	_	_
+4	Nacht	Nacht	_	NN	dat|sg|fem	2	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	keine	kein	_	PIAT	nom|pl|neut	7	DET	_	_
+7	Flugzeuge	Flugzeug	_	NN	nom|pl|neut	5	SUBJ	_	_
+8	in	in	_	APPR	_	10	PP	_	_
+9	Hannover	Hannover	_	NE	dat|sg|neut	8	PN	_	_
+10	gestartet	starten	_	VVPP	_	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	mussten	müssen	_	VMFIN	pl|3|past|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	im	in	_	APPRART	dat|sg|neut	7	PP	_	_
+6	Flughafen	Flughafen	_	NN	dat|sg|neut	5	PN	_	_
+7	schlafen	schlafen	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Mittwoch	Mittwoch	_	NN	dat|sg|masc	1	PN	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Bauarbeiter	Bauarbeiter	_	NN	nom|pl|masc	3	SUBJ	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Start·bahn	Startbahn	_	NN	acc|sg|fem	7	OBJA	_	_
+7	repariert	reparieren	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	wieder	wieder	_	ADV	_	9	ADV	_	_
+4	Flugzeuge	Flugzeug	_	NN	nom|pl|neut	2	SUBJ	_	_
+5	am	an	_	APPRART	dat|sg|masc	9	PP	_	_
+6	Flughafen	Flughafen	_	NN	dat|sg|masc	5	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Hannover	Hannover	_	NE	dat|sg|neut	7	PN	_	_
+9	starten	starten	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_

@@ -1,0 +1,129 @@
+﻿1	Arbeits·gericht	Arbeits·gericht	_	NN	nom|sg|neut	2	SUBJ	_	_
+2	arbeitet	arbeiten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	zu	zu	_	PTKA	_	4	ADV	_	_
+4	langsam	langsam	_	ADJD	pos	2	ADV	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	4	PP	_	_
+2	saarländischen	saarländisch	_	ADJA	dat|sg|masc|pos	3	ATTR	_	_
+3	Arbeits·gericht	Arbeits·gericht	_	NN	dat|sg|masc	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	momentan	momentan	_	ADJD	pos	4	ADV	_	_
+7	lange	lang	_	ADJA	acc|pl|fem|pos	8	ATTR	_	_
+8	Wartezeiten	Wartezeit	_	NN	acc|pl|fem	4	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	acc|sg|neut	2	OBJA	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Arbeit·nehmer	Arbeit·nehmer	_	NN	nom|pl|masc	4	SUBJ	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	Arbeit·geber	Arbeit·geber	_	NN	nom|pl|masc	2	CJ	_	_
+4	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	bei	bei	_	APPR	_	9	PP	_	_
+6	einem	ein	_	ART	dat|sg|masc	7	DET	_	_
+7	Streit	Streit	_	NN	dat|sg|masc	5	PN	_	_
+8	lange	lange	_	ADV	_	9	ADV	_	_
+9	warten	warten	_	VVINF	_	4	AUX	_	_
+10	,	--	_	$,	_	0	ROOT	_	_
+11	bis	bis	_	KOUS	_	15	KONJ	_	_
+12	das	der	_	ART	nom|sg|neut	13	DET	_	_
+13	Arbeits·gericht	Arbeits·gericht	_	NN	nom|sg|neut	15	SUBJ	_	_
+14	darüber	darüber	_	PROAV	_	15	DET	_	_
+15	entscheidet	entscheiden	_	VVFIN	sg|3|pres|ind	4	NEB	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Anwälte	Anwalt	_	NN	nom|pl|masc	2	OBJA	_	_
+2	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Das	der	_	PDS	nom|sg|neut	5	SUBJ	_	_
+5	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	bis	bis	_	ADV	_	5	ADV	_	_
+7	zu	zu	_	ADV	_	8	ADV	_	_
+8	14	14	_	CARD	_	9	ATTR	_	_
+9	Wochen	Woche	_	NN	dat|pl|fem	5	ZEIT	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eigentlich	eigentlich	_	ADV	_	2	ADV	_	_
+2	muss	muss	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Arbeits·gericht	Arbeits·gericht	_	NN	nom|sg|neut	2	SUBJ	_	_
+5	nach	nach	_	APPR	_	8	PP	_	_
+6	2	2	_	CARD	_	7	ATTR	_	_
+7	Wochen	Woche	_	NN	dat|pl|fem	5	PN	_	_
+8	versuchen	versuchen	_	VVINF	pl|3|pres|ind	2	AUX	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	eine	ein	_	ART	acc|sg|fem	11	DET	_	_
+11	Lösung	Lösung	_	NN	acc|sg|fem	13	OBJA	_	_
+12	zu	zu	_	PTKZU	_	13	PART	_	_
+13	finden	finden	_	VVINF	_	8	OBJI	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	acc|sg|neut	2	OBJA2	_	_
+2	nennt	nennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	"Güte·termin"	"Güte·termin"	_	NE	_	2	OBJA2	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Justiz·ministerium	Justiz·ministerium	_	NN	nom|sg|neut	3	OBJA	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Ja	ja	_	PTKANT	_	0	S	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	es	es	_	PPER	nom|sg|neut|3	8	SUBJ	_	_
+8	gibt	geben	_	VVFIN	sg|3|pres|ind	3	S	_	_
+9	Probleme	Problem	_	NN	acc|pl|neut	8	OBJA	_	_
+10	beim	bei	_	APPRART	dat|sg|neut	9	PP	_	_
+11	Arbeits·gericht	Arbeits·gericht	_	NN	dat|sg|neut	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Richter	Richter	_	NN	nom|pl|masc	2	SUBJ	_	_
+4	gefehlt	fehlen	_	VVPP	_	2	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Justiz·ministerium	Justiz·ministerium	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	3	ADV	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Jetzt	jetzt	_	ADV	_	7	ADV	_	_
+7	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	es	es	_	PPER	nom|sg|neut|3	7	SUBJ	_	_
+9	wieder	wieder	_	ADV	_	7	ADV	_	_
+10	genug	genug	_	PIAT	*|*|*	11	DET	_	_
+11	Richter	Richter	_	NN	acc|sg|*	7	OBJA	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	bekommen	bekommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Herbst	Herbst	_	NN	dat|sg|masc	3	PN	_	_
+5	auch	auch	_	ADV	_	7	ADV	_	_
+6	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+7	Mitarbeiter	Mitarbeiter	_	NN	acc|pl|masc	2	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deswegen	deswegen	_	PROAV	_	4	DET	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Arbeitn·nehmer	Arbeitn·nehmer	_	NN	nom|pl|masc	2	SUBJ	_	_
+4	und	und	_	KON	_	0	S	_	_
+5	Arbeit·geber	Arbeit·geber	_	NN	nom|pl|masc	4	CJ	_	_
+6	bei	bei	_	APPR	_	5	PP	_	_
+7	einem	ein	_	ART	dat|sg|masc	8	DET	_	_
+8	Streit	Streit	_	NN	dat|sg|masc	6	PN	_	_
+9	künftig	künftig	_	ADJD	pos	17	ADV	_	_
+10	nicht	nicht	_	PTKNEG	_	17	ADV	_	_
+11	mehr	mehr	_	ADV	_	10	ADV	_	_
+12	so	so	_	ADV	_	13	ADV	_	_
+13	lange	lange	_	ADV	_	17	ADV	_	_
+14	auf	auf	_	APPR	_	17	PRED	_	_
+15	den	der	_	ART	acc|sg|masc	16	DET	_	_
+16	"Güte·termin"	"Güte·termin"	_	NN	acc|sg|masc	14	PN	_	_
+17	waren	sein	_	VAFIN	pl|3|past|ind	8	REL	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+

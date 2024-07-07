@@ -1,0 +1,901 @@
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Pille	Pille	_	NN	nom|sg|fem	0	S	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Mann	Mann	_	NN	acc|sg|masc	3	PN	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Pille	Pille	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	beliebtes	beliebt	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Verhütungs-Mittel	Verhütungs-Mittel	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	für	für	_	APPR	_	4	PP	_	_
+3	Frauen	Frau	_	NN	acc|pl|fem	2	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	sie	sie	_	PPER	nom|sg|fem|3	4	SUBJ	_	_
+6	viele	vieler	_	PIAT	acc|pl|fem	7	DET	_	_
+7	Neben-Wirkungen	Neben-Wirkung	_	NN	acc|pl|fem	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wo	wo	_	PWAV	_	2	ADV	_	_
+2	bleibt	bleiben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Pille	Pille	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Mann	Mann	_	NN	acc|sg|masc	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Frau	Frau	_	NN	nom|sg|fem	0	S	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+5	Mann	Mann	_	NN	nom|sg|masc	3	CJ	_	_
+6	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	Sex	Sex	_	NN	dat|sg|masc	6	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	dabei	dabei	_	PROAV	_	7	DET	_	_
+4	aber	aber	_	ADV	_	7	ADV	_	_
+5	keine	kein	_	PIAT	acc|pl|neut	6	DET	_	_
+6	Kinder	Kind	_	NN	acc|pl|neut	7	OBJA	_	_
+7	zeugen	zeugen	_	VVFIN	pl|3|pres|ind	2	KON	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	verhindern	verhindern	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Schwangerschaft	Schwangerschaft	_	NN	acc|sg|fem	2	OBJD	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Verhütungs-Mittel	Verhütungs-Mittel	_	NN	acc|pl|neut	4	OBJA	_	_
+4	benutzen	benutzen	_	VVINF	_	2	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	acc|pl|*	5	DET	_	_
+4	verschiedene	verschieden	_	ADJA	acc|pl|*|pos	5	ATTR	_	_
+5	Verhütungs-Mittel	Verhütungs-Mittel	_	NN	acc|pl|neut	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	Kondome	Kondom	_	NN	nom|pl|neut	2	OBJA	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	Spritzen	Spritze	_	NN	nom|pl|fem	5	KON	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	Pflaster	Pflaster	_	NN	nom|sg|masc	7	KON	_	_
+10	und	und	_	KON	_	9	KON	_	_
+11	noch	noch	_	ADV	_	12	ADV	_	_
+12	vieles	viele	_	PIS	nom|sg|neut	10	CJ	_	_
+13	mehr	mehr	_	ADV	_	12	ADV	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Anti-Baby-Pille	Anti-Baby-Pille	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	schützt	schützen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	vor	vor	_	APPR	_	4	PP	_	_
+6	Schwangerschaften	Schwangerschaft	_	NN	dat|pl|fem	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Pille	Pille	_	NN	nom|sg|fem	3	OBJD	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	seit	seit	_	APPR	_	3	PP	_	_
+6	über	über	_	ADV	_	7	ADV	_	_
+7	50	50	_	CARD	_	8	ATTR	_	_
+8	Jahren	Jahr	_	NN	dat|pl|neut	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Medikament	Medikament	_	NN	nom|sg|neut	2	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Arzt	Arzt	_	NN	nom|sg|masc	3	OBJA	_	_
+3	schreibt	schreiben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	acc|sg|neut	5	DET	_	_
+5	Rezept	Rezept	_	NN	acc|sg|neut	3	OBJA	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Pille	Pille	_	NN	acc|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frauen	Frau	_	NN	nom|pl|fem	2	OBJD	_	_
+2	kaufen	kaufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Pille	Pille	_	NN	acc|sg|fem	2	SUBJ	_	_
+5	mit	mit	_	APPR	_	4	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+7	Rezept	Rezept	_	NN	dat|sg|masc	5	PN	_	_
+8	in	in	_	APPR	_	7	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Apotheke	Apotheke	_	NN	dat|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	nehmen	nehmen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Frauen	Frau	_	NN	nom|pl|fem	2	SUBJ	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Pille	Pille	_	NN	acc|sg|fem	2	OBJA	_	_
+6	ein	ein	_	PTKVZ	_	2	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Frauen	Frau	_	NN	nom|pl|fem	2	OBJA	_	_
+2	nehmen	nehmen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Pille	Pille	_	NN	acc|sg|fem	2	OBJA	_	_
+5	einmal	einmal	_	ADV	_	2	ADV	_	_
+6	am	an	_	APPRART	dat|sg|masc	2	PP	_	_
+7	Tag	Tag	_	NN	dat|sg|masc	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	nehmen	nehmen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Pille	Pille	_	NN	acc|sg|fem	2	OBJA	_	_
+5	21	21	_	CARD	_	6	ATTR	_	_
+6	Tage	Tag	_	NN	acc|pl|masc	7	PN	_	_
+7	lang	lang	_	ADJD	pos	2	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Danach	danach	_	PROAV	_	2	DET	_	_
+2	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	OBJA	_	_
+4	für	für	_	APPR	_	2	PP	_	_
+5	7	7	_	CARD	_	6	ATTR	_	_
+6	Tage	Tag	_	NN	acc|pl|masc	4	PN	_	_
+7	eine	ein	_	ART	nom|sg|fem	8	DET	_	_
+8	Pause	Pause	_	NN	nom|sg|fem	2	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dieser	dieser	_	PDAT	dat|sg|fem	3	DET	_	_
+3	Zeit	Zeit	_	NN	dat|sg|fem	1	PN	_	_
+4	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Frau	Frau	_	NN	nom|sg|fem	4	OBJA	_	_
+7	ihre	ihr	_	PPOSAT	nom|sg|fem	8	DET	_	_
+8	Periode	Periode	_	NN	nom|sg|fem	6	GMOD	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	bewirkt	bewirken	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Pille	Pille	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+6	weiblichen	weiblich	_	ADJA	dat|sg|masc|pos	7	ATTR	_	_
+7	Körper	Körper	_	NN	dat|sg|masc	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Durch	durch	_	APPR	_	4	PP	_	_
+2	die	der	_	ART	acc|sg|fem	3	DET	_	_
+3	Pille	Pille	_	NN	acc|sg|fem	1	PN	_	_
+4	kommen	kommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	Hormone	Hormone	_	NN	acc|sg|neut	4	ADV	_	_
+6	in	in	_	APPR	_	4	PP	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	Körper	Körper	_	NN	acc|sg|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Hormone	Hormone	_	NN	nom|sg|fem	3	OBJA	_	_
+3	verhindern	verhindern	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Ei-Sprung	Ei-Sprung	_	NN	acc|sg|masc	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	keine	kein	_	PIAT	acc|pl|masc	7	DET	_	_
+7	Ei-Zelle	Ei-Zelle	_	NN	acc|pl|masc	5	OBJA	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	die	der	_	PRELS	nom|pl|masc	14	SUBJ	_	_
+10	beim	bei	_	APPRART	dat|sg|masc	12	PP	_	_
+11	Sex	Sex	_	NN	dat|sg|masc	10	PN	_	_
+12	befruchtet	befruchten	_	VVPP	_	13	AUX	_	_
+13	werden	werden	_	VAINF	_	14	AUX	_	_
+14	kann	können	_	VMFIN	sg|3|pres|ind	7	REL	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Frau	Frau	_	NN	nom|sg|fem	7	ETH	_	_
+3	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	also	also	_	ADV	_	7	ADV	_	_
+5	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+6	schwanger	schwang	_	ADJD	comp	7	ADV	_	_
+7	werden	werden	_	VAINF	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Pille	Pille	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	Nachteile	Nachteil	_	NN	acc|pl|masc	3	OBJA	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Pille	Pille	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	8	DET	_	_
+5	beliebtes	beliebt	_	ADJA	nom|sg|neut|pos	8	ATTR	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	sicheres	sicher	_	ADJA	acc|sg|neut|pos	6	CJ	_	_
+8	Verhütungs-Mittel	Verhütungs-Mittel	_	NN	acc|sg|neut	3	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+3	alles	alle	_	PIS	nom|sg|neut	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	gut	gut	_	ADJD	pos	4	ADV	_	_
+6	an	an	_	APPR	_	4	PRED	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Pille	Pille	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Pille	Pille	_	NN	acc|sg|fem	3	OBJA	_	_
+6	nur	nur	_	ADV	_	7	ADV	_	_
+7	für	für	_	APPR	_	3	PP	_	_
+8	Frauen	Frau	_	NN	acc|pl|fem	7	PN	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+11	für	für	_	APPR	_	3	PP	_	_
+12	Männer	Mann	_	NN	acc|pl|masc	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Viele	vieler	_	PIAT	nom|pl|fem	5	DET	_	_
+5	Frauen	Frau	_	NN	nom|pl|fem	6	SUBJ	_	_
+6	müssen	müssen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+7	sich	sich	_	PRF	acc|pl|3	12	OBJA	_	_
+8	allein	allein	_	ADV	_	9	ADV	_	_
+9	um	um	_	APPR	_	12	PP	_	_
+10	die	der	_	ART	acc|sg|fem	11	DET	_	_
+11	Verhütung	Verhütung	_	NN	acc|sg|fem	9	PN	_	_
+12	kümmern	kümmern	_	VVINF	_	6	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	tragen	tragen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	dabei	dabei	_	PROAV	_	6	DET	_	_
+4	sehr	sehr	_	ADV	_	5	ADV	_	_
+5	viel	viel	_	PIAT	*|*|*	6	ATTR	_	_
+6	Verantwortung	Verantwortung	_	NN	acc|sg|fem	2	PAR	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	viel	viel	_	PIAT	*|*|*	4	ATTR	_	_
+4	Geld	Geld	_	NN	acc|sg|neut	8	OBJA	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	die	der	_	ART	acc|sg|fem	7	DET	_	_
+7	Pille	Pille	_	NN	acc|sg|fem	5	PN	_	_
+8	bezahlen	bezahlen	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Pille	Pille	_	NN	acc|sg|fem	6	ADV	_	_
+5	regelmäßig	regelmäßig	_	ADJD	pos	6	ADV	_	_
+6	schlucken	schlucken	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	müssen	müssen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+4	mit	mit	_	APPR	_	7	PP	_	_
+5	den	der	_	ART	dat|pl|fem	6	DET	_	_
+6	Neben-Wirkungen	Neben-Wirkung	_	NN	dat|pl|fem	4	PN	_	_
+7	umgehen	umgehen	_	VVFIN	pl|3|pres|ind	3	KON	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zu	zu	_	APPR	_	4	OBJP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Neben-Wirkungen	Neben-Wirkung	_	NN	dat|pl|fem	1	PN	_	_
+4	gehören	gehören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	•	LI	_	XY	nom|sg|fem|pos	0	ROOT	_	_
+9	Übelkeit	Übelkeit	_	NN	nom|sg|fem	4	PRED	_	_
+10	•	LI	_	APPR	_	0	ROOT	_	_
+11	Kopf-Schmerzen	Kopf-Schmerz	_	NN	dat|pl|masc	9	KON	_	_
+12	•	LI	_	CARD	_	0	ROOT	_	_
+13	Brust-Schmerzen	Brust-Schmerz	_	NN	dat|pl|masc	11	KON	_	_
+14	•	LI	_	$(	dat|pl|masc	0	ROOT	_	_
+15	unregelmäßige	unregelmäßig	_	ADJA	acc|pl|fem|pos	16	ATTR	_	_
+16	Blutungen	Blutung	_	NN	acc|pl|fem	13	KON	_	_
+17	•	LI	_	$(	_	0	ROOT	_	_
+18	schlechte	schlecht	_	ADJA	nom|sg|fem|pos	19	ATTR	_	_
+19	Stimmung	Stimmung	_	NN	nom|sg|fem	16	KON	_	_
+20	•	LI	_	XY	_	0	ROOT	_	_
+21	weniger	weniger	_	PIAT	*|*|*	22	DET	_	_
+22	Lust	Lust	_	NN	acc|sg|fem	19	KON	_	_
+23	auf	auf	_	APPR	_	22	PP	_	_
+24	Sex	Sex	_	NN	acc|sg|fem	23	PN	_	_
+
+1	Wo	wo	_	PWAV	_	2	ADV	_	_
+2	bleibt	bleiben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Pille	Pille	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Männer	Mann	_	NN	acc|pl|masc	5	PN	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Immer	Immer	_	ADV	_	2	ADV	_	_
+2	weniger	weniger	_	PIAT	_	4	DET	_	_
+3	junge	jung	_	ADJA	nom|pl|fem|pos	4	ATTR	_	_
+4	Frauen	Frau	_	NN	nom|pl|fem	5	OBJA	_	_
+5	nehmen	nehmen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	die	der	_	ART	acc|sg|fem	7	DET	_	_
+7	Pille	Pille	_	NN	acc|sg|fem	5	PAR	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Manche	mancher	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+3	fragen	fragen	_	VVFIN	pl|3|pres|ind	5	DET	_	_
+4	sich	sich	_	PRF	acc|pl|3	3	OBJA	_	_
+5	deshalb	deshalb	_	PROAV	_	8	DET	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Warum	warum	_	PWAV	_	8	ADV	_	_
+8	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	es	es	_	PPER	nom|sg|neut|3	8	SUBJ	_	_
+10	keine	kein	_	PIAT	acc|sg|fem	11	DET	_	_
+11	Pille	Pille	_	NN	acc|sg|fem	8	OBJA	_	_
+12	für	für	_	APPR	_	11	PP	_	_
+13	Männer	Mann	_	NN	acc|pl|masc	12	PN	_	_
+14	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Wirklichkeit	Wirklichkeit	_	NN	dat|sg|fem	1	PN	_	_
+3	sucht	suchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Forschung	Forschung	_	NN	nom|sg|fem	3	OBJA	_	_
+6	schon	schon	_	ADV	_	7	ADV	_	_
+7	seit	seit	_	APPR	_	3	PP	_	_
+8	Jahren	Jahr	_	NN	dat|pl|neut	7	PN	_	_
+9	nach	nach	_	APPR	_	3	OBJP	_	_
+10	einem	ein	_	ART	dat|sg|masc	11	DET	_	_
+11	Verhütungs-Mittel	Verhütungs-Mittel	_	NN	dat|sg|masc	9	PN	_	_
+12	für	für	_	APPR	_	11	PP	_	_
+13	Männer	Mann	_	NN	acc|pl|masc	12	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Forscher	Forscher	_	NN	nom|pl|masc	6	SUBJ	_	_
+2	auf	auf	_	APPR	_	1	PP	_	_
+3	der	der	_	ART	dat|sg|fem	5	DET	_	_
+4	ganzen	ganz	_	ADJA	dat|sg|fem|pos	5	ATTR	_	_
+5	Welt	Welt	_	NN	dat|sg|fem	2	PN	_	_
+6	forschen	forschen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+7	daran	daran	_	PROAV	_	6	DET	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	in	in	_	APPR	_	0	S	_	_
+4	China	China	_	NE	dat|sg|neut	3	PN	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	Indien	Indien	_	NE	dat|sg|neut	4	KON	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	den	der	_	ART	dat|pl|*	9	DET	_	_
+9	USA	USA	_	NE	dat|pl|*	7	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Verhütungs-Mittel	Verhütungs-Mittel	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	Männer	Mann	_	NN	acc|pl|masc	3	PN	_	_
+5	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	aktuell	aktuell	_	ADJD	pos	7	ADV	_	_
+7	erforscht	erforschen	_	VVPP	_	5	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|pl|fem|pos	0	ROOT	_	_
+2	Pillen	Pille	_	NN	nom|pl|fem	0	S	_	_
+
+1	•	LI	_	XY	nom|pl|fem|pos	0	ROOT	_	_
+2	Salben	Salbe	_	NN	nom|pl|fem	0	S	_	_
+
+1	•	LI	_	XY	nom|pl|fem|pos	0	ROOT	_	_
+2	Spritzen	Spritze	_	NN	nom|pl|fem	0	S	_	_
+
+1	•	LI	_	APPRART	pos	0	ROOT	_	_
+2	kleine	klein	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Schalter	Schalter	_	NN	nom|pl|masc	1	PN	_	_
+4	im	in	_	APPRART	dat|sg|masc	0	S	_	_
+5	Hoden	Hoden	_	NN	dat|sg|masc	4	PN	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	die	der	_	PRELS	nom|sg|fem	10	SUBJ	_	_
+8	den	der	_	ART	acc|sg|masc	9	DET	_	_
+9	Spermien-Fluss	Spermien-Fluss	_	NN	acc|sg|masc	10	OBJA	_	_
+10	stoppen	stopp	_	VVFIN	_	5	REL	_	_
+
+1	Welche	welcher	_	PWAT	acc|pl|neut	2	DET	_	_
+2	Probleme	Problem	_	NN	acc|pl|neut	3	OBJA	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	bei	bei	_	APPR	_	3	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Forschung	Forschung	_	NN	dat|sg|fem	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Große	groß	_	ADJA	acc|pl|fem|pos	2	ATTR	_	_
+2	Unternehmen	Unternehmen	_	NN	acc|pl|fem	0	S	_	_
+
+1	Große	groß	_	ADJA	nom|pl|neut|pos	2	ATTR	_	_
+2	Unternehmen	Unternehmen	_	NN	nom|pl|neut	3	ETH	_	_
+3	bestimmen	bestimmen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Medikamenten-Markt	Medikamenten-Markt	_	NN	acc|sg|masc	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	entscheiden	entscheiden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+6	Medikament	Medikament	_	NN	nom|sg|neut	10	ETH	_	_
+7	in	in	_	APPR	_	10	PP	_	_
+8	den	der	_	ART	acc|sg|masc	9	DET	_	_
+9	Verkauf	Verkauf	_	NN	acc|sg|masc	7	PN	_	_
+10	gehen	gehen	_	VVINF	_	4	AUX	_	_
+11	oder	oder	_	KON	_	10	KON	_	_
+12	nicht	nicht	_	PTKNEG	_	11	CJ	_	_
+13	?	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	2	DET	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	die	der	_	ART	acc|pl|*	5	DET	_	_
+5	Unternehmen	Unternehmen	_	NN	acc|pl|*	3	PN	_	_
+6	wichtig	wichtig	_	ADJD	pos	2	ADV	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	welches	welcher	_	PWAT	acc|sg|neut	9	DET	_	_
+9	Medikament	Medikament	_	NN	acc|sg|neut	12	OBJD	_	_
+10	viel	viel	_	PIAT	*|*|*	11	ATTR	_	_
+11	Geld	Geld	_	NN	nom|sg|neut	12	OBJA	_	_
+12	einbringt	einbringen	_	VVFIN	sg|3|pres|ind	2	SUBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Anti-Baby-Pille	Anti-Baby-Pille	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	bringt	bringen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	aktuell	aktuell	_	ADJD	pos	3	ADV	_	_
+5	viel	viel	_	PIAT	*|*|*	6	ATTR	_	_
+6	Geld	Geld	_	NN	acc|sg|neut	3	OBJA	_	_
+7	ein	ein	_	PTKVZ	_	3	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	acc|sg|neut	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|neut	4	DET	_	_
+4	Unternehmen	Unternehmen	_	NN	nom|pl|neut	6	OBJA	_	_
+5	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	ändern	ändern	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	7	DET	_	_
+2	bezahlen	bezahlen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|neut	4	DET	_	_
+4	Unternehmen	Unternehmen	_	NN	nom|pl|neut	2	OBJA	_	_
+5	nur	nur	_	ADV	_	6	ADV	_	_
+6	wenig	wenig	_	ADV	_	2	ADV	_	_
+7	oder	oder	_	KON	_	0	S	_	_
+8	gar	gar	_	ADV	_	9	ADV	_	_
+9	kein	kein	_	PIAT	nom|sg|neut	10	DET	_	_
+10	Geld	Geld	_	NN	nom|sg|neut	7	CJ	_	_
+11	für	für	_	APPR	_	10	PP	_	_
+12	die	der	_	ART	acc|sg|fem	13	DET	_	_
+13	Forschung	Forschung	_	NN	acc|sg|fem	11	PN	_	_
+14	an	an	_	APPR	_	13	PP	_	_
+15	Verhütungs-Mitteln	Verhütungs-Mittel	_	NN	dat|pl|masc	14	PN	_	_
+16	für	für	_	APPR	_	15	PP	_	_
+17	Männer	Mann	_	NN	acc|pl|masc	16	PN	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Strenge	streng	_	ADJA	nom|pl|fem|pos	2	ATTR	_	_
+2	Regeln	Regel	_	NN	nom|pl|fem	0	S	_	_
+
+1	Außerdem	außerdem	_	PROAV	_	2	DET	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	strenge	streng	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Regeln	Regel	_	NN	acc|pl|fem	2	OBJA	_	_
+6	in	in	_	APPR	_	2	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Medikamenten-Forschung	Medikamenten-Forschung	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+2	2	2	_	CARD	_	3	ATTR	_	_
+3	Regeln	Regel	_	NN	nom|pl|fem	4	PRED	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	dabei	dabei	_	PROAV	_	4	DET	_	_
+6	besonders	besonders	_	ADV	_	7	ADV	_	_
+7	wichtig	wichtig	_	ADJD	pos	4	PRED	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	*|*|*	0	ROOT	_	_
+2	Das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Medikament	Medikament	_	NN	nom|sg|neut	0	S	_	_
+4	muss	muss	_	NE	gen|sg|*	3	APP	_	_
+5	genau	genau	_	ADJD	pos	6	ADV	_	_
+6	getestet	testen	_	VVPP	_	7	AUX	_	_
+7	werden	werden	_	VAINF	_	3	OBJI	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	*|*|*	0	ROOT	_	_
+2	Das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Medikament	Medikament	_	NN	nom|sg|neut	0	S	_	_
+4	darf	dürfen	_	VMFIN	sg|3|pres|ind	8	SUBJ	_	_
+5	nur	nur	_	ADV	_	7	ADV	_	_
+6	wenige	weniger	_	PIAT	acc|pl|fem	7	DET	_	_
+7	Neben-Wirkungen	Neben-Wirkung	_	NN	acc|pl|fem	8	OBJA	_	_
+8	haben	haben	_	VAFIN	pl|3|pres|ind	1	REL	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	jedem	jeder	_	PIAT	dat|sg|neut	3	DET	_	_
+3	Land	Land	_	NN	dat|sg|neut	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	diese	dieser	_	PDAT	nom|pl|fem	6	DET	_	_
+6	Regeln	Regel	_	NN	nom|pl|fem	4	ETH	_	_
+7	unterschiedlich	unterschiedlich	_	ADJD	pos	8	ADV	_	_
+8	streng	streng	_	ADJD	pos	4	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	oft	oft	_	ADV	_	3	ADV	_	_
+3	werden	werden	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	diese	dieser	_	PDAT	nom|pl|fem	5	DET	_	_
+5	Regeln	Regel	_	NN	nom|pl|fem	3	SUBJ	_	_
+6	noch	noch	_	ADV	_	7	ADV	_	_
+7	strenger	streng	_	ADJD	comp	3	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Manchmal	manchmal	_	ADV	_	2	ADV	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Forscher	Forscher	_	NN	nom|pl|masc	2	SUBJ	_	_
+4	ihre	ihr	_	PPOSAT	acc|sg|fem	5	DET	_	_
+5	Arbeit	Arbeit	_	NN	acc|sg|fem	3	GMOD	_	_
+6	dann	dann	_	ADV	_	8	ADV	_	_
+7	neu	neu	_	ADJD	pos	8	ADV	_	_
+8	beginnen	beginnen	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Indien	Indien	_	NE	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	Forscher	Forscher	_	NN	acc|sg|masc	3	OBJA	_	_
+9	Sujoy	Sujoy	_	NE	nom|sg|fem	8	APP	_	_
+10	Guha	Guha	_	NE	nom|sg|fem	9	APP	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	forscht	forschen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	seit	seit	_	APPR	_	2	PP	_	_
+4	Jahren	Jahr	_	NN	dat|pl|neut	3	PN	_	_
+5	an	an	_	APPR	_	2	PP	_	_
+6	einem	ein	_	ART	dat|sg|masc	7	DET	_	_
+7	Verhütungs-Mittel	Verhütungs-Mittel	_	NN	dat|sg|masc	5	PN	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Männer	Mann	_	NN	acc|pl|masc	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	acc|sg|fem	4	DET	_	_
+4	Gel-Creme	Gel-Crem	_	NN	acc|sg|fem	5	OBJG	_	_
+5	erfunden	erfinden	_	VVPP	_	2	AUX	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	die	der	_	PRELS	nom|sg|fem	12	ETH	_	_
+8	den	der	_	ART	acc|sg|masc	9	DET	_	_
+9	Weg	Weg	_	NN	acc|sg|masc	12	OBJA	_	_
+10	zum	zu	_	APPRART	dat|sg|masc	9	PP	_	_
+11	Penis	Penis	_	NN	dat|sg|masc	10	PN	_	_
+12	verstopft	verstopfen	_	VVPP	_	5	KON	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|fem	4	DET	_	_
+4	Spermien	Spermium	_	NN	nom|pl|fem	7	SUBJ	_	_
+5	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+6	mehr	mehr	_	ADV	_	5	ADV	_	_
+7	fließen	fließen	_	VVFIN	pl|3|pres|ind	2	KON	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sujoy	Sujoy	_	NE	nom|sg|fem	3	SUBJ	_	_
+2	Guha	Guha	_	NE	nom|sg|fem	1	APP	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	oft	oft	_	ADV	_	3	ADV	_	_
+5	schon	schon	_	ADV	_	3	ADV	_	_
+6	fast	fast	_	ADV	_	7	ADV	_	_
+7	fertig	fertig	_	ADJD	pos	3	PRED	_	_
+8	mit	mit	_	APPR	_	7	KON	_	_
+9	seiner	sein	_	PPOSAT	dat|sg|fem	10	DET	_	_
+10	Erfindung	Erfindung	_	NN	dat|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	kamen	kommen	_	VVFIN	pl|3|past|ind	1	CJ	_	_
+4	immer	immer	_	ADV	_	3	ADV	_	_
+5	neue	neu	_	ADJA	acc|pl|fem|pos	6	ATTR	_	_
+6	Regeln	Regel	_	NN	acc|pl|fem	3	ETH	_	_
+7	und	und	_	KON	_	3	KON	_	_
+8	Sujoy	Sujoy	_	NE	nom|sg|*	10	SUBJ	_	_
+9	Guha	Guha	_	NE	acc|sg|*	8	APP	_	_
+10	musste	mussen	_	VVFIN	sg|3|past|ind	7	CJ	_	_
+11	mehrfach	mehrfach	_	ADJD	pos	10	ADV	_	_
+12	von	von	_	APPR	_	14	PP	_	_
+13	vorne	vorne	_	ADV	_	12	PN	_	_
+14	anfangen	anfangen	_	VVINF	_	10	OBJI	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vorurteile	Vorurteil	_	NN	nom|pl|neut	0	S	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	Vorurteile	Vorurteil	_	NN	nom|pl|masc	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	5	DET	_	_
+5	Problem	Problem	_	NN	nom|sg|neut	3	PRED	_	_
+6	bei	bei	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Pille	Pille	_	NN	dat|sg|fem	6	PN	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	Männer	Mann	_	NN	acc|pl|masc	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oft	oft	_	ADV	_	2	ADV	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	diese	dieser	_	PDAT	nom|pl|fem	4	DET	_	_
+4	Vorurteile	Vorurteil	_	NN	acc|pl|neut	2	SUBJ	_	_
+5	FALSCH	FALSCH	_	ADJD	pos	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	sie	sie	_	PPER	nom|sg|fem|3	3	SUBJ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	beeinflussen	beeinflussen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	acc|sg|fem	6	DET	_	_
+5	öffentliche	öffentlich	_	ADJA	acc|sg|fem|pos	6	ATTR	_	_
+6	Meinung	Meinung	_	NN	acc|sg|fem	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	diese	dieser	_	PDAT	acc|pl|neut	6	DET	_	_
+6	Vorurteile	Vorurteil	_	NN	acc|pl|neut	3	ZEIT	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	1.	1	_	CARD	_	2	ATTR	_	_
+2	Männer	Mann	_	NN	nom|pl|masc	3	AUX	_	_
+3	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+5	mal	mal	_	ADV	_	8	ADV	_	_
+6	ihre	ihr	_	PPOSAT	acc|pl|masc	7	DET	_	_
+7	Socken	Socke	_	NN	acc|pl|masc	8	OBJA	_	_
+8	aufheben	aufheben	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+4	dann	dann	_	ADV	_	9	ADV	_	_
+5	regelmäßig	regelmäßig	_	ADJD	pos	9	ADV	_	_
+6	an	an	_	APPR	_	9	OBJP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Pille	Pille	_	NN	acc|sg|fem	6	PN	_	_
+9	denken	denken	_	VVINF	_	2	AUX	_	_
+10	?	--	_	$.	_	0	ROOT	_	_
+
+1	2.	2	_	CARD	_	2	ATTR	_	_
+2	Männer	Mann	_	NN	nom|pl|masc	6	PRED	_	_
+3	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+5	schwanger	schwang	_	ADJD	comp	6	ADV	_	_
+6	werden	werden	_	VAINF	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Also	also	_	ADV	_	2	ADV	_	_
+2	interessieren	interessieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+4	sich	sich	_	PRF	dat|pl|3	2	OBJA	_	_
+5	auch	auch	_	ADV	_	7	ADV	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	für	für	_	APPR	_	2	PP	_	_
+8	Verhütung	Verhütung	_	NN	acc|sg|fem	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	3.	3	_	CARD	_	11	ZEIT	_	_
+2	Auch	auch	_	ADV	_	3	ADV	_	_
+3	wenn	wenn	_	KOUS	_	8	KONJ	_	_
+4	Männer	Mann	_	NN	nom|pl|masc	8	SUBJ	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Pille	Pille	_	NN	acc|sg|fem	7	OBJA	_	_
+7	nehmen	nehmen	_	VVINF	_	8	AUX	_	_
+8	wollen	wollen	_	VMFIN	pl|3|pres|ind	11	NEB	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	dann	dann	_	ADV	_	11	ADV	_	_
+11	würden	werden	_	VAFIN	pl|3|past|subj	0	S	_	_
+12	Frauen	Frau	_	NN	nom|pl|fem	18	OBJA	_	_
+13	ihnen	ihnen	_	PPER	dat|pl|*|3	12	APP	_	_
+14	bei	bei	_	APPR	_	18	PP	_	_
+15	der	der	_	ART	dat|sg|fem	16	DET	_	_
+16	Einnahme	Einnahme	_	NN	dat|sg|fem	14	PN	_	_
+17	nicht	nicht	_	PTKNEG	_	18	ADV	_	_
+18	vertrauen	vertrauen	_	VVINF	_	11	AUX	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Forscher	Forscher	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+3	diese	dieser	_	PDAT	acc|pl|neut	4	DET	_	_
+4	Vorurteile	Vorurteil	_	NN	acc|pl|neut	6	OBJA	_	_
+5	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	glauben	glauben	_	VVFIN	_	2	KON	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	deshalb	deshalb	_	PROAV	_	5	DET	_	_
+4	viele	vieler	_	PIAT	nom|pl|masc	5	DET	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	7	OBJA	_	_
+6	dazu	dazu	_	PROAV	_	5	DET	_	_
+7	befragt	befragen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	meisten	meister	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	5	OBJD	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Sie	sie	_	PPER	nom|pl|*|3	8	SUBJ	_	_
+8	wollen	wollen	_	VMFIN	pl|3|pres|ind	5	S	_	_
+9	eine	ein	_	ART	acc|sg|fem	10	DET	_	_
+10	Pille	Pille	_	NN	acc|sg|fem	8	OBJA	_	_
+11	für	für	_	APPR	_	10	PP	_	_
+12	Männer	Mann	_	NN	acc|pl|masc	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	sieht	sehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Zukunft	Zukunft	_	NN	nom|sg|fem	2	OBJA	_	_
+5	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bis	bis	_	KOUS	_	7	KONJ	_	_
+2	die	der	_	ART	nom|pl|neut	3	DET	_	_
+3	Pille	Pille	_	NN	nom|pl|neut	7	SUBJ	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Männer	Mann	_	NN	acc|pl|masc	4	PN	_	_
+6	verkauft	verkaufen	_	VVPP	_	7	AUX	_	_
+7	wird	werden	_	VAFIN	sg|3|pres|ind	9	NEB	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+10	noch	noch	_	ADV	_	11	ADV	_	_
+11	viele	vieler	_	PIAT	nom|pl|neut	12	DET	_	_
+12	Probleme	Problem	_	NN	nom|pl|neut	9	SUBJ	_	_
+13	gelöst	lösen	_	VVPP	_	14	AUX	_	_
+14	werden	werden	_	VAINF	_	9	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	manche	mancher	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Männer	Mann	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	wollen	wollen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	warten	warten	_	VVINF	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Gruppe	Gruppe	_	NN	nom|sg|fem	3	SUBJ	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Männern	Mann	_	NN	dat|pl|masc	6	PN	_	_
+8	in	in	_	APPR	_	3	PP	_	_
+9	Frankreich	Frankreich	_	NE	dat|sg|neut	8	PN	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+11	Wir	wir	_	PPER	nom|pl|*|1	12	SUBJ	_	_
+12	wollen	wollen	_	VMFIN	pl|1|pres|ind	0	S	_	_
+13	jetzt	jetzt	_	ADV	_	16	ADV	_	_
+14	schon	schon	_	ADV	_	16	ADV	_	_
+15	etwas	etwas	_	PIS	*|*|neut	16	ADV	_	_
+16	tun	tun	_	VVINF	_	12	AUX	_	_
+17	!	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Männer-Gruppe	Männer-Gruppe	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Frankreich	Frankreich	_	NE	dat|sg|neut	3	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	besondere	besonderer	_	ADJA	acc|pl|fem|pos	7	ATTR	_	_
+7	Unterhosen	Unterhose	_	NN	acc|pl|fem	8	OBJG	_	_
+8	gebastelt	basteln	_	VVPP	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|*	2	DET	_	_
+2	Unterhosen	Unterhose	_	NN	nom|pl|*	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Art	Art	_	NN	nom|sg|fem	3	PRED	_	_
+6	Verhütungs-Mittel	Verhütungs-Mittel	_	NN	nom|sg|neut	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|*	3	DET	_	_
+3	Unterhosen	Unterhose	_	NN	nom|pl|*	4	PN	_	_
+4	wärmen	wärmen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	die	der	_	ART	acc|pl|fem	6	DET	_	_
+6	Hoden	Hode	_	NN	acc|pl|fem	4	PAR	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dadurch	dadurch	_	PROAV	_	2	DET	_	_
+2	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	5	ADV	_	_
+4	die	der	_	ART	nom|pl|fem	5	DET	_	_
+5	Spermien	Spermium	_	NN	nom|pl|fem	2	SUBJ	_	_
+6	warm	warm	_	ADJD	pos	2	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Spermien	Spermium	_	NN	nom|pl|fem	2	SUBJ	_	_
+2	vertragen	vertragen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	keine	kein	_	PIAT	acc|sg|fem	4	DET	_	_
+4	Hitze	Hitze	_	NN	acc|sg|fem	2	PAR	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Hitze	Hitze	_	NN	nom|sg|fem	3	OBJD	_	_
+3	schadet	schaden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Spermien	Spermium	_	NN	acc|sg|masc	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Schwangerschaft	Schwangerschaft	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	verhindert	verhindern	_	VVPP	_	6	AUX	_	_
+6	werden	werden	_	VAINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_

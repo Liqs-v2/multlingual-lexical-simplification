@@ -1,0 +1,131 @@
+1	Kämpfe	Kampf	_	NN	nom|pl|masc	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Tripolis	Tripolis	_	NE	dat|sg|neut	2	PN	_	_
+
+1	In	in	_	APPR	_	9	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Stadt	Stadt	_	NN	dat|sg|fem	1	PN	_	_
+4	Tripolis	Tripolis	_	NE	nom|sg|neut	3	APP	_	_
+5	in	in	_	APPR	_	3	PP	_	_
+6	dem	der	_	ART	dat|sg|neut	7	DET	_	_
+7	Land	Land	_	NN	dat|sg|neut	5	PN	_	_
+8	Libyen	Libyen	_	NE	dat|sg|neut	7	APP	_	_
+9	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+10	es	es	_	PPER	nom|sg|neut|3	9	SUBJ	_	_
+11	schwere	schwer	_	ADJA	acc|pl|masc|pos	12	ATTR	_	_
+12	Kämpfe	Kampf	_	NN	acc|pl|masc	9	OBJA	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	dabei	dabei	_	PROAV	_	5	DET	_	_
+5	getötet	töten	_	VVPP	_	6	AUX	_	_
+6	worden	werden	_	VAPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|fem	4	DET	_	_
+4	Milizen	Miliz	_	NN	nom|pl|fem	7	OBJD	_	_
+5	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+6	Waffen-Ruhe	Waffen-Ruhe	_	NN	acc|sg|fem	4	GMOD	_	_
+7	vereinbart	vereinbaren	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Libyen	libyen	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Land	Land	_	NN	nom|sg|neut	2	PRED	_	_
+5	im	in	_	APPRART	dat|sg|masc	4	PP	_	_
+6	Norden	Norden	_	NN	dat|sg|masc	5	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	dem	der	_	ART	dat|sg|masc	9	DET	_	_
+9	Kontinent	Kontinent	_	NN	dat|sg|masc	7	PN	_	_
+10	Afrika	Afrika	_	NE	nom|sg|neut	9	APP	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	kämpfen	kämpfen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	seit	seit	_	APPR	_	2	PP	_	_
+4	vielen	vieler	_	PIAT	dat|pl|neut	5	DET	_	_
+5	Jahren	Jahr	_	NN	dat|pl|neut	3	PN	_	_
+6	verschiedene	verschieden	_	ADJA	acc|pl|fem|pos	7	ATTR	_	_
+7	Milizen	Miliz	_	NN	acc|pl|fem	2	OBJA	_	_
+8	um	um	_	APPR	_	2	PP	_	_
+9	die	der	_	ART	acc|sg|fem	10	DET	_	_
+10	Macht	Macht	_	NN	acc|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Besonders	besonders	_	ADV	_	2	ADV	_	_
+2	schlimm	schlimm	_	ADJD	pos	3	ADV	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Kämpfe	Kampf	_	NN	nom|pl|masc	3	SUBJ	_	_
+6	zur	zu	_	APPRART	dat|sg|fem	5	PP	_	_
+7	Zeit	Zeit	_	NN	dat|sg|fem	6	PN	_	_
+8	in	in	_	APPR	_	3	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Haupt-Stadt	Haupt-Stadt	_	NN	dat|sg|fem	8	PN	_	_
+11	Tripolis	Tripolis	_	NE	nom|sg|neut	10	APP	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	mindestens	mindestens	_	ADV	_	4	ADV	_	_
+4	50	50	_	CARD	_	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+6	getötet	töten	_	VVPP	_	7	AUX	_	_
+7	worden	werden	_	VAPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Regierung	Regierung	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Libyen	Libyen	_	NE	dat|sg|neut	3	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	deshalb	deshalb	_	PROAV	_	8	DET	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	Not-Stand	Not-Stand	_	NN	acc|sg|masc	11	OBJA	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	Tripolis	Tripolis	_	NE	acc|sg|neut	9	PN	_	_
+11	ausgerufen	ausrufen	_	VVPP	_	5	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	10	OBJA	_	_
+4	die	der	_	ART	nom|pl|fem	6	DET	_	_
+5	verfeindeten	verfeindet	_	ADJA	nom|pl|fem|pos	6	ATTR	_	_
+6	Gruppen	Gruppe	_	NN	nom|pl|fem	2	SUBJ	_	_
+7	auf	auf	_	APPR	_	10	OBJP	_	_
+8	eine	ein	_	ART	acc|sg|fem	9	DET	_	_
+9	Waffen-Ruhe	Waffen-Ruhe	_	NN	acc|sg|fem	7	PN	_	_
+10	geeinigt	einigen	_	VVPP	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	den	der	_	ART	dat|pl|fem	3	DET	_	_
+3	Verhandlungen	Verhandlung	_	NN	dat|pl|fem	1	PN	_	_
+4	darüber	darüber	_	PROAV	_	1	DET	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+7	Mann	Mann	_	NN	nom|sg|masc	12	OBJD	_	_
+8	von	von	_	APPR	_	12	OBJP	_	_
+9	den	der	_	ART	dat|pl|fem	11	DET	_	_
+10	Vereinten	vereint	_	ADJA	dat|pl|fem|pos	11	ATTR	_	_
+11	Nationen	Nation	_	NN	dat|pl|fem	8	PN	_	_
+12	geholfen	helfen	_	VVPP	_	5	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	ob	ob	_	KOUS	_	6	KONJ	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Waffen-Ruhe	Waffen-Ruhe	_	NN	nom|sg|fem	6	SUBJ	_	_
+5	wirklich	wirklich	_	ADJD	pos	6	ADV	_	_
+6	hält	halten	_	VVFIN	sg|3|pres|ind	8	NEB	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	weiß	weiß	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+9	niemand	niemand	_	PIS	nom|sg|masc	8	SUBJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+

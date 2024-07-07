@@ -1,0 +1,367 @@
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	verliert	verlieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	gegen	gegen	_	APPR	_	2	PP	_	_
+4	Südkorea	Südkorea	_	NE	acc|sg|neut	3	PN	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	scheidet	scheiden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	aus	aus	_	APPR	_	4	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	WM	WM	_	NN	dat|sg|fem	5	PN	_	_
+8	aus	aus	_	PTKVZ	_	4	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Schweden	Schweden	_	NE	nom|sg|neut	4	PRED	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	Mexiko	Mexiko	_	NE	nom|sg|neut	2	CJ	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	weiter	weiter	_	ADV	_	4	ADV	_	_
+6	im	in	_	APPRART	dat|sg|masc	4	PRED	_	_
+7	Achtel-Finale	Achtel-Final	_	NN	dat|sg|masc	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	scheidet	scheiden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	WM	WM	_	NN	dat|sg|fem	3	PN	_	_
+6	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	8	OBJA	_	_
+4	konnte	können	_	VMFIN	sg|3|past|ind	0	S	_	_
+5	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+6	gegen	gegen	_	APPR	_	8	PP	_	_
+7	Südkorea	Südkorea	_	NE	acc|sg|neut	6	PN	_	_
+8	gewinnen	gewinnen	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	4	ADV	_	_
+2	alle	aller	_	PIAT	acc|pl|masc	4	DET	_	_
+3	wichtigen	wichtig	_	ADJA	acc|pl|masc|pos	4	ATTR	_	_
+4	Infos	Info	_	NN	acc|pl|masc	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Spiel	Spiel	_	NN	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	ging	gehen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	kein	kein	_	PIAT	nom|sg|masc	4	DET	_	_
+4	Tor	Tor	_	NN	nom|sg|masc	2	PAR	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Südkorea	Südkorea	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	2	2	_	CARD	_	4	ATTR	_	_
+4	Tore	Tor	_	NN	acc|sg|fem	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Südkorea	Südkorea	_	NE	nom|sg|neut	2	OBJA	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	gen|sg|fem|3	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Situation	Situation	_	NN	nom|sg|fem	3	SUBJ	_	_
+6	vor	vor	_	APPR	_	5	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Spiel	Spiel	_	NN	dat|sg|neut	6	PN	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	einer	ein	_	ART	dat|sg|fem	5	DET	_	_
+5	Gruppe	Gruppe	_	NN	dat|sg|fem	3	PN	_	_
+6	mit	mit	_	APPR	_	2	PP	_	_
+7	Mexiko	Mexiko	_	NE	dat|sg|neut	6	PN	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	Schweden	Schweden	_	NE	dat|sg|neut	7	KON	_	_
+10	und	und	_	KON	_	9	KON	_	_
+11	Südkorea	Südkorea	_	NE	dat|sg|neut	10	CJ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vor	vor	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Spiel	Spiel	_	NN	dat|sg|neut	1	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	keine	kein	_	PIS	nom|sg|fem	4	ETH	_	_
+6	von	von	_	APPR	_	9	PP	_	_
+7	den	der	_	ART	dat|pl|fem	8	DET	_	_
+8	Mannschaften	Mannschaft	_	NN	dat|pl|fem	6	PN	_	_
+9	sicher	sicher	_	ADJD	pos	4	PRED	_	_
+10	weiter	weiter	_	ADV	_	9	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Alle	aller	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Mannschaften	Mannschaft	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	noch	noch	_	ADV	_	8	ADV	_	_
+5	in	in	_	APPR	_	8	PP	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Achtel-Finale	Achtel-Finale	_	NN	acc|sg|neut	5	PN	_	_
+8	kommen	kommen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	alle	aller	_	PIAT	nom|pl|fem	3	DET	_	_
+3	Mannschaften	Mannschaft	_	NN	nom|pl|fem	4	SUBJ	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	noch	noch	_	ADV	_	9	ADV	_	_
+6	aus	aus	_	APPR	_	9	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	WM	WM	_	NN	dat|sg|fem	6	PN	_	_
+9	ausscheiden	ausscheiden	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	deshalb	deshalb	_	PROAV	_	6	DET	_	_
+6	gegen	gegen	_	APPR	_	8	PP	_	_
+7	Südkorea	Südkorea	_	NE	acc|sg|neut	6	PN	_	_
+8	gewinnen	gewinnen	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	4	DET	_	_
+3	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+4	Mannschaft	Mannschaft	_	NN	nom|sg|fem	5	SUBJ	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	auch	auch	_	ADV	_	7	ADV	_	_
+7	unsicher	unsicher	_	ADJD	pos	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	lief	laufen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	ab	ab	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	ersten	erster	_	ADJA	dat|sg|fem|pos	4	ATTR	_	_
+4	Halbzeit	Halbzeit	_	NN	dat|sg|fem	1	PN	_	_
+5	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	keine	kein	_	PIAT	nom|sg|fem	7	DET	_	_
+7	Mannschaft	Mannschaft	_	NN	nom|sg|fem	5	OBJA	_	_
+8	ein	ein	_	ART	nom|sg|masc	9	DET	_	_
+9	Tor	Tor	_	NN	nom|sg|masc	7	GMOD	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	öfter	öfter	_	ADV	_	2	ADV	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Ball	Ball	_	NN	acc|sg|masc	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	Südkorea	Südkorea	_	NE	nom|sg|neut	3	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	ein	ein	_	ART	*|*|*	5	DET	_	_
+5	paar	paar	_	PIAT	*|*|*	6	DET	_	_
+6	Chancen	Chance	_	NN	acc|pl|fem	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	im	in	_	APPRART	dat|sg|masc	7	PP	_	_
+3	Spiel	Spiel	_	NN	dat|sg|masc	2	PN	_	_
+4	Mexiko	Mexiko	_	NE	nom|sg|neut	3	APP	_	_
+5	gegen	gegen	_	APPR	_	4	PP	_	_
+6	Schweden	Schweden	_	NE	acc|sg|neut	5	PN	_	_
+7	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	es	es	_	PPER	nom|sg|neut|3	7	SUBJ	_	_
+9	in	in	_	APPR	_	7	PP	_	_
+10	der	der	_	ART	dat|sg|fem	12	DET	_	_
+11	ersten	erster	_	ADJA	dat|sg|fem|pos	12	ATTR	_	_
+12	Halbzeit	Halbzeit	_	NN	dat|sg|fem	9	PN	_	_
+13	keine	kein	_	PIAT	nom|sg|fem	14	DET	_	_
+14	Tore	Tor	_	NN	nom|sg|fem	7	OBJA	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	noch	noch	_	ADV	_	2	ADV	_	_
+4	alles	alle	_	PIS	nom|sg|neut	2	SUBJ	_	_
+5	möglich	möglich	_	ADJD	pos	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	zweiten	zweiter	_	ADJA	dat|sg|fem|pos	4	ATTR	_	_
+4	Halbzeit	Halbzeit	_	NN	dat|sg|fem	1	PN	_	_
+5	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	Schweden	Schweden	_	NE	nom|sg|neut	5	OBJA	_	_
+7	3	3	_	CARD	_	6	APP	_	_
+8	Tore	Tor	_	NN	nom|pl|neut	7	APP	_	_
+9	gegen	gegen	_	APPR	_	8	PP	_	_
+10	Mexiko	Mexiko	_	NE	acc|sg|neut	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|sg|fem	6	DET	_	_
+5	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	6	ATTR	_	_
+6	Mannschaft	Mannschaft	_	NN	nom|sg|fem	2	S	_	_
+7	muss	muss	_	ADJD	pos	8	ADV	_	_
+8	gewinnen	gewinnen	_	VVINF	_	2	OBJI	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sonst	sonst	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+4	raus	raus	_	ADV	_	2	ADV	_	_
+5	aus	aus	_	APPR	_	2	PRED	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	WM	WM	_	NN	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	4	DET	_	_
+3	deutschen	deutsch	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Spieler	Spieler	_	NN	nom|pl|masc	5	OBJA	_	_
+5	machen	machen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+6	viele	vieler	_	PIAT	nom|pl|masc	7	DET	_	_
+7	Fehler	Fehler	_	NN	nom|pl|masc	5	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	langsam	langsam	_	ADJD	pos	2	ADV	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Nachspielzeit	Nachspielzeit	_	NN	dat|sg|fem	1	PN	_	_
+4	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	Südkorea	Südkorea	_	NE	nom|sg|neut	4	OBJA	_	_
+6	1	1	_	CARD	_	7	ATTR	_	_
+7	Tor	Tor	_	NN	nom|sg|neut	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	einer	ein	_	ART	dat|sg|fem	3	DET	_	_
+3	Ecke	Ecke	_	NN	dat|sg|fem	1	PN	_	_
+4	trifft	treffen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Südkoreaner	Südkoreaner	_	NN	nom|sg|masc	4	PAR	_	_
+7	Younggwon	Younggwon	_	NE	nom|sg|masc	6	APP	_	_
+8	Kim	Kim	_	NE	nom|sg|masc	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Danach	danach	_	PROAV	_	0	DET	_	_
+2	laufen	laufen	_	VVFIN	pl|3|pres|ind	1	DET	_	_
+3	alle	aller	_	PIAT	nom|pl|neut	5	DET	_	_
+4	deutschen	deutsch	_	ADJA	nom|pl|neut|pos	5	ATTR	_	_
+5	Spieler	Spieler	_	NN	nom|pl|neut	2	SUBJ	_	_
+6	nach	nach	_	APPR	_	2	PP	_	_
+7	vorne	vorne	_	ADV	_	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Torwart	Torwart	_	NN	nom|sg|masc	0	S	_	_
+4	Manuel	Manuel	_	NE	nom|sg|masc	3	APP	_	_
+5	Neuer	neuer	_	NE	nom|sg|masc	4	APP	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Tor	Tor	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	frei	frei	_	PTKVZ	_	3	AVZ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Südkoreaner	Südkoreaner	_	NN	nom|sg|masc	6	AUX	_	_
+4	Heungmin	Heungmin	_	NE	nom|sg|neut	3	APP	_	_
+5	Son	Son	_	NE	_	4	APP	_	_
+6	kann	können	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+7	noch	noch	_	ADV	_	8	ADV	_	_
+8	1	1	_	CARD	_	9	ATTR	_	_
+9	Tor	Tor	_	NN	acc|sg|neut	10	OBJA	_	_
+10	schießen	schießen	_	VVINF	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Damit	damit	_	PROAV	_	2	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Südkorea	Südkorea	_	NE	nom|sg|neut	2	SUBJ	_	_
+4	am	an	_	APPRART	dat|sg|neut	2	PP	_	_
+5	Ende	Ende	_	NN	dat|sg|neut	4	PN	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Spiel	Spiel	_	NN	dat|sg|neut	6	PN	_	_
+9	2	2	_	CARD	_	8	APP	_	_
+10	Tore	Tor	_	NN	nom|pl|neut	5	APP	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	deutschen	deutsch	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|pl|masc	4	PRED	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	nach	nach	_	APPR	_	9	PP	_	_
+6	dem	der	_	ART	dat|sg|neut	7	DET	_	_
+7	Spiel	Spiel	_	NN	dat|sg|neut	5	PN	_	_
+8	sehr	sehr	_	ADV	_	9	ADV	_	_
+9	enttäuscht	enttäuschen	_	VVPP	pos	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	jetzt	jetzt	_	ADV	_	9	ADV	_	_
+4	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+5	weiter	weiter	_	ADV	_	9	ADV	_	_
+6	in	in	_	APPR	_	9	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	WM	WM	_	NN	dat|sg|fem	6	PN	_	_
+9	spielen	spielen	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	5	DET	_	_
+4	letzte	letzter	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Mannschaft	Mannschaft	_	NN	nom|sg|fem	2	PRED	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Gruppe	Gruppe	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Südkorea	Südkorea	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	9	ADV	_	_
+4	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+5	weiter	weiter	_	ADV	_	9	ADV	_	_
+6	in	in	_	APPR	_	9	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	WM	WM	_	NN	dat|sg|fem	6	PN	_	_
+9	spielen	spielen	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Schweden	Schweden	_	NE	nom|sg|neut	4	PRED	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	Mexiko	Mexiko	_	NE	nom|sg|neut	2	CJ	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	weiter	weiter	_	ADV	_	4	ADV	_	_
+6	im	in	_	APPRART	dat|sg|masc	4	PRED	_	_
+7	Achtel-Finale	Achtel-Final	_	NN	dat|sg|masc	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_

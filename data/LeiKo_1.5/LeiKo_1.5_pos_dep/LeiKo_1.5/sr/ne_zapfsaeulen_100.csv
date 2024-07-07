@@ -1,0 +1,124 @@
+﻿1	Viele	vieler	_	PIAT	nom|pl|neut	2	DET	_	_
+2	Benzin·zapf·säulen	Benzin·zapf·säule	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	selten	selten	_	ADJD	pos	5	ADV	_	_
+5	geprüft	prüfen	_	VVPP	_	3	AUX	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Saarland	Saarland	_	NE	dat|sg|masc	1	PN	_	_
+3	funktionieren	funktionieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	möglicherweise	möglicherweise	_	ADV	_	3	ADV	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Zapf·säulen	Zapf·säule	_	NN	nom|pl|masc	3	SUBJ	_	_
+7	an	an	_	APPR	_	6	PP	_	_
+8	Tank·stellen	Tank·stelle	_	NN	dat|pl|fem	7	PN	_	_
+9	nicht	nicht	_	PTKNEG	_	10	ADV	_	_
+10	genau	genau	_	ADJD	pos	3	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Landes·rechnungshof	Landes·rechnungshof	_	NN	nom|sg|masc	3	OBJA	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Funktion	Funktion	_	NN	nom|sg|fem	3	PAR	_	_
+7	der	der	_	ART	gen|sg|fem	8	DET	_	_
+8	Zapf·säulen	Zapf·säule	_	NN	gen|sg|fem	6	GMOD	_	_
+9	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+10	zu	zu	_	APPR	_	12	PP	_	_
+11	selten	selten	_	ADJD	pos	10	PN	_	_
+12	geprüft	prüfen	_	VVPP	_	9	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	schwieriger	schwierig	_	ADJA	dat|sg|fem|pos	3	ATTR	_	_
+3	Sprache	Sprache	_	NN	dat|sg|fem	1	PN	_	_
+4	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	das	der	_	ART	nom|sg|neut	7	DET	_	_
+6	"	--	_	$(	_	0	ROOT	_	_
+7	geeicht	geeicht	_	ADJD	_	4	ADV	_	_
+8	"	--	_	$(	_	0	ROOT	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|neut	6	PP	_	_
+2	Ende	Ende	_	NN	dat|sg|neut	1	PN	_	_
+3	des	der	_	ART	gen|sg|neut	4	DET	_	_
+4	Jahres	Jahr	_	NN	gen|sg|neut	2	GMOD	_	_
+5	2018	2018	_	CARD	_	4	ZEIT	_	_
+6	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+7	mehr	mehr	_	PIS	*|*|*	6	PRED	_	_
+8	als	als	_	KOKOM	_	7	KOM	_	_
+9	die	der	_	ART	nom|sg|fem	10	DET	_	_
+10	Hälfte	Hälfte	_	NN	nom|sg|fem	8	CJ	_	_
+11	aller	aller	_	PIAT	gen|pl|*	12	DET	_	_
+12	Zapf·säulen	Zapf·säule	_	NN	gen|pl|*	10	GMOD	_	_
+13	im	in	_	APPRART	dat|sg|masc	12	PP	_	_
+14	Saarland	Saarland	_	NE	dat|sg|masc	13	PN	_	_
+15	nicht	nicht	_	PTKNEG	_	16	ADV	_	_
+16	geeicht	geeicht	_	VVPP	_	6	AUX	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	wenn	wenn	_	KOUS	_	9	KONJ	_	_
+5	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+6	Zapf·säule	Zapf·säule	_	NN	nom|sg|fem	9	SUBJ	_	_
+7	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+8	geeicht	geeicht	_	ADJD	pos	9	ADV	_	_
+9	ist	sein	_	VAFIN	sg|3|pres|ind	2	NEB	_	_
+10	?	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	dann	dann	_	ADV	_	2	ADV	_	_
+4	vielleicht	vielleicht	_	ADV	_	2	ADV	_	_
+5	weniger	weniger	_	PIAT	*|*|*	6	DET	_	_
+6	Benzin	Benzin	_	NN	acc|sg|neut	0	S	_	_
+7	aus	aus	_	APPR	_	2	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	Säule	Säule	_	NN	dat|sg|fem	7	PN	_	_
+10	als	als	_	KOKOM	_	9	KOM	_	_
+11	angezeigt	anzeigen	_	VVPP	_	12	AUX	_	_
+12	wird	werden	_	VAFIN	sg|3|pres|ind	10	CJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Landes·rechnungshof	Landes·rechnungshof	_	NN	nom|sg|masc	3	OBJA	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Das	der	_	ART	nom|sg|neut	6	DET	_	_
+6	Land	Land	_	NN	nom|sg|neut	8	OBJA	_	_
+7	muss	muss	_	NE	nom|sg|*	6	APP	_	_
+8	sicher·stellen	sicher·stell	_	VVINF	_	3	S	_	_
+9	,	--	_	$,	_	0	ROOT	_	_
+10	dass	daß	_	KOUS	_	0	S	_	_
+11	Verbraucher	Verbraucher	_	NN	nom|pl|masc	0	S	_	_
+12	nicht	nicht	_	PTKNEG	_	13	ADV	_	_
+13	betrogen	betrügen	_	VVPP	_	14	AUX	_	_
+14	werden	werden	_	VAINF	_	8	KON	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	Waagen	Waagen	_	NN	nom|pl|fem	5	SUBJ	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Super·märkten	Super·markt	_	NN	dat|pl|masc	3	PN	_	_
+5	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+6	geeicht	geeicht	_	VVPP	pos	7	AUX	_	_
+7	sein	sein	_	VAINF	_	5	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	gleiche	gleich	_	ADJA	nom|sg|neut|pos	3	OBJD	_	_
+3	gilt	gelten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Gebühren·zähler	Gebühren·zähler	_	NN	acc|pl|masc	4	PN	_	_
+6	in	in	_	APPR	_	3	PRED	_	_
+7	Taxis	Taxi	_	NN	dat|sg|fem	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	heißen	heißen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Taxameter	Taxameter	_	NN	nom|pl|masc	2	PRED	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+

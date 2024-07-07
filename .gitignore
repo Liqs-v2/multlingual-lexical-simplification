@@ -11,5 +11,5 @@ __pycache__/
 # Personal Colab Setup
 colab_setup/
 
-# Keys
+# gpt key
 config.py

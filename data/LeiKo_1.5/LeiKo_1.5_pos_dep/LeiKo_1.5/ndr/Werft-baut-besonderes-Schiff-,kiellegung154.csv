@@ -1,0 +1,229 @@
+﻿1	Werft	Werft	_	NN	nom|sg|fem	2	SUBJ	_	_
+2	baut	bauen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	besonderes	besonderer	_	ADJA	acc|sg|neut|pos	4	ATTR	_	_
+4	Schiff	Schiff	_	NN	acc|sg|neut	2	OBJA	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Warnemünde	Warnemünde	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	besonderes	besonderer	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Fest	Fest	_	NN	nom|sg|neut	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warnemünde	Warnemünde	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Stadt·teil	Stadt·teil	_	NN	nom|sg|masc	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Rostock	Rostock	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Rostock	Rostock	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Fest	Fest	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	auf	auf	_	APPR	_	3	PP	_	_
+5	den	der	_	ART	acc|sg|masc	6	DET	_	_
+6	MV	MV	_	NE	acc|sg|masc	4	PN	_	_
+7	Werften	Werft	_	NN	acc|pl|fem	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	MV	MV	_	NE	nom|sg|fem	4	PRED	_	_
+3	Werften	Werft	_	NN	nom|pl|fem	2	APP	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	eine	ein	_	ART	nom|sg|fem	7	DET	_	_
+6	große	groß	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Firma	Firma	_	NN	nom|sg|fem	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	5	PP	_	_
+2	den	der	_	ART	acc|sg|masc	3	DET	_	_
+3	MV	MV	_	NE	acc|sg|masc	1	PN	_	_
+4	Werften	Werft	_	NN	nom|pl|fem	3	APP	_	_
+5	bauen	bauen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	Arbeiter	Arbeiter	_	NN	acc|pl|masc	5	PAR	_	_
+7	Schiffe	Schiff	_	NE	nom|sg|*	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Fest	Fest	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	ein	ein	_	ART	acc|sg|neut	7	DET	_	_
+6	neues	neu	_	ADJA	acc|sg|neut|pos	7	ATTR	_	_
+7	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	acc|sg|neut	4	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|masc	3	DET	_	_
+3	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	dat|sg|masc	1	PN	_	_
+4	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	Urlaub	Urlaub	_	NN	acc|sg|masc	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|masc	3	DET	_	_
+3	Urlaub	Urlaub	_	NN	dat|sg|masc	1	PN	_	_
+4	lernen	lernen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	9	OBJD	_	_
+7	viele	vieler	_	PIAT	nom|pl|masc	8	DET	_	_
+8	Orte	Ort	_	NN	nom|pl|masc	9	OBJA	_	_
+9	kennen	kennen	_	VVFIN	pl|3|pres|ind	4	KON	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	nom|sg|masc	3	OBJA	_	_
+3	hält	halten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+5	in	in	_	APPR	_	3	PP	_	_
+6	vielen	vieler	_	PIAT	dat|pl|masc	7	DET	_	_
+7	Orten	Ort	_	NN	dat|pl|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Dienstag	Dienstag	_	NN	dat|sg|masc	1	PN	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	11	ADV	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Bau	Bau	_	NN	nom|sg|masc	11	OBJG	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	diesem	dieser	_	PDAT	dat|sg|masc	10	DET	_	_
+9	neuen	neu	_	ADJA	dat|sg|masc|pos	10	ATTR	_	_
+10	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	dat|sg|masc	7	PN	_	_
+11	begonnen	beginnen	_	VVPP	_	3	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Platz	Platz	_	NN	acc|sg|masc	0	S	_	_
+2	für	für	_	APPR	_	1	PP	_	_
+3	9500	9500	_	CARD	_	4	ATTR	_	_
+4	Urlauber	Urlauber	_	NN	acc|pl|masc	2	PN	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Sprecher	Sprecher	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|*	5	DET	_	_
+5	MV	MV	_	NE	dat|pl|*	3	PN	_	_
+6	Werften	Werft	_	NN	dat|pl|fem	5	APP	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Viele	vieler	_	PIAT	nom|pl|masc	11	DET	_	_
+11	Arbeiter	Arbeiter	_	NN	nom|pl|masc	12	SUBJ	_	_
+12	arbeiten	arbeiten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+13	an	an	_	APPR	_	12	PP	_	_
+14	dem	der	_	ART	dat|sg|masc	15	DET	_	_
+15	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	dat|sg|masc	13	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einige	einiger	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Arbeiter	Arbeiter	_	NN	nom|pl|masc	3	OBJA	_	_
+3	bauen	bauen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	einen	ein	_	ART	acc|sg|masc	6	DET	_	_
+5	großen	groß	_	ADJA	acc|sg|masc|pos	6	ATTR	_	_
+6	Teil	Teil	_	NN	acc|sg|masc	3	OBJA	_	_
+7	von	von	_	APPR	_	3	PP	_	_
+8	dem	der	_	ART	dat|sg|masc	9	DET	_	_
+9	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	dat|sg|masc	7	PN	_	_
+10	in	in	_	APPR	_	9	PP	_	_
+11	Warnemünde	Warnemünde	_	NE	dat|sg|neut	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	andere	anderer	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Arbeiter	Arbeiter	_	NN	nom|pl|masc	4	OBJA	_	_
+4	bauen	bauen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	einen	ein	_	ART	acc|sg|masc	7	DET	_	_
+6	anderen	anderer	_	ADJA	acc|sg|masc|pos	7	ATTR	_	_
+7	Teil	Teil	_	NN	acc|sg|masc	4	OBJA	_	_
+8	von	von	_	APPR	_	4	PP	_	_
+9	dem	der	_	ART	dat|sg|masc	10	DET	_	_
+10	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	dat|sg|masc	8	PN	_	_
+11	in	in	_	APPR	_	10	PP	_	_
+12	Wismar	Wismar	_	NE	dat|sg|neut	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wismar	wismar	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Stadt	Stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	2	2	_	CARD	_	6	ATTR	_	_
+6	Jahren	Jahr	_	NN	dat|pl|neut	4	PN	_	_
+7	fertig	fertig	_	ADJD	pos	3	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	nom|sg|neut	2	SUBJ	_	_
+5	nach	nach	_	APPR	_	2	PP	_	_
+6	Asien	Asien	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Sprecher	Sprecher	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|*	5	DET	_	_
+5	MV	MV	_	NE	dat|pl|*	3	PN	_	_
+6	Werften	Werft	_	NN	dat|pl|fem	5	APP	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	auch	auch	_	ADV	_	9	ADV	_	_
+9	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+11	Das	der	_	ART	nom|sg|neut	12	DET	_	_
+12	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	nom|sg|neut	13	PRED	_	_
+13	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+14	besonders	besonders	_	ADV	_	13	ADV	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	dat|sg|masc	1	PN	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	9	ADV	_	_
+6	9500	9500	_	CARD	_	7	ATTR	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	9	OBJA	_	_
+8	Urlaub	Urlaub	_	NN	acc|sg|masc	7	APP	_	_
+9	machen	machen	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	passen	passen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	kein	kein	_	PIAT	acc|sg|neut	8	DET	_	_
+7	anderes	anderer	_	ADJA	acc|sg|neut|pos	8	ATTR	_	_
+8	Kreuz·fahrt·schiff	Kreuz·fahrt·schiff	_	NN	acc|sg|neut	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	so	so	_	ADV	_	5	ADV	_	_
+3	ein	ein	_	ART	acc|sg|neut	5	DET	_	_
+4	großes	groß	_	ADJA	acc|sg|neut|pos	5	ATTR	_	_
+5	Schiff	Schiff	_	NN	acc|sg|neut	6	OBJA	_	_
+6	haben	haben	_	VAFIN	pl|1|pres|ind	1	CJ	_	_
+7	wir	wir	_	PPER	nom|pl|*|1	6	SUBJ	_	_
+8	noch	noch	_	ADV	_	9	ADV	_	_
+9	nie	nie	_	ADV	_	10	ADV	_	_
+10	gebaut	bauen	_	VVPP	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+

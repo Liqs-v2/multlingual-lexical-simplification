@@ -1,0 +1,847 @@
+1	Spieler	Spieler	_	NN	nom|*|*	0	S	_	_
+2	?	--	_	$.	_	0	ROOT	_	_
+
+1	Tore	Tor	_	NN	nom|sg|fem	0	S	_	_
+2	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	WM	WM	_	NN	nom|sg|fem	0	S	_	_
+3	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Überblick	Überblick	_	NN	dat|sg|masc	3	PN	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	laufen	laufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Spiel-Runden	Spiel-Runde	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	ab	ab	_	PTKVZ	_	2	AVZ	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	neu	neu	_	ADJD	pos	2	ADV	_	_
+4	bei	bei	_	APPR	_	2	PP	_	_
+5	dieser	dieser	_	PDAT	dat|sg|fem	6	DET	_	_
+6	WM	WM	_	NN	dat|sg|fem	4	PN	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	Chancen	Chance	_	NN	acc|pl|fem	3	OBJA	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Pokal	Pokal	_	NN	acc|sg|masc	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	WM	WM	_	NN	nom|sg|fem	0	S	_	_
+3	2018	2018	_	CARD	_	2	APP	_	_
+4	beginnt	beginnen	_	VVFIN	sg|3|pres|ind	2	REL	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	32	32	_	CARD	_	2	ATTR	_	_
+2	Mannschaften	Mannschaft	_	NN	nom|pl|fem	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Russland	Russland	_	NE	dat|sg|neut	4	PN	_	_
+6	dabei	dabei	_	PROAV	_	3	DET	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	64	64	_	CARD	_	2	ATTR	_	_
+2	Fußball-Spiele	Fußball-Spiel	_	NN	nom|pl|masc	3	PRED	_	_
+3	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	5	OBJA	_	_
+5	geben	geben	_	VVINF	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|fem	4	DET	_	_
+3	wichtigen	wichtig	_	ADJA	nom|pl|fem|pos	4	ATTR	_	_
+4	Fragen	Frage	_	NN	nom|pl|fem	5	PRED	_	_
+5	lauten	lauten	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+6	erstmal	erstmal	_	ADV	_	5	ADV	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Wie	wie	_	PWAV	_	9	ADV	_	_
+9	laufen	laufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+10	die	der	_	ART	nom|pl|fem	11	DET	_	_
+11	Spiel-Runden	Spiel-Runde	_	NN	nom|pl|fem	9	SUBJ	_	_
+12	ab	ab	_	PTKVZ	_	9	AVZ	_	_
+13	?	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	neu	neu	_	ADJD	pos	2	ADV	_	_
+4	bei	bei	_	APPR	_	2	PP	_	_
+5	dieser	dieser	_	PDAT	dat|sg|fem	6	DET	_	_
+6	WM	WM	_	NN	dat|sg|fem	4	PN	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	acc|pl|fem	2	DET	_	_
+2	Mannschaften	Mannschaft	_	NN	acc|pl|fem	3	OBJA	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Chancen	Chance	_	NN	nom|pl|fem	3	OBJA	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Pokal	Pokal	_	NN	acc|sg|masc	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	OBJA	_	_
+3	überrascht	überraschen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	vielleicht	vielleicht	_	ADV	_	3	ADV	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welcher	welcher	_	PWAT	nom|sg|masc	2	DET	_	_
+2	Spieler	Spieler	_	NN	nom|sg|masc	3	OBJA	_	_
+3	überrascht	überraschen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	vielleicht	vielleicht	_	ADV	_	3	ADV	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	laufen	laufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Spiel-Runden	Spiel-Runde	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	ab	ab	_	PTKVZ	_	2	AVZ	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	WM	WM	_	NN	dat|sg|fem	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	mehrere	mehrere	_	PIAT	acc|pl|fem	7	DET	_	_
+7	Spiel-Runden	Spiel-Runde	_	NN	acc|pl|fem	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|sg|fem	0	ROOT	_	_
+2	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Vorrunde	Vorrunde	_	NN	nom|sg|fem	0	S	_	_
+
+1	•	LI	_	XY	nom|sg|*	0	ROOT	_	_
+2	Und	und	_	KON	_	0	S	_	_
+3	die	der	_	ART	acc|pl|fem	4	DET	_	_
+4	K.O.-Runden	K.O.-Runde	_	NN	acc|pl|fem	2	CJ	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Vorrunde	Vorrunde	_	NN	dat|sg|fem	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	48	48	_	CARD	_	7	ATTR	_	_
+7	Spiele	Spiel	_	NN	acc|pl|masc	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Mannschaften	Mannschaft	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	7	PP	_	_
+5	8	8	_	CARD	_	6	ATTR	_	_
+6	Gruppen	Gruppe	_	NN	dat|pl|fem	4	PN	_	_
+7	aufgeteilt	aufteilen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	jeder	jeder	_	PIAT	dat|sg|fem	3	DET	_	_
+3	Gruppe	Gruppe	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	4	4	_	CARD	_	6	ATTR	_	_
+6	Mannschaften	Mannschaft	_	NN	nom|pl|fem	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	7	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	in	in	_	APPR	_	4	PRED	_	_
+8	einer	ein	_	ART	dat|sg|fem	9	DET	_	_
+9	Gruppe	Gruppe	_	NN	dat|sg|fem	7	PN	_	_
+10	mit	mit	_	PTKVZ	_	4	AVZ	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+12	Mexiko	Mexiko	_	NE	dat|sg|neut	0	S	_	_
+13	,	--	_	$,	_	0	ROOT	_	_
+14	Schweden	Schweden	_	NE	dat|sg|neut	12	KON	_	_
+15	und	und	_	KON	_	14	KON	_	_
+16	Südkorea	Südkorea	_	NE	dat|sg|neut	15	CJ	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Alle	aller	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Mannschaften	Mannschaft	_	NN	nom|pl|masc	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|fem	5	DET	_	_
+5	Gruppen	Gruppe	_	NN	dat|pl|fem	3	PN	_	_
+6	spielen	spielen	_	VVFIN	pl|3|pres|ind	2	NEB	_	_
+7	gegeneinander	gegeneinander	_	ADV	_	6	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|neut	4	DET	_	_
+2	besten	gut	_	ADJA	nom|pl|neut|sup	4	ATTR	_	_
+3	2	2	_	CARD	_	4	ATTR	_	_
+4	Mannschaften	Mannschaft	_	NN	acc|pl|fem	8	SUBJ	_	_
+5	aus	aus	_	APPR	_	4	PP	_	_
+6	jeder	jeder	_	PIAT	dat|sg|fem	7	DET	_	_
+7	Gruppe	Gruppe	_	NN	dat|sg|fem	5	PN	_	_
+8	kommen	kommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+9	dann	dann	_	ADV	_	8	ADV	_	_
+10	weiter	weiter	_	ADV	_	8	ADV	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	kommen	kommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	weiter	weiter	_	ADV	_	2	ADV	_	_
+4	in	in	_	APPR	_	2	PP	_	_
+5	die	der	_	ART	acc|pl|fem	6	DET	_	_
+6	K.O.-Runden	K.O.-Runde	_	NN	acc|pl|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	den	der	_	ART	dat|pl|masc	3	DET	_	_
+3	K.O.-Runden	K.O.-Runde	_	NN	dat|pl|masc	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	16	16	_	CARD	_	7	ATTR	_	_
+7	Spiele	Spiel	_	NN	acc|pl|masc	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wofür	wofür	_	PWAV	_	2	ADV	_	_
+2	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	K.O.	K.O	_	NE	nom|sg|*	2	SUBJ	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	K.O.	K.O	_	NE	nom|sg|*	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Abkürzung	Abkürzung	_	NN	nom|sg|fem	2	PRED	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	knock-out	knock-out	_	ADJD	pos	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Englisch	Englisch	_	NN	nom|sg|neut	2	PRED	_	_
+4	und	und	_	KON	_	2	KON	_	_
+5	heißt	heißen	_	VVFIN	sg|3|pres|ind	4	CJ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	außer	außer	_	APPR	_	2	PRED	_	_
+8	Gefecht	Gefecht	_	NN	dat|sg|fem	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	nach	nach	_	APPR	_	5	PP	_	_
+3	jedem	jeder	_	PIAT	dat|sg|masc	4	DET	_	_
+4	K.O.-Spiel	K.O.-Spiel	_	NN	dat|sg|masc	2	PN	_	_
+5	kommt	kommen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+6	nur	nur	_	ADV	_	8	ADV	_	_
+7	eine	ein	_	ART	nom|sg|fem	8	DET	_	_
+8	Mannschaft	Mannschaft	_	NN	nom|sg|fem	5	SUBJ	_	_
+9	weiter	weiter	_	PTKVZ	_	5	AVZ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nur	nur	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Gewinner-Mannschaft	Gewinner-Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	weiter	weiter	_	ADV	_	4	ADV	_	_
+6	in	in	_	APPR	_	4	PP	_	_
+7	die	der	_	ART	acc|sg|fem	9	DET	_	_
+8	nächste	nächster	_	ADJA	acc|sg|fem|pos	9	ATTR	_	_
+9	Runde	Runde	_	NN	acc|sg|fem	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Verlierer-Mannschaft	Verlierer-Mannschaft	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	scheidet	scheiden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	auf	auf	_	APPR	_	2	PP	_	_
+4	diese	dieser	_	PDAT	acc|sg|fem	5	DET	_	_
+5	Weise	Weise	_	NN	acc|sg|fem	3	PN	_	_
+6	immer	immer	_	ADV	_	7	ADV	_	_
+7	so	so	_	ADV	_	8	ADV	_	_
+8	weiter	weiter	_	ADJD	pos	2	ADV	_	_
+9	bis	bis	_	APPR	_	2	PP	_	_
+10	zum	zu	_	APPRART	dat|sg|masc	9	PN	_	_
+11	WM-Finale	WM-Finale	_	NN	dat|sg|masc	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bis	bis	_	APPR	_	7	PP	_	_
+2	dann	dann	_	ADV	_	1	PN	_	_
+3	am	an	_	APPRART	dat|sg|neut	7	PP	_	_
+4	Ende	Ende	_	NN	dat|sg|neut	3	PN	_	_
+5	der	der	_	ART	gen|pl|neut	6	DET	_	_
+6	WM-Gewinner	WM-Gewinner	_	NN	gen|pl|neut	4	GMOD	_	_
+7	feststeht	feststehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Problem	Problem	_	NN	nom|sg|neut	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	immer	immer	_	ADV	_	7	ADV	_	_
+7	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	am	an	_	APPRART	dat|sg|neut	7	PP	_	_
+9	Spiel-Ende	Spiel-Ende	_	NN	dat|sg|neut	8	PN	_	_
+10	ein	ein	_	ART	nom|sg|masc	12	DET	_	_
+11	eindeutiger	eindeutig	_	ADJA	nom|sg|masc|pos	12	ATTR	_	_
+12	Gewinner	Gewinner	_	NN	nom|sg|masc	9	GMOD	_	_
+13	fest	fest	_	PTKVZ	_	7	AVZ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Manchmal	manchmal	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|fem	4	DET	_	_
+4	Mannschaften	Mannschaft	_	NN	nom|pl|fem	2	SUBJ	_	_
+5	gleich	gleich	_	ADV	_	2	ADV	_	_
+6	viele	vieler	_	PIAT	nom|pl|fem	7	DET	_	_
+7	Tore	Tor	_	NN	nom|pl|fem	2	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	dann	dann	_	ADV	_	2	ADV	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Verlängerung	Verlängerung	_	NN	acc|sg|fem	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	6	ADV	_	_
+3	vielleicht	vielleicht	_	ADV	_	6	ADV	_	_
+4	noch	noch	_	ADV	_	6	ADV	_	_
+5	ein	ein	_	ART	acc|sg|neut	6	DET	_	_
+6	Elf-Meter-Schießen	Elf-Meter-Schießen	_	NN	acc|sg|neut	1	CJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bis	bis	_	KOUS	_	8	KONJ	_	_
+2	es	es	_	PPER	nom|sg|neut|3	8	SUBJ	_	_
+3	am	an	_	APPRART	dat|sg|neut	8	PP	_	_
+4	Ende	Ende	_	NN	dat|sg|neut	3	PN	_	_
+5	ein	ein	_	ART	nom|sg|neut	7	DET	_	_
+6	eindeutiges	eindeutig	_	ADJA	nom|sg|neut|pos	7	ATTR	_	_
+7	Ergebnis	Ergebnis	_	NN	nom|sg|neut	4	GMOD	_	_
+8	gibt	geben	_	VVFIN	sg|3|pres|ind	0	NEB	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	neu	neu	_	ADJD	pos	2	ADV	_	_
+4	an	an	_	APPR	_	2	PRED	_	_
+5	dieser	dieser	_	PDAT	dat|sg|fem	6	DET	_	_
+6	WM	WM	_	NN	dat|sg|fem	4	PN	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	dieser	dieser	_	PDAT	dat|sg|fem	3	DET	_	_
+3	WM	WM	_	NN	dat|sg|fem	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+7	ersten	erster	_	ADJA	dat|sg|neut|pos	8	ATTR	_	_
+8	Mal	Mal	_	NN	dat|sg|neut	6	PN	_	_
+9	den	der	_	ART	acc|sg|masc	10	DET	_	_
+10	Video-Beweis	Video-Beweis	_	NN	acc|sg|masc	4	OBJA	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Video-Beweis	Video-Beweis	_	NN	nom|sg|masc	2	PRED	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Oft	oft	_	ADV	_	2	ADV	_	_
+2	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	bei	bei	_	APPR	_	2	PP	_	_
+5	Fußball-Spielen	Fußball-Spiel	_	NN	dat|pl|neut	4	PN	_	_
+6	zu	zu	_	APPR	_	2	PP	_	_
+7	schwierigen	schwierig	_	ADJA	acc|pl|fem|pos	8	ATTR	_	_
+8	Situationen	Situation	_	NN	acc|pl|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+4	ganz	ganz	_	ADV	_	5	ADV	_	_
+5	sicher	sicher	_	ADJD	pos	2	ADV	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	War	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+8	der	der	_	ART	nom|sg|masc	9	DET	_	_
+9	Spieler	Spieler	_	NN	nom|sg|masc	7	ETH	_	_
+10	im	in	_	APPRART	dat|sg|neut	7	PRED	_	_
+11	Abseits	Abseits	_	NN	dat|sg|neut	10	PN	_	_
+12	?	--	_	$.	_	0	ROOT	_	_
+
+1	Hat	haben	_	VAFIN	sg|3|pres|ind	6	NEB	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Spieler	Spieler	_	NN	nom|sg|masc	6	OBJA2	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Hand	Hand	_	NN	acc|sg|fem	3	GMOD	_	_
+6	benutzt	benutzen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	entscheidet	entscheiden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Schiedsrichter	Schiedsrichter	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	was	was	_	PWS	nom|sg|neut	8	PRED	_	_
+7	passiert	passieren	_	VVPP	_	8	AUX	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	4	REL	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	welche	welcher	_	PWAT	acc|pl|fem	11	DET	_	_
+11	Folgen	Folge	_	NN	acc|pl|fem	13	OBJA	_	_
+12	das	der	_	PDS	acc|sg|neut	13	SUBJ	_	_
+13	hat	haben	_	VAFIN	sg|3|pres|ind	9	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Doch	doch	_	KON	_	0	S	_	_
+2	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+3	immer	immer	_	ADV	_	4	ADV	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Schiedsrichter	Schiedsrichter	_	NN	nom|sg|masc	4	SUBJ	_	_
+7	alles	alle	_	PIS	acc|sg|neut	4	OBJA	_	_
+8	im	in	_	APPRART	dat|sg|masc	7	PP	_	_
+9	Blick	Blick	_	NN	dat|sg|masc	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Video-Beweis	Video-Beweis	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	Fehl-Entscheidungen	Fehl-Entscheidung	_	NN	pos	5	OBJA	_	_
+5	verhindern	verhindern	_	VVINF	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dafür	dafür	_	PROAV	_	6	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Schiedsrichter	Schiedsrichter	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	mehrere	mehrere	_	PIAT	acc|pl|neut	6	DET	_	_
+6	Helfer	Helfer	_	NN	acc|pl|neut	2	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Helfer	Helfer	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	schauen	schauen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|pl|3	3	OBJA	_	_
+5	die	der	_	ART	nom|sg|fem	7	DET	_	_
+6	schwierige	schwierig	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Situation	Situation	_	NN	nom|sg|fem	3	SUBJ	_	_
+8	im	in	_	APPRART	dat|sg|neut	7	PP	_	_
+9	Video	Video	_	NN	dat|sg|neut	8	PN	_	_
+10	noch	noch	_	ADV	_	11	ADV	_	_
+11	mal	mal	_	ADV	_	3	ADV	_	_
+12	an	an	_	PTKVZ	_	3	AVZ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	dem	der	_	ART	dat|sg|masc	5	DET	_	_
+5	Schiedsrichter	Schiedsrichter	_	NN	dat|sg|masc	3	OBJD	_	_
+6	dann	dann	_	ADV	_	3	ADV	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	wie	wie	_	PWAV	_	10	ADV	_	_
+9	er	er	_	PPER	nom|sg|masc|3	11	SUBJ	_	_
+10	entscheiden	entscheiden	_	VVINF	_	11	AUX	_	_
+11	soll	sollen	_	VMFIN	sg|3|pres|ind	3	OBJC	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Video-Beweis	Video-Beweis	_	NN	dat|sg|masc	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	viel	viel	_	PIAT	*|*|*	6	ATTR	_	_
+6	Kritik	Kritik	_	NN	acc|sg|fem	3	OBJA	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	5	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	diese	dieser	_	PDAT	acc|pl|neut	5	DET	_	_
+4	2	2	_	CARD	_	5	ATTR	_	_
+5	Kritik-Punkte	Kritik-Punkt	_	NN	acc|pl|masc	0	S	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Erste	erster	_	ADJA	nom|sg|fem|pos	2	ATTR	_	_
+2	Kritik	Kritik	_	NN	nom|sg|fem	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	oft	oft	_	ADV	_	8	ADV	_	_
+5	für	für	_	APPR	_	8	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Video-Beweis	Video-Beweis	_	NN	acc|sg|masc	5	PN	_	_
+8	unterbrochen	unterbrechen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einige	einiger	_	PIAT	acc|pl|fem	2	DET	_	_
+2	Minuten	Minute	_	NN	acc|pl|fem	3	ZEIT	_	_
+3	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	ETH	_	_
+6	dann	dann	_	ADV	_	3	ADV	_	_
+7	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+8	weiter	weiter	_	PTKVZ	_	3	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dieser	dieser	_	PDAT	dat|sg|fem	3	DET	_	_
+3	Zeit	Zeit	_	NN	dat|sg|fem	1	PN	_	_
+4	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	das	der	_	ART	nom|sg|neut	6	DET	_	_
+6	Video	Video	_	NN	nom|sg|neut	4	SUBJ	_	_
+7	ausgewertet	auswerten	_	VVPP	_	4	AUX	_	_
+8	und	und	_	KON	_	7	KON	_	_
+9	eine	ein	_	ART	acc|sg|fem	10	DET	_	_
+10	Entscheidung	Entscheidung	_	NN	acc|sg|fem	8	NP2	_	_
+11	getroffen	treffen	_	VVPP	_	8	CJ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	stört	stören	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	Spiel-Fluss	Spiel-Fluss	_	NN	acc|sg|masc	2	PAR	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	WM	WM	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	deshalb	deshalb	_	PROAV	_	7	DET	_	_
+6	mehr	mehr	_	PIAT	*|*|*	7	DET	_	_
+7	Helfer	Helfer	_	NN	nom|pl|masc	4	PRED	_	_
+8	als	als	_	KOKOM	_	7	KOM	_	_
+9	sonst	sonst	_	ADV	_	13	ADV	_	_
+10	für	für	_	APPR	_	13	OBJP	_	_
+11	den	der	_	ART	acc|sg|masc	12	DET	_	_
+12	Video-Beweis	Video-Beweis	_	NN	acc|sg|masc	10	PN	_	_
+13	zuständig	zuständig	_	ADJD	pos	8	CJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Entscheidung	Entscheidung	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	schneller	schnell	_	ADJD	comp	6	ADV	_	_
+6	gefällt	fällen	_	VVPP	_	7	AUX	_	_
+7	werden	werden	_	VAINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zweite	zweit	_	ADJA	acc|sg|fem|pos	2	ATTR	_	_
+2	Kritik	Kritik	_	NN	acc|sg|fem	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Zuschauer	Zuschauer	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	im	in	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Stadion	Stadion	_	NN	dat|sg|neut	3	PN	_	_
+5	bekommen	bekommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	oft	oft	_	ADV	_	5	ADV	_	_
+7	zu	zu	_	PTKA	_	9	ADV	_	_
+8	wenige	weniger	_	PIAT	nom|pl|masc	9	DET	_	_
+9	Infos	Infos	_	NN	nom|pl|masc	5	SUBJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	wissen	wissen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	oft	oft	_	ADV	_	2	ADV	_	_
+4	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Was	was	_	PWS	acc|sg|neut	7	SUBJ	_	_
+7	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	der	der	_	ART	nom|sg|masc	9	DET	_	_
+9	Video-Beweis	Video-Beweis	_	NN	nom|sg|masc	7	SUBJ	_	_
+10	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|sg|fem	3	DET	_	_
+2	neuen	neu	_	ADJA	gen|sg|neut|pos	3	ATTR	_	_
+3	Infos	Infos	_	NN	gen|sg|neut	4	OBJA	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Schiedsrichter	Schiedsrichter	_	NN	nom|sg|masc	4	OBJA	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	acc|sg|neut	2	OBJA	_	_
+2	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	ihm	ihm	_	PPER	dat|sg|masc|3	2	OBJD	_	_
+4	seine	sein	_	PPOSAT	nom|pl|masc	5	DET	_	_
+5	Helfer	Helfer	_	NN	nom|pl|masc	2	OBJA	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	WM	WM	_	NE	dat|sg|fem	1	PN	_	_
+4	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	deshalb	deshalb	_	PROAV	_	6	DET	_	_
+6	Infos	Info	_	NN	nom|pl|neut	9	OBJA	_	_
+7	auf	auf	_	APPR	_	9	PP	_	_
+8	Stadion-Bildschirmen	Stadion-Bildschirma	_	NN	acc|pl|fem	7	PN	_	_
+9	eingeblendet	einblenden	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Zuschauer	Zuschauer	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sehen	sehen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	auf	auf	_	APPR	_	3	PP	_	_
+5	den	der	_	ART	dat|pl|masc	6	DET	_	_
+6	Bildschirmen	Bildschirma	_	NN	dat|pl|masc	4	PN	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	1.	1	_	CARD	_	3	ADV	_	_
+9	Eine	ein	_	ART	acc|sg|fem	10	DET	_	_
+10	Video-Wiederholung	Video-Wiederholung	_	NN	acc|sg|fem	3	OBJA	_	_
+11	von	von	_	APPR	_	10	PP	_	_
+12	entscheidenden	entscheidend	_	ADJA	dat|pl|masc|pos	13	ATTR	_	_
+13	Szenen	Szene	_	NN	dat|pl|masc	11	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	2.	2	_	CARD	_	7	SUBJ	_	_
+2	Welche	welcher	_	PWAT	nom|pl|masc	3	DET	_	_
+3	Infos	Infos	_	NN	nom|pl|masc	7	OBJA	_	_
+4	der	der	_	ART	gen|pl|masc	5	DET	_	_
+5	Schiedsrichter	Schiedsrichter	_	NN	gen|pl|masc	7	OBJA	_	_
+6	gerade	gerade	_	ADV	_	7	ADV	_	_
+7	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	OBJA	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	Chancen	Chance	_	NN	acc|pl|fem	3	OBJA	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Pokal	Pokal	_	NN	acc|sg|masc	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	könnte	können	_	VMFIN	sg|3|past|subj	0	S	_	_
+3	diesmal	diesmal	_	ADV	_	6	ADV	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Pokal	Pokal	_	NN	acc|sg|masc	6	ADV	_	_
+6	gewinnen	gewinnen	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Land	Land	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+5	starke	stark	_	ADJA	acc|sg|fem|pos	6	ATTR	_	_
+6	Mannschaft	Mannschaft	_	NN	acc|sg|fem	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	0	S	_	_
+2	vielen	vieler	_	PIAT	dat|pl|masc	6	DET	_	_
+3	jungen	jung	_	ADJA	dat|pl|masc|pos	6	ATTR	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	begabten	begabt	_	ADJA	dat|pl|masc|pos	6	ATTR	_	_
+6	Angreifern	Angreifer	_	NN	dat|pl|masc	1	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	Spanien	Spanien	_	NE	nom|sg|neut	5	SUBJ	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Brasilien	Brasilien	_	NE	nom|sg|neut	3	CJ	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	gute	gut	_	ADJA	nom|pl|fem|pos	7	ATTR	_	_
+7	Chancen	Chance	_	NN	nom|pl|fem	5	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	auch	auch	_	ADV	_	3	ADV	_	_
+3	Deutschland	Deutschland	_	NE	nom|sg|neut	4	SUBJ	_	_
+4	könnte	können	_	VMFIN	sg|3|past|subj	1	CJ	_	_
+5	wieder	wieder	_	ADV	_	7	ADV	_	_
+6	Weltmeister	Weltmeister	_	NN	nom|sg|masc	7	PRED	_	_
+7	werden	werden	_	VAINF	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Obwohl	obwohl	_	KOUS	_	11	KONJ	_	_
+2	die	der	_	ART	nom|pl|fem	5	DET	_	_
+3	letzten	letzter	_	ADJA	nom|pl|fem|pos	5	ATTR	_	_
+4	deutschen	deutsch	_	ADJA	gen|pl|masc|pos	5	ATTR	_	_
+5	Spiele	Spiel	_	NN	gen|pl|masc	11	SUBJ	_	_
+6	vor	vor	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	WM	WM	_	NN	dat|sg|fem	6	PN	_	_
+9	nicht	nicht	_	PTKNEG	_	11	ADV	_	_
+10	gut	gut	_	ADJD	pos	11	ADV	_	_
+11	waren	sein	_	VAFIN	pl|3|past|ind	0	NEB	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	4	DET	_	_
+3	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+4	Mannschaft	Mannschaft	_	NN	nom|sg|fem	5	PRED	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	dafür	dafür	_	PROAV	_	7	DET	_	_
+7	bekannt	bekannt	_	ADJD	pos	5	ADV	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	dass	dass	_	KOUS	_	15	KONJ	_	_
+10	sie	sie	_	PPER	nom|sg|fem|3	15	SUBJ	_	_
+11	erst	erst	_	ADV	_	12	ADV	_	_
+12	im	in	_	APPRART	dat|sg|masc	15	PP	_	_
+13	Wettbewerb	Wettbewerb	_	NN	dat|sg|masc	12	PN	_	_
+14	richtig	richtig	_	ADJD	pos	15	ADV	_	_
+15	loslegt	loslegen	_	VVFIN	_	5	SUBJC	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	OBJA	_	_
+3	überrascht	überraschen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	vielleicht	vielleicht	_	ADV	_	3	ADV	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|neut	2	DET	_	_
+2	Fans	Fan	_	NN	nom|pl|neut	3	OBJD	_	_
+3	glauben	glauben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Belgien	Belgien	_	NE	nom|sg|neut	6	SUBJ	_	_
+6	könnte	können	_	VMFIN	sg|3|past|subj	3	S	_	_
+7	bei	bei	_	APPR	_	10	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	WM	WM	_	NN	dat|sg|fem	7	PN	_	_
+10	überraschen	überraschen	_	VVINF	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Land	Land	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	könnte	können	_	VMFIN	sg|3|past|subj	0	S	_	_
+4	vielleicht	vielleicht	_	ADV	_	5	ADV	_	_
+5	gewinnen	gewinnen	_	VVINF	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	starke	stark	_	ADJA	acc|pl|masc|pos	6	ATTR	_	_
+6	Einzelspieler	Einzelspieler	_	NN	acc|pl|masc	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Fans	Fan	_	NN	nom|pl|*	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	schon	schon	_	ADV	_	5	ADV	_	_
+5	bei	bei	_	APPR	_	10	PP	_	_
+6	früheren	früh	_	ADJA	dat|pl|fem|comp	7	ATTR	_	_
+7	Turnieren	Turnier	_	NN	dat|pl|fem	5	PN	_	_
+8	an	an	_	APPR	_	10	OBJP	_	_
+9	Belgien	Belgien	_	NE	dat|sg|neut	8	PN	_	_
+10	geglaubt	glauben	_	VVPP	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bisher	bisher	_	ADV	_	2	ADV	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	10	OBJA	_	_
+4	die	der	_	ART	nom|sg|fem	6	DET	_	_
+5	belgische	belgisch	_	ADJA	nom|sg|fem|pos	6	ATTR	_	_
+6	Mannschaft	Mannschaft	_	NN	nom|sg|fem	10	ETH	_	_
+7	aber	aber	_	ADV	_	10	ADV	_	_
+8	nie	nie	_	ADV	_	10	ADV	_	_
+9	weit	weit	_	ADJD	pos	10	ADV	_	_
+10	geschafft	schaffen	_	VVPP	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Welcher	Welcher	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Spieler	Spieler	_	NN	nom|sg|masc	1	APP	_	_
+3	überrascht	überraschen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	vielleicht	vielleicht	_	ADV	_	3	ADV	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Mohamed	Mohamed	_	NE	nom|sg|masc	3	PRED	_	_
+2	Salah	Salah	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	Stürmer	Stürmer	_	NN	nom|sg|masc	3	PRED	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	der	der	_	ART	dat|sg|fem	8	DET	_	_
+7	ägyptischen	ägyptisch	_	ADJA	dat|sg|fem|pos	8	ATTR	_	_
+8	Mannschaft	Mannschaft	_	NN	dat|sg|fem	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	zuletzt	zuletzt	_	ADV	_	10	ADV	_	_
+4	in	in	_	APPR	_	10	PP	_	_
+5	der	der	_	ART	dat|sg|fem	7	DET	_	_
+6	englischen	englisch	_	ADJA	dat|sg|fem|pos	7	ATTR	_	_
+7	Liga	Liga	_	NN	dat|sg|fem	4	PN	_	_
+8	sehr	sehr	_	ADV	_	9	ADV	_	_
+9	stark	stark	_	ADJD	pos	10	ADV	_	_
+10	gespielt	spielen	_	VVPP	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	dort	dort	_	ADV	_	2	ADV	_	_
+4	beim	bei	_	APPRART	dat|sg|masc	2	PP	_	_
+5	Verein	Verein	_	NN	dat|sg|masc	4	PN	_	_
+6	FC	FC	_	NE	nom|sg|*	5	APP	_	_
+7	Liverpool	Liverpool	_	NE	nom|sg|*	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mohamed	Mohamed	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Salah	Salah	_	NE	nom|sg|masc	1	APP	_	_
+3	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	mehrfach	mehrfach	_	ADJD	pos	5	ADV	_	_
+5	geehrt	ehren	_	VVPP	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Spieler	Spieler	_	NN	nom|sg|masc	2	PRED	_	_
+4	der	der	_	ART	gen|sg|fem	5	DET	_	_
+5	Saison	Saison	_	NN	gen|sg|fem	2	PRED	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	England	England	_	NE	dat|sg|neut	6	PN	_	_
+8	und	und	_	KON	_	7	KON	_	_
+9	Fußballer	Fußballer	_	NN	*|sg|neut	8	CJ	_	_
+10	des	der	_	ART	gen|sg|neut	11	DET	_	_
+11	Jahres	Jahr	_	NN	gen|sg|neut	2	PRED	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	5	OBJA	_	_
+2	hatte	haben	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	ihm	ihm	_	PPER	dat|sg|masc|3	5	OBJD	_	_
+4	niemand	niemand	_	PIS	nom|sg|masc	5	ADV	_	_
+5	zugetraut	zutrauen	_	VVPP	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Seine	sein	_	PPOSAT	nom|sg|fem	3	DET	_	_
+2	ägyptische	ägyptisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+6	so	so	_	ADV	_	7	ADV	_	_
+7	stark	stark	_	ADJD	pos	4	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	Salah	Salah	_	NE	nom|sg|*	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+4	jetzt	jetzt	_	ADV	_	11	ADV	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	mit	mit	_	APPR	_	11	PP	_	_
+7	Ägypten	Ägypten	_	NE	dat|sg|neut	6	PN	_	_
+8	bei	bei	_	APPR	_	11	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	WM	WM	_	NN	dat|sg|fem	8	PN	_	_
+11	überraschen	überraschen	_	VVINF	_	3	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Foto	Foto	_	NN	nom|sg|neut	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	ihm	ihm	_	PPER	dat|sg|masc|3	5	PN	_	_
+7	:	--	_	$.	_	0	ROOT	_	_

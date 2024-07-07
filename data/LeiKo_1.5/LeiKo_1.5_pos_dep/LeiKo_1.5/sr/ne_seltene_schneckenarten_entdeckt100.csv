@@ -1,0 +1,108 @@
+﻿1	Seltene	seltener	_	ADJA	nom|pl|fem|pos	2	ATTR	_	_
+2	Schneckenarten	Schneckenarte	_	NN	nom|pl|fem	3	OBJA	_	_
+3	entdeckt	entdecken	_	VVFIN	sg|3|pres|ind	0	S	_	_
+
+1	60	60	_	CARD	_	2	ATTR	_	_
+2	Schnecken·forscher	Schnecken·forscher	_	NN	nom|pl|masc	3	ZEIT	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	Saarland	Saarland	_	NE	acc|sg|neut	6	OBJD	_	_
+6	besucht	besuchen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	an	an	_	APPR	_	10	PP	_	_
+4	mehreren	mehrere	_	PIAT	dat|pl|masc	5	DET	_	_
+5	Orten	Ort	_	NN	dat|pl|masc	3	PN	_	_
+6	im	in	_	APPRART	dat|sg|masc	5	PP	_	_
+7	Saarland	Saarland	_	NE	dat|sg|masc	6	PN	_	_
+8	nach	nach	_	APPR	_	10	OBJP	_	_
+9	Schnecken	Schneck	_	NN	dat|pl|masc	8	PN	_	_
+10	gesucht	suchen	_	VVPP	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	5	DET	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	6	OBJA	_	_
+4	viele	vieler	_	PIAT	acc|pl|fem	5	DET	_	_
+5	Arten	Art	_	NN	acc|pl|fem	6	OBJA	_	_
+6	gefunden	finden	_	VVPP	_	2	AUX	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	die	der	_	PRELS	acc|pl|fem	13	SUBJ	_	_
+9	es	es	_	PPER	nom|sg|neut|3	13	SUBJ	_	_
+10	nicht	nicht	_	PTKNEG	_	13	ADV	_	_
+11	so	so	_	ADV	_	12	ADV	_	_
+12	oft	oft	_	ADV	_	13	ADV	_	_
+13	gibt	geben	_	VVFIN	sg|3|pres|ind	5	REL	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	55	55	_	CARD	_	2	ZEIT	_	_
+2	verschiedene	verschieden	_	ADJA	nom|pl|masc|pos	5	SUBJ	_	_
+3	seltene	selten	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Arten	Art	_	NN	acc|pl|fem	2	GMOD	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	die	der	_	ART	nom|pl|masc	7	DET	_	_
+7	Schnecken·forscher	Schnecken·forsch	_	NN	nom|pl|masc	10	OBJA	_	_
+8	im	in	_	APPRART	dat|sg|neut	7	PP	_	_
+9	Saarland	Saarland	_	NE	dat|sg|neut	8	PN	_	_
+10	entdeckt	entdecken	_	VVPP	_	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Darunter	darunter	_	PROAV	_	2	DET	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	auch	auch	_	ADV	_	5	ADV	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	"Helle	"hell	_	NN	nom|sg|masc	2	SUBJ	_	_
+6	Schnegel"	Schnegel"	_	NE	nom|sg|masc	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	8	DET	_	_
+4	etwa	etwa	_	ADV	_	5	ADV	_	_
+5	drei	drei	_	CARD	_	6	ATTR	_	_
+6	Zentimeter	Zentimeter	_	NN	acc|pl|masc	7	GRAD	_	_
+7	lange	lange	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Nackt·schnecke	Nackt·schnecke	_	NN	acc|sg|fem	2	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	erstmals	erstmals	_	ADV	_	6	ADV	_	_
+4	im	in	_	APPRART	dat|sg|masc	6	PP	_	_
+5	Saarland	Saarland	_	NE	dat|sg|masc	4	PN	_	_
+6	gefunden	finden	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Vereinigung	Vereinigung	_	NN	nom|sg|fem	8	OBJA	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Schnecken·forschern	Schnecken·forscher	_	NN	dat|pl|neut	3	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Treffen	Treffen	_	NN	acc|sg|neut	5	SUBJ	_	_
+8	organisiert	organisieren	_	VVPP	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Vereinigung	Vereinigung	_	NN	nom|sg|fem	3	OBJD	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	seit	seit	_	APPR	_	3	PP	_	_
+6	150	150	_	CARD	_	7	ATTR	_	_
+7	Jahren	Jahr	_	NN	dat|pl|neut	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Treffen	Treffen	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	10	PP	_	_
+5	ersten	erster	_	ADJA	dat|sg|neut|pos	6	ATTR	_	_
+6	Mal	Mal	_	NN	dat|sg|neut	4	PN	_	_
+7	überhaupt	überhaupt	_	ADV	_	10	ADV	_	_
+8	im	in	_	APPRART	dat|sg|masc	10	PP	_	_
+9	Saarland	Saarland	_	NE	dat|sg|neut	8	PN	_	_
+10	stattgefunden	stattfinden	_	VVPP	_	3	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+

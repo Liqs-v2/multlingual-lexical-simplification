@@ -1,0 +1,387 @@
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	verliert	verlieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	gegen	gegen	_	APPR	_	2	PP	_	_
+4	Mexiko	Mexiko	_	NE	acc|sg|neut	3	PN	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	Deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	verliert	verlieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	das	der	_	ART	acc|sg|neut	7	DET	_	_
+6	erste	erster	_	ADJA	acc|sg|neut|pos	7	ATTR	_	_
+7	WM-Spiel	WM-Spiel	_	NN	acc|sg|neut	4	PAR	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexikos	Mexiko	_	NE	gen|sg|neut	3	OBJA	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	1	APP	_	_
+3	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	4	ADV	_	_
+2	alle	aller	_	PIAT	acc|pl|masc	4	DET	_	_
+3	wichtigen	wichtig	_	ADJA	acc|pl|masc|pos	4	ATTR	_	_
+4	Infos	Info	_	NN	acc|pl|masc	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Spiel	Spiel	_	NN	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Frust	Frust	_	NN	nom|sg|masc	7	SUBJ	_	_
+3	bei	bei	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	deutschen	deutsch	_	ADJA	dat|sg|fem|pos	6	ATTR	_	_
+6	Mannschaft	Mannschaft	_	NN	dat|sg|fem	3	PN	_	_
+7	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+8	groß	groß	_	ADJD	pos	7	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	verliert	verlieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	ihr	ihr	_	PPOSAT	acc|sg|neut	6	DET	_	_
+5	erstes	erster	_	ADJA	acc|sg|neut|pos	6	ATTR	_	_
+6	WM-Spiel	WM-Spiel	_	NN	acc|sg|neut	3	PAR	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	4	ADV	_	_
+2	alle	aller	_	PIAT	acc|pl|masc	4	DET	_	_
+3	wichtigen	wichtig	_	ADJA	acc|pl|masc|pos	4	ATTR	_	_
+4	Infos	Info	_	NN	acc|pl|masc	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Spiel	Spiel	_	NN	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	ging	gehen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	kein	kein	_	PIAT	nom|sg|masc	4	DET	_	_
+4	Tor	Tor	_	NN	nom|sg|masc	2	PAR	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexiko	Mexiko	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	1	1	_	CARD	_	4	ATTR	_	_
+4	Tor	Tor	_	NN	acc|sg|neut	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexiko	Mexiko	_	NE	nom|sg|neut	2	OBJA	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	lief	laufen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	ab	ab	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	OBJA	_	_
+4	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	acc|sg|neut	7	DET	_	_
+6	schwaches	schwach	_	ADJA	acc|sg|neut|pos	7	ATTR	_	_
+7	Spiel	Spiel	_	NN	acc|sg|neut	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vor	vor	_	APPR	_	3	PP	_	_
+2	allem	alle	_	PIS	dat|sg|neut	1	PN	_	_
+3	in	in	_	APPR	_	0	S	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	ersten	erster	_	ADJA	dat|sg|fem|pos	6	ATTR	_	_
+6	Halbzeit	Halbzeit	_	NN	dat|sg|fem	3	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	deutschen	deutsch	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|pl|masc	4	OBJA	_	_
+4	wirken	wirken	_	VVINF	_	5	AUX	_	_
+5	müde	müde	_	VAFIN	sg|3|pres|subj	0	S	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	laufen	laufen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	wenig	wenig	_	PIS	*|*|*	2	OBJA	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	langsam	langsam	_	ADJD	pos	2	ADV	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	deutschen	deutsch	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Stürmer	Stürmer	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	einige	einiger	_	PIAT	acc|pl|fem	6	DET	_	_
+6	Tor-Chancen	Tor-Chance	_	NN	acc|pl|fem	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Doch	doch	_	KON	_	0	S	_	_
+2	ihnen	ihnen	_	PPER	dat|pl|*|3	3	OBJD	_	_
+3	fehlt	fehlen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Wille	Wille	_	NN	nom|sg|masc	3	OBJD	_	_
+6	und	und	_	KON	_	3	KON	_	_
+7	die	der	_	ART	nom|sg|fem	8	DET	_	_
+8	Leidenschaft	Leidenschaft	_	NN	nom|sg|fem	6	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	schießen	schießen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	kein	kein	_	PIAT	acc|sg|neut	4	DET	_	_
+4	Tor	Tor	_	NN	acc|sg|neut	2	PAR	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexikos	Mexiko	_	NE	gen|sg|neut	3	PRED	_	_
+2	Spieler	Spieler	_	NN	nom|pl|masc	1	APP	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	jedoch	jedoch	_	ADV	_	3	ADV	_	_
+5	hellwach	hellwach	_	ADJD	pos	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexikos	Mexiko	_	NE	gen|sg|neut	3	SUBJ	_	_
+2	Spieler	Spieler	_	NN	nom|pl|masc	1	APP	_	_
+3	schießen	schießen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	wieder	wieder	_	ADV	_	3	ADV	_	_
+6	auf	auf	_	APPR	_	3	PP	_	_
+7	das	der	_	ART	acc|sg|neut	9	DET	_	_
+8	deutsche	deutsch	_	ADJA	acc|sg|neut|pos	9	ATTR	_	_
+9	Tor	Tor	_	NN	acc|sg|neut	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	deutschen	deutsch	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Verteidiger	Verteidiger	_	NN	nom|pl|masc	7	OBJA	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	viel	viel	_	PIS	*|*|*	7	OBJA	_	_
+6	zu	zu	_	PTKZU	_	7	PART	_	_
+7	tun	tun	_	VVINF	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	verhindern	verhindern	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	einige	einiger	_	PIAT	acc|pl|neut	4	DET	_	_
+4	Tore	Tor	_	NN	acc|pl|neut	2	OBJA	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Mexiko	Mexiko	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Doch	doch	_	KON	_	0	S	_	_
+2	immer	immer	_	ADV	_	3	ADV	_	_
+3	gelingt	gelingen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	das	der	_	PDS	nom|sg|neut	3	OBJA	_	_
+5	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexikos	Mexiko	_	NE	gen|sg|neut	5	SUBJ	_	_
+2	Stürmer	Stürmer	_	NE	nom|sg|masc	1	APP	_	_
+3	Hirving	Hirving	_	NE	nom|sg|masc	2	APP	_	_
+4	Lozano	Lozano	_	NE	nom|sg|masc	3	APP	_	_
+5	greift	greifen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	immer	immer	_	ADV	_	7	ADV	_	_
+7	wieder	wieder	_	ADV	_	5	ADV	_	_
+8	an	an	_	PTKVZ	_	5	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	Minute	Minute	_	NN	dat|sg|fem	1	PN	_	_
+3	35	35	_	CARD	_	2	APP	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	Hirving	Hirving	_	NE	nom|sg|masc	4	PRED	_	_
+6	Lozano	Lozano	_	NE	nom|sg|masc	5	APP	_	_
+7	dann	dann	_	ADV	_	8	ADV	_	_
+8	erfolgreich	erfolgreich	_	ADJD	pos	4	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	trifft	treffen	_	VVFIN	sg|3|pres|ind	3	CJ	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Torwart	Torwart	_	NN	nom|sg|masc	6	SUBJ	_	_
+4	Manuel	Manuel	_	NE	nom|sg|masc	3	APP	_	_
+5	Neuer	neuer	_	NE	nom|sg|masc	4	APP	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	keine	kein	_	PIAT	acc|sg|fem	8	DET	_	_
+8	Chance	Chance	_	NN	acc|sg|fem	6	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	Ball	Ball	_	NN	acc|sg|masc	6	OBJA	_	_
+5	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	halten	halten	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexikos	Mexiko	_	NE	gen|sg|neut	3	PRED	_	_
+2	Tor	Tor	_	NE	nom|sg|masc	1	APP	_	_
+3	bleibt	bleiben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	6	DET	_	_
+5	einzige	einzig	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Tor	Tor	_	NN	nom|sg|neut	3	PRED	_	_
+7	im	in	_	APPRART	dat|sg|masc	6	PP	_	_
+8	Spiel	Spiel	_	NN	dat|sg|masc	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexiko	Mexiko	_	NE	nom|sg|neut	8	ETH	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	Vorsprung	Vorsprung	_	NN	acc|sg|masc	8	OBJA	_	_
+5	bis	bis	_	APPR	_	8	PP	_	_
+6	zum	zu	_	APPRART	dat|sg|neut	5	PN	_	_
+7	Ende	Ende	_	NN	dat|sg|neut	6	PN	_	_
+8	halten	halten	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mexiko	Mexiko	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	verdient	verdienen	_	VVFIN	sg|3|pres|ind	2	REL	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Mexikos	Mexiko	_	NE	nom|sg|masc	2	ETH	_	_
+4	erster	erster	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Sieg	Sieg	_	NN	nom|sg|masc	2	PRED	_	_
+6	bei	bei	_	APPR	_	5	PP	_	_
+7	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+8	WM	WM	_	NN	dat|sg|fem	6	PN	_	_
+9	gegen	gegen	_	APPR	_	5	PP	_	_
+10	Deutschland	Deutschland	_	NE	acc|sg|neut	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	nom|sg|masc	0	ROOT	_	_
+2	Wer	wer	_	PWS	nom|sg|masc	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	6	DET	_	_
+5	wichtigste	wichtig	_	ADJA	nom|sg|masc|sup	6	ATTR	_	_
+6	Spieler	Spieler	_	NN	nom|sg|masc	3	PRED	_	_
+7	im	in	_	APPRART	dat|sg|masc	6	PP	_	_
+8	Spiel	Spiel	_	NN	dat|sg|masc	7	PN	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Natürlich	natürlich	_	ADV	_	2	ADV	_	_
+2	Hirving	Hirving	_	NE	nom|sg|masc	0	S	_	_
+3	Lozano	Lozano	_	NE	nom|sg|masc	2	APP	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	7	DET	_	_
+6	mexikanischen	mexikanisch	_	ADJA	dat|sg|fem|pos	7	ATTR	_	_
+7	Mannschaft	Mannschaft	_	NN	dat|sg|fem	4	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	schoss	schoss	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Tor	Tor	_	NN	acc|sg|neut	2	OBJA	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Mexiko	Mexiko	_	NE	acc|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	zeigte	zeigen	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	keine	kein	_	PIAT	acc|sg|fem	4	DET	_	_
+4	Angst	Angst	_	NN	acc|sg|fem	2	OBJA	_	_
+5	vor	vor	_	APPR	_	4	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	8	DET	_	_
+7	starken	stark	_	ADJA	dat|sg|masc|pos	8	ATTR	_	_
+8	Gegner	Gegner	_	NN	dat|sg|masc	5	PN	_	_
+9	Deutschland	Deutschland	_	NE	nom|sg|neut	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Foto	Foto	_	NN	nom|sg|neut	3	OBJA	_	_
+3	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	ihn	ihn	_	PPER	acc|sg|masc|3	3	OBJA	_	_
+5	nach	nach	_	APPR	_	3	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	7	DET	_	_
+7	Tor	Tor	_	NN	dat|sg|masc	5	PN	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	$.	_	0	ROOT	_	_
+2	Was	was	_	PWS	acc|sg|neut	3	OBJA	_	_
+3	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Mexikos	Mexiko	_	NE	nom|sg|masc	3	SUBJ	_	_
+5	Sieg	Sieg	_	NN	nom|sg|masc	4	APP	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	die	der	_	ART	acc|sg|fem	9	DET	_	_
+8	deutsche	deutsch	_	ADJA	acc|sg|fem|pos	9	ATTR	_	_
+9	Mannschaft	Mannschaft	_	NN	acc|sg|fem	6	PN	_	_
+10	?	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	vor	vor	_	APPR	_	7	PP	_	_
+5	dem	der	_	ART	dat|sg|neut	6	DET	_	_
+6	Spiel	Spiel	_	NN	dat|sg|neut	4	PN	_	_
+7	gedacht	denken	_	VVPP	_	3	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Mexiko	Mexiko	_	NE	nom|sg|neut	10	PRED	_	_
+10	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+11	ein	ein	_	ART	nom|sg|masc	13	DET	_	_
+12	leichter	leicht	_	ADJA	nom|sg|masc|pos	13	ATTR	_	_
+13	Gegner	Gegner	_	NN	nom|sg|masc	10	PRED	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	jeden	jeder	_	PIAT	acc|sg|masc	7	DET	_	_
+7	Fall	Fall	_	NN	acc|sg|masc	5	PN	_	_
+8	gegen	gegen	_	APPR	_	4	OBJP	_	_
+9	Mexiko	Mexiko	_	NE	acc|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	falsch	falsch	_	ADJD	pos	2	ADV	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	verloren	verlieren	_	VVPP	_	4	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bald	bald	_	ADV	_	2	ADV	_	_
+2	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Deutschland	Deutschland	_	NE	nom|sg|neut	2	OBJA	_	_
+4	gegen	gegen	_	APPR	_	2	PP	_	_
+5	Schweden	Schweden	_	NE	acc|sg|neut	4	PN	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Südkorea	Südkorea	_	NE	acc|sg|neut	6	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wenn	wenn	_	KOUS	_	7	KONJ	_	_
+2	Deutschland	Deutschland	_	NE	nom|sg|neut	7	OBJA	_	_
+3	dann	dann	_	ADV	_	7	ADV	_	_
+4	auch	auch	_	ADV	_	6	ADV	_	_
+5	so	so	_	ADV	_	6	ADV	_	_
+6	schwach	schwach	_	ADJD	pos	7	ADV	_	_
+7	spielt	spielen	_	VVFIN	sg|3|pres|ind	9	NEB	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+10	Schweden	Schweden	_	NE	acc|sg|neut	9	PRED	_	_
+11	und	und	_	KON	_	10	KON	_	_
+12	Südkorea	Südkorea	_	NE	acc|sg|neut	11	CJ	_	_
+13	zu	zu	_	APPR	_	9	PRED	_	_
+14	gefährlichen	gefährlich	_	ADJA	dat|pl|neut|pos	15	ATTR	_	_
+15	Gegnern	Gegner	_	NN	dat|pl|neut	13	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_

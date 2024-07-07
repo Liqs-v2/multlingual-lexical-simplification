@@ -1,0 +1,385 @@
+1	Politisch	politisch	_	ADJD	pos	2	ADV	_	_
+2	rechte	rechter	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Verlage	Verlag	_	NN	nom|pl|masc	0	S	_	_
+4	auf	auf	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	4	PN	_	_
+
+1	Auch	auch	_	ADV	_	4	ADV	_	_
+2	politisch	politisch	_	ADJD	pos	3	ADV	_	_
+3	rechte	rechter	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Verlage	Verlag	_	NN	nom|pl|masc	5	SUBJ	_	_
+5	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	auf	auf	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	6	PN	_	_
+9	in	in	_	APPR	_	8	PP	_	_
+10	Leipzig	Leipzig	_	NE	dat|sg|neut	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	3	ATTR	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	dagegen	dagegen	_	PROAV	_	4	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	%% Bild taz_A12 %%
+
+1	Vom	von	_	APPRART	dat|sg|masc	8	PP	_	_
+2	15.	15.	_	ADJA	nom|sg|masc|pos	1	PN	_	_
+3	bis	bis	_	APPR	_	8	PP	_	_
+4	zum	zu	_	APPRART	dat|sg|masc	3	PN	_	_
+5	18.	18.	_	ADJA	dat|sg|masc|pos	6	ATTR	_	_
+6	März	März	_	NN	dat|sg|masc	4	PN	_	_
+7	2018	2018	_	CARD	_	6	ZEIT	_	_
+8	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	die	der	_	ART	nom|sg|fem	10	DET	_	_
+10	Buch-Messe	Buchmesse	_	NN	nom|sg|fem	8	SUBJ	_	_
+11	in	in	_	APPR	_	8	PP	_	_
+12	Leipzig	Leipzig	_	NE	dat|sg|neut	11	PN	_	_
+13	statt	statt	_	PTKVZ	_	8	AVZ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Buch-Messe	Buchmesse	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Buch-Messe	Buchmesse	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+5	große	groß	_	ADJA	nom|sg|fem|pos	6	ATTR	_	_
+6	Veranstaltung	Veranstaltung	_	NN	nom|sg|fem	3	PRED	_	_
+7	zum	zu	_	APPRART	dat|sg|neut	6	PP	_	_
+8	Thema	Thema	_	NN	dat|sg|neut	7	PN	_	_
+9	Lesen	Lesen	_	NN	nom|sg|neut	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	neue	neu	_	ADJA	nom|pl|neut|pos	4	ATTR	_	_
+4	Bücher	Buch	_	NN	nom|pl|neut	2	SUBJ	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Zeitschriften	Zeitschrift	_	NN	acc|pl|fem	5	CJ	_	_
+7	vorgestellt	vorstellen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	viele	vieler	_	PIAT	acc|pl|*	5	DET	_	_
+5	Diskussionen	Diskussion	_	NN	acc|pl|fem	2	OBJA	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Buch-Lesungen	Buchlesung	_	NN	acc|pl|fem	6	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	4	ADV	_	_
+2	politisch	politisch	_	ADJD	pos	3	ADV	_	_
+3	rechte	rechter	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Verlage	Verlag	_	NN	nom|pl|masc	5	SUBJ	_	_
+5	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	auf	auf	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	6	PN	_	_
+9	in	in	_	APPR	_	8	PP	_	_
+10	Leipzig	Leipzig	_	NE	dat|sg|neut	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Verlag	Verlag	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Verlag	Verlag	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Bücher	Buch	_	NN	acc|pl|neut	3	OBJA	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Zeitschriften	Zeitschrift	_	NN	acc|pl|fem	5	CJ	_	_
+7	heraus	heraus	_	PTKVZ	_	3	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	rechte	rechter	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Verlage	Verlag	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	auf	auf	_	APPR	_	13	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	5	PN	_	_
+8	ihre	ihr	_	PPOSAT	acc|pl|fem	10	DET	_	_
+9	neuen	neu	_	ADJA	acc|sg|masc|pos	10	ATTR	_	_
+10	Bücher	Buch	_	NN	acc|sg|masc	13	OBJA	_	_
+11	und	und	_	KON	_	10	KON	_	_
+12	Zeitschriften	Zeitschrift	_	NN	acc|pl|fem	11	CJ	_	_
+13	vorstellen	vorstellen	_	VVINF	_	4	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	Diskussionen	Diskussion	_	NN	acc|pl|fem	7	OBJA	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Buch-Lesungen	Buchlesung	_	NN	acc|pl|fem	5	CJ	_	_
+7	anbieten	anbieten	_	VVINF	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	acc|sg|neut	2	OBJA	_	_
+2	planen	planen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	rechte	rechter	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Verlage	Verlag	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	für	für	_	APPR	_	2	PP	_	_
+6	die	der	_	ART	acc|pl|masc	7	DET	_	_
+7	Buch-Messe	Buchmesse	_	NN	acc|pl|masc	5	PN	_	_
+8	in	in	_	APPR	_	7	PP	_	_
+9	Leipzig	Leipzig	_	NE	dat|sg|neut	8	PN	_	_
+10	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	rechte	rechter	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Zeitschrift	Zeitschrift	_	NN	nom|sg|fem	7	SUBJ	_	_
+4	"	--		$(	nom|sg|fem|pos	0	ROOT	_	_
+5	Compact	Compact	_	NE	nom|sg|fem	3	APP	_	_
+6	"	--		$(	_	0	ROOT	_	_
+7	plant	planen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	zum	zu	_	APPRART	dat|sg|neut	7	PP	_	_
+9	Beispiel	Beispiel	_	NN	dat|sg|neut	8	PN	_	_
+10	eine	ein	_	ART	acc|sg|fem	11	DET	_	_
+11	Lesung	Lesung	_	NN	acc|sg|fem	7	OBJA	_	_
+12	mit	mit	_	APPR	_	11	PP	_	_
+13	dem	der	_	ART	dat|sg|masc	14	DET	_	_
+14	Autor	Autor	_	NN	dat|sg|masc	12	PN	_	_
+15	Akif	Akif	_	NE	nom|sg|masc	14	APP	_	_
+16	Pirinçci	Pirinçci	_	NE	nom|sg|masc	15	APP	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Pirinçci	Pirinçci	_	NE	nom|sg|*	2	OBJA	_	_
+2	spricht	sprechen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	so	so	_	ADV	_	2	ADV	_	_
+5	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Pi-rin-tschi	Pi-rin-tschi	_	NE	nom|sg|neut	0	S	_	_
+2	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|masc	2	PRED	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Akif	Akif	_	NE	nom|sg|masc	2	SUBJ	_	_
+4	Pirinçci	Pirinçci	_	NE	nom|sg|masc	3	APP	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Akif	Akif	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Pirinçci	Pirinçci	_	NE	nom|sg|masc	1	APP	_	_
+3	schreibt	schreiben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Bücher	Buch	_	NN	acc|pl|neut	3	OBJA	_	_
+5	und	und	_	KON	_	3	KON	_	_
+6	kommt	kommen	_	VVFIN	sg|3|pres|ind	5	CJ	_	_
+7	ursprünglich	ursprünglich	_	ADJD	pos	6	ADV	_	_
+8	aus	aus	_	APPR	_	6	PP	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Türkei	Türkei	_	NE	dat|sg|fem	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Akif	Akif	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Pirinçci	Pirinçci	_	NE	nom|sg|masc	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	gegen	gegen	_	APPR	_	8	PP	_	_
+5	Flüchtlinge	Flüchtling	_	NN	acc|pl|masc	4	PN	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Muslime	Muslim	_	NN	acc|pl|masc	6	CJ	_	_
+8	gehetzt	hetzen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dafür	dafür	_	PROAV	_	2	PP	_	_
+2	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+4	von	von	_	APPR	_	7	PP	_	_
+5	einem	ein	_	ART	dat|sg|masc	6	DET	_	_
+6	Gericht	Gericht	_	NN	dat|sg|masc	4	PN	_	_
+7	verurteilt	verurteilen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Foto	Foto	_	NN	nom|sg|neut	2	SUBJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Akif	Akif	_	NE	*|*|*	5	PN	_	_
+7	Pirinçci	Pirinçci	_	NE	dat|sg|neut	6	APP	_	_
+8	:	--	_	$.	_	0	ROOT	_	%% Bild taz_T2 %%
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	andere	anderer	_	ADJA	nom|pl|neut|pos	3	ATTR	_	_
+3	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|neut	11	SUBJ	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	Autoren	Autor	_	NN	nom|pl|masc	4	CJ	_	_
+6	von	von	_	APPR	_	3	PP	_	_
+7	rechten	rechter	_	ADJA	dat|pl|masc|pos	8	ATTR	_	_
+8	Verlagen	Verlag	_	NN	dat|pl|masc	6	PN	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	Zeitschriften	Zeitschrift	_	NN	dat|pl|fem	9	CJ	_	_
+11	hetzen	hetzen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+12	oft	oft	_	ADV	_	11	ADV	_	_
+13	gegen	gegen	_	APPR	_	11	PP	_	_
+14	Flüchtlinge	Flüchtling	_	NN	acc|pl|masc	13	PN	_	_
+15	und	und	_	KON	_	14	KON	_	_
+16	Muslime	Muslim	_	NN	acc|pl|masc	15	CJ	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	dagegen	dagegen	_	PROAV	_	3	PRED	_	_
+5	,	--	_	$(	_	0	ROOT	_	_
+6	dass	dass	_	KOUS	_	13	KONJ	_	_
+7	rechte	rechter	_	ADJA	nom|pl|masc|pos	8	ATTR	_	_
+8	Verlage	Verlag	_	NN	nom|pl|masc	13	SUBJ	_	_
+9	auf	auf	_	APPR	_	12	PP	_	_
+10	der	der	_	ART	dat|sg|fem	11	DET	_	_
+11	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	9	PN	_	_
+12	hetzen	hetzen	_	VVINF	_	13	AUX	_	_
+13	können	können	_	VMFIN	pl|3|pres|ind	3	OBJC	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	verbieten	verbieten	_	VVINF	_	3	AUX	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	dass	dass	_	KOUS	_	12	KONJ	_	_
+7	rechte	rechter	_	ADJA	nom|pl|masc|pos	8	ATTR	_	_
+8	Verlage	Verlag	_	NN	nom|pl|masc	12	SUBJ	_	_
+9	an	an	_	APPR	_	12	OBJP	_	_
+10	der	der	_	ART	dat|sg|fem	11	DET	_	_
+11	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	9	PN	_	_
+12	teilnehmen	teilnehmen	_	VVFIN	_	4	OBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Leitung	Leitung	_	NN	nom|sg|fem	7	SUBJ	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	4	PN	_	_
+7	sagt	sagen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Es	es	_	PPER	nom|sg|neut|3	10	SUBJ	_	_
+10	gibt	geben	_	VVFIN	sg|3|pres|ind	7	S	_	_
+11	Meinungs-Freiheit	Meinungsfreiheit	_	NN	acc|sg|fem	10	OBJA	_	_
+12	in	in	_	APPR	_	10	PP	_	_
+13	Deutschland	Deutschland	_	NE	dat|sg|neut	12	PN	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	rechte	rechter	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Verlage	Verlag	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	ihre	ihr	_	PPOSAT	acc|sg|fem	6	DET	_	_
+6	Meinung	Meinung	_	NN	acc|sg|fem	7	OBJA	_	_
+7	sagen	sagen	_	VVINF	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	gilt	gelten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	auf	auf	_	APPR	_	2	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Protest	Protest	_	NN	nom|sg|masc	0	S	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	anderen	anderer	_	ADJA	dat|pl|fem|pos	4	ATTR	_	_
+4	Verlagen	Verlag	_	NN	dat|pl|fem	2	PN	_	_
+
+1	Andere	anderer	_	ADJA	nom|pl|*|pos	2	ATTR	_	_
+2	Verlage	Verlag	_	NN	nom|pl|*	6	SUBJ	_	_
+3	auf	auf	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	3	PN	_	_
+6	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+7	nun	nun	_	ADV	_	6	ADV	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Wenn	wenn	_	KOUS	_	18	KONJ	_	_
+10	die	der	_	ART	nom|sg|fem	11	DET	_	_
+11	Leitung	Leitung	_	NN	nom|sg|fem	18	SUBJ	_	_
+12	von	von	_	APPR	_	11	PP	_	_
+13	der	der	_	ART	dat|sg|fem	14	DET	_	_
+14	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	12	PN	_	_
+15	in	in	_	APPR	_	14	PP	_	_
+16	Leipzig	Leipzig	_	NE	dat|sg|neut	15	PN	_	_
+17	nichts	nichts	_	PIS	*|*|neut	18	OBJA	_	_
+18	macht	machen	_	VVFIN	sg|3|pres|ind	21	NEB	_	_
+19	,	--	_	$,	_	0	ROOT	_	_
+20	dann	dann	_	ADV	_	21	ADV	_	_
+21	unternehmen	unternehmen	_	VVFIN	pl|1|pres|ind	6	S	_	_
+22	wir	wir	_	PPER	nom|pl|*|1	21	SUBJ	_	_
+23	selber	selber	_	ADV	_	22	ADV	_	_
+24	etwas	etwas	_	PIS	*|*|neut	21	OBJA	_	_
+25	gegen	gegen	_	APPR	_	21	PP	_	_
+26	die	der	_	ART	acc|pl|masc	28	DET	_	_
+27	rechten	rechter	_	ADJA	acc|pl|masc|pos	28	ATTR	_	_
+28	Verlage	Verlag	_	NN	acc|pl|masc	25	PN	_	_
+29	!	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|*	3	DET	_	_
+2	anderen	anderer	_	ADJA	nom|pl|*|pos	3	ATTR	_	_
+3	Verlage	Verlag	_	NN	nom|pl|*	4	SUBJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+6	Gruppe	Gruppe	_	NN	acc|sg|fem	7	OBJA	_	_
+7	gegründet	gründen	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Gruppe	Gruppe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	"	--	_	$(	acc|sg|fem	0	ROOT	_	_
+5	Verlage	Verlag	_	NN	acc|sg|fem	3	PRED	_	_
+6	gegen	gegen	_	APPR	_	5	PP	_	_
+7	Rechts	Rechts	_	NN	acc|sg|fem	6	PN	_	_
+8	"	--		$(	acc|sg|fem	0	ROOT	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Gruppe	Gruppe	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	bietet	bieten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	auf	auf	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	4	PN	_	_
+7	viele	vieler	_	PIAT	acc|pl|fem	8	DET	_	_
+8	Veranstaltungen	Veranstaltung	_	NN	acc|pl|fem	3	OBJA	_	_
+9	an	an	_	PTKVZ	_	3	AVZ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	Veranstaltungen	Veranstaltung	_	NN	acc|pl|fem	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Thema	Thema	_	NN	dat|sg|neut	4	PN	_	_
+6	Rassismus	Rassismus	_	NN	nom|sg|masc	5	APP	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Damit	damit	_	PROAV	_	2	PP	_	_
+2	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Gruppe	Gruppe	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Wir	wir	_	PPER	nom|pl|*|1	7	SUBJ	_	_
+7	sind	sein	_	VVFIN	pl|1|pres|ind	2	S	_	_
+8	gegen	gegen	_	APPR	_	7	PRED	_	_
+9	rechte	rechter	_	ADJA	nom|pl|masc|pos	10	ATTR	_	_
+10	Hetze	Hetze	_	NN	nom|pl|masc	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	gegen	gegen	_	APPR	_	2	PRED	_	_
+4	rechte	rechter	_	ADJA	acc|pl|masc|pos	5	ATTR	_	_
+5	Verlage	Verlag	_	NN	acc|pl|masc	3	PN	_	_
+6	auf	auf	_	APPR	_	5	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Buch-Messe	Buchmesse	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_

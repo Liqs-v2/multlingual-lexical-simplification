@@ -1,0 +1,585 @@
+﻿1	Sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+2	junge	jung	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|pl|masc	1	ETH	_	_
+4	besser	gut	_	ADJD	comp	1	ADV	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	WM	WM	_	NN	dat|sg|fem	1	PN	_	_
+4	2018	2018	_	CARD	_	3	APP	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	viel	viel	_	PIAT	*|*|*	8	ATTR	_	_
+8	Lob	Lob	_	NN	nom|sg|neut	5	OBJA	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	junge	jung	_	ADJA	acc|pl|fem|pos	11	ATTR	_	_
+11	Mannschaften	Mannschaft	_	NN	acc|pl|fem	9	PN	_	_
+12	wie	wie	_	KOKOM	_	11	KOM	_	_
+13	England	England	_	NE	acc|sg|neut	12	CJ	_	_
+14	und	und	_	KON	_	13	KON	_	_
+15	Frankreich	Frankreich	_	NE	acc|sg|neut	14	CJ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	spielen	spielen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+3	junge	jung	_	ADJA	nom|sg|masc|pos	4	ATTR	_	_
+4	Spieler	Spieler	_	NN	nom|sg|masc	2	OBJA	_	_
+5	wirklich	wirklich	_	ADJD	pos	2	ADV	_	_
+6	besser	gut	_	ADJD	comp	2	ADV	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Junge	jung	_	ADJA	nom|pl|masc|pos	2	ATTR	_	_
+2	Fußball-Spieler	Fußball-Spieler	_	NN	nom|pl|masc	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	toll	toll	_	ADJD	pos	3	ADV	_	_
+5	!	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	denken	denken	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	weniger	weniger	_	PIS	*|*|*	2	ADV	_	_
+4	über	über	_	APPR	_	2	OBJP	_	_
+5	das	der	_	ART	acc|sg|neut	6	DET	_	_
+6	Verlieren	verlieren	_	NN	acc|sg|neut	4	PN	_	_
+7	nach	nach	_	PTKVZ	_	2	AVZ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	ohne	ohne	_	APPR	_	2	PP	_	_
+4	Sorgen	Sorge	_	NN	acc|pl|fem	3	PN	_	_
+5	einfach	einfach	_	ADV	_	2	ADV	_	_
+6	drauflos	drauflos	_	ADJD	pos	2	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	schnell	schnell	_	ADJD	pos	2	ADV	_	_
+4	und	und	_	KON	_	2	KON	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	4	CJ	_	_
+6	viel	viel	_	PIAT	*|*|*	7	ATTR	_	_
+7	Ausdauer	Ausdauer	_	NN	acc|sg|masc	2	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kurz	kurz	_	ADJD	pos	2	ADV	_	_
+2	gesagt	sagen	_	VVPP	_	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Fußball	Fußball	_	NN	nom|sg|masc	3	OBJA	_	_
+3	liebt	lieben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Jugend	Jugend	_	NN	acc|sg|fem	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Spieler	Spieler	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+5	immer	immer	_	ADV	_	6	ADV	_	_
+6	jünger	jung	_	ADJD	comp	3	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	bei	bei	_	APPR	_	6	PP	_	_
+3	der	der	_	ART	dat|sg|fem	4	DET	_	_
+4	WM	WM	_	NN	dat|sg|fem	2	PN	_	_
+5	2018	2018	_	CARD	_	4	APP	_	_
+6	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	viel	viel	_	PIAT	*|*|*	9	ATTR	_	_
+9	Lob	Lob	_	NN	acc|sg|neut	6	OBJA	_	_
+10	für	für	_	APPR	_	9	PP	_	_
+11	die	der	_	ART	acc|pl|*	12	DET	_	_
+12	Mannschaften	Mannschaft	_	NN	acc|pl|*	10	PN	_	_
+13	mit	mit	_	APPR	_	12	PP	_	_
+14	jungen	jung	_	ADJA	dat|pl|masc|pos	15	ATTR	_	_
+15	Spielern	Spieler	_	NN	dat|pl|masc	13	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|fem	4	DET	_	_
+4	Mannschaften	Mannschaft	_	NN	nom|pl|fem	2	SUBJ	_	_
+5	jünger	jung	_	ADJD	comp	2	ADV	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	den	der	_	ART	dat|pl|neut	4	DET	_	_
+3	vergangenen	vergangen	_	ADJA	dat|pl|neut|pos	4	ATTR	_	_
+4	Jahren	Jahr	_	NN	dat|pl|neut	1	PN	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	sich	sich	_	PRF	acc|sg|3	9	OBJA	_	_
+7	der	der	_	ART	nom|sg|masc	8	DET	_	_
+8	Fußball-Sport	Fußball-Sport	_	NN	nom|sg|masc	5	SUBJ	_	_
+9	verändert	verändern	_	VVPP	_	5	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Anforderungen	Anforderung	_	NN	nom|pl|fem	6	OBJA	_	_
+3	an	an	_	APPR	_	2	PP	_	_
+4	die	der	_	ART	acc|pl|masc	5	DET	_	_
+5	Spieler	Spieler	_	NN	acc|pl|masc	3	PN	_	_
+6	steigen	steigen	_	VVINF	_	0	S	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Spieler	Spieler	_	NN	nom|pl|masc	6	OBJA	_	_
+3	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	immer	immer	_	ADV	_	6	ADV	_	_
+5	schneller	schnell	_	ADJD	comp	6	ADV	_	_
+6	spielen	spielen	_	VVINF	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	immer	immer	_	ADV	_	4	ADV	_	_
+4	mehr	mehr	_	ADV	_	5	ADV	_	_
+5	leisten	leisten	_	VVINF	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Spieler	Spieler	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	gehen	gehen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	schon	schon	_	ADV	_	2	ADV	_	_
+4	als	als	_	APPR	_	2	PP	_	_
+5	Kinder	Kind	_	NN	nom|pl|neut	4	PN	_	_
+6	auf	auf	_	APPR	_	2	PP	_	_
+7	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+8	Fußball-Schule	Fußball-Schule	_	NN	acc|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	neben	neben	_	APPR	_	2	PP	_	_
+5	dem	der	_	ART	dat|sg|masc	6	DET	_	_
+6	Schul-Unterricht	Schul-Unterricht	_	NN	dat|sg|masc	4	PN	_	_
+7	viel	viel	_	PIAT	*|*|*	8	ATTR	_	_
+8	Fußball-Training	Fußball-Training	_	NN	nom|sg|neut	2	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	3	DET	_	_
+2	jungen	jung	_	ADJA	nom|pl|fem	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|pl|masc	4	PN	_	_
+4	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	dann	dann	_	ADV	_	4	ADV	_	_
+6	schon	schon	_	ADV	_	7	ADV	_	_
+7	früh	früh	_	ADJD	pos	4	ADV	_	_
+8	in	in	_	APPR	_	4	PP	_	_
+9	großen	groß	_	ADJA	dat|pl|neut|pos	10	ATTR	_	_
+10	Vereinen	Verein	_	NN	dat|pl|neut	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	kommen	kommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	schneller	schnell	_	ADJD	comp	2	ADV	_	_
+4	in	in	_	APPR	_	2	PP	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	National-Mannschaft	National-Mannschaft	_	NN	acc|sg|fem	4	PN	_	_
+7	und	und	_	KON	_	2	KON	_	_
+8	spielen	spielen	_	VVFIN	pl|3|pres|ind	7	CJ	_	_
+9	bei	bei	_	APPR	_	8	PP	_	_
+10	der	der	_	ART	dat|sg|fem	11	DET	_	_
+11	Fußball-Welt-Meisterschaft	Fußball-Welt-Meisterschaft	_	NN	dat|sg|fem	9	PN	_	_
+12	mit	mit	_	PTKVZ	_	8	AVZ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+2	junge	jung	_	ADJA	nom|pl|fem|pos	3	ATTR	_	_
+3	Mannschaften	Mannschaft	_	NN	nom|pl|fem	1	ETH	_	_
+4	automatisch	automatisch	_	ADJD	pos	5	ADV	_	_
+5	besser	gut	_	ADJD	comp	1	ADV	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Junge	jung	_	ADJA	nom|pl|fem|pos	2	ATTR	_	_
+2	Mannschaften	Mannschaft	_	NN	nom|pl|fem	3	PRED	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+5	automatisch	automatisch	_	ADJD	pos	6	ADV	_	_
+6	besser	gut	_	ADJD	comp	3	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Fußball-Welt-Meisterschaft	Fußball-Welt-Meisterschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+3	2018	2018	_	CARD	_	2	APP	_	_
+4	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	das	der	_	PDS	nom|sg|neut	4	SUBJ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	5	ADV	_	_
+4	viele	vieler	_	PIAT	nom|pl|masc	5	DET	_	_
+5	Mannschaften	Mannschaft	_	NN	nom|pl|masc	2	OBJA	_	_
+6	mit	mit	_	APPR	_	2	PP	_	_
+7	älteren	alt	_	ADJA	dat|pl|masc|pos	8	ATTR	_	_
+8	Spielern	Spieler	_	NN	dat|pl|masc	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	PDS	nom|pl|*	3	OBJA	_	_
+3	spielen	spielen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	auch	auch	_	ADV	_	7	ADV	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	guten	gut	_	ADJA	acc|sg|masc|pos	7	ATTR	_	_
+7	Fußball	Fußball	_	NN	acc|sg|masc	3	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Junge	jung	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	alte	alt	_	ADJA	nom|pl|fem|pos	2	CJ	_	_
+4	Mannschaften	Mannschaft	_	NN	nom|pl|fem	5	SUBJ	_	_
+5	zeigen	zeigen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	gute	gut	_	ADJA	nom|pl|fem|pos	7	ATTR	_	_
+7	Leistungen	Leistung	_	NN	nom|pl|fem	5	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	OBJA	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	viele	vieler	_	PIAT	nom|pl|masc	7	DET	_	_
+6	junge	jung	_	ADJA	nom|pl|masc|pos	7	ATTR	_	_
+7	Spieler	Spieler	_	NN	nom|pl|masc	2	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ihr	ihr	_	PPOSAT	nom|sg|masc	3	DET	_	_
+2	jüngster	jung	_	ADJA	nom|sg|masc|sup	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|sg|masc	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	nur	nur	_	ADV	_	6	ADV	_	_
+6	19	19	_	CARD	_	7	ATTR	_	_
+7	Jahre	Jahr	_	NN	acc|pl|neut	8	GRAD	_	_
+8	alt	alt	_	ADJD	pos	4	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Kylian	Kylian	_	NE	*|*|*	2	PRED	_	_
+4	Mbappé	Mbappé	_	NE	*|*|*	2	PRED	_	_
+5	[	[	_	NE	nom|sg|*	2	PRED	_	_
+6	gesprochen	sprechen	_	VVPP	_	2	PRED	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Killian	Killian	_	NE	*|*|*	2	PRED	_	_
+9	Embapee	Embapee	_	NE	*|*|*	2	PRED	_	_
+10	]	]	_	NE	nom|sg|*	2	PRED	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	4	ADV	_	_
+4	schnell	schnell	_	ADJD	pos	2	ADV	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	geschickt	schicken	_	ADJD	pos	5	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	bei	bei	_	APPR	_	8	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	WM	WM	_	NE	dat|sg|fem	3	PN	_	_
+6	wichtige	wichtig	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Tore	Tor	_	NN	nom|sg|fem	8	VOK	_	_
+8	geschossen	schießen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	vielleicht	vielleicht	_	ADV	_	2	ADV	_	_
+4	Welt-Fußballer	Welt-Fußballer	_	NN	*|sg|neut	2	PRED	_	_
+5	des	der	_	ART	gen|sg|neut	6	DET	_	_
+6	Jahres	Jahr	_	NN	gen|sg|neut	4	GMOD	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frankreich	Frankreich	_	NE	nom|sg|neut	2	OBJA	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	acc|sg|neut|3	7	OBJA	_	_
+4	bis	bis	_	APPR	_	7	PP	_	_
+5	ins	in	_	APPRART	acc|sg|neut	4	PN	_	_
+6	Finale	Finale	_	NN	acc|sg|neut	5	PN	_	_
+7	geschafft	schaffen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+3	Dasselbe	Derselbe	_	PDS	nom|sg|neut	4	SUBJ	_	_
+4	gilt	gelten	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	aber	aber	_	ADV	_	4	ADV	_	_
+6	auch	auch	_	ADV	_	7	ADV	_	_
+7	für	für	_	APPR	_	4	PP	_	_
+8	ältere	alt	_	ADJA	acc|pl|fem|pos	9	ATTR	_	_
+9	Mannschaften	Mannschaft	_	NN	acc|pl|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Belgien	Belgien	_	NE	nom|sg|neut	2	OBJA	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	viele	vieler	_	PIAT	acc|pl|neut	7	DET	_	_
+6	ältere	alt	_	ADJA	nom|sg|masc|comp	7	ATTR	_	_
+7	Spieler	Spieler	_	NN	nom|sg|masc	2	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	älteste	alt	_	ADJA	nom|sg|masc|sup	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|sg|masc	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	32	32	_	CARD	_	6	ATTR	_	_
+6	Jahre	Jahr	_	NN	acc|pl|neut	7	GRAD	_	_
+7	alt	alt	_	ADJD	pos	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Spieler	Spieler	_	NN	nom|pl|masc	3	OBJA	_	_
+3	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	sehr	sehr	_	ADV	_	5	ADV	_	_
+5	ideenreich	ideenreich	_	ADJD	pos	3	ADV	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	geschickt	schicken	_	ADJD	pos	5	KON	_	_
+8	und	und	_	KON	_	7	KON	_	_
+9	schnell	schnell	_	ADJD	pos	8	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	spielen	spielen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	4	ADV	_	_
+4	gut	gut	_	ADJD	pos	2	ADV	_	_
+5	zusammen	zusammen	_	PTKVZ	_	2	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Belgien	Belgien	_	NE	nom|sg|neut	2	OBJA	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	acc|sg|neut|3	7	OBJA	_	_
+4	bis	bis	_	APPR	_	7	PP	_	_
+5	ins	in	_	APPRART	acc|sg|neut	4	PN	_	_
+6	Halb-Finale	Halb-Finale	_	NN	acc|sg|neut	5	PN	_	_
+7	geschafft	schaffen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wenn	wenn	_	KOUS	_	6	KONJ	_	_
+2	auch	auch	_	ADV	_	4	ADV	_	_
+3	ältere	alt	_	ADJA	nom|pl|fem|comp	4	ATTR	_	_
+4	Mannschaften	Mannschaft	_	NN	nom|pl|fem	6	OBJA	_	_
+5	gut	gut	_	ADJD	pos	6	ADV	_	_
+6	spielen	spielen	_	VVFIN	pl|3|pres|ind	9	NEB	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	dann	dann	_	ADV	_	9	ADV	_	_
+9	stellen	stellen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+10	sich	sich	_	PRF	acc|pl|3	9	OBJA	_	_
+11	diese	dieser	_	PDAT	nom|pl|*	12	DET	_	_
+12	Fragen	Frage	_	NN	nom|pl|*	9	OBJA	_	_
+13	:	--	_	$.	_	0	ROOT	_	_
+
+1	Ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Jugend-Wahn	Jugend-Wahn	_	NN	nom|sg|masc	1	PRED	_	_
+4	im	in	_	APPRART	dat|sg|neut	6	PP	_	_
+5	Fußball	Fußball	_	NN	dat|sg|neut	4	PN	_	_
+6	berechtigt	berechtigen	_	VVFIN	sg|3|pres|ind	3	REL	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Spielen	Spiel	_	NN	dat|pl|neut	0	S	_	_
+2	junge	jung	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|sg|masc	1	GMOD	_	_
+4	wirklich	wirklich	_	ADJD	pos	5	ADV	_	_
+5	besser	gut	_	ADJD	comp	1	ADV	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Mischung	Mischung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	macht's	macht's	_	VVFIN	sg|3|past|ind	0	S	_	_
+
+1	Unsere	unser	_	PPOSAT	nom|sg|fem	2	DET	_	_
+2	taz-Autorin	taz-autorin	_	NN	nom|sg|fem	3	OBJA	_	_
+3	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+6	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	auf	auf	_	APPR	_	6	PP	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Mischung	Mischung	_	NN	acc|sg|fem	7	PN	_	_
+10	an	an	_	PTKVZ	_	6	AVZ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Trainer	Trainer	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	muss	muss	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	alle	aller	_	PIAT	acc|pl|fem	5	DET	_	_
+5	Fähigkeiten	Fähigkeit	_	NN	acc|pl|fem	6	OBJA	_	_
+6	nutzen	nutzen	_	VVINF	_	3	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	die	der	_	ART	acc|sg|fem	2	DET	_	_
+2	Schnelligkeit	Schnelligkeit	_	NN	acc|sg|fem	18	DET	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Ausdauer	Ausdauer	_	NN	acc|sg|fem	3	CJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	jungen	jung	_	ADJA	dat|pl|masc|pos	7	ATTR	_	_
+7	Spielern	Spieler	_	NN	dat|pl|masc	5	PN	_	_
+8	und	und	_	KON	_	18	DET	_	_
+9	die	der	_	ART	acc|sg|fem	10	DET	_	_
+10	Erfahrung	Erfahrung	_	NN	acc|sg|fem	8	NP2	_	_
+11	,	--	_	$,	_	0	ROOT	_	_
+12	Gelassenheit	Gelassenheit	_	NN	nom|sg|fem	10	KON	_	_
+13	und	und	_	KON	_	12	KON	_	_
+14	Übersicht	Übersicht	_	NN	nom|sg|fem	13	CJ	_	_
+15	von	von	_	APPR	_	14	PP	_	_
+16	älteren	alt	_	ADJA	dat|pl|masc|pos	17	ATTR	_	_
+17	Spielern	Spieler	_	NN	dat|pl|masc	15	PN	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	3	DET	_	_
+2	gutes	gut	_	ADJA	nom|sg|neut|pos	3	ATTR	_	_
+3	Beispiel	Beispiel	_	NN	nom|sg|neut	5	PRED	_	_
+4	dafür	dafür	_	PROAV	_	3	DET	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	die	der	_	ART	nom|sg|fem	8	DET	_	_
+7	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	8	ATTR	_	_
+8	WM-Mannschaft	WM-Mannschaft	_	NN	nom|sg|fem	5	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	hatte	haben	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	bei	bei	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	WM	WM	_	NN	dat|sg|fem	3	PN	_	_
+6	ältere	alt	_	ADJA	nom|sg|masc|comp	7	ATTR	_	_
+7	Spieler	Spieler	_	NN	nom|sg|masc	2	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	Deutschland	Deutschland	_	NE	nom|sg|neut	3	SUBJ	_	_
+3	hatte	haben	_	VAFIN	sg|3|past|ind	1	CJ	_	_
+4	auch	auch	_	ADV	_	7	ADV	_	_
+5	viele	vieler	_	PIAT	acc|pl|masc	7	DET	_	_
+6	junge	jung	_	ADJA	acc|pl|masc|pos	7	ATTR	_	_
+7	Spieler	Spieler	_	NN	acc|pl|masc	3	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Spieler	Spieler	_	NN	nom|pl|masc	3	PRED	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	unter	unter	_	ADV	_	5	ADV	_	_
+5	25	25	_	CARD	_	6	ATTR	_	_
+6	Jahre	Jahr	_	NN	acc|pl|neut	7	GRAD	_	_
+7	alt	alt	_	ADJD	pos	3	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Trotzdem	trotzdem	_	PROAV	_	2	DET	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	5	DET	_	_
+4	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Mannschaft	Mannschaft	_	NN	nom|sg|fem	7	OBJA	_	_
+6	früh	früh	_	ADJD	pos	7	ADV	_	_
+7	ausgeschieden	ausscheiden	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	sogar	sogar	_	ADV	_	4	ADV	_	_
+4	gegen	gegen	_	APPR	_	7	PP	_	_
+5	ältere	alt	_	ADJA	acc|pl|masc|comp	6	ATTR	_	_
+6	Mannschaften	Mannschaft	_	NN	acc|pl|masc	4	PN	_	_
+7	verloren	verlieren	_	VVPP	_	2	AUX	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	zum	zu	_	APPRART	dat|sg|neut	11	PP	_	_
+10	Beispiel	Beispiel	_	NN	dat|sg|neut	9	PN	_	_
+11	gegen	gegen	_	APPR	_	4	KON	_	_
+12	Mexiko	Mexiko	_	NE	acc|sg|neut	11	PN	_	_
+13	und	und	_	KON	_	12	KON	_	_
+14	Südkorea	Südkorea	_	NE	acc|sg|neut	13	CJ	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	5	DET	_	_
+4	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Mannschaft	Mannschaft	_	NN	nom|sg|fem	2	SUBJ	_	_
+6	verloren	verlieren	_	VVPP	_	2	AUX	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Trainer	Trainer	_	NN	nom|sg|masc	4	SUBJ	_	_
+2	Jogi	Jogi	_	NE	nom|sg|masc	1	APP	_	_
+3	Löw	Löw	_	NE	nom|sg|masc	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	acc|pl|fem	6	DET	_	_
+6	Fähigkeiten	Fähigkeit	_	NN	acc|pl|fem	13	OBJA	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Jung	Jung	_	NN	dat|sg|fem	7	PN	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	Alt	Alt	_	NN	dat|sg|fem	9	CJ	_	_
+11	schlecht	schlecht	_	ADJD	pos	13	ADV	_	_
+12	miteinander	miteinander	_	ADV	_	13	ADV	_	_
+13	verbunden	verbinden	_	VVPP	_	4	AUX	_	_
+14	:	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Können	können	_	NN	acc|sg|neut	2	OBJA	_	_
+5	der	der	_	ART	gen|pl|masc	7	DET	_	_
+6	älteren	alt	_	ADJA	gen|pl|masc|comp	7	ATTR	_	_
+7	Spieler	Spieler	_	NN	gen|pl|masc	4	GMOD	_	_
+8	kaum	kaum	_	ADV	_	2	ADV	_	_
+9	angepasst	angepasst	_	ADV	_	2	ADV	_	_
+10	an	an	_	APPR	_	2	PP	_	_
+11	das	der	_	ART	acc|sg|neut	12	DET	_	_
+12	Tempo	Tempo	_	NN	acc|sg|neut	10	PN	_	_
+13	der	der	_	ART	gen|sg|fem	15	DET	_	_
+14	jüngeren	junge	_	ADJA	gen|pl|masc|comp	15	ATTR	_	_
+15	Spieler	Spieler	_	NN	gen|pl|masc	12	GMOD	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	gerade	gerade	_	ADV	_	4	ADV	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Tempo	Tempo	_	NN	nom|sg|neut	5	SUBJ	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	in	in	_	APPR	_	11	PP	_	_
+7	den	der	_	ART	dat|pl|neut	9	DET	_	_
+8	deutschen	deutsch	_	ADJA	dat|pl|neut|pos	9	ATTR	_	_
+9	Spielen	Spiel	_	NN	dat|pl|neut	6	PN	_	_
+10	oft	oft	_	ADV	_	11	ADV	_	_
+11	gefehlt	fehlen	_	VVPP	_	5	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	jungen	jung	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|pl|masc	4	OBJA	_	_
+4	fanden	finden	_	VVFIN	pl|3|past|ind	0	S	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	dass	dass	_	KOUS	_	12	KONJ	_	_
+7	ihre	ihr	_	PPOSAT	acc|pl|fem	8	DET	_	_
+8	Fähigkeiten	Fähigkeit	_	NN	acc|pl|fem	12	SUBJ	_	_
+9	zu	zu	_	PTKA	_	10	ADV	_	_
+10	wenig	wenig	_	ADV	_	11	ADV	_	_
+11	beachtet	beachten	_	VVPP	_	12	AUX	_	_
+12	wurden	werden	_	VAFIN	pl|3|past|ind	4	OBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dass	dass	_	KOUS	_	10	KONJ	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	10	SUBJ	_	_
+4	zu	zu	_	PTKZU	_	5	DET	_	_
+5	selten	selten	_	ADJD	pos	9	ADV	_	_
+6	auf	auf	_	APPR	_	9	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Feld	Feld	_	NN	dat|sg|neut	6	PN	_	_
+9	eingesetzt	einsetzen	_	VVPP	_	10	AUX	_	_
+10	wurden	werden	_	VAFIN	pl|3|past|ind	1	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jogi	Jogi	_	NE	nom|sg|masc	0	S	_	_
+2	Löw	Löw	_	NE	nom|sg|masc	1	APP	_	_
+3	muss	muss	_	NE	nom|sg|masc	2	APP	_	_
+4	Jung	Jung	_	NN	nom|sg|masc	3	APP	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Alt	Alt	_	NN	nom|sg|fem	5	CJ	_	_
+7	beim	bei	_	APPRART	dat|sg|neut	11	PP	_	_
+8	nächsten	nächster	_	ADJA	dat|sg|neut|pos	9	ATTR	_	_
+9	Mal	Mal	_	NN	dat|sg|neut	7	PN	_	_
+10	besser	gut	_	ADJD	comp	11	ADV	_	_
+11	verbinden	verbinden	_	VVINF	_	5	CJ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+

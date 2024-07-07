@@ -33,8 +33,8 @@ With, we aim find a "working" approach that does not have SOTA performance but a
         3. tinyLlama
     2. architectures:
         1. prompting only e.g. "Identify and replace the difficult word in this sentence with an easier synonym: ..."
-        2. fine-tuning of the underlying model with easy language dataset (https://live.european-language-grid.eu/catalogue/corpus/22646/overview/)
-        3. fine-tuning of the underlying model with Lexical Substitution Dataset (https://live.european-language-grid.eu/catalogue/corpus/14292/download/)
+        2. fine-tuning of the underlying model with [easy language dataset](https://live.european-language-grid.eu/catalogue/corpus/22646/overview/)
+        3. fine-tuning of the underlying model with [Lexical Substitution Dataset](https://live.european-language-grid.eu/catalogue/corpus/14292/download/)
         4. adaptation of "**An LLM-Enhanced Adversarial Editing System for Lexical Simplification "**
     
     ⇒ should be realisable with existing resources
@@ -47,8 +47,6 @@ With, we aim find a "working" approach that does not have SOTA performance but a
     
     (model alone vs. fine-tuning vs. architecture enhancements vs. combinations of all)
 
-Translated with DeepL.com (free version)
-
 ## Investigated models
 ### German
 - [GermanBERT](https://huggingface.co/dbmdz/bert-base-german-cased)
@@ -57,4 +55,11 @@ Translated with DeepL.com (free version)
 - [BERT](https://huggingface.co/google-bert/bert-base-cased)
 ### Multilingual
 - [BERT multilingual](https://huggingface.co/google-bert/bert-base-multilingual-cased)
+- [Distilbert multilingual](https://huggingface.co/distilbert/distilbert-base-multilingual-cased)
 - [XLM-RoBERTa](https://huggingface.co/FacebookAI/xlm-roberta-base)
+### Finetuned
+- [Distillbert multilingual ft DE (LeiKo)](https://huggingface.co/lusxvr/distilbert-base-multilingual-cased-finetuned-leiko)
+- [Distillbert multilingual ft EN, PT, ES](https://huggingface.co/lusxvr/distilbert-base-multilingual-cased-finetuned-en_pt_es)
+- [Distillbert multilingual ft EN, DE, PT](https://huggingface.co/lusxvr/distilbert-base-multilingual-cased-finetuned-en_de_pt)
+- [Distillbert multilingual ft EN, DE, ES](https://huggingface.co/lusxvr/distilbert-base-multilingual-cased-finetuned-en_de_es)
+- [Distillbert multilingual ft DE, PT, ES](https://huggingface.co/lusxvr/distilbert-base-multilingual-cased-finetuned-de_pt_es)

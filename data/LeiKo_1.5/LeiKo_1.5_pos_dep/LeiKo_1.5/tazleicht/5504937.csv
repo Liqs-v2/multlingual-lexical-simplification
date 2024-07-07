@@ -1,0 +1,646 @@
+1	Sollen	sollen	_	VMFIN	nom|pl|fem	0	S	_	_
+2	Büchereien	Bücherei	_	NN	nom|pl|fem	4	OBJA	_	_
+3	sonntags	sonntags	_	ADV	_	4	ADV	_	_
+4	öffnen	öffnen	_	VVINF	_	1	AUX	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Büchereien	Bücherei	_	NN	nom|pl|fem	2	PRED	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Orte	Ort	_	NN	nom|pl|neut	2	PRED	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	Begegnungen	Begegnung	_	NN	acc|pl|fem	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Sonntag	Sonntag	_	NN	dat|sg|masc	1	PN	_	_
+3	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Büchereien	Bücherei	_	NN	nom|pl|fem	3	ETH	_	_
+5	aber	aber	_	ADV	_	3	ADV	_	_
+6	zu	zu	_	PTKVZ	_	3	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Muss	Muss	_	NN	nom|sg|masc	0	S	_	_
+2	sich	sich	_	PRF	acc|sg|3	4	OBJA	_	_
+3	das	der	_	PDS	nom|sg|neut	4	OBJA	_	_
+4	ändern	ändern	_	VVINF	_	1	APP	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Deutschland	Deutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	viele	vieler	_	PIAT	acc|pl|*	7	DET	_	_
+6	öffentliche	öffentlich	_	ADJA	acc|pl|fem|pos	7	ATTR	_	_
+7	Büchereien	Bücherei	_	NN	acc|pl|fem	3	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	"Öffentlich"	"öffentlich"	_	NN	nom|sg|neut	2	OBJA	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Alle	aller	_	PIAT	nom|pl|masc	5	DET	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	6	SUBJ	_	_
+6	können	können	_	VMFIN	pl|3|pres|ind	2	S	_	_
+7	in	in	_	APPR	_	10	PP	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Bücherei	Bücherei	_	NN	acc|sg|fem	7	PN	_	_
+10	gehen	gehen	_	VVINF	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Alle	aller	_	PIS	nom|pl|*	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Büchereien	Bücherei	_	NN	nom|pl|fem	0	S	_	_
+4	zur	zu	_	APPRART	dat|sg|fem	6	PP	_	_
+5	Bildung	Bildung	_	NN	dat|sg|fem	4	PN	_	_
+6	nutzen	nutzen	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Alle	aller	_	PIS	nom|pl|*	2	SUBJ	_	_
+2	bekommen	bekommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	einen	ein	_	ART	acc|sg|masc	4	DET	_	_
+4	Bücherei-Ausweis	Bücherei-Ausweis	_	NN	acc|sg|masc	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Alle	aller	_	PIS	nom|pl|*	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	12	OBJA	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Bücher	Buch	_	NN	nom|pl|neut	0	S	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	Zeitschriften	Zeitschrift	_	NN	nom|pl|neut	5	KON	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	CDs	CD	_	NN	nom|pl|fem	7	KON	_	_
+10	oder	oder	_	KON	_	9	KON	_	_
+11	DVDs	DVDs	_	NN	nom|pl|fem	10	CJ	_	_
+12	ausleihen	ausleihen	_	VVINF	pl|3|pres|ind	2	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Land-Kreise	Land-Kreis	_	NN	nom|sg|fem	0	S	_	_
+2	,	--	_	$,	_	0	ROOT	_	_
+3	Städte	Stadt	_	NN	nom|sg|fem	1	KON	_	_
+4	oder	oder	_	KON	_	3	KON	_	_
+5	Gemeinden	Gemeinde	_	NN	nom|pl|fem	4	CJ	_	_
+6	geben	geben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+7	Büchereien	Bücherei	_	NN	acc|pl|fem	6	SUBJ	_	_
+8	dafür	dafür	_	PROAV	_	9	DET	_	_
+9	Geld	Geld	_	NN	acc|sg|neut	6	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	taz	taz	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	spricht	sprechen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	mit	mit	_	APPR	_	3	PP	_	_
+5	Kirsten	Kirsten	_	NE	nom|sg|masc	4	PN	_	_
+6	Kappert-Gonther	Kappert-Gonther	_	NE	dat|sg|masc	5	APP	_	_
+7	über	über	_	APPR	_	3	PP	_	_
+8	Büchereien	Bücherei	_	NN	acc|pl|fem	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frau	Frau	_	NN	nom|sg|fem	3	PRED	_	_
+2	Kappert-Gonther	Kappert-Gonther	_	NE	nom|sg|fem	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	Psychologin	Psychologin	_	NN	nom|sg|masc	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	beschäftigt	beschäftigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|sg|3	2	OBJA	_	_
+4	mit	mit	_	APPR	_	2	OBJP	_	_
+5	seelischen	seelisch	_	ADJA	dat|pl|neut|pos	6	ATTR	_	_
+6	Erkrankungen	Erkrankung	_	NN	dat|pl|neut	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	fragt	fragen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|sg|3	2	OBJA	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Welchen	welchen	_	PWAT	nom|sg|neut	8	DET	_	_
+8	Einfluss	Einfluss	_	NN	gen|sg|*	9	OBJA	_	_
+9	haben	haben	_	VAFIN	pl|3|pres|ind	2	KON	_	_
+10	Büchereien	Bücherei	_	NN	nom|pl|fem	9	OBJA	_	_
+11	auf	auf	_	APPR	_	10	PP	_	_
+12	seelische	seelisch	_	ADJA	nom|pl|fem|pos	13	ATTR	_	_
+13	Erkrankungen	Erkrankung	_	NN	nom|pl|fem	11	PN	_	_
+14	?	--	_	$.	_	0	ROOT	_	_
+
+1	Büchereien	Bücherei	_	NN	nom|pl|fem	0	S	_	_
+2	auch	auch	_	ADV	_	3	ADV	_	_
+3	am	an	_	APPRART	dat|sg|masc	5	PP	_	_
+4	Sonntag	Sonntag	_	NN	dat|sg|masc	3	PN	_	_
+5	öffnen	öffnen	_	VVFIN	_	0	S	_	_
+
+1	Frau	Frau	_	NN	nom|sg|fem	3	OBJD	_	_
+2	Kappert-Gonther	Kappert-Gonther	_	NE	nom|sg|fem	1	APP	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	über	über	_	APPR	_	3	PP	_	_
+5	Büchereien	Bücherei	_	NN	acc|pl|fem	4	PN	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Büchereien	Bücherei	_	NN	nom|pl|fem	8	SUBJ	_	_
+8	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+9	auch	auch	_	ADV	_	10	ADV	_	_
+10	am	an	_	APPRART	dat|sg|masc	12	PP	_	_
+11	Sonntag	Sonntag	_	NN	dat|sg|masc	10	PN	_	_
+12	öffnen	öffnen	_	VVINF	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	0	S	_	_
+2	?	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	gehen	gehen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+5	nur	nur	_	ADV	_	6	ADV	_	_
+6	wegen	wegen	_	APPR	_	3	PP	_	_
+7	der	der	_	ART	gen|pl|masc	8	DET	_	_
+8	Bücher	Buch	_	NN	gen|pl|masc	6	PN	_	_
+9	in	in	_	APPR	_	3	PP	_	_
+10	die	der	_	ART	acc|sg|fem	11	DET	_	_
+11	Bücherei	Bücherei	_	NN	acc|sg|fem	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frau	Frau	_	NN	nom|sg|fem	3	OBJD	_	_
+2	Kappert-Gonther	Kappert-Gonther	_	NE	nom|sg|fem	1	APP	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Viele	vieler	_	PIAT	nom|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	7	SUBJ	_	_
+7	sind	sein	_	VAFIN	pl|3|pres|ind	3	S	_	_
+8	einsam	einsam	_	ADJD	pos	7	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	vor	vor	_	APPR	_	5	PP	_	_
+4	allem	alle	_	PIS	dat|sg|neut	3	PN	_	_
+5	am	an	_	APPRART	dat|sg|neut	7	PP	_	_
+6	Wochenende	Wochenende	_	NN	dat|sg|neut	5	PN	_	_
+7	einsam	einsam	_	ADJD	pos	2	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Für	für	_	APPR	_	4	PP	_	_
+2	viele	vieler	_	PIAT	acc|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	acc|pl|masc	1	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Bücherei	Bücherei	_	NN	nom|sg|fem	4	ETH	_	_
+7	ein	ein	_	ART	acc|sg|neut	8	DET	_	_
+8	Ort	Ort	_	NN	acc|sg|neut	4	PRED	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	Begegnungen	Begegnung	_	NN	acc|pl|fem	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Bücherei	Bücherei	_	NN	dat|sg|fem	1	PN	_	_
+4	treffen	treffen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	sie	sie	_	PPER	nom|pl|*|3	4	SUBJ	_	_
+6	auf	auf	_	APPR	_	4	PP	_	_
+7	ganz	ganz	_	ADV	_	8	ADV	_	_
+8	unterschiedliche	unterschiedlich	_	ADJA	acc|pl|masc|pos	9	ATTR	_	_
+9	Menschen	Mensch	_	NN	acc|pl|masc	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	3	OBJP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	auf	auf	_	PTKVZ	_	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	•	LI	_	XY	nom|pl|masc|pos	0	ROOT	_	_
+6	Schüler	Schüler	_	NN	nom|pl|masc	3	PN	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	Studenten	Student	_	NN	nom|pl|masc	7	CJ	_	_
+9	•	LI	_	APPR	_	0	ROOT	_	_
+10	Senioren	Senior	_	NN	acc|pl|masc	6	KON	_	_
+11	•	LI	_	ADJA	acc|pl|masc|pos	0	ROOT	_	_
+12	Obdachlose	obdachlose	_	NN	acc|pl|masc	9	KON	_	_
+13	•	LI	_	APPR	acc|pl|masc|pos	0	ROOT	_	_
+14	Flüchtlinge	Flüchtling	_	NN	acc|pl|masc	12	KON	_	_
+15	•	LI	_	CARD	_	0	ROOT	_	_
+16	Familien	Familie	_	NN	acc|pl|fem	14	KON	_	_
+
+1	Frau	Frau	_	NN	nom|sg|fem	3	PRED	_	_
+2	Kappert-Gonther	Kappert-Gonther	_	NE	nom|sg|fem	1	APP	_	_
+3	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	6	DET	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Büchereien	Bücherei	_	NN	nom|pl|fem	3	OBJA	_	_
+7	sollen	sollen	_	VMFIN	pl|3|pres|ind	3	KON	_	_
+8	auch	auch	_	ADV	_	9	ADV	_	_
+9	am	an	_	APPRART	dat|sg|masc	11	PP	_	_
+10	Sonntag	Sonntag	_	NN	dat|sg|masc	9	PN	_	_
+11	öffnen	öffnen	_	VVINF	_	7	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Büchereien	Bücherei	_	NN	nom|pl|fem	10	PRED	_	_
+2	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	am	an	_	APPRART	dat|sg|masc	10	PP	_	_
+5	Sonntag	Sonntag	_	NN	dat|sg|masc	4	PN	_	_
+6	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+7	Ort	Ort	_	NN	nom|sg|masc	10	PRED	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Begegnungen	Begegnung	_	NN	acc|pl|fem	8	PN	_	_
+10	sein	sein	_	VAINF	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frau	Frau	_	NN	nom|sg|fem	0	S	_	_
+2	Kappert-Gonther	Kappert-Gonther	_	NE	nom|sg|fem	1	APP	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	etwas	etwas	_	PIS	acc|sg|neut	5	ADV	_	_
+5	ausprobiert	ausprobieren	_	VVPP	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	mit	mit	_	APPR	_	9	PP	_	_
+4	einer	ein	_	ART	dat|sg|fem	6	DET	_	_
+5	Bremer	Bremer	_	ADJA	*|*|*|pos	6	ATTR	_	_
+6	Bücherei	Bücherei	_	NN	dat|sg|fem	3	PN	_	_
+7	einen	ein	_	ART	acc|sg|masc	8	DET	_	_
+8	Test	Test	_	NN	acc|sg|masc	9	OBJA	_	_
+9	gemacht	machen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|masc	5	DET	_	_
+4	Bremer	Bremer	_	ADJA	*|*|*|pos	5	ATTR	_	_
+5	Bücherei	Bücherei	_	NN	acc|sg|fem	9	OBJD	_	_
+6	auch	auch	_	ADV	_	7	ADV	_	_
+7	am	an	_	APPRART	dat|sg|masc	9	PP	_	_
+8	Sonntag	Sonntag	_	NN	dat|sg|masc	7	PN	_	_
+9	geöffnet	öffnen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	verschiedene	verschieden	_	ADJA	acc|pl|neut|pos	5	ATTR	_	_
+5	Orte	Ort	_	NN	acc|pl|neut	9	ADV	_	_
+6	in	in	_	APPR	_	9	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	Bücherei	Bücherei	_	NN	dat|sg|fem	6	PN	_	_
+9	eingerichtet	einrichten	_	VVPP	_	3	AUX	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	APPRART	pos	0	ROOT	_	_
+2	ruhige	ruhig	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Räume	Raum	_	NN	nom|pl|masc	1	PN	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	in	in	_	APPR	_	9	PP	_	_
+6	denen	der	_	PRELS	dat|pl|neut	5	PN	_	_
+7	man	man	_	PIS	nom|sg|*	10	SUBJ	_	_
+8	alleine	alleine	_	ADV	_	9	ADV	_	_
+9	sein	sein	_	VAINF	_	10	AUX	_	_
+10	kann	können	_	VMFIN	sg|3|pres|ind	3	REL	_	_
+
+1	•	LI	_	ADJA	nom|sg|fem|pos	0	ROOT	_	_
+2	Tische	Tisch	_	NN	nom|sg|fem	0	S	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	mehrere	mehrere	_	PIAT	acc|pl|*	5	DET	_	_
+5	Leute	Leute	_	NN	acc|pl|*	3	PN	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	an	an	_	APPR	_	11	PP	_	_
+8	denen	der	_	PRELS	dat|pl|fem	7	PN	_	_
+9	man	man	_	PIS	nom|sg|*	12	SUBJ	_	_
+10	gemeinsam	gemeinsam	_	ADJD	pos	11	ADV	_	_
+11	sitzen	sitzen	_	VVINF	_	12	AUX	_	_
+12	kann	können	_	VMFIN	sg|3|pres|ind	2	REL	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	still	still	_	ADJD	pos	2	ADV	_	_
+4	in	in	_	APPR	_	2	PRED	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Bücherei	Bücherei	_	NN	dat|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	3	EXPL	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	laut	laut	_	ADJD	pos	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+4	gute	gut	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Mischung	Mischung	_	NN	nom|sg|fem	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vielen	viel	_	PIAT	dat|pl|neut	2	ATTR	_	_
+2	Bücherei-Besuchern	Bücherei-Besuch	_	NN	dat|pl|neut	0	S	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	PDS	nom|sg|neut	5	OBJD	_	_
+5	gefallen	fallen	_	VVPP	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|masc	2	SUBJ	_	_
+2	arbeitet	arbeiten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	am	an	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Sonntag	Sonntag	_	NN	dat|sg|masc	3	PN	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Problem	Problem	_	NN	nom|sg|neut	9	PRED	_	_
+3	bei	bei	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Idee	Idee	_	NN	dat|sg|fem	3	PN	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Frau	Frau	_	NN	nom|sg|fem	6	PN	_	_
+8	Kappert-Gonther	Kappert-Gonther	_	NE	dat|sg|fem	7	APP	_	_
+9	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+10	aber	aber	_	ADV	_	9	ADV	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+12	Bücherei-Mitarbeiter	Bücherei-Mitarbeiter	_	NN	nom|pl|masc	0	S	_	_
+13	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+14	am	an	_	APPRART	dat|sg|masc	13	PP	_	_
+15	Sonntag	Sonntag	_	NN	dat|sg|masc	14	PN	_	_
+16	frei	frei	_	ADJD	pos	13	ADV	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	am	an	_	APPRART	dat|sg|masc	6	PP	_	_
+4	Sonntag	Sonntag	_	NN	dat|sg|masc	3	PN	_	_
+5	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+6	arbeiten	arbeiten	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Gesetz	Gesetz	_	NN	nom|sg|neut	5	OBJD	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Deutschland	Deutschland	_	NE	dat|sg|neut	3	PN	_	_
+5	verbietet	verbieten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	das	der	_	PDS	acc|sg|neut	5	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Frage	Frage	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	also	also	_	ADV	_	3	ADV	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Wer	wer	_	PWS	nom|sg|masc	7	SUBJ	_	_
+7	arbeitet	arbeiten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	am	an	_	APPRART	dat|sg|masc	7	PP	_	_
+9	Sonntag	Sonntag	_	NN	dat|sg|masc	8	PN	_	_
+10	in	in	_	APPR	_	7	PP	_	_
+11	der	der	_	ART	dat|sg|fem	12	DET	_	_
+12	Bücherei	Bücherei	_	NN	dat|sg|fem	10	PN	_	_
+13	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|*	2	SUBJ	_	_
+2	räumt	räumen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|masc	4	DET	_	_
+4	Bücher	Buch	_	NN	acc|pl|masc	2	SUBJ	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	die	der	_	ART	acc|sg|fem	7	DET	_	_
+7	Regale	Regale	_	NN	acc|sg|fem	5	PN	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|masc	2	SUBJ	_	_
+2	verleiht	verleihen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|neut	4	DET	_	_
+4	Bücher	Buch	_	NN	acc|pl|neut	2	OBJA	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|masc	0	S	_	_
+2	passt	passen	_	ADV	sg|3|pres|ind	1	ADV	_	_
+3	auf	auf	_	PTKVZ	_	0	S	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Bücherei	Bücherei	_	NN	nom|sg|fem	7	OBJA	_	_
+3	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	nur	nur	_	ADV	_	5	ADV	_	_
+5	am	an	_	APPRART	dat|sg|masc	7	PP	_	_
+6	Sonntag	Sonntag	_	NN	dat|sg|masc	5	PN	_	_
+7	öffnen	öffnen	_	VVINF	_	3	AUX	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	wenn	wenn	_	KOUS	_	12	KONJ	_	_
+10	die	der	_	ART	nom|pl|masc	11	DET	_	_
+11	Mitarbeiter	Mitarbeiter	_	NN	nom|pl|masc	12	SUBJ	_	_
+12	sagen	sagen	_	VVFIN	pl|3|pres|ind	3	NEB	_	_
+13	:	--	_	$.	_	0	ROOT	_	_
+14	Wir	wir	_	PPER	nom|pl|*|1	15	SUBJ	_	_
+15	arbeiten	arbeiten	_	VVFIN	pl|1|past|ind	0	S	_	_
+16	freiwillig	freiwillig	_	ADJD	pos	15	ADV	_	_
+17	am	an	_	APPRART	dat|sg|masc	15	PP	_	_
+18	Sonntag	Sonntag	_	NN	dat|sg|masc	17	PN	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frau	Frau	_	NN	nom|sg|fem	3	OBJD	_	_
+2	Kappert-Gonther	Kappert-Gonther	_	NE	nom|sg|fem	1	APP	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Einige	einiger	_	PIAT	acc|pl|masc	6	DET	_	_
+6	Mitarbeiter	Mitarbeiter	_	NN	acc|pl|masc	3	S	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	der	der	_	ART	dat|sg|fem	10	DET	_	_
+9	Bremer	Bremer	_	ADJA	*|*|*|pos	10	ATTR	_	_
+10	Bücherei	Bücherei	_	NN	dat|sg|fem	7	PN	_	_
+11	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+12	das	der	_	PDS	acc|sg|neut	13	OBJA	_	_
+13	gemacht	machen	_	VVPP	_	11	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	freiwillig	freiwillig	_	ADJD	pos	6	ADV	_	_
+4	am	an	_	APPRART	dat|sg|masc	6	PP	_	_
+5	Sonntag	Sonntag	_	NN	dat|sg|masc	4	PN	_	_
+6	gearbeitet	arbeiten	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	gut	gut	_	ADJD	pos	4	ADV	_	_
+4	geklappt	klappen	_	VVPP	_	2	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	4	ADV	_	_
+2	andere	anderer	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+3	deutsche	deutsch	_	ADJA	nom|pl|masc|pos	4	ATTR	_	_
+4	Büchereien	Bücherei	_	NN	nom|pl|fem	8	OBJA	_	_
+5	möchten	möchten	_	VMFIN	pl|3|pres|ind	0	S	_	_
+6	am	an	_	APPRART	dat|sg|masc	8	PP	_	_
+7	Sonntag	Sonntag	_	NN	dat|sg|masc	6	PN	_	_
+8	öffnen	öffnen	_	VVINF	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Gesetz	Gesetz	_	NN	nom|sg|neut	4	OBJA	_	_
+4	macht	machen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	das	der	_	PDS	acc|sg|neut	4	OBJA	_	_
+6	schwierig	schwierig	_	ADJD	pos	4	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frau	Frau	_	NN	nom|sg|fem	3	ETH	_	_
+2	Kappert-Gonther	Kappert-Gonther	_	NE	nom|sg|fem	1	APP	_	_
+3	sucht	suchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+5	nach	nach	_	APPR	_	3	OBJP	_	_
+6	einer	ein	_	ART	dat|sg|fem	7	DET	_	_
+7	Lösung	Lösung	_	NN	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+4	nur	nur	_	ADV	_	5	ADV	_	_
+5	Psychologin	Psychologin	_	NN	nom|sg|fem	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	5	ADV	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Politikerin	Politikerin	_	NN	nom|sg|fem	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Mitglied	Mitglied	_	NN	nom|sg|neut	2	PRED	_	_
+4	im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+5	Bundestag	Bundestag	_	NN	dat|sg|masc	4	PN	_	_
+6	für	für	_	APPR	_	3	PP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Partei	Partei	_	NN	acc|sg|fem	6	PN	_	_
+9	"Die	"die	_	NE	nom|sg|*	8	APP	_	_
+10	Grünen"	Grünen"	_	NE	nom|sg|*	9	APP	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	setzt	setzen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+4	sich	sich	_	PRF	acc|sg|3	2	OBJA	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	für	für	_	APPR	_	2	PP	_	_
+7	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+8	Änderung	Änderung	_	NN	acc|sg|fem	6	PN	_	_
+9	des	der	_	ART	gen|sg|masc	10	DET	_	_
+10	Arbeitszeiten-Gesetzes	Arbeitszeiten-Gesetz	_	NN	gen|sg|masc	8	GMOD	_	_
+11	ein	ein	_	PTKVZ	_	2	AVZ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	Gesetz	Gesetz	_	NN	acc|sg|neut	6	SUBJ	_	_
+6	soll	sollen	_	VMFIN	sg|3|pres|ind	2	KON	_	_
+7	erlauben	erlauben	_	VVINF	_	6	AUX	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	dass	daß	_	KOUS	_	14	KONJ	_	_
+10	Bücherei-Mitarbeiter	Bücherei-Mitarbeiter	_	NN	nom|sg|masc	14	SUBJ	_	_
+11	am	an	_	APPRART	dat|sg|masc	13	PP	_	_
+12	Sonntag	Sonntag	_	NN	dat|sg|masc	11	PN	_	_
+13	arbeiten	arbeiten	_	VVINF	_	14	AUX	_	_
+14	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	7	OBJC	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	dass	dass	_	KOUS	_	3	DET	_	_
+3	Büchereien	Bücherei	_	NN	nom|pl|fem	6	OBJA	_	_
+4	am	an	_	APPRART	dat|sg|masc	6	PP	_	_
+5	Sonntag	Sonntag	_	NN	dat|sg|masc	4	PN	_	_
+6	öffnen	öffnen	_	VVINF	_	7	AUX	_	_
+7	können	können	_	VMINF	_	1	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	Frau	Frau	_	NN	nom|sg|fem	6	ZEIT	_	_
+4	Kappert-Gonther	Kappert-Gonther	_	NE	nom|sg|fem	3	APP	_	_
+5	das	der	_	PDS	acc|sg|neut	6	OBJA	_	_
+6	erreichen	erreichen	_	VVINF	_	2	AUX	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	5	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	mit	mit	_	APPR	_	11	PP	_	_
+6	den	der	_	ART	dat|pl|fem	7	DET	_	_
+7	Gewerkschaften	Gewerkschaft	_	NN	dat|pl|fem	5	PN	_	_
+8	über	über	_	APPR	_	11	PP	_	_
+9	die	der	_	ART	acc|pl|fem	10	DET	_	_
+10	Arbeits-Zeiten	Arbeits-Zeit	_	NN	acc|pl|fem	8	PN	_	_
+11	sprechen	sprechen	_	VVINF	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Gewerkschaften	Gewerkschaft	_	NN	nom|pl|fem	2	SUBJ	_	_
+2	setzen	setzen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|pl|3	2	OBJA	_	_
+4	für	für	_	APPR	_	2	PP	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Rechte	Recht	_	NN	acc|sg|fem	4	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Arbeitnehmern	Arbeitnehmer	_	NN	dat|pl|masc	7	PN	_	_
+9	ein	ein	_	PTKVZ	_	2	AVZ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	für	für	_	APPR	_	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Rechte	Recht	_	NN	acc|sg|fem	2	PN	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Bücherei-Mitarbeitern	Bücherei-Mitarbeiter	_	NN	dat|pl|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Gewerkschaften	Gewerkschaft	_	NN	nom|pl|fem	3	OBJA	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	verhindern	verhindern	_	VVINF	_	2	AUX	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	dass	dass	_	KOUS	_	10	KONJ	_	_
+6	Arbeit	Arbeit	_	NN	nom|sg|fem	10	SUBJ	_	_
+7	am	an	_	APPRART	dat|sg|masc	9	PP	_	_
+8	Sonntag	Sonntag	_	NN	dat|sg|masc	7	PN	_	_
+9	erlaubt	erlauben	_	VVPP	_	10	AUX	_	_
+10	wird	werden	_	VAFIN	sg|3|pres|ind	3	OBJC	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Gesprächen	Gespräch	_	NN	dat|pl|neut	1	PN	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	Frau	Frau	_	NN	nom|sg|fem	15	OBJA	_	_
+5	Kappert-Gonther	Kappert-Gonther	_	ADJA	gen|pl|fem|pos	6	ATTR	_	_
+6	Gewerkschaften	Gewerkschaft	_	NN	gen|pl|fem	4	APP	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	Politiker	Politiker	_	NN	gen|pl|masc	6	KON	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	weitere	weit	_	ADJA	nom|pl|fem|comp	11	ATTR	_	_
+11	Büchereien	Bücherei	_	NN	nom|pl|fem	9	CJ	_	_
+12	von	von	_	APPR	_	15	OBJP	_	_
+13	ihrer	ihr	_	PPOSAT	dat|sg|fem	14	DET	_	_
+14	Idee	Idee	_	NN	dat|sg|fem	12	PN	_	_
+15	überzeugen	überzeugen	_	VVINF	_	3	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hofft	hoffen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	dass	dass	_	KOUS	_	2	S	_	_
+5	sie	sie	_	PPER	nom|sg|fem|3	11	OBJA	_	_
+6	so	so	_	ADV	_	11	ADV	_	_
+7	im	in	_	APPRART	dat|sg|masc	11	PP	_	_
+8	Bundestag	Bundestag	_	NN	dat|sg|masc	7	PN	_	_
+9	eine	ein	_	ART	acc|sg|fem	10	DET	_	_
+10	Gesetzes-Änderung	Gesetzes-Änderung	_	NN	acc|sg|fem	8	GMOD	_	_
+11	erreicht	erreichen	_	VVPP	_	2	ADV	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Büchereien	Bücherei	_	NN	nom|pl|fem	10	SUBJ	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	am	an	_	APPRART	dat|sg|masc	10	PP	_	_
+5	Sonntag	Sonntag	_	NN	dat|sg|masc	4	PN	_	_
+6	ein	ein	_	ART	acc|sg|neut	7	DET	_	_
+7	Ort	Ort	_	NN	acc|sg|neut	10	PRED	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Begegnungen	Begegnung	_	NN	acc|pl|fem	8	PN	_	_
+10	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_

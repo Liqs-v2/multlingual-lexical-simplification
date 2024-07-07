@@ -1,0 +1,798 @@
+﻿1	100	100	_	CARD	_	2	ATTR	_	_
+2	Jahre	Jahr	_	NN	nom|pl|neut	0	S	_	_
+3	Frauen-Wahl-Recht	Frauen-Wahl-Recht	_	NN	nom|sg|neut	2	APP	_	_
+
+1	Seit	seit	_	APPR	_	4	PP	_	_
+2	100	100	_	CARD	_	3	ATTR	_	_
+3	Jahren	Jahr	_	NN	dat|pl|neut	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Frauen	Frau	_	NN	nom|pl|fem	4	OBJA	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Wahl-Recht	Wahl-Recht	_	NN	acc|sg|neut	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+3	1919	1919	_	CARD	_	2	ZEIT	_	_
+4	konnten	können	_	VMFIN	pl|3|past|ind	0	S	_	_
+5	Frauen	Frau	_	NN	nom|pl|fem	0	S	_	_
+6	zum	zu	_	APPRART	dat|sg|masc	11	PP	_	_
+7	1.	1	_	CARD	_	8	ATTR	_	_
+8	Mal	mal	_	NN	dat|sg|masc	6	PN	_	_
+9	in	in	_	APPR	_	8	PP	_	_
+10	Deutschland	Deutschland	_	NE	dat|sg|neut	9	PN	_	_
+11	wählen	wählen	_	VVINF	_	4	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	12.	12.	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	November	November	_	NN	nom|sg|masc	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Tag	Tag	_	NN	nom|sg|masc	4	PRED	_	_
+7	zum	zu	_	APPRART	dat|sg|masc	6	PP	_	_
+8	Feiern	Feiern	_	NN	dat|sg|masc	7	PN	_	_
+9	!	--	_	$.	_	0	ROOT	_	_
+
+1	Vor	vor	_	APPR	_	4	PP	_	_
+2	100	100	_	CARD	_	3	ATTR	_	_
+3	Jahren	Jahr	_	NN	dat|pl|neut	1	PN	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	Frauen	Frau	_	NN	nom|pl|fem	10	OBJA	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	Deutschland	Deutschland	_	NE	dat|sg|neut	6	PN	_	_
+8	das	der	_	ART	acc|sg|neut	9	DET	_	_
+9	Wahl-Recht	Wahl-Recht	_	NN	acc|sg|neut	10	OBJA	_	_
+10	bekommen	bekommen	_	VVINF	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vorher	vorher	_	ADV	_	2	ADV	_	_
+2	durften	dürfen	_	VMFIN	pl|3|past|ind	0	S	_	_
+3	in	in	_	APPR	_	7	PP	_	_
+4	Deutschland	Deutschland	_	NE	dat|sg|neut	3	PN	_	_
+5	nur	nur	_	ADV	_	6	ADV	_	_
+6	Männer	Mann	_	NN	acc|pl|masc	2	SUBJ	_	_
+7	wählen	wählen	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Männer	Mann	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	allein	allein	_	ADV	_	5	ADV	_	_
+5	entschieden	entscheiden	_	VVPP	_	3	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Wer	wer	_	PWS	nom|sg|masc	8	SUBJ	_	_
+8	regiert	regieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	in	in	_	APPR	_	8	PP	_	_
+10	Deutschland	Deutschland	_	NE	dat|sg|neut	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wer	wer	_	PWS	nom|sg|masc	2	SUBJ	_	_
+2	bestimmt	bestimmen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Politik	Politik	_	NN	acc|sg|fem	2	SUBJ	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	Deutschland	Deutschland	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Am	an	_	APPRART	dat|sg|masc	5	PP	_	_
+2	12.	12.	_	ADJA	dat|sg|masc|pos	3	ATTR	_	_
+3	November	November	_	NN	dat|sg|masc	1	PN	_	_
+4	1918	1918	_	CARD	_	3	ZEIT	_	_
+5	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+6	das	der	_	PDS	nom|sg|neut	7	OBJA	_	_
+7	geändert	ändern	_	VVPP	_	5	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frauen	Frau	_	NN	nom|pl|fem	8	OBJA	_	_
+2	über	über	_	APPR	_	1	PP	_	_
+3	19	19	_	CARD	_	4	ATTR	_	_
+4	Jahre	Jahr	_	NN	acc|pl|neut	2	PN	_	_
+5	konnten	können	_	VMFIN	pl|3|past|ind	0	S	_	_
+6	nun	nun	_	ADV	_	8	ADV	_	_
+7	auch	auch	_	ADV	_	8	ADV	_	_
+8	wählen	wählen	_	VVINF	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	kam	kommen	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	zum	zu	_	APPRART	dat|sg|masc	2	PP	_	_
+5	Frauen-Wahl-Recht	Frauen-Wahl-Recht	_	NN	dat|sg|masc	4	PN	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+4	lange	lang	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Geschichte	Geschichte	_	NN	nom|sg|fem	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	beginnt	beginnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	acc|pl|neut	4	DET	_	_
+4	Jahre	Jahr	_	NN	acc|pl|neut	2	ZEIT	_	_
+5	vor	vor	_	APPR	_	4	PP	_	_
+6	dem	der	_	ART	dat|sg|masc	8	DET	_	_
+7	12.	12.	_	ADJA	dat|sg|masc|pos	8	ATTR	_	_
+8	November	November	_	NN	dat|sg|masc	5	PN	_	_
+9	1918	1918	_	CARD	_	8	ZEIT	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zu	zu	_	APPR	_	4	PP	_	_
+2	dieser	dieser	_	PDAT	dat|sg|fem	3	DET	_	_
+3	Zeit	Zeit	_	NN	dat|sg|fem	1	PN	_	_
+4	hatten	haben	_	VAFIN	pl|3|past|ind	0	S	_	_
+5	Frauen	Frau	_	NN	nom|pl|fem	4	SUBJ	_	_
+6	weniger	weniger	_	PIAT	*|*|*	7	DET	_	_
+7	Rechte	Recht	_	NN	acc|pl|neut	4	OBJA	_	_
+8	als	als	_	KOKOM	_	7	KOM	_	_
+9	heute	heute	_	ADV	_	8	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	viele	vieler	_	PIAT	nom|pl|fem	3	DET	_	_
+3	Frauen	Frau	_	NN	nom|pl|fem	4	OBJG	_	_
+4	wollten	wollen	_	VMFIN	pl|3|past|ind	1	CJ	_	_
+5	mehr	mehr	_	PIAT	*|*|*	6	DET	_	_
+6	Rechte	Recht	_	NN	acc|pl|neut	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+3	die	der	_	ART	acc|pl|fem	5	DET	_	_
+4	gleichen	gleich	_	ADJA	acc|pl|neut|pos	5	ATTR	_	_
+5	Rechte	Recht	_	NN	acc|pl|neut	2	OBJA	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	Männer	Mann	_	NN	acc|pl|masc	6	PN	_	_
+8	und	und	_	KON	_	2	KON	_	_
+9	Frauen	Frau	_	NN	acc|pl|fem	8	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	0	S	_	_
+2	von	von	_	APPR	_	5	PP	_	_
+3	diesen	dieser	_	PDAT	dat|pl|fem	4	DET	_	_
+4	Frauen	Frau	_	NN	dat|pl|fem	2	PN	_	_
+5	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+6	Louise	Louise	_	NE	nom|sg|fem	5	PRED	_	_
+7	Otto-Peters	Otto-Peter	_	NE	nom|sg|fem	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	kam	kommen	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	Leipzig	Leipzig	_	NE	dat|sg|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Louise	Louise	_	NE	nom|sg|fem	3	SUBJ	_	_
+2	Otto-Peters	Otto-Peter	_	NE	nom|sg|fem	1	APP	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	Schriftstellerin	Schriftstellerin	_	NN	nom|sg|fem	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	gründete	gründen	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+6	Frauen-Zeitschrift	Frauen-Zeitschrift	_	NN	nom|sg|fem	2	OBJA	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	den	der	_	ART	acc|sg|masc	11	DET	_	_
+9	Allgemeinen	allgemein	_	ADJA	acc|sg|masc|pos	11	ATTR	_	_
+10	Deutschen	deutsch	_	ADJA	acc|sg|masc|pos	11	ATTR	_	_
+11	Frauen-Verein	Frauen-Verein	_	NN	acc|sg|masc	7	CJ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+3	1848	1848	_	CARD	_	2	ZEIT	_	_
+4	forderte	fordern	_	VVFIN	sg|3|past|ind	0	S	_	_
+5	sie	sie	_	PPER	nom|sg|fem|3	4	SUBJ	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Frauen-Wahl-Recht	Frauen-Wahl-Recht	_	NN	acc|sg|neut	4	OBJD	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	also	also	_	ADV	_	12	ADV	_	_
+10	schon	schon	_	ADV	_	12	ADV	_	_
+11	70	70	_	CARD	_	12	ATTR	_	_
+12	Jahre	Jahr	_	NN	acc|pl|neut	7	APP	_	_
+13	vor	vor	_	APPR	_	12	PP	_	_
+14	dem	der	_	ART	dat|sg|masc	16	DET	_	_
+15	12.	12.	_	ADJA	dat|sg|masc|pos	16	ATTR	_	_
+16	November	November	_	NN	dat|sg|masc	13	PN	_	_
+17	1918	1918	_	CARD	_	16	ZEIT	_	_
+18	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	sah	sehen	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	Louise	Louise	_	NN	nom|sg|masc	2	OBJA	_	_
+4	Otto-Peters	Otto-Peter	_	NE	nom|sg|masc	3	APP	_	_
+5	aus	aus	_	PTKVZ	_	2	AVZ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+
+1	Louise	Louise	_	NE	nom|sg|fem	3	SUBJ	_	_
+2	Otto-Peters	Otto-Peter	_	NE	nom|sg|fem	1	APP	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+5	allein	allein	_	ADV	_	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	4	ADV	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	4	DET	_	_
+3	andere	anderer	_	ADJA	acc|pl|fem|pos	4	ATTR	_	_
+4	Frauen	Frau	_	NN	acc|pl|fem	5	SUBJ	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	für	für	_	APPR	_	9	PP	_	_
+7	das	der	_	ART	acc|sg|neut	8	DET	_	_
+8	Wahl-Recht	Wahl-Recht	_	NN	acc|sg|neut	6	PN	_	_
+9	gekämpft	kämpfen	_	VVPP	_	5	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	acc|pl|neut	4	DET	_	_
+4	Jahrzehnte	Jahrzehnt	_	NN	acc|pl|neut	6	ZEIT	_	_
+5	lang	lang	_	ADJD	pos	6	ADV	_	_
+6	gekämpft	kämpfen	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	demonstriert	demonstrieren	_	VVPP	_	2	AUX	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	Gruppen	Gruppe	_	NN	nom|pl|fem	0	S	_	_
+6	gegründet	gründen	_	VVPP	_	3	KON	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	große	groß	_	ADJA	nom|pl|fem|pos	9	ATTR	_	_
+9	Versammlungen	Versammlung	_	NN	nom|pl|fem	10	OBJA	_	_
+10	gemacht	machen	_	VVPP	_	7	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	2	DET	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	9	OBJA	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	wieder	wieder	_	ADV	_	9	ADV	_	_
+6	über	über	_	APPR	_	9	PP	_	_
+7	das	der	_	ART	acc|sg|neut	8	DET	_	_
+8	Wahl-Recht	Wahl-Recht	_	NN	acc|sg|neut	6	PN	_	_
+9	gesprochen	sprechen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ihr	ihr	_	PPOSAT	nom|sg|neut	2	DET	_	_
+2	Ziel	Ziel	_	NN	nom|sg|neut	3	PRED	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Gleich-Berechtigung	Gleich-Berechtigung	_	NN	nom|sg|fem	0	S	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Mann	Mann	_	NN	dat|sg|masc	7	PN	_	_
+9	und	und	_	KON	_	0	S	_	_
+10	Frau	Frau	_	NN	dat|sg|fem	9	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	2	DET	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Frauen-Wahl-Recht	Frauen-Wahl-Recht	_	NN	nom|sg|neut	2	ETH	_	_
+5	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+6	wichtiger	wichtig	_	ADJA	nom|sg|masc|pos	7	ATTR	_	_
+7	Schritt	Schritt	_	NN	nom|sg|masc	2	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	acc|sg|neut	2	SUBJ	_	_
+2	passierte	passieren	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	dann	dann	_	ADV	_	2	ADV	_	_
+4	vor	vor	_	APPR	_	2	PP	_	_
+5	100	100	_	CARD	_	6	ATTR	_	_
+6	Jahren	Jahr	_	NN	dat|pl|neut	4	PN	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	bekamen	bekommen	_	VVFIN	pl|3|past|ind	0	S	_	_
+3	Frauen	Frau	_	NN	nom|pl|fem	2	OBJA	_	_
+4	das	der	_	ART	acc|sg|neut	5	DET	_	_
+5	Wahl-Recht	Wahl-Recht	_	NN	acc|sg|neut	2	OBJA	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	4	PP	_	_
+2	November	November	_	NN	dat|sg|masc	1	PN	_	_
+3	1918	1918	_	CARD	_	2	ZEIT	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	der	der	_	ART	nom|sg|masc	7	DET	_	_
+6	1.	1	_	CARD	nom|sg|masc|pos	7	ATTR	_	_
+7	Weltkrieg	Weltkrieg	_	NN	nom|sg|masc	4	PRED	_	_
+8	vorbei	vorbei	_	ADV	_	7	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dadurch	dadurch	_	PROAV	_	2	DET	_	_
+2	gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	viele	vieler	_	PIAT	acc|pl|fem	5	DET	_	_
+5	Änderungen	Änderung	_	NN	acc|pl|fem	2	OBJA	_	_
+6	im	in	_	APPRART	dat|sg|neut	5	PP	_	_
+7	Land	Land	_	NN	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	bis	bis	_	APPR	_	2	PP	_	_
+4	dahin	dahin	_	PROAV	_	6	DET	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Kaiser-Reich	Kaiser-Reich	_	NN	nom|sg|masc	3	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	herrschte	herrschen	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Kaiser	Kaiser	_	NN	nom|sg|masc	2	OBJD	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+7	die	der	_	ART	nom|sg|fem	8	DET	_	_
+8	Bevölkerung	Bevölkerung	_	NN	nom|sg|fem	5	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	damalige	damalig	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Kaiser	Kaiser	_	NN	nom|sg|masc	4	PRED	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	Wilhelm	Wilhelm	_	NE	nom|sg|masc	4	ETH	_	_
+6	der	der	_	ART	nom|sg|masc	7	DET	_	_
+7	2.	2	_	CARD	_	4	PRED	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hatte	haben	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	5	DET	_	_
+4	1.	1	_	CARD	_	5	ATTR	_	_
+5	Weltkrieg	Weltkrieg	_	NN	acc|sg|masc	6	OBJA	_	_
+6	verloren	verlieren	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	konnte	können	_	VMFIN	sg|3|past|ind	0	S	_	_
+3	er	er	_	PPER	nom|sg|masc|3	6	SUBJ	_	_
+4	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+5	weiter	weiter	_	ADV	_	6	ADV	_	_
+6	regieren	regieren	_	VVFIN	_	2	REL	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aus	aus	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Kaiser-Reich	Kaiser-Reich	_	NN	dat|sg|masc	1	PN	_	_
+4	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	dann	dann	_	ADV	_	4	ADV	_	_
+6	eine	ein	_	ART	nom|sg|fem	7	DET	_	_
+7	Republik	Republik	_	NN	nom|sg|fem	4	PRED	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	die	der	_	ART	nom|sg|fem	11	DET	_	_
+10	Weimarer	Weimarer	_	ADJA	*|*|*|pos	11	ATTR	_	_
+11	Republik	Republik	_	NN	nom|sg|fem	7	KON	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	Weimarer	Weimarer	_	ADJA	*|*|*|pos	3	ATTR	_	_
+3	Republik	Republik	_	NN	nom|sg|fem	4	PRED	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	8	DET	_	_
+6	1.	1.	_	ADJA	nom|sg|fem|pos	8	ATTR	_	_
+7	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	8	ATTR	_	_
+8	Demokratie	Demokratie	_	NN	nom|sg|fem	4	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	einer	ein	_	ART	dat|sg|fem	3	DET	_	_
+3	Demokratie	Demokratie	_	NN	dat|sg|fem	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	Wahlen	Wahl	_	NN	acc|pl|fem	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	OBJA	_	_
+3	wählen	wählen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Politiker	Politiker	_	NN	nom|pl|masc	3	OBJA	_	_
+5	in	in	_	APPR	_	3	PP	_	_
+6	ein	ein	_	ART	acc|sg|neut	7	DET	_	_
+7	Parlament	Parlament	_	NN	acc|sg|neut	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dort	dort	_	ADV	_	2	ADV	_	_
+2	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Regierung	Regierung	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	gewählt	wählen	_	VVPP	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Regierung	Regierung	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	bestimmt	bestimmen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Politik	Politik	_	NN	acc|sg|fem	3	SUBJ	_	_
+6	im	in	_	APPRART	dat|sg|neut	3	PP	_	_
+7	Land	Land	_	NN	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	einer	ein	_	ART	dat|sg|fem	3	DET	_	_
+3	Demokratie	Demokratie	_	NN	dat|sg|fem	1	PN	_	_
+4	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	alle	aller	_	PIAT	nom|pl|fem	7	DET	_	_
+6	erwachsenen	erwachsen	_	ADJA	nom|pl|fem|pos	7	ATTR	_	_
+7	Menschen	Mensch	_	NN	nom|pl|fem	8	OBJA	_	_
+8	wählen	wählen	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	in	in	_	APPR	_	7	PP	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	Weimarer	Weimarer	_	ADJA	*|*|*|pos	6	ATTR	_	_
+6	Republik	Republik	_	NN	dat|sg|fem	3	PN	_	_
+7	beschlossen	beschließen	_	VVPP	_	2	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Auch	auch	_	ADV	_	10	ADV	_	_
+10	Frauen	Frau	_	NN	nom|pl|fem	11	OBJA	_	_
+11	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+12	das	der	_	ART	acc|sg|neut	13	DET	_	_
+13	Wahl-Recht	Wahl-Recht	_	NN	acc|sg|neut	11	OBJA	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	auch	auch	_	ADV	_	3	ADV	_	_
+3	Frauen	Frau	_	NN	nom|pl|fem	4	AUX	_	_
+4	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	gewählt	wählen	_	VVPP	_	6	AUX	_	_
+6	werden	werden	_	VAINF	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frauen	Frau	_	NN	nom|pl|fem	6	PRED	_	_
+2	konnten	können	_	VMFIN	pl|3|past|ind	0	S	_	_
+3	also	also	_	ADV	_	6	ADV	_	_
+4	selbst	selbst	_	ADV	_	6	ADV	_	_
+5	Politikerinnen	Politikerin	_	NN	nom|pl|fem	6	PRED	_	_
+6	werden	werden	_	VAINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	1.	1	_	CARD	_	3	ATTR	_	_
+3	Wahl	Wahl	_	NN	nom|sg|fem	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	7	DET	_	_
+6	Weimarer	Weimarer	_	ADJA	*|*|*|pos	7	ATTR	_	_
+7	Republik	Republik	_	NN	dat|sg|fem	4	PN	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+3	1919	1919	_	CARD	_	2	ZEIT	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	7	DET	_	_
+6	1.	1	_	CARD	nom|sg|fem	7	ATTR	_	_
+7	Wahl	Wahl	_	NN	nom|sg|fem	4	PRED	_	_
+8	in	in	_	APPR	_	7	PP	_	_
+9	der	der	_	ART	dat|sg|fem	11	DET	_	_
+10	Weimarer	Weimarer	_	ADJA	*|*|*|pos	11	ATTR	_	_
+11	Republik	Republik	_	NN	dat|sg|fem	8	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Für	für	_	APPR	_	4	PP	_	_
+2	viele	vieler	_	PIAT	acc|pl|fem	3	DET	_	_
+3	Frauen	Frau	_	NN	acc|pl|fem	1	PN	_	_
+4	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	diese	dieser	_	PDAT	nom|sg|fem	6	DET	_	_
+6	Wahl	Wahl	_	NN	nom|sg|fem	4	PRED	_	_
+7	ein	ein	_	ART	acc|sg|neut	9	DET	_	_
+8	wichtiges	wichtig	_	ADJA	acc|sg|neut|pos	9	ATTR	_	_
+9	Ereignis	Ereignis	_	NN	acc|sg|neut	4	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	konnten	können	_	VMFIN	pl|3|past|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|masc	6	PP	_	_
+4	1.	1	_	CARD	_	3	PN	_	_
+5	Mal	mal	_	ADV	_	6	ADV	_	_
+6	wählen	wählen	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+3	diese	dieser	_	PDAT	acc|sg|fem	4	DET	_	_
+4	Möglichkeit	Möglichkeit	_	NN	acc|sg|fem	5	OBJA	_	_
+5	nutzen	nutzen	_	VVINF	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	5	DET	_	_
+2	machten	machen	_	VVFIN	pl|3|past|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	OBJA	_	_
+4	große	groß	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Versammlungen	Versammlung	_	NN	acc|pl|fem	2	ETH	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	sprachen	sprechen	_	VVFIN	pl|3|past|ind	0	S	_	_
+3	viel	viel	_	PIS	*|*|*	2	OBJA	_	_
+4	über	über	_	APPR	_	2	PP	_	_
+5	Politik	Politik	_	NN	acc|sg|fem	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	machten	machen	_	VVFIN	pl|3|past|ind	0	S	_	_
+3	Werbung	Werbung	_	NN	acc|sg|fem	2	OBJA	_	_
+4	für	für	_	APPR	_	3	PP	_	_
+5	die	der	_	ART	acc|sg|fem	6	DET	_	_
+6	Wahl	Wahl	_	NN	acc|sg|fem	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Frauen	Frau	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	gingen	gehen	_	VVFIN	pl|3|past|ind	0	S	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	Tür	Tür	_	NN	dat|sg|fem	4	PN	_	_
+6	zu	zu	_	APPR	_	3	PP	_	_
+7	Tür	Tür	_	NN	dat|sg|fem	6	PN	_	_
+8	und	und	_	KON	_	6	KON	_	_
+9	sagten	sagen	_	VVFIN	pl|3|past|ind	14	SUBJ	_	_
+10	zu	zu	_	APPR	_	9	PP	_	_
+11	anderen	anderer	_	ADJA	dat|pl|fem|pos	12	ATTR	_	_
+12	Frauen	Frau	_	NN	dat|pl|fem	10	PN	_	_
+13	:	--	_	$.	_	0	ROOT	_	_
+14	Geht	gehen	_	VVFIN	sg|3|pres|ind	8	CJ	_	_
+15	zur	zu	_	APPRART	dat|sg|fem	14	PP	_	_
+16	Wahl	Wahl	_	NN	dat|sg|fem	15	PN	_	_
+17	und	und	_	KON	_	15	KON	_	_
+18	macht	machen	_	VVFIN	sg|3|pres|ind	17	CJ	_	_
+19	selbst	selbst	_	ADV	_	18	ADV	_	_
+20	Politik	Politik	_	NN	acc|sg|fem	18	OBJA	_	_
+21	!	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	geklappt	klappen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	meisten	meister	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Frauen	Frau	_	NN	nom|pl|masc	0	S	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	an	an	_	APPR	_	8	OBJP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Wahl	Wahl	_	NN	dat|sg|fem	5	PN	_	_
+8	teilgenommen	teilnehmen	_	VVPP	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+3	85	85	_	CARD	_	4	ATTR	_	_
+4	Prozent	Prozent	_	NN	*|*|neut	2	PRED	_	_
+5	der	der	_	ART	gen|pl|fem	6	DET	_	_
+6	Frauen	Frau	_	NN	gen|pl|fem	4	GMOD	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	Deutschland	Deutschland	_	NE	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Außerdem	außerdem	_	PROAV	_	2	DET	_	_
+2	wurden	werden	_	VAFIN	pl|3|past|ind	0	S	_	_
+3	37	37	_	CARD	_	4	ATTR	_	_
+4	Frauen	Frau	_	NN	nom|pl|fem	2	SUBJ	_	_
+5	in	in	_	APPR	_	9	PP	_	_
+6	die	der	_	ART	acc|sg|fem	8	DET	_	_
+7	neue	neu	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Regierung	Regierung	_	NN	acc|sg|fem	5	PN	_	_
+9	gewählt	wählen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Insgesamt	insgesamt	_	ADV	_	2	ADV	_	_
+2	gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	423	423	_	CARD	_	5	ATTR	_	_
+5	Personen	Person	_	NN	nom|pl|fem	2	OBJA	_	_
+6	in	in	_	APPR	_	2	PP	_	_
+7	der	der	_	ART	dat|sg|fem	9	DET	_	_
+8	neuen	neu	_	ADJA	dat|sg|fem|pos	9	ATTR	_	_
+9	Regierung	Regierung	_	NN	dat|sg|fem	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieses	dieser	_	PDAT	nom|sg|neut	2	DET	_	_
+2	Bild	Bild	_	NN	nom|sg|neut	3	OBJA	_	_
+3	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Frauen	Frau	_	NN	acc|pl|fem	3	SUBJ	_	_
+5	im	in	_	APPRART	dat|sg|neut	3	PP	_	_
+6	Jahr	Jahr	_	NN	dat|sg|neut	5	PN	_	_
+7	1919	1919	_	CARD	_	6	ZEIT	_	_
+8	vor	vor	_	APPR	_	3	PP	_	_
+9	einem	ein	_	ART	dat|sg|neut	10	DET	_	_
+10	Wahl-Lokal	Wahl-Lokal	_	NN	dat|sg|neut	8	PN	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+
+1	Gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	1	SUBJ	_	_
+3	dann	dann	_	ADV	_	1	ADV	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Gleich-Berechtigung	Gleich-Berechtigung	_	NN	acc|sg|fem	1	OBJA	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Männern	Mann	_	NN	dat|pl|masc	6	PN	_	_
+8	und	und	_	KON	_	0	S	_	_
+9	Frauen	Frau	_	NN	dat|pl|fem	8	CJ	_	_
+10	?	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	der	der	_	ART	dat|sg|fem	4	DET	_	_
+3	neuen	neu	_	ADJA	dat|sg|fem|pos	4	ATTR	_	_
+4	Regierung	Regierung	_	NN	dat|sg|fem	1	PN	_	_
+5	zeigte	zeigen	_	VVFIN	sg|3|past|ind	0	S	_	_
+6	sich	sich	_	PRF	acc|sg|3	5	OBJA	_	_
+7	schnell	schnell	_	ADJD	pos	5	ADV	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Viele	vieler	_	PIAT	nom|pl|masc	10	DET	_	_
+10	Männer	Mann	_	NN	nom|pl|masc	11	OBJA	_	_
+11	nehmen	nehmen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+12	die	der	_	ART	acc|pl|masc	13	DET	_	_
+13	Politikerinnen	Politikerin	_	NN	acc|pl|masc	11	SUBJ	_	_
+14	nicht	nicht	_	PTKNEG	_	11	ADV	_	_
+15	ernst	ernst	_	PTKVZ	_	11	AVZ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	9	DET	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Politikerinnen	Politikerin	_	NN	nom|pl|masc	10	OBJA	_	_
+5	damals	damals	_	ADV	_	10	ADV	_	_
+6	keine	kein	_	PIAT	acc|pl|masc	9	DET	_	_
+7	wichtigen	wichtig	_	ADJA	acc|pl|masc|pos	9	ATTR	_	_
+8	politischen	politisch	_	ADJA	acc|pl|masc|pos	9	ATTR	_	_
+9	Ämter	Ämt	_	NN	acc|pl|masc	10	OBJA	_	_
+10	bekommen	bekommen	_	VVINF	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Frauen	Frau	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	enttäuscht	enttäuschen	_	VVPP	_	3	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	keine	kein	_	PIAT	acc|sg|fem	4	DET	_	_
+4	Gleich-Berechtigung	Gleich-Berechtigung	_	NN	acc|sg|fem	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Immer	immer	_	ADV	_	2	ADV	_	_
+2	weniger	weniger	_	PIAT	*|*|*	3	DET	_	_
+3	Frauen	Frau	_	NN	nom|pl|fem	7	ETH	_	_
+4	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+5	deshalb	deshalb	_	PROAV	_	6	DET	_	_
+6	Politik	Politik	_	NN	acc|sg|fem	7	OBJA	_	_
+7	machen	machen	_	VVINF	_	4	AUX	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	auch	auch	_	ADV	_	10	ADV	_	_
+10	wenn	wenn	_	KOUS	_	15	KONJ	_	_
+11	es	es	_	PPER	nom|sg|neut|3	15	SUBJ	_	_
+12	viele	vieler	_	PIAT	acc|pl|*	14	DET	_	_
+13	gute	gut	_	ADJA	acc|pl|fem|pos	14	ATTR	_	_
+14	Politikerinnen	Politikerin	_	NN	acc|pl|fem	15	OBJA	_	_
+15	gab	geben	_	VVFIN	sg|3|past|ind	4	NEB	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+3	1933	1933	_	CARD	_	2	ZEIT	_	_
+4	beendeten	beenden	_	VVFIN	pl|3|past|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Nazis	Nazi	_	NN	nom|pl|masc	4	SUBJ	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Demokratie	Demokratie	_	NN	acc|sg|fem	6	GMOD	_	_
+9	in	in	_	APPR	_	8	PP	_	_
+10	Deutschland	Deutschland	_	NE	dat|sg|neut	9	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Nazis	Nazi	_	NN	nom|sg|fem	3	OBJA	_	_
+3	führten	führen	_	VVFIN	pl|3|past|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Gewalt-Herrschaft	Gewalt-Herrschaft	_	NN	acc|sg|fem	3	OBJA	_	_
+6	ein	ein	_	PTKVZ	_	3	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Deutsche	deutsch	_	NN	nom|pl|*	3	SUBJ	_	_
+3	unterstützten	unterstützen	_	VVFIN	pl|3|past|ind	0	S	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Nazis	Nazi	_	NN	acc|sg|fem	3	OBJA	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	auch	auch	_	ADV	_	9	ADV	_	_
+8	viele	vieler	_	PIAT	acc|pl|fem	9	DET	_	_
+9	Frauen	Frau	_	NN	acc|pl|fem	5	KON	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Änderungen	Änderung	_	NN	nom|pl|fem	5	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	1918	1918	_	CARD	_	3	PN	_	_
+5	wurden	werden	_	VAFIN	pl|3|past|ind	0	S	_	_
+6	vergessen	vergessen	_	VVPP	_	5	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Frauen	Frau	_	NN	nom|pl|fem	8	PRED	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Deutschland	Deutschland	_	NE	dat|sg|neut	2	PN	_	_
+4	sollten	sollen	_	VMFIN	pl|3|past|subj	0	S	_	_
+5	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+6	mehr	mehr	_	ADV	_	5	ADV	_	_
+7	Politikerinnen	Politikerin	_	NN	acc|pl|fem	8	PRED	_	_
+8	sein	sein	_	VAINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	sollten	sollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+3	Ehefrau	Ehefrau	_	NN	acc|sg|fem	8	PRED	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	Hausfrau	Hausfrau	_	NN	dat|sg|neut	3	KON	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Mutter	Mutter	_	NN	nom|sg|fem	6	CJ	_	_
+8	sein	sein	_	VAINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Rückschritt	Rückschritt	_	NN	nom|sg|masc	2	PRED	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	also	also	_	ADV	_	8	ADV	_	_
+7	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+8	Verschlechterung	Verschlechterung	_	NN	acc|sg|fem	4	APP	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	die	der	_	ART	acc|sg|fem	11	DET	_	_
+11	Gleich-Berechtigung	Gleich-Berechtigung	_	NN	acc|sg|fem	9	PN	_	_
+12	von	von	_	APPR	_	11	PP	_	_
+13	Männern	Mann	_	NN	dat|pl|masc	12	PN	_	_
+14	und	und	_	KON	_	13	KON	_	_
+15	Frauen	Frau	_	NN	dat|pl|fem	14	CJ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	heute	heute	_	ADV	_	2	ADV	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Heute	heute	_	ADV	_	2	ADV	_	_
+2	arbeiten	arbeiten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|fem	4	DET	_	_
+4	Frauen	Frau	_	NN	nom|pl|fem	2	SUBJ	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Politik	Politik	_	NN	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+3	werden	werden	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	mehr	mehr	_	ADV	_	3	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Gleich-Berechtigung	Gleich-Berechtigung	_	NN	nom|sg|fem	3	OBJA	_	_
+3	nimmt	nehmen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	weiter	weiter	_	ADV	_	3	ADV	_	_
+6	zu	zu	_	PTKVZ	_	3	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Frauen-Wahl-Recht	Frauen-Wahl-Recht	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	viel	viel	_	ADV	*|*|*	6	ADV	_	_
+5	dazu	dazu	_	PROAV	_	1	DET	_	_
+6	beigetragen	beitragen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	sollte	sollen	_	VMFIN	sg|3|past|ind	0	S	_	_
+3	dieses	dieser	_	PDAT	nom|sg|neut	5	DET	_	_
+4	wichtige	wichtig	_	ADJA	nom|sg|neut|pos	5	ATTR	_	_
+5	Ereignis	Ereignis	_	NN	nom|sg|neut	7	OBJD	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	vergessen	vergessen	_	VVPP	_	8	AUX	_	_
+8	werden	werden	_	VAINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+

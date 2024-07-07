@@ -1,0 +1,170 @@
+﻿1	Annegret	Annegret	_	APPR	_	3	PP	_	_
+2	Kramp-Karrenbauer	Kramp-Karrenbauer	_	NN	dat|sg|masc	1	PN	_	_
+3	diskutiert	diskutieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	mit	mit	_	APPR	_	3	OBJP	_	_
+5	CDU-Mitgliedern	CDU-Mitglied	_	NN	dat|pl|neut	4	PN	_	_
+
+1	CDU-General·sekretärin	CDU-General·sekretärin	_	NN	nom|sg|fem	0	S	_	_
+2	Annegret	Annegret	_	NE	nom|sg|fem	1	APP	_	_
+3	Kramp-Karrenbauer	Kramp-Karrenbauer	_	NE	nom|sg|fem	2	APP	_	_
+4	(	--	_	$(	_	0	ROOT	_	_
+5	AKK	AKK	_	NE	nom|sg|*	3	APP	_	_
+6	)	--	_	$(	_	0	ROOT	_	_
+7	aus	aus	_	APPR	_	5	PP	_	_
+8	dem	der	_	ART	dat|sg|neut	9	DET	_	_
+9	Saarland	Saarland	_	NE	dat|sg|neut	7	PN	_	_
+10	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+11	am	an	_	APPRART	dat|sg|masc	21	PP	_	_
+12	Montag	Montag	_	NN	dat|sg|masc	11	PN	_	_
+13	(	--	_	$(	_	0	ROOT	_	_
+14	19.	19.	_	ADJA	dat|sg|masc|pos	15	ATTR	_	_
+15	November	November	_	NN	dat|sg|masc	12	APP	_	_
+16	)	--	_	$(	_	0	ROOT	_	_
+17	mit	mit	_	APPR	_	21	PP	_	_
+18	CDU-Mitgliedern	CDU-Mitglied	_	NN	dat|pl|neut	17	PN	_	_
+19	in	in	_	APPR	_	18	PP	_	_
+20	Idar-Oberstein	Idar-Oberstein	_	NE	dat|sg|neut	19	PN	_	_
+21	gesprochen	sprechen	_	VVPP	_	10	AUX	_	_
+22	.	--	_	$.	_	0	ROOT	_	_
+
+1	Annegret	Annegret	_	APPR	_	3	PP	_	_
+2	Kramp-Karrenbauer	Kramp-Karrenbauer	_	NN	acc|pl|neut	1	PN	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	CDU-Chefin	CDU-Chefin	_	NN	nom|sg|fem	5	PRED	_	_
+5	werden	werden	_	VAINF	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Ich	ich	_	PPER	nom|sg|*|1	5	SUBJ	_	_
+5	will	wollen	_	VMFIN	sg|1|pres|ind	0	S	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	dass	dass	_	KOUS	_	0	S	_	_
+8	mich	mich	_	PPER	acc|sg|*|1	0	S	_	_
+9	die	der	_	ART	nom|sg|fem	10	DET	_	_
+10	CDU-Mitglieder	CDU-Mitglied	_	NN	nom|sg|fem	12	OBJA	_	_
+11	besser	gut	_	ADJD	comp	12	ADV	_	_
+12	kennen·lernen	kennen·lern	_	VVIZU	_	2	SUBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Annegret	Annegret	_	NE	nom|sg|masc	7	OBJA	_	_
+4	Kramp-Karrenbauer	Kramp-Karrenbauer	_	NN	nom|sg|masc	3	APP	_	_
+5	in	in	_	APPR	_	7	PP	_	_
+6	Idar-Oberstein	Idar-Oberstein	_	NE	dat|sg|neut	5	PN	_	_
+7	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Ich	ich	_	PPER	nom|sg|*|1	5	SUBJ	_	_
+5	will	wollen	_	VMFIN	sg|1|pres|ind	2	S	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	UN-Migrations·pakt	UN-Migrations·pakt	_	NN	acc|sg|masc	5	PAR	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	PDS	nom|sg|neut	2	ETH	_	_
+4	?	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|neut	2	DET	_	_
+2	Länder	Land	_	NN	nom|pl|neut	6	OBJA	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|pl|3	6	OBJA	_	_
+5	darauf	darauf	_	PROAV	_	10	DET	_	_
+6	geeinigt	einigen	_	VVPP	_	3	AUX	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	dass	daß	_	KOUS	_	14	KONJ	_	_
+9	es	es	_	PPER	nom|sg|neut|3	14	SUBJ	_	_
+10	Migranten	Migrant	_	NN	dat|pl|masc	13	ADV	_	_
+11	welt·weit	welt·weit	_	ADJD	pos	13	ADV	_	_
+12	besser	gut	_	ADJD	comp	13	ADV	_	_
+13	gehen	gehen	_	VVINF	_	14	AUX	_	_
+14	soll	sollen	_	VMFIN	sg|3|pres|ind	6	OBJC	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	2	DET	_	_
+2	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	Deutschland	Deutschland	_	NE	nom|sg|neut	4	OBJA	_	_
+4	mit·machen	mit·machen	_	VVINF	_	2	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Migranten	Migrant	_	NN	nom|pl|masc	2	PRED	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	2	PRED	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	die	der	_	PRELS	nom|pl|masc	11	SUBJ	_	_
+6	aus	aus	_	APPR	_	11	PP	_	_
+7	anderen	anderer	_	ADJA	dat|pl|neut|pos	8	ATTR	_	_
+8	Ländern	Land	_	NN	dat|pl|neut	6	PN	_	_
+9	nach	nach	_	APPR	_	11	PP	_	_
+10	Deutschland	Deutschland	_	NE	dat|sg|neut	9	PN	_	_
+11	kommen	kommen	_	VVFIN	pl|3|pres|ind	3	REL	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	CDU-Politiker	CDU-Politiker	_	NN	nom|sg|fem	8	SUBJ	_	_
+3	Jens	Jens	_	NE	gen|sg|neut	2	APP	_	_
+4	Spahn	Spahn	_	NE	acc|sg|fem	3	APP	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Friedrich	Friedrich	_	NE	nom|sg|masc	5	CJ	_	_
+7	Merz	Merz	_	NE	dat|sg|masc	6	APP	_	_
+8	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+9	auch	auch	_	ADV	_	10	ADV	_	_
+10	CDU-Chef	CDU-Chef	_	NN	nom|sg|masc	11	PRED	_	_
+11	werden	werden	_	VAINF	_	8	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	2	ADV	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Idar-Oberstein	Idar-Oberstein	_	NE	dat|sg|neut	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	den	der	_	ART	acc|sg|masc	4	DET	_	_
+4	UN-Migrations·pakt	UN-Migrations·pakt	_	NN	acc|sg|masc	2	PAR	_	_
+5	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Idar-Oberstein	Idar-Oberstein	_	NE	dat|sg|neut	1	PN	_	_
+3	waren	sein	_	VAFIN	pl|3|past|ind	0	S	_	_
+4	500	500	_	CARD	_	5	ATTR	_	_
+5	CDU-Mitglieder	CDU-Mitglied	_	NN	nom|pl|neut	3	PRED	_	_
+6	aus	aus	_	APPR	_	5	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Saarland	Saarland	_	NE	dat|sg|neut	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	viele	_	PIS	nom|pl|*	2	SUBJ	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Annegret	Annegret	_	NE	acc|sg|neut	2	SUBJ	_	_
+4	Kramp-Karrenbauer	Kramp-Karrenbauer	_	NN	acc|sg|neut	3	APP	_	_
+5	als	als	_	APPR	_	4	PP	_	_
+6	CDU-Chefin	CDU-Chefin	_	NN	nom|sg|fem	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+2	Dezember	Dezember	_	NN	dat|sg|masc	1	PN	_	_
+3	wählt	wählen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	CDU	CDU	_	NE	nom|sg|fem	3	OBJA	_	_
+6	auf	auf	_	APPR	_	3	PP	_	_
+7	einem	ein	_	ART	dat|sg|masc	8	DET	_	_
+8	Bundes·parteitag	Bundes·parteitag	_	NN	dat|sg|masc	6	PN	_	_
+9	eine	ein	_	ART	acc|sg|fem	11	DET	_	_
+10	neue	neu	_	ADJA	acc|sg|fem|pos	11	ATTR	_	_
+11	Chefin	Chefin	_	NN	acc|sg|fem	8	GMOD	_	_
+12	oder	oder	_	KON	_	11	KON	_	_
+13	einen	ein	_	ART	acc|sg|masc	15	DET	_	_
+14	neuen	neu	_	ADJA	acc|sg|masc|pos	15	ATTR	_	_
+15	Chef	Chef	_	NN	acc|sg|masc	12	CJ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+

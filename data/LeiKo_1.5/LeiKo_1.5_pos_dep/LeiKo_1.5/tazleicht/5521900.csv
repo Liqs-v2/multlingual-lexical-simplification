@@ -1,0 +1,335 @@
+1	Kroatien	Kroatien	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	gegen	gegen	_	APPR	_	2	PP	_	_
+4	England	England	_	NE	acc|sg|neut	3	PN	_	_
+
+1	Kroatien	Kroatien	_	NE	nom|sg|neut	4	OBJA	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	acc|sg|neut|3	4	OBJA	_	_
+4	geschafft	schaffen	_	VVPP	_	2	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	zieht	ziehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	ins	in	_	APPRART	acc|sg|neut	3	PP	_	_
+5	WM-Finale	WM-Finale	_	NN	acc|sg|neut	4	PN	_	_
+6	ein	ein	_	PTKVZ	_	3	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kroatien	Kroatien	_	NE	nom|sg|neut	4	OBJA	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	acc|sg|neut|3	4	OBJA	_	_
+4	geschafft	schaffen	_	VVPP	_	2	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Mannschaft	Mannschaft	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	zieht	ziehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	ins	in	_	APPRART	acc|sg|neut	3	PP	_	_
+5	WM-Finale	WM-Finale	_	NN	acc|sg|neut	4	PN	_	_
+6	ein	ein	_	PTKVZ	_	3	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	4	ADV	_	_
+2	alle	aller	_	PIAT	acc|pl|masc	4	DET	_	_
+3	wichtigen	wichtig	_	ADJA	acc|pl|masc|pos	4	ATTR	_	_
+4	Infos	Info	_	NN	acc|pl|masc	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Spiel	Spiel	_	NN	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	ging	gehen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	England	England	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	1	1	_	CARD	_	4	ATTR	_	_
+4	Tor	Tor	_	NN	acc|sg|neut	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kroatien	Kroatien	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	2	2	_	CARD	_	4	ATTR	_	_
+4	Tore	Tor	_	NN	acc|sg|fem	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kroatien	Kroatien	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Spiel	Spiel	_	NN	acc|sg|neut	2	PAR	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	lief	laufen	_	VVFIN	sg|3|past|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	ab	ab	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	England	England	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	schon	schon	_	ADV	_	2	ADV	_	_
+4	in	in	_	APPR	_	2	PP	_	_
+5	der	der	_	ART	dat|sg|fem	4	PN	_	_
+6	5.	5	_	CARD	_	7	ATTR	_	_
+7	Spiel-Minute	Spiel-Minute	_	NN	dat|sg|fem	2	OBJA	_	_
+8	das	der	_	ART	acc|sg|neut	10	DET	_	_
+9	erste	erster	_	ADJA	acc|sg|neut|pos	10	ATTR	_	_
+10	Tor	Tor	_	NN	acc|sg|neut	2	OBJA	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	England	England	_	NE	nom|sg|neut	2	PRED	_	_
+2	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Tor	Tor	_	NN	nom|sg|neut	2	ETH	_	_
+5	aus	aus	_	APPR	_	2	PP	_	_
+6	einer	ein	_	ART	dat|sg|fem	7	DET	_	_
+7	Standard-Situation	Standard-Situation	_	NN	dat|sg|fem	5	PN	_	_
+8	heraus	heraus	_	PTKVZ	_	2	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	eine	ein	_	ART	nom|sg|fem	4	DET	_	_
+4	Standard-Situation	Standard-Situation	_	NN	nom|sg|fem	2	PRED	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Standard-Situationen	Standard-Situation	_	NN	acc|pl|fem	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	meist	meist	_	ADV	_	2	ADV	_	_
+5	nach	nach	_	APPR	_	2	PP	_	_
+6	einer	ein	_	ART	dat|sg|fem	7	DET	_	_
+7	Spiel-Unterbrechung	Spiel-Unterbrechung	_	NN	dat|sg|fem	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Schiedsrichter	Schiedsrichter	_	NN	nom|sg|masc	3	OBJA	_	_
+3	pfeift	pfeifen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	weil	weil	_	KOUS	_	10	KONJ	_	_
+6	der	der	_	ART	nom|sg|masc	7	DET	_	_
+7	Ball	Ball	_	NN	nom|sg|masc	10	SUBJ	_	_
+8	im	in	_	APPRART	dat|sg|masc	10	PRED	_	_
+9	Aus	Aus	_	NN	dat|sg|masc	8	PN	_	_
+10	ist	sein	_	VAFIN	sg|3|pres|ind	3	NEB	_	_
+11	oder	oder	_	KON	_	10	KON	_	_
+12	es	es	_	PPER	nom|sg|neut|3	16	OBJA	_	_
+13	ein	ein	_	ART	nom|sg|masc	14	DET	_	_
+14	Foul	Foul	_	NN	nom|sg|masc	0	S	_	_
+15	(	--	_	$(	_	0	ROOT	_	_
+16	gesprochen	sprechen	_	VVPP	_	11	CJ	_	_
+17	:	--	_	$.	_	0	ROOT	_	_
+18	Faul	Faul	_	NE	nom|sg|*	0	S	_	_
+19	)	--	_	$(	_	0	ROOT	_	_
+20	gab	geben	_	VVFIN	sg|3|past|ind	11	CJ	_	_
+21	.	--	_	$.	_	0	ROOT	_	_
+
+1	Danach	danach	_	PROAV	_	2	DET	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	einen	ein	_	ART	acc|sg|masc	5	DET	_	_
+5	Einwurf	Einwurf	_	NN	acc|sg|masc	2	OBJA	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	Eckstoß	Eckstoß	_	NN	acc|sg|masc	5	KON	_	_
+8	oder	oder	_	KON	_	7	KON	_	_
+9	Freistoß	Freistoß	_	NN	acc|sg|masc	8	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	acc|sg|neut	2	OBJA2	_	_
+2	nennt	nennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Standard-Situtation	Standard-Situtation	_	NN	acc|sg|fem	2	OBJA2	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	englische	englisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	OBJA	_	_
+4	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	also	also	_	ADV	_	4	ADV	_	_
+6	zu	zu	_	APPR	_	4	PP	_	_
+7	Spiel-Beginn	Spiel-Beginn	_	NN	dat|sg|masc	6	PN	_	_
+8	gleich	gleich	_	ADV	_	4	ADV	_	_
+9	einen	ein	_	ART	acc|sg|masc	10	DET	_	_
+10	Freistoß	Freistoß	_	NN	acc|sg|masc	4	OBJA	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Ball	Ball	_	NN	nom|sg|masc	4	SUBJ	_	_
+4	landet	landen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	im	in	_	APPRART	dat|sg|masc	4	PP	_	_
+6	Tor	Tor	_	NN	dat|sg|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Englang	Englang	_	NE	nom|sg|*	2	OBJA	_	_
+2	führt	führen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kroatien	Kroatien	_	NE	nom|sg|neut	3	PRED	_	_
+2	hingegen	hingegen	_	ADV	_	3	ADV	_	_
+3	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	viele	vieler	_	PIAT	acc|pl|masc	5	DET	_	_
+5	Fehler	Fehler	_	NN	acc|pl|masc	3	PAR	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	kroatischen	kroatisch	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	verlieren	verlieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	oft	oft	_	ADV	_	4	ADV	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Ball	Ball	_	NN	acc|sg|masc	4	OBJG	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	zwischen	zwischen	_	APPR	_	6	PP	_	_
+3	den	der	_	ART	dat|pl|masc	5	DET	_	_
+4	kroatischen	kroatisch	_	ADJA	dat|pl|masc|pos	5	ATTR	_	_
+5	Spielern	Spieler	_	NN	dat|pl|masc	6	PRED	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+7	zu	zu	_	PTKA	_	9	ADV	_	_
+8	viel	viel	_	PIAT	*|*|*	9	ATTR	_	_
+9	Abstand	Abstand	_	NN	dat|sg|masc	6	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	dat|pl|3	10	OBJA	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Ball	Ball	_	NN	acc|sg|masc	3	PAR	_	_
+6	deshalb	deshalb	_	PROAV	_	3	DET	_	_
+7	nicht	nicht	_	PTKNEG	_	10	ADV	_	_
+8	genau	genau	_	ADJD	pos	10	ADV	_	_
+9	genug	genug	_	ADV	_	8	ADV	_	_
+10	zuschießen	zuschießen	_	VVINF	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	8	PP	_	_
+2	den	der	_	ART	dat|pl|masc	5	DET	_	_
+3	ersten	erster	_	ADJA	dat|pl|masc|pos	5	ATTR	_	_
+4	45	45	_	CARD	_	5	ATTR	_	_
+5	Minuten	Minute	_	NN	acc|pl|fem	1	PN	_	_
+6	des	der	_	ART	gen|sg|neut	7	DET	_	_
+7	Spiels	Spiel	_	NN	gen|sg|neut	5	GMOD	_	_
+8	ändert	ändern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+9	sich	sich	_	PRF	acc|sg|3	8	OBJA	_	_
+10	daran	daran	_	PROAV	_	11	DET	_	_
+11	nichts	nichts	_	PIS	*|*|neut	8	SUBJ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	auch	auch	_	ADV	_	5	ADV	_	_
+3	die	der	_	ART	nom|sg|fem	5	DET	_	_
+4	zweite	zweiter	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Halbzeit	Halbzeit	_	NN	nom|sg|fem	6	SUBJ	_	_
+6	läuft	laufen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+7	so	so	_	ADV	_	6	ADV	_	_
+8	weiter	weiter	_	ADV	_	6	ADV	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Engländer	Engländer	_	NN	nom|pl|masc	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	Tor-Chancen	Tor-Chance	_	NN	acc|pl|fem	3	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|*	2	DET	_	_
+2	Kroaten	Kroate	_	NN	nom|pl|*	3	OBJA	_	_
+3	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Fehler	Fehler	_	NN	nom|pl|masc	3	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Erst	erst	_	ADV	_	2	ADV	_	_
+2	in	in	_	APPR	_	6	PP	_	_
+3	der	der	_	ART	dat|sg|fem	5	DET	_	_
+4	68.	68	_	CARD	_	5	ATTR	_	_
+5	Minute	Minute	_	NN	dat|sg|fem	2	PN	_	_
+6	ändert	ändern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	sich	sich	_	PRF	acc|sg|3	6	OBJA	_	_
+8	das	der	_	PDS	nom|sg|neut	6	SUBJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Da	da	_	ADV	_	2	ADV	_	_
+2	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	5	DET	_	_
+4	kroatische	kroatisch	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Spieler	Spieler	_	NN	nom|sg|masc	2	SUBJ	_	_
+6	Šime	Šime	_	NE	nom|sg|masc	2	OBJA	_	_
+7	Vrsaljko	Vrsaljko	_	NE	nom|sg|masc	6	APP	_	_
+8	den	der	_	ART	acc|sg|masc	9	DET	_	_
+9	Ball	Ball	_	NN	acc|sg|masc	2	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	er	er	_	PPER	nom|sg|masc|3	3	SUBJ	_	_
+3	trifft	treffen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	England	England	_	NE	nom|sg|neut	4	SUBJ	_	_
+2	und	und	_	KON	_	1	KON	_	_
+3	Kroatien	Kroatien	_	NE	nom|sg|neut	2	CJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	nun	nun	_	ADV	_	4	ADV	_	_
+6	gleich	gleich	_	ADV	_	7	ADV	_	_
+7	viele	vieler	_	PIAT	nom|pl|masc	8	DET	_	_
+8	Tore	Tor	_	NN	nom|pl|masc	4	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wegen	wegen	_	APPR	_	4	PP	_	_
+2	des	der	_	ART	gen|sg|masc	3	DET	_	_
+3	Tor-Gleichstands	Tor-Gleichstand	_	NN	gen|sg|masc	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+7	Spiel-Verlängerung	Spiel-Verlängerung	_	NN	acc|sg|fem	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	30	30	_	CARD	_	5	ATTR	_	_
+5	Minuten	Minute	_	NN	acc|pl|fem	6	GRAD	_	_
+6	länger	lang	_	ADJD	comp	3	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Verlängerung	Verlängerung	_	NN	dat|sg|fem	1	PN	_	_
+4	gelingt	gelingen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	Kroatien	Kroatien	_	NE	nom|sg|neut	4	OBJD	_	_
+6	dann	dann	_	ADV	_	4	ADV	_	_
+7	der	der	_	ART	nom|sg|masc	8	DET	_	_
+8	Sieg	Sieg	_	NN	nom|sg|masc	4	OBJD	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Spieler	Spieler	_	NN	nom|sg|masc	5	OBJA	_	_
+3	Mario	Mario	_	NE	nom|sg|masc	2	APP	_	_
+4	Mandžukić	Mandžukić	_	NE	nom|sg|masc	3	APP	_	_
+5	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Ball	Ball	_	NN	acc|sg|masc	5	ETH	_	_
+8	ins	in	_	APPRART	acc|sg|neut	5	PP	_	_
+9	Tor	Tor	_	NN	acc|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Kroatien	Kroatien	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	zieht	ziehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ins	in	_	APPRART	acc|sg|neut	2	PP	_	_
+4	Finale	Finale	_	NN	acc|sg|neut	3	PN	_	_
+5	ein	ein	_	PTKVZ	_	2	AVZ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	England	England	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	draußen	draußen	_	ADV	_	2	ADV	_	_
+4	.	--	_	$.	_	0	ROOT	_	_

@@ -1,0 +1,245 @@
+1	Hannover	Hannover	_	NE	nom|sg|neut	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Züge	Zug	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	fahren	fahren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Hannover	Hannover	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+5	große	groß	_	ADJA	nom|sg|fem|pos	6	ATTR	_	_
+6	Bau·stelle	Bau·stelle	_	NN	nom|sg|fem	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hannover	Hannover	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Haupt·stadt	Haupt·stadt	_	NN	nom|sg|fem	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+2	große	groß	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Bau·stelle	Bau·stelle	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	an	an	_	APPR	_	4	PRED	_	_
+6	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+7	alten	alt	_	ADJA	dat|sg|fem|pos	8	ATTR	_	_
+8	Brücke	Brücke	_	NN	dat|sg|fem	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Über	über	_	APPR	_	5	PP	_	_
+2	diese	dieser	_	PDAT	acc|sg|fem	4	DET	_	_
+3	alte	alt	_	ADJA	acc|sg|fem|pos	4	ATTR	_	_
+4	Brücke	Brücke	_	NN	acc|sg|fem	1	PN	_	_
+5	fahren	fahren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	sehr	sehr	_	ADV	_	5	ADV	_	_
+7	viele	vieler	_	PIAT	acc|pl|masc	8	DET	_	_
+8	Züge	Zug	_	NN	acc|pl|masc	5	SUBJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|sg|fem	6	DET	_	_
+5	alte	alt	_	ADJA	nom|sg|fem|pos	6	ATTR	_	_
+6	Brücke	Brücke	_	NN	nom|sg|fem	3	SUBJ	_	_
+7	gesperrt	sperren	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Über	über	_	APPR	_	8	PP	_	_
+5	die	der	_	ART	acc|sg|fem	7	DET	_	_
+6	alte	alt	_	ADJA	acc|sg|fem|pos	7	ATTR	_	_
+7	Brücke	Brücke	_	NN	acc|sg|fem	4	PN	_	_
+8	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+9	keine	kein	_	PIAT	nom|sg|fem	10	DET	_	_
+10	Züge	Zug	_	NN	nom|sg|fem	12	OBJA	_	_
+11	mehr	mehr	_	ADV	_	10	ADV	_	_
+12	fahren	fahren	_	VVINF	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	alte	alt	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Brücke	Brücke	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	6	ADV	_	_
+6	abgerissen	abreißen	_	VVPP	_	4	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Arbeiten	Arbeit	_	NN	nom|pl|masc	7	OBJA	_	_
+3	an	an	_	APPR	_	7	PP	_	_
+4	der	der	_	ART	dat|sg|fem	6	DET	_	_
+5	alten	alt	_	ADJA	dat|sg|fem|pos	6	ATTR	_	_
+6	Brücke	Brücke	_	NN	dat|sg|fem	3	PN	_	_
+7	dauern	dauern	_	VVINF	_	0	S	_	_
+8	2	2	_	CARD	_	9	ATTR	_	_
+9	Wochen	Woche	_	NN	dat|pl|fem	7	ZEIT	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	4	DET	_	_
+3	2	2	_	CARD	_	4	ATTR	_	_
+4	Wochen	Woche	_	NN	dat|pl|fem	1	PN	_	_
+5	fallen	fallen	_	VVINF	_	0	S	_	_
+6	jeden	jeder	_	PIAT	acc|sg|masc	7	DET	_	_
+7	Tag	Tag	_	NN	acc|sg|masc	5	PAR	_	_
+8	350	350	_	CARD	_	9	ATTR	_	_
+9	Züge	Zug	_	NN	acc|pl|masc	7	VOK	_	_
+10	aus	aus	_	PTKVZ	_	5	AVZ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	9	SUBJ	_	_
+5	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+6	mit	mit	_	APPR	_	9	PP	_	_
+7	dem	der	_	ART	dat|sg|masc	8	DET	_	_
+8	Zug	Zug	_	NN	dat|sg|masc	6	PN	_	_
+9	fahren	fahren	_	VVFIN	_	2	KON	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	170	170	_	CARD	_	2	ATTR	_	_
+2	Züge	Zug	_	NN	nom|pl|masc	3	ZEIT	_	_
+3	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	jeden	jeder	_	PIAT	acc|sg|masc	5	DET	_	_
+5	Tag	Tag	_	NN	acc|sg|masc	6	ZEIT	_	_
+6	umgeleitet	geleiten	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Diese	dieser	_	PDAT	nom|sg|fem	5	DET	_	_
+5	Züge	Zug	_	NN	nom|sg|fem	6	SUBJ	_	_
+6	müssen	müssen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+7	auf	auf	_	APPR	_	10	PP	_	_
+8	anderen	anderer	_	ADJA	dat|pl|fem|pos	9	ATTR	_	_
+9	Strecken	Strecke	_	NN	dat|pl|fem	7	PN	_	_
+10	fahren	fahren	_	VVINF	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+3	Züge	Zug	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	müssen	müssen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	in	in	_	APPR	_	8	PP	_	_
+6	anderen	anderer	_	ADJA	dat|pl|neut|pos	7	ATTR	_	_
+7	Bahn·höfen	Bahn·hof	_	NN	dat|pl|neut	5	PN	_	_
+8	halten	halten	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	zu	zu	_	APPR	_	8	PP	_	_
+6	anderen	anderer	_	ADJA	dat|pl|neut|pos	7	ATTR	_	_
+7	Bahn·höfen	Bahn·hof	_	NN	dat|pl|neut	5	PN	_	_
+8	fahren	fahren	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bau·arbeiten	Bau·arbeit	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	dauern	dauern	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	lange	lang	_	ADV	_	2	ADV	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	alte	alt	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Brücke	Brücke	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	aus	aus	_	APPR	_	4	PP	_	_
+6	dem	der	_	ART	dat|sg|neut	7	DET	_	_
+7	Jahr	Jahr	_	NN	dat|sg|neut	5	PN	_	_
+8	1880	1880	_	CARD	_	7	ZEIT	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	4	DET	_	_
+3	alte	alt	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+4	Brücke	Brücke	_	NN	nom|sg|fem	5	SUBJ	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	kaputt	kaputt	_	ADJD	pos	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	wird	werden	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	jetzt	jetzt	_	ADV	_	7	ADV	_	_
+4	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+5	neue	neu	_	ADJA	acc|sg|fem|pos	6	ATTR	_	_
+6	Brücke	Brücke	_	NN	acc|sg|fem	7	OBJG	_	_
+7	gebaut	bauen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fach·leute	Fach·leute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Bau	Bau	_	NN	nom|sg|masc	11	SUBJ	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	der	der	_	ART	dat|sg|fem	10	DET	_	_
+9	neuen	neu	_	ADJA	dat|sg|fem|pos	10	ATTR	_	_
+10	Brücke	Brücke	_	NN	dat|sg|fem	7	PN	_	_
+11	dauert	dauern	_	VVFIN	sg|3|pres|ind	0	S	_	_
+12	sehr	sehr	_	ADV	_	13	ADV	_	_
+13	lange	lange	_	ADV	_	11	ADV	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	3	DET	_	_
+3	Bau	Bau	_	NN	nom|sg|masc	8	SUBJ	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	7	DET	_	_
+6	neuen	neu	_	ADJA	dat|sg|fem|pos	7	ATTR	_	_
+7	Brücke	Brücke	_	NN	dat|sg|fem	4	PN	_	_
+8	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+9	sehr	sehr	_	ADV	_	10	ADV	_	_
+10	schwierig	schwierig	_	ADJD	pos	8	PRED	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	müssen	müssen	_	VMFIN	pl|1|pres|ind	0	S	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Brücke	Brücke	_	NN	acc|sg|fem	8	ETH	_	_
+6	noch	noch	_	ADV	_	8	ADV	_	_
+7	öfter	öfter	_	ADJD	comp	8	ADV	_	_
+8	sperren	sperren	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	_	0	ROOT	_	_
+2	Im	in	_	APPRART	dat|sg|masc	0	S	_	_
+3	April	April	_	NN	dat|sg|masc	2	PN	_	_
+4	2019	2019	_	CARD	_	0	S	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	XY	nom|sg|*	0	ROOT	_	_
+2	Und	und	_	KON	_	0	S	_	_
+3	im	in	_	APPRART	dat|sg|masc	5	PP	_	_
+4	Juli	Juli	_	NN	dat|sg|masc	3	PN	_	_
+5	2019	2019	_	CARD	_	2	CJ	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	neue	neu	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Brücke	Brücke	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	in	in	_	APPR	_	9	PP	_	_
+6	einem	ein	_	ART	dat|sg|neut	7	DET	_	_
+7	Jahr	Jahr	_	NN	dat|sg|neut	5	PN	_	_
+8	fertig	fertig	_	ADJD	pos	9	ADV	_	_
+9	sein	sein	_	VAINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_

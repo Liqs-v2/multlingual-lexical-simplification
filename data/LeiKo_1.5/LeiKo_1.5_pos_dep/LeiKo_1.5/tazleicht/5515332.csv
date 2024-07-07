@@ -1,0 +1,522 @@
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	gegen	gegen	_	APPR	_	2	PP	_	_
+4	Schweden	Schweden	_	NE	acc|sg|neut	3	PN	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	scheidet	scheiden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	noch	noch	_	ADV	_	4	ADV	_	_
+6	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+7	bei	bei	_	APPR	_	4	PP	_	_
+8	der	der	_	ART	dat|sg|fem	9	DET	_	_
+9	WM	WM	_	NN	dat|sg|fem	7	PN	_	_
+10	aus	aus	_	PTKVZ	_	4	AVZ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Spiel	Spiel	_	NN	acc|sg|neut	2	OBJA	_	_
+5	gegen	gegen	_	APPR	_	4	PP	_	_
+6	Schweden	Schweden	_	NE	acc|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	erleichtert	erleichtern	_	VVPP	_	4	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	muss	muss	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	noch	noch	_	ADV	_	8	ADV	_	_
+4	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+5	aus	aus	_	APPR	_	8	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	WM	WM	_	NN	dat|sg|fem	5	PN	_	_
+8	ausscheiden	ausscheiden	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Wie	wie	_	PWAV	_	3	ADV	_	_
+3	geht	gehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	ART	nom|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+6	aus	aus	_	PTKVZ	_	3	AVZ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Schweden	Schweden	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	1	1	_	CARD	_	4	ATTR	_	_
+4	Tor	Tor	_	NN	acc|sg|neut	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	2	2	_	CARD	_	4	ATTR	_	_
+4	Tore	Tor	_	NN	acc|sg|fem	2	OBJA	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	OBJA	_	_
+2	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	*|*|*	0	ROOT	_	_
+2	Was	was	_	PWS	nom|sg|neut	3	SUBJ	_	_
+3	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+5	Spiel	Spiel	_	NN	dat|sg|masc	4	PN	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	5	DET	_	_
+4	letzte	letzter	_	ADJA	acc|sg|neut|pos	5	ATTR	_	_
+5	Spiel	Spiel	_	NN	acc|sg|neut	8	OBJA	_	_
+6	gegen	gegen	_	APPR	_	5	PP	_	_
+7	Mexiko	Mexiko	_	NE	acc|sg|neut	6	PN	_	_
+8	verloren	verlieren	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	9	OBJA	_	_
+4	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	deshalb	deshalb	_	PROAV	_	6	DET	_	_
+6	unbedingt	unbedingt	_	ADV	_	9	ADV	_	_
+7	gegen	gegen	_	APPR	_	9	PP	_	_
+8	Schweden	Schweden	_	NE	acc|sg|neut	7	PN	_	_
+9	gewinnen	gewinnen	_	VVINF	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	rennt	rennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sofort	sofort	_	ADV	_	2	ADV	_	_
+4	vor	vor	_	APPR	_	2	PP	_	_
+5	das	der	_	ART	acc|sg|neut	7	DET	_	_
+6	schwedische	schwedisch	_	ADJA	acc|sg|neut|pos	7	ATTR	_	_
+7	Tor	Tor	_	NN	acc|sg|neut	4	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	6	PP	_	_
+2	den	der	_	ART	dat|pl|masc	3	DET	_	_
+3	ersten	erster	_	ADJA	dat|pl|masc|pos	1	PN	_	_
+4	10	10	_	CARD	_	5	ATTR	_	_
+5	Spiel-Minuten	Spiel-Minute	_	NN	acc|pl|fem	3	OBJG	_	_
+6	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	es	es	_	PPER	nom|sg|neut|3	6	SUBJ	_	_
+8	mehrere	mehrere	_	PIAT	acc|pl|fem	9	DET	_	_
+9	Tor-Chancen	Tor-Chance	_	NN	acc|pl|fem	6	OBJA	_	_
+10	für	für	_	APPR	_	9	PP	_	_
+11	Deutschland	Deutschland	_	NE	acc|sg|neut	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	4	DET	_	_
+3	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	4	ATTR	_	_
+4	Mannschaft	Mannschaft	_	NN	nom|sg|fem	5	OBJA	_	_
+5	macht	machen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+6	dieselben	derselbe	_	PDAT	acc|pl|masc	7	DET	_	_
+7	Fehler	Fehler	_	NN	acc|pl|masc	5	OBJA	_	_
+8	wie	wie	_	KOKOM	_	7	KOM	_	_
+9	im	in	_	APPRART	dat|sg|masc	8	CJ	_	_
+10	Spiel	Spiel	_	NN	dat|sg|masc	9	PN	_	_
+11	gegen	gegen	_	APPR	_	10	PP	_	_
+12	Mexiko	Mexiko	_	NE	acc|sg|neut	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	oft	oft	_	ADV	_	2	ADV	_	_
+4	Fehler	Fehler	_	NN	nom|pl|masc	2	OBJA	_	_
+5	im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+6	Mittel-Feld	Mittel-Feld	_	NN	dat|sg|neut	5	PN	_	_
+7	und	und	_	KON	_	2	KON	_	_
+8	Fehler	Fehler	_	NN	gen|pl|masc	7	CJ	_	_
+9	in	in	_	APPR	_	8	PP	_	_
+10	der	der	_	ART	dat|sg|fem	11	DET	_	_
+11	Abwehr	Abwehr	_	NN	dat|sg|fem	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	schwedische	schwedisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	OBJA	_	_
+4	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	deshalb	deshalb	_	PROAV	_	4	DET	_	_
+6	das	der	_	ART	acc|sg|neut	8	DET	_	_
+7	erste	erster	_	ADJA	acc|sg|neut|pos	8	ATTR	_	_
+8	Tor	Tor	_	NN	acc|sg|neut	4	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ihr	ihr	_	PPOSAT	nom|sg|masc	2	DET	_	_
+2	Tor	Tor	_	NN	nom|sg|masc	3	OBJD	_	_
+3	fällt	fallen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	7	DET	_	_
+6	32.	32	_	CARD	_	7	ATTR	_	_
+7	Minute	Minute	_	NN	dat|sg|fem	4	PN	_	_
+8	vom	von	_	APPRART	dat|sg|masc	3	PP	_	_
+9	Spiel	Spiel	_	NN	dat|sg|masc	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	wie	_	PWAV	_	2	ADV	_	_
+2	reagiert	reagieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	5	DET	_	_
+4	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Mannschaft	Mannschaft	_	NN	nom|sg|fem	2	SUBJ	_	_
+6	auf	auf	_	APPR	_	2	OBJP	_	_
+7	das	der	_	ART	acc|sg|neut	8	DET	_	_
+8	Tor	Tor	_	NN	acc|sg|neut	6	PN	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	Schweden	Schweden	_	NE	dat|sg|neut	9	PN	_	_
+11	?	--	_	$.	_	0	ROOT	_	_
+
+1	Jogi	Jogi	_	NE	nom|sg|masc	3	SUBJ	_	_
+2	Löw	Löw	_	NE	nom|sg|masc	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	sauer	sauer	_	ADJD	pos	3	ADV	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	5	DET	_	_
+4	deutsche	deutsch	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Trainer	Trainer	_	NN	nom|sg|masc	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	6	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Tor	Tor	_	NN	dat|sg|neut	1	PN	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	Schweden	Schweden	_	NE	dat|sg|neut	4	PN	_	_
+6	schaut	schauen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	Jogi	Jogi	_	NE	nom|sg|masc	6	OBJD	_	_
+8	Löw	Löw	_	NE	nom|sg|masc	7	APP	_	_
+9	als	als	_	APPR	_	6	PP	_	_
+10	möchte	möchten	_	VMFIN	sg|3|pres|ind	0	S	_	_
+11	er	er	_	PPER	nom|sg|masc|3	10	SUBJ	_	_
+12	was	was	_	PWS	nom|sg|neut	9	PN	_	_
+13	kaputt	kaputt	_	ADJD	pos	14	ADV	_	_
+14	machen	machen	_	VVINF	_	10	AUX	_	_
+15	,	--	_	$,	_	0	ROOT	_	_
+16	um	um	_	KOUI	_	19	KONJ	_	_
+17	seine	sein	_	PPOSAT	acc|sg|fem	18	DET	_	_
+18	Wut	Wut	_	NN	acc|sg|fem	19	OBJA	_	_
+19	rauszulassen	rauszulassen	_	VVINF	_	14	KON	_	_
+20	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Bild	Bild	_	NN	nom|sg|neut	2	PRED	_	_
+5	vom	von	_	APPRART	dat|sg|masc	4	PP	_	_
+6	wütenden	wütend	_	ADJA	dat|sg|masc|pos	7	ATTR	_	_
+7	Jogi	Jogi	_	NE	dat|sg|masc	5	PN	_	_
+8	Löw	Löw	_	NE	dat|sg|masc	7	APP	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	einer	ein	_	ART	dat|sg|fem	3	DET	_	_
+3	Pause	Pause	_	NN	dat|sg|fem	1	PN	_	_
+4	beginnt	beginnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	7	DET	_	_
+6	zweite	zweiter	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Halb-Zeit	Halb-Zeit	_	NN	nom|sg|fem	4	SUBJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Schweden	Schweden	_	NE	nom|sg|neut	2	OBJD	_	_
+2	liegt	liegen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	immer	immer	_	ADV	_	4	ADV	_	_
+4	noch	noch	_	ADV	_	2	ADV	_	_
+5	mit	mit	_	APPR	_	2	PP	_	_
+6	einem	ein	_	ART	dat|sg|masc	7	DET	_	_
+7	Tor	Tor	_	NN	dat|sg|masc	5	PN	_	_
+8	vorne	vorne	_	ADV	_	2	ADV	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Doch	doch	_	KON	_	0	S	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	verändert	verändern	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	sich	sich	_	PRF	acc|sg|3	3	OBJA	_	_
+5	das	der	_	ART	nom|sg|neut	6	DET	_	_
+6	Spiel	Spiel	_	NN	nom|sg|neut	3	SUBJ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	schwedische	schwedisch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	OBJA	_	_
+4	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	weiterhin	weiterhin	_	ADV	_	4	ADV	_	_
+6	gut	gut	_	ADJD	pos	4	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Doch	doch	_	KON	_	0	S	_	_
+2	auch	auch	_	ADV	_	5	ADV	_	_
+3	die	der	_	ART	nom|sg|fem	5	DET	_	_
+4	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Mannschaft	Mannschaft	_	NN	nom|sg|fem	6	SUBJ	_	_
+6	will	wollen	_	VMFIN	sg|3|pres|ind	1	CJ	_	_
+7	weiterhin	weiterhin	_	ADV	_	8	ADV	_	_
+8	gewinnen	gewinnen	_	VVINF	_	6	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	deutschen	deutsch	_	ADJA	nom|pl|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|pl|masc	4	PN	_	_
+4	rennen	rennen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	wieder	wieder	_	ADV	_	4	ADV	_	_
+6	vor	vor	_	APPR	_	4	PP	_	_
+7	das	der	_	ART	acc|sg|neut	9	DET	_	_
+8	schwedische	schwedisch	_	ADJA	acc|sg|neut|pos	9	ATTR	_	_
+9	Tor	Tor	_	NN	acc|sg|neut	6	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	4	ADV	_	_
+2	der	der	_	ART	nom|sg|masc	4	DET	_	_
+3	deutsche	deutsch	_	ADJA	nom|sg|masc|pos	4	ATTR	_	_
+4	Stürmer	Stürmer	_	NN	nom|sg|masc	7	SUBJ	_	_
+5	Marco	Marco	_	NE	nom|sg|masc	4	APP	_	_
+6	Reus	Reus	_	NE	nom|sg|masc	5	APP	_	_
+7	rennt	rennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+8	vor	vor	_	APPR	_	7	PP	_	_
+9	das	der	_	ART	acc|sg|neut	11	DET	_	_
+10	schwedische	schwedisch	_	ADJA	acc|sg|neut|pos	11	ATTR	_	_
+11	Tor	Tor	_	NN	acc|sg|neut	8	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	er	er	_	PPER	nom|sg|masc|3	3	SUBJ	_	_
+3	triff	treifen	_	VVFIN	sg|3|past|ind	1	CJ	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	7	DET	_	_
+6	48.	48	_	CARD	_	7	ATTR	_	_
+7	Minute	Minute	_	NN	dat|sg|fem	4	PN	_	_
+8	vom	von	_	APPRART	dat|sg|masc	3	OBJP	_	_
+9	Spiel	Spiel	_	NN	dat|sg|masc	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	macht	machen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|masc	4	DET	_	_
+4	Tor	Tor	_	NN	nom|sg|masc	2	OBJA	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	die	der	_	ART	acc|sg|fem	8	DET	_	_
+7	deutsche	deutsch	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Mannschaft	Mannschaft	_	NN	acc|sg|fem	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	3	ADV	_	_
+2	ein	ein	_	ART	nom|sg|neut	3	DET	_	_
+3	Bild	Bild	_	NN	nom|sg|neut	0	S	_	_
+4	vom	von	_	APPRART	dat|sg|masc	3	PP	_	_
+5	Tor	Tor	_	NN	dat|sg|masc	4	PN	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	Marco	Marco	_	NE	dat|sg|neut	6	PN	_	_
+8	Reus	Reus	_	NE	dat|sg|neut	7	APP	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Tor	Tor	_	NN	dat|sg|neut	1	PN	_	_
+4	passiert	passieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	lange	lange	_	ADV	_	4	ADV	_	_
+6	nichts	nichts	_	PIS	*|*|neut	4	OBJA	_	_
+7	wichtiges	wichtig	_	ADJA	nom|sg|neut	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Erst	erst	_	ADV	_	2	ADV	_	_
+2	gegen	gegen	_	APPR	_	4	PP	_	_
+3	Spiel-Ende	Spiel-Ende	_	NN	acc|sg|*	2	PN	_	_
+4	passiert	passieren	_	VVFIN	_	0	S	_	_
+5	wieder	wieder	_	ADV	_	4	ADV	_	_
+6	etwas	etwas	_	PIS	*|*|neut	4	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	der	der	_	ART	dat|sg|fem	1	PN	_	_
+3	82.	82	_	CARD	_	4	ATTR	_	_
+4	Minute	Minute	_	NN	dat|sg|fem	0	S	_	_
+5	muss	muss	_	NE	nom|sg|*	4	APP	_	_
+6	ein	ein	_	ART	nom|sg|masc	8	DET	_	_
+7	deutscher	deutsch	_	ADJA	nom|sg|masc|pos	8	ATTR	_	_
+8	Spieler	Spieler	_	NN	nom|sg|masc	11	OBJA	_	_
+9	das	der	_	ART	acc|sg|neut	10	DET	_	_
+10	Fußball-Feld	Fußball-Feld	_	NN	acc|sg|neut	8	GMOD	_	_
+11	verlassen	verlassen	_	VVINF	_	4	NEB	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Spieler	Spieler	_	NN	nom|sg|masc	3	PRED	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Jérôme	Jérôm	_	NE	nom|sg|masc	3	PRED	_	_
+5	Boateng	Boateng	_	NE	nom|sg|masc	3	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Warum	warum	_	PWAV	_	2	ADV	_	_
+2	muss	muss	_	ADJD	pos	6	ADV	_	_
+3	er	er	_	PPER	nom|sg|masc|3	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Platz	Platz	_	NN	acc|sg|masc	6	OBJA	_	_
+6	verlassen	verlassen	_	VVINF	_	0	S	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	einen	ein	_	ART	acc|sg|masc	5	DET	_	_
+4	schwedischen	schwedisch	_	ADJA	acc|sg|masc|pos	5	ATTR	_	_
+5	Spieler	Spieler	_	NN	acc|sg|masc	8	ETH	_	_
+6	am	an	_	APPRART	dat|sg|masc	8	PP	_	_
+7	Spiel	Spiel	_	NN	dat|sg|masc	6	PN	_	_
+8	behindert	behindern	_	VVPP	_	2	AUX	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	verletzt	verletzen	_	VVPP	_	9	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Foto	Foto	_	NN	nom|sg|neut	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	diesem	dieser	_	PDAT	dat|sg|neut	7	DET	_	_
+7	Moment	Moment	_	NN	dat|sg|neut	5	PN	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	7	OBJA	_	_
+2	muss	muss	_	NE	nom|sg|*	1	APP	_	_
+3	mit	mit	_	APPR	_	2	PP	_	_
+4	10	10	_	CARD	_	5	ATTR	_	_
+5	Spielern	Spieler	_	NN	dat|pl|masc	3	PN	_	_
+6	zuende	zuend	_	NN	*|sg|masc	5	APP	_	_
+7	spielen	spielen	_	VVINF	pl|3|pres|ind	0	S	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	also	also	_	ADV	_	4	ADV	_	_
+6	einen	ein	_	ART	acc|sg|masc	7	DET	_	_
+7	Spieler	Spieler	_	NN	acc|sg|masc	4	OBJA	_	_
+8	weniger	weniger	_	PIS	*|*|*	4	OBJA	_	_
+9	als	als	_	KOKOM	_	8	KOM	_	_
+10	die	der	_	ART	nom|sg|fem	12	DET	_	_
+11	schwedische	schwedisch	_	ADJA	nom|sg|fem|pos	12	ATTR	_	_
+12	Mannschaft	Mannschaft	_	NN	nom|sg|fem	9	CJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Trotzdem	trotzdem	_	PROAV	_	5	DET	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	5	DET	_	_
+4	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	5	ATTR	_	_
+5	Mannschaft	Mannschaft	_	NN	nom|sg|fem	2	SUBJ	_	_
+6	am	an	_	APPRART	dat|sg|neut	5	PP	_	_
+7	Spiel-Ende	Spiel-Ende	_	NN	dat|sg|neut	6	PN	_	_
+8	eine	ein	_	ART	acc|sg|fem	9	DET	_	_
+9	Tor-Chance	Tor-Chance	_	NN	acc|sg|fem	7	GMOD	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Spieler	Spieler	_	NN	nom|sg|masc	6	SUBJ	_	_
+4	Toni	Toni	_	NE	nom|sg|masc	3	APP	_	_
+5	Kroos	Kroos	_	NE	nom|sg|masc	4	APP	_	_
+6	schießt	schießen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	auf	auf	_	APPR	_	6	PP	_	_
+8	das	der	_	ART	acc|sg|neut	10	DET	_	_
+9	schwedische	schwedisch	_	ADJA	acc|sg|neut|pos	10	ATTR	_	_
+10	Tor	Tor	_	NN	acc|sg|neut	7	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	er	er	_	PPER	nom|sg|masc|3	3	SUBJ	_	_
+3	trifft	treffen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	OBJA	_	_
+4	gewinnt	gewinnen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	das	der	_	ART	acc|sg|neut	6	DET	_	_
+6	Spiel	Spiel	_	NN	acc|sg|neut	4	OBJA	_	_
+7	gegen	gegen	_	APPR	_	6	PP	_	_
+8	Schweden	Schweden	_	NE	acc|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	►	LI	_	XY	_	0	ROOT	_	_
+2	Was	was	_	PWS	acc|sg|neut	3	SUBJ	_	_
+3	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Sieg	Sieg	_	NN	nom|sg|masc	3	OBJA	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	die	der	_	ART	acc|sg|fem	9	DET	_	_
+8	deutsche	deutsch	_	ADJA	acc|sg|fem|pos	9	ATTR	_	_
+9	Mannschaft	Mannschaft	_	NN	acc|sg|fem	6	PN	_	_
+10	?	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Sieg	Sieg	_	NN	nom|sg|masc	3	OBJA	_	_
+3	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	erstmal	erstmal	_	ADV	_	3	ADV	_	_
+5	noch	noch	_	ADV	_	6	ADV	_	_
+6	gar	gar	_	ADV	_	7	ADV	_	_
+7	nichts	nichts	_	PIS	*|*|neut	3	SUBJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deutschland	Deutschland	_	NE	nom|sg|neut	2	PRED	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	noch	noch	_	ADV	_	2	ADV	_	_
+4	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+5	weiter	weiter	_	ADV	_	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	9	OBJA	_	_
+4	muss	muss	_	NE	nom|sg|*	3	APP	_	_
+5	erst	erst	_	ADV	_	9	ADV	_	_
+6	noch	noch	_	ADV	_	9	ADV	_	_
+7	gegen	gegen	_	APPR	_	9	PP	_	_
+8	Südkorea	Südkorea	_	NE	acc|sg|neut	7	PN	_	_
+9	spielen	spielen	_	VVINF	_	0	S	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bisher	bisher	_	ADV	_	2	ADV	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Spiel	Spiel	_	NN	nom|sg|neut	2	PRED	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	der	der	_	ART	dat|sg|fem	8	DET	_	_
+7	deutschen	deutsch	_	ADJA	dat|sg|fem|pos	8	ATTR	_	_
+8	Mannschaft	Mannschaft	_	NN	dat|sg|fem	5	PN	_	_
+9	echt	echt	_	ADJD	pos	10	ADV	_	_
+10	schwach	schwach	_	ADJD	pos	2	PRED	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	verliert	verlieren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	vielleicht	vielleicht	_	ADV	_	4	ADV	_	_
+6	gegen	gegen	_	APPR	_	4	PP	_	_
+7	Südkorea	Südkorea	_	NE	acc|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Deutschland	Deutschland	_	NE	nom|sg|neut	6	PRED	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	2	S	_	_
+7	draußen	draußen	_	ADV	_	6	ADV	_	_
+8	!	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+2	deutsche	deutsch	_	ADJA	nom|sg|fem|pos	3	ATTR	_	_
+3	Mannschaft	Mannschaft	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	fährt	fahren	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	nach	nach	_	APPR	_	4	PP	_	_
+6	Hause	Haus	_	NN	dat|sg|neut	5	PN	_	_
+7	!	--	_	$.	_	0	ROOT	_	_

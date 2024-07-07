@@ -1,0 +1,185 @@
+	File	RelType	ExplConn	Conn1	SClass1A	SClass1B	Conn2	SClass2A	SClass2B	Sup1	Arg1	Arg2	Sup2
+0	ne_ehrenamt_foerdern100.html.txt	Explicit	dazu	NA	Contingency.Purpose.Arg1-as-goal	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	Das Ehren·amt im Saarland soll gefördert weren	Die Gemeinschaft Pro Ehrenamt will...eine Seite im Internet einrichten	NA
+1	ne_ehrenamt_foerdern100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Gemeinschaft Pro Ehrenamt will dazu eine Seite im Internet einrichten	Die Gemeinschaft Pro Ehren·amt will das Ehren·amt im Saarland fördern	NA
+2	ne_ehrenamt_foerdern100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Gemeinschaft Pro Ehren·amt will das Ehren·amt im Saarland fördern	"Ehren·amt heißt: Menschen arbeiten zum Beispiel freiwillig
+
+
+• im Krankenhaus
+
+
+
+
+• in der Kirche
+
+
+
+
+• bei Hilfsorganisationen"	NA
+3	ne_ehrenamt_foerdern100.html.txt	Explicit	aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	"Ehren·amt heißt: Menschen arbeiten zum Beispiel freiwillig
+
+
+• im Krankenhaus
+
+
+
+
+• in der Kirche
+
+
+
+
+• bei Hilfsorganisationen"	Für diese Arbeit bekommen die Menschen...kein Geld	NA
+4	ne_ehrenamt_foerdern100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Für diese Arbeit bekommen die Menschen aber kein Geld	Die Gemeinschaft Pro Ehren·amt möchte diese Arbeit besser organisieren	NA
+5	ne_ehrenamt_foerdern100.html.txt	Explicit	Deshalb	NA	Contingency.Cause.Result	Contingency.Purpose.Arg1-as-goal	NA	NA	NA	NA	Die Gemeinschaft Pro Ehren·amt möchte diese Arbeit besser organisieren	will sie eine Seite im Internet einrichten	NA
+6	ne_ehrenamt_foerdern100.html.txt	Explicit	schon	NA	Temporal.Synchronous	NA	NA	NA	NA	NA	Deshalb will sie eine Seite im Internet einrichten	Die Vorbereitungen dafür laufen	NA
+7	ne_ehrenamt_foerdern100.html.txt	Explicit	Allerdings	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Die Vorbereitungen dafür laufen schon	braucht die Gemeinschaft Pro Ehren·amt dafür noch Geld	NA
+8	ne_ehrenamt_foerdern100.html.txt	Explicit	außerdem	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Die Gemeinschaft Pro Ehren·amt möchte diese Arbeit besser organisieren	Die Gemeinschaft möchte...dass das Ehren·amt in die saarländische Verfassung aufgenommen wird	NA
+9	ne_ehrenamt_foerdern100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Gemeinschaft möchte außerdem, dass das Ehren·amt in die saarländische Verfassung aufgenommen wird	In der Verfassung stehen die Regeln eines Landes	NA
+10	ne_streiks_bei_geldtransportunternehmen100.html.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Viele Geld·transporte im Saarland fallen aus	Bei den Geld·transport·unternehmen wird gestreikt	NA
+11	ne_streiks_bei_geldtransportunternehmen100.html.txt	Implicit	NA	denn	Contingency.Cause.Reason	Temporal.Asynchronous.Succession	NA	NA	NA	NA	Bei den Geld·transport·unternehmen wird gestreikt	Die Gewerkschaft Verdi hat die Mitarbeiter von Geld·transport·unternehmen zum Streik aufgefordert	NA
+12	ne_streiks_bei_geldtransportunternehmen100.html.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	um zu	Contingency.Purpose.Arg2-as-goal	NA	NA	Die Gewerkschaft Verdi hat die Mitarbeiter von Geld·transport·unternehmen zum Streik aufgefordert	Die Gewerkschaft fordert mehr Gehalt für die Mitarbeiter der Geld·transport·unternehmen	NA
+13	ne_streiks_bei_geldtransportunternehmen100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Gewerkschaft fordert mehr Gehalt für die Mitarbeiter der Geld·transport·unternehmen	Die Mitarbeiter der Unternehmen transportieren Geld von Geschäften zu Banken	NA
+14	ne_streiks_bei_geldtransportunternehmen100.html.txt	Explicit	außerdem	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Die Mitarbeiter der Unternehmen transportieren Geld von Geschäften zu Banken	Sie füllen...Geld·automaten auf	NA
+15	ne_streiks_bei_geldtransportunternehmen100.html.txt	Explicit	Dazu	NA	Contingency.Purpose.Arg1-as-goal	NA	NA	NA	NA	NA	Sie füllen außerdem Geld·automaten auf	müssen die Mitarbeiter und die Autos besonders gesichert sein	NA
+16	ne_streiks_bei_geldtransportunternehmen100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Dazu müssen die Mitarbeiter und die Autos besonders gesichert sein	Im Saarland macht das zum Beispiel das Unternehmen Prosegur aus Neunkirchen	NA
+17	ne_streiks_bei_geldtransportunternehmen100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Im Saarland macht das zum Beispiel das Unternehmen Prosegur aus Neunkirchen	Dort beteiligen sich 30 Mitarbeiter an dem Steik	NA
+18	ne_viel_feinstaub_an_silvester100.html.txt	Implicit	NA	nämlich	Contingency.Cause.Reason	Expansion.Level-of-detail.Arg2-as-detail	indem	Expansion.Manner.Arg2-as-manner	NA	NA	Das Feuer·werk an Silvester hat im Saarland sehr hohe Fein·staub·werte verursacht	Der Fein·staub wurde durch die explodierenden Feuerwerks·raketen in die Luft gebracht	NA
+19	ne_viel_feinstaub_an_silvester100.html.txt	AltLex	Den höchsten Fein·staub·wert	NA	Expansion.Instantiation.Arg2-as-instance	NA	NA	NA	NA	NA	Das Feuer·werk an Silvester hat im Saarland sehr hohe Fein·staub·werte verursacht	Den höchsten Fein·staub·wert hat es an Silvester in der Mainzer Straße in Saarbrücken gegeben	NA
+20	ne_viel_feinstaub_an_silvester100.html.txt	Implicit	NA	nämlich	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Den höchsten Fein·staub·wert hat es an Silvester in der Mainzer Straße in Saarbrücken gegeben	Der Wert war fast 40 mal so hoch wie normalerweise	NA
+21	ne_viel_feinstaub_an_silvester100.html.txt	Explicit	auch	NA	Comparison.Similarity	Expansion.Conjunction	NA	NA	NA	NA	Den höchsten Fein·staub·wert hat es an Silvester in der Mainzer Straße in Saarbrücken gegeben	Viel Fein·staub wurde...in Ottweiler gemessen	NA
+22	ne_viel_feinstaub_an_silvester100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Viel Fein·staub wurde auch in Ottweiler gemessen	Der Fein·staub ist ungesund für Menschen und Tiere	NA
+23	ne_viel_feinstaub_an_silvester100.html.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Der Fein·staub ist ungesund für Menschen und Tiere	Der Fein·staub wird eingeamtet	NA
+24	ne_viel_feinstaub_an_silvester100.html.txt	AltLex	an Silvester...Schon vor Silvester	NA	Temporal.Asynchronous.Succession	Comparison.Similarity	NA	NA	NA	NA	Das Feuer·werk an Silvester hat im Saarland sehr hohe Fein·staub·werte verursacht	Schon vor Silvester hatten Experten gesagt: An Silvester werden durch die Raketen in ganz Deutschland rund 4500 Tonnen Fein·staub freigesetzt	NA
+25	ne_viel_feinstaub_an_silvester100.html.txt	AltLexC	Das sind	NA	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Schon vor Silvester hatten Experten gesagt: An Silvester werden durch die Raketen in ganz Deutschland rund 4500 Tonnen Fein·staub freigesetzt	Das sind rund 15 Prozent von dem, was in einem Jahr durch die Abgase von Autos produziert wird	NA
+26	ne_suchthilfe100.html.txt	Explicit	deshalb	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Im Saarland sind in den vergangenen Jahren immer mehr Menschen durch Drogen gestorben	Die Landes·regierung sagt...Wir müssen süchtigen Menschen besser helfen	NA
+27	ne_suchthilfe100.html.txt	Explicit	Dazu	NA	Contingency.Purpose.Arg1-as-goal	NA	NA	NA	NA	NA	Die Landes·regierung sagt deshalb: Wir müssen süchtigen Menschen besser helfen	ist am Mittwoch (16. Januar) eine Studie vorgestellt worden	NA
+28	ne_suchthilfe100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Dazu ist am Mittwoch (16. Januar) eine Studie vorgestellt worden	Sie zeigt, dass viele verschiedene Stellen im Saarland Hilfe an·bieten	NA
+29	ne_suchthilfe100.html.txt	Explicit	aber auch	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Sie zeigt, dass viele verschiedene Stellen im Saarland Hilfe an·bieten	Die Studie zeigt...Die Hilfen arbeiten nicht gut zusammen	NA
+30	ne_suchthilfe100.html.txt	Explicit	Wenn	NA	Contingency.Condition.Arg1-as-cond	NA	NA	NA	NA	NA	werden Informationen nicht ausgetauscht	ein drogen·abhängiger Mensch zu mehr als einer Beratung geht	NA
+31	ne_suchthilfe100.html.txt	Implicit	NA	nämlich	Contingency.Cause.Reason	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Die Hilfen arbeiten nicht gut zusammen	Wenn ein drogen·abhängiger Mensch zu mehr als einer Beratung geht, werden Informationen nicht ausgetauscht	NA
+32	ne_suchthilfe100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Studie zeigt aber auch: Die Hilfen arbeiten nicht gut zusammen. Wenn ein drogen·abhängiger Mensch zu mehr als einer Beratung geht, werden Informationen nicht ausgetauscht	Die Landes·regierung will das ändern	NA
+33	ne_suchthilfe100.html.txt	Explicit	auch	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Die Landes·regierung will das ändern	Die Landes·regierung will die süchtigen Menschen...begleiten	NA
+34	ne_suchthilfe100.html.txt	Implicit	NA	nämlich	Expansion.Level-of-detail.Arg2-as-detail	NA	dafür	Expansion.Manner.Arg2-as-manner	NA	NA	Die Landes·regierung will die süchtigen Menschen auch begleiten	"Ein Helfer soll die süchtigen Menschen dabei unterstützen 
+
+
+• zum Arzt zu gehen 
+
+
+
+
+• von den Drogen weg·zukommen 
+
+
+
+
+• eine Arbeit zu finden 
+
+
+
+
+• eine Wohnung zu finden"	NA
+35	ne_suchthilfe100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"Ein Helfer soll die süchtigen Menschen dabei unterstützen 
+
+
+• zum Arzt zu gehen 
+
+
+
+
+• von den Drogen weg·zukommen 
+
+
+
+
+• eine Arbeit zu finden 
+
+
+
+
+• eine Wohnung zu finden"	Im Saarland sind im vergangenen Jahr 26 Menschen gestorben, weil sie zu viele Drogen genommen haben	NA
+36	ne_suchthilfe100.html.txt	Explicit	weil	NA	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Im Saarland sind im vergangenen Jahr 26 Menschen gestorben	sie zu viele Drogen genommen haben	NA
+37	ne_suchthilfe100.html.txt	Implicit	NA	sogar	Comparison.Contrast	NA	NA	NA	NA	NA	Im Saarland sind im vergangenen Jahr 26 Menschen gestorben, weil sie zu viele Drogen genommen haben	Im Jahr 2017 waren es 29 Drogen·tote	NA
+38	ne_polizeiaktion_gegen_schleuser100.html.txt	AltLex	Mit solchen Kontrollen	NA	Contingency.Purpose.Arg2-as-goal	Contingency.Cause.Reason	NA	NA	NA	NA	Die Bundes·polizei hat an der Autobahn 8 bei Perl am Mittwoch (9. Januar) Last·wagen und Klein·transporter kontrolliert	Die Polizei sagt: Mit solchen Kontrollen wollen wir Schleuser bekämpfen	NA
+39	ne_polizeiaktion_gegen_schleuser100.html.txt	Implicit	NA	nämlich	Contingency.Cause.Reason	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Schleuser sind Menschen·schmuggler	Sie versuchen, unerlaubt Flüchtlinge in ein Land zu bringen	NA
+40	ne_polizeiaktion_gegen_schleuser100.html.txt	Implicit	NA	außerdem	Expansion.Conjunction	NA	NA	NA	NA	Schleuser sind Menschen·schmuggler. Sie versuchen, unerlaubt Flüchtlinge in ein Land zu bringen	Die Polizei sagt: Mit solchen Kontrollen wollen wir Schleuser bekämpfen	Die Polizei sagt: Mit den Kontrollen sollen aber nicht nur unerlaubte Einreisen verhindert werden. Mit den Kontrollen wollen wir auch Lebens·gefahr für die Menschen abwenden, die in Lastwagen versteckt und geschmuggelt werden	NA
+41	ne_polizeiaktion_gegen_schleuser100.html.txt	Explicit	aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Mit solchen Kontrollen wollen wir Schleuser bekämpfen	Mit den Kontrollen sollen...nicht nur unerlaubte Einreisen verhindert werden	NA
+42	ne_polizeiaktion_gegen_schleuser100.html.txt	Explicit	nicht nur...auch	NA	Expansion.Substitution.Arg2-as-subst	NA	NA	NA	NA	NA	Mit den Kontrollen sollen aber...unerlaubte Einreisen verhindert werden	Mit den Kontrollen wollen wir...Lebens·gefahr für die Menschen abwenden	die in Lastwagen versteckt und geschmuggelt werden
+43	ne_polizeiaktion_gegen_schleuser100.html.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	zu diesem Zweck	Contingency.Purpose.Arg1-as-goal	NA	NA	Die Polizei sagt: Mit den Kontrollen sollen aber nicht nur unerlaubte Einreisen verhindert werden. Mit den Kontrollen wollen wir auch Lebens·gefahr für die Menschen abwenden, die in Lastwagen versteckt und geschmuggelt werden	Die Polizei hat am Rastplatz Mosel·tal bei Perl insgesamt 123 Lastwagen und 3 Busse kontrolliert	NA
+44	ne_polizeiaktion_gegen_schleuser100.html.txt	Implicit	NA	jedoch	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Die Polizei hat am Rastplatz Mosel·tal bei Perl insgesamt 123 Lastwagen und 3 Busse kontrolliert	Unerlaubte Einreisen hat die Polizei nicht festgestellt	NA
+45	ne_polizeiaktion_gegen_schleuser100.html.txt	Implicit	NA	hingegen	Comparison.Contrast	NA	NA	NA	NA	NA	Unerlaubte Einreisen hat die Polizei nicht festgestellt	Im Jahr 2018 hat die Polizei in 4 Fällen Menschen entdeckt, die sich in Laderäumen von Lastwagen versteckten	NA
+46	ne_narrenempfang_staatskanzlei100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Rund 350 Narren waren am Sonntag·vormittag (6. Januar) beim traditionellen Narren·empfang in der Saarbrücker Staats·kanzlei	Zu Gast waren Narren aus 100 saarländischen Karnevals·vereinen	NA
+47	ne_narrenempfang_staatskanzlei100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Zu Gast waren Narren aus 100 saarländischen Karnevals·vereinen	Pünktlich um 11.11 Uhr startete der Empfang für den Verband Saarländischer Karnevalsvereine mit 11 Böller·schüssen	NA
+48	ne_narrenempfang_staatskanzlei100.html.txt	AltLex	um 11.11 Uhr...Danach	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Pünktlich um 11.11 Uhr startete der Empfang für den Verband Saarländischer Karnevalsvereine mit 11 Böller·schüssen	Danach feierten die Narren in der Fest·halle der Staats·kanzlei	NA
+49	ne_narrenempfang_staatskanzlei100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Danach feierten die Narren in der Fest·halle der Staats·kanzlei	Der Empfang findet seit 1969 jedes Jahr am ersten Sonntag im Januar statt	NA
+50	ne_narrenempfang_staatskanzlei100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Der Empfang findet seit 1969 jedes Jahr am ersten Sonntag im Januar statt	Dem Verband Saarländischer Karnevals·vereine gehören insgesamt 174 saarländische und 4 französische Vereine mit rund 32.500 Aktiven an	NA
+51	ne_narrenempfang_staatskanzlei100.html.txt	Explicit	damit	NA	Contingency.Cause.Result	Expansion.Manner.Arg1-as-manner	NA	NA	NA	NA	Dem Verband Saarländischer Karnevals·vereine gehören insgesamt 174 saarländische und 4 französische Vereine mit rund 32.500 Aktiven an	Er ist...einer der größten musisch-kulturellen Landesverbände im Saarland	NA
+52	ne_neues_vdk_zentrum_neunkirchen100.html.txt	Implicit	NA	seitdem	Temporal.Asynchronous.Precedence	NA	um ... zu	Contingency.Purpose.Arg2-as-goal	NA	NA	Der Sozial·verband VdK Saarland hat am Freitag (4. Januar) sein neues Beratungs·zentrum in Neunkirchen eröffnet	In dem neuen Beratungszentrum bietet der Verband bedürftigen Menschen viele Hilfs- und Beratungs·angebote	NA
+53	ne_neues_vdk_zentrum_neunkirchen100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	In dem neuen Beratungszentrum bietet der Verband bedürftigen Menschen viele Hilfs- und Beratungs·angebote	Das neue Beratungs·zentrum befindet sich mitten in der Stadt	NA
+54	ne_neues_vdk_zentrum_neunkirchen100.html.txt	Explicit	damit	NA	Contingency.Cause.Result	Expansion.Manner.Arg1-as-manner	NA	NA	NA	NA	Das neue Beratungs·zentrum befindet sich mitten in der Stadt	und ist...für jeden gut erreichbar	NA
+55	ne_neues_vdk_zentrum_neunkirchen100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Das neue Beratungs·zentrum befindet sich mitten in der Stadt und ist damit für jeden gut erreichbar	Im Gebäude gibt es einen Aufzug sowie eine behinderten·gerechte Toilette	NA
+56	ne_neues_vdk_zentrum_neunkirchen100.html.txt	Explicit	außerdem	NA	Expansion.Conjunction	NA	NA	NA	NA	NA	Im Gebäude gibt es einen Aufzug sowie eine behinderten·gerechte Toilette	Hinter dem Gebäude gibt es...einen Behinderten·parkplatz	NA
+57	ne_neues_vdk_zentrum_neunkirchen100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Hinter dem Gebäude gibt es außerdem einen Behinderten·parkplatz	"In dem Beratungs·zentrum helfen Juristen und ehrenamtliche Berater in den Bereichen 
+
+
+• Rente
+
+
+
+
+• Behinderung
+
+
+
+
+• Gesundheit und
+
+
+
+
+• Pflege"	NA
+58	ne_neues_vdk_zentrum_neunkirchen100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	"In dem Beratungs·zentrum helfen Juristen und ehrenamtliche Berater in den Bereichen 
+
+
+• Rente
+
+
+
+
+• Behinderung
+
+
+
+
+• Gesundheit und
+
+
+
+
+• Pflege"	Minister·präsident Tobias Hans lobte bei der Eröffnung die Hilfs·angebote des Sozial·verbandes	NA
+59	ne_neues_vdk_zentrum_neunkirchen100.html.txt	Implicit	NA	indem	Expansion.Manner.Arg2-as-manner	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Minister·präsident Tobias Hans lobte bei der Eröffnung die Hilfs·angebote des Sozial·verbandes	Tobias Hans sagte: Sozial schwächere, kranke, alte oder behinderte Menschen dürfen nicht benachteiligt werden. Hier bekommen Menschen schnell Hilfe	NA
+60	ne_neues_vdk_zentrum_neunkirchen100.html.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	Sozial schwächere, kranke, alte oder behinderte Menschen dürfen nicht benachteiligt werden	Hier bekommen Menschen schnell Hilfe	NA
+61	ne_grippe_impfstoff100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Im Saarland gibt es kaum noch Impf·stoff gegen Grippe	Darauf hat die saarländische Apotheker·kammer hingewiesen	NA
+62	ne_grippe_impfstoff100.html.txt	Implicit	NA	konkret	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Darauf hat die saarländische Apotheker·kammer hingewiesen	Die saarländische Apotheker·kammer sagt: Es sind nur wenige Impf·dosen aus Polen und Frankreich gekommen	NA
+63	ne_grippe_impfstoff100.html.txt	Explicit	aber	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Die saarländische Apotheker·kammer sagt: Es sind nur wenige Impf·dosen aus Polen und Frankreich gekommen	Das saarländische Gesundheits·ministerium weiß...nicht genau, wie viele Impf·dosen aus dem Ausland ins Saarland geliefert wurden	NA
+64	ne_grippe_impfstoff100.html.txt	Explicit	Auch	NA	Comparison.Similarity	NA	NA	NA	NA	NA	Die saarländische Apotheker·kammer sagt: Es sind nur wenige Impf·dosen aus Polen und Frankreich gekommen	die Kassenärztliche Vereinigung im Saarland sagt: In den saarländischen Arzt·praxen gibt es nur noch wenig bis keinen Impf·stoff gegen Grippe	NA
+65	ne_grippe_impfstoff100.html.txt	AltLexC	Wer...der	NA	Contingency.Condition.Arg1-as-cond	NA	NA	NA	NA	NA	der soll sich bei seinem Haus·arzt melden	Wer sich trotzdem impfen lassen will	NA
+66	ne_grippe_impfstoff100.html.txt	Explicit	trotzdem	NA	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	In den saarländischen Arzt·praxen gibt es nur noch wenig bis keinen Impf·stoff gegen Grippe	Wer sich...impfen lassen will	NA
+67	ne_grippe_impfstoff100.html.txt	Implicit	NA	denn	Contingency.Cause.Reason	NA	NA	NA	NA	NA	Wer sich trotzdem impfen lassen will, der soll sich bei seinem Haus·arzt melden	In den Hausarzt·praxen gibt es Warte·listen	NA
+68	ne_erste_neujahrsansprache_von_hans100.html.txt	AltLex	Ein Thema der Ansprache	NA	Expansion.Instantiation.Arg2-as-instance	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	Minister·präsident Tobias Hans hat zum Beginn des neuen Jahres seine erste Neujahrs·ansprache gehalten	Ein Thema der Ansprache war die Digitalisierung	NA
+69	ne_erste_neujahrsansprache_von_hans100.html.txt	Implicit	NA	konkret	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	NA	NA	Ein Thema der Ansprache war die Digitalisierung	Minister·präsident Tobias Hans sagt: Die Digitalisierung ist eine große Chance für das Saarland	NA
+70	ne_erste_neujahrsansprache_von_hans100.html.txt	Implicit	NA	nämlich	Contingency.Cause.Reason	Expansion.Level-of-detail.Arg2-as-detail	NA	NA	NA	Digitalisierung heißt: In immer mehr Bereichen im öffentlichen Leben werden Computer und das Internet genutzt	Minister·präsident Tobias Hans sagt: Die Digitalisierung ist eine große Chance für das Saarland	Minister·präsident Tobias Hans sagt: Die Digitalisierung kann beim wirtschaftlichen Wandel im Saarland helfen	NA
+71	ne_erste_neujahrsansprache_von_hans100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Minister·präsident Tobias Hans sagt: Die Digitalisierung kann beim wirtschaftlichen Wandel im Saarland helfen	Jedes Jahr hält der Minister·präsident eine Neujahrs·ansprache	NA
+72	ne_erste_neujahrsansprache_von_hans100.html.txt	Implicit	NA	allerdings	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Jedes Jahr hält der Minister·präsident eine Neujahrs·ansprache	Tobias Hans ist erst im vergangenen Jahr Minister·präsident geworden	NA
+73	ne_erste_neujahrsansprache_von_hans100.html.txt	Explicit	Deshalb	NA	Contingency.Cause.Result	NA	NA	NA	NA	NA	Tobias Hans ist erst im vergangenen Jahr Minister·präsident geworden	war es seine erste Neujahrs·ansprache	NA
+74	ne_geldautomaten_gesprengt100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Mehrere Diebe haben am Montag (14. Januar) und am Donnerstag (17. Januar) in Saarbrücken und in Merzig insgesamt 4 Geld·automaten gesprengt	Die Polizei sagt: Das war eine Bande, die so etwas schon oft gemacht hat. Sie kommt aus den Niederlanden oder aus Polen	NA
+75	ne_geldautomaten_gesprengt100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Das war eine Bande, die so etwas schon oft gemacht hat	Sie kommt aus den Niederlanden oder aus Polen	NA
+76	ne_geldautomaten_gesprengt100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Die Polizei sagt: Das war eine Bande, die so etwas schon oft gemacht hat. Sie kommt aus den Niederlanden oder aus Polen	Die Räuber arbeiten immer auf die gleiche Weise	NA
+77	ne_geldautomaten_gesprengt100.html.txt	Explicit	dann	NA	Expansion.Level-of-detail.Arg2-as-detail	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	Die Räuber arbeiten immer auf die gleiche Weise	Sie leiten...Gas in den Automaten und bringen das Gas zur Explosion. Dann flüchten sie mit dem Geld auf schnellen Motorrollern	NA
+78	ne_geldautomaten_gesprengt100.html.txt	Implicit	NA	anschließend	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Sie leiten dann Gas in den Automaten	und bringen das Gas zur Explosion	NA
+79	ne_geldautomaten_gesprengt100.html.txt	Explicit	Dann	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	und bringen das Gas zur Explosion	flüchten sie mit dem Geld auf schnellen Motorrollern	NA
+80	ne_geldautomaten_gesprengt100.html.txt	Implicit	NA	allerdings	Comparison.Concession.Arg2-as-denier	NA	NA	NA	NA	NA	Dann flüchten sie mit dem Geld auf schnellen Motorrollern	Wie viel Geld die Täter mit·genommen haben, will die Polizei nicht sagen	NA
+81	ne_geldautomaten_gesprengt100.html.txt	EntRel	NA	NA	NA	NA	NA	NA	NA	NA	Wie viel Geld die Täter mit·genommen haben, will die Polizei nicht sagen	Die Diebe sind bisher ent·kommen	NA
+82	ne_geldautomaten_gesprengt100.html.txt	Explicit	sogar	NA	Expansion.Instantiation.Arg2-as-instance	Expansion.Manner.Arg2-as-manner	NA	NA	NA	NA	Die Diebe sind bisher ent·kommen	In Merzig haben sie vor dem Raub...die Einfahrt der Polizei mit einer Kette zu·geschlossen	NA
+83	ne_geldautomaten_gesprengt100.html.txt	Implicit	NA	deshalb	Contingency.Cause.Result	NA	NA	NA	NA	NA	In Merzig haben sie vor dem Raub sogar die Einfahrt der Polizei mit einer Kette zu·geschlossen	Die Polizisten mussten zuerst die Feuer·wehr rufen	NA
+84	ne_geldautomaten_gesprengt100.html.txt	Explicit	zuerst...dann	NA	Temporal.Asynchronous.Precedence	NA	NA	NA	NA	NA	Die Polizisten mussten...die Feuer·wehr rufen	Sie konnten...zum Tatort fahren	NA
+85	ne_geldautomaten_gesprengt100.html.txt	Implicit	NA	jetzt	Temporal.Asynchronous.Precedence	Contingency.Cause.Result	NA	NA	NA	NA	Sie konnten erst dann zum Tatort fahren	Die Polizei sucht Zeugen, die Informationen zu den Tätern haben	NA

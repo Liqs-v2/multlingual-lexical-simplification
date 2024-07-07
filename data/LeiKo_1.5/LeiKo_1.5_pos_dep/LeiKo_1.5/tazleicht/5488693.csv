@@ -1,0 +1,547 @@
+1	Werbung	Werbung	_	NN	nom|sg|fem	0	S	_	_
+2	für	für	_	APPR	_	1	PP	_	_
+3	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|pl|masc	2	PN	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Ärztin	Ärztin	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|neut	8	PP	_	_
+5	Internet	Internet	_	NN	dat|sg|neut	4	PN	_	_
+6	über	über	_	APPR	_	8	PP	_	_
+7	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|pl|masc	6	PN	_	_
+8	informiert	informieren	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Gericht	Gericht	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	sie	sie	_	PPER	acc|*|*|3	6	OBJA	_	_
+5	dafür	dafür	_	PROAV	_	6	PP	_	_
+6	verurteilt	verurteilen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	%% Bild taz_A4 %%
+
+1	Im	in	_	APPRART	dat|sg|masc	4	PP	_	_
+2	deutschen	deutsch	_	ADJA	dat|sg|masc|pos	3	ATTR	_	_
+3	Straf-Gesetz	Strafgesetz	_	NN	dat|sg|masc	1	PN	_	_
+4	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Paragrafen	Paragraf	_	NN	acc|sg|masc	4	OBJA	_	_
+8	219a	219a	_	XY	_	7	APP	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|masc	3	DET	_	_
+3	Paragrafen	Paragraf	_	NN	dat|sg|masc	1	PN	_	_
+4	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Ärzte	Arzt	_	NN	nom|pl|masc	7	SUBJ	_	_
+7	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	4	S	_	_
+8	keine	kein	_	PIAT	acc|sg|fem	9	DET	_	_
+9	Werbung	Werbung	_	NN	acc|sg|fem	10	OBJA	_	_
+10	machen	machen	_	VVINF	_	7	AUX	_	_
+11	für	für	_	APPR	_	9	PP	_	_
+12	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|sg|fem	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Ärzte	Arzt	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+4	nicht	nicht	_	PTKNEG	_	6	ADV	_	_
+5	öffentlich	öffentlich	_	ADJD	pos	6	ADV	_	_
+6	sagen	sagen	_	VVINF	_	3	AUX	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	dass	dass	_	KOUS	_	11	KONJ	_	_
+9	sie	sie	_	PPER	nom|sg|fem|3	11	SUBJ	_	_
+10	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|pl|masc	11	OBJA	_	_
+11	anbieten	anbieten	_	VVFIN	_	6	OBJC	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Gesetz	Gesetz	_	NN	dat|sg|neut	1	PN	_	_
+4	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	verhindert	verhindern	_	VVPP	_	6	AUX	_	_
+6	werden	werden	_	VAINF	_	4	AUX	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	dass	dass	_	KOUS	_	15	KONJ	_	_
+9	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	nom|pl|masc	15	SUBJ	_	_
+10	in	in	_	APPR	_	15	PP	_	_
+11	unserer	unser	_	PPOSAT	dat|sg|fem	12	DET	_	_
+12	Gesellschaft	Gesellschaft	_	NN	dat|sg|fem	10	PN	_	_
+13	als	als	_	KOKOM	_	15	KOM	_	_
+14	normal	normal	_	ADJD	pos	13	CJ	_	_
+15	gelten	gelten	_	VVFIN	_	5	SUBJC	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Deutschland	Deutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	darf	dürfen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	nom|sg|fem	5	DET	_	_
+5	Frau	Frau	_	NN	nom|sg|fem	3	SUBJ	_	_
+6	ihre	ihr	_	PPOSAT	nom|sg|fem	7	DET	_	_
+7	Schwangerschaft	Schwangerschaft	_	NN	nom|sg|fem	12	OBJA	_	_
+8	bis	bis	_	APPR	_	12	PP	_	_
+9	zur	zu	_	APPRART	dat|sg|fem	8	PN	_	_
+10	12.	12.	_	ADJA	dat|sg|fem	11	ATTR	_	_
+12	Schwangerschafts-Woche	Schwangerschaftswoche	_	NN	acc|pl|*	9	PN	_	_
+13	abbrechen	abbrechen	_	VVINF	_	3	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Vor	vor	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Abbruch	Abbruch	_	NN	dat|sg|masc	1	PN	_	_
+4	muss	müssen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Frau	Frau	_	NN	nom|sg|fem	4	SUBJ	_	_
+7	zu	zu	_	APPR	_	10	PP	_	_
+8	einer	ein	_	ART	dat|sg|fem	9	DET	_	_
+9	Beratung	Beratung	_	NN	dat|sg|fem	7	PN	_	_
+10	gehen	gehen	_	VVINF	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Beratung	Beratung	_	NN	dat|sg|fem	1	PN	_	_
+4	muss	müssen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Frau	Frau	_	NN	nom|sg|fem	4	SUBJ	_	_
+7	3	3	_	CARD	_	8	ATTR	_	_
+8	Tage	Tag	_	NN	acc|pl|masc	13	ZEIT	_	_
+9	lang	lang	_	ADJD	pos	13	ADV	_	_
+10	über	über	_	APPR	_	13	OBJP	_	_
+11	den	der	_	ART	acc|sg|masc	12	DET	_	_
+12	Schwangerschafts-Abbruch	Schwangerschaftsabbruch	_	NN	acc|sg|masc	10	PN	_	_
+13	nachdenken	nachdenken	_	VVINF	_	4	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Erst	erst	_	ADV	_	2	ADV	_	_
+2	dann	dann	_	ADV	_	3	ADV	_	_
+3	darf	dürfen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	nom|sg|fem	5	DET	_	_
+5	Frau	Frau	_	NN	nom|sg|fem	3	SUBJ	_	_
+6	die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Schwangerschaft	Schwangerschaft	_	NN	nom|sg|fem	8	OBJA	_	_
+8	abbrechen	abbrechen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	diese	dieser	_	PDAT	nom|sg|fem	6	DET	_	_
+6	Gründe	Grund	_	NN	acc|pl|masc	2	OBJA	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	einen	ein	_	ART	acc|sg|masc	9	DET	_	_
+9	Schwangerschafts-Abbruch	Schwangerschaftsabbruch	_	NN	acc|sg|masc	7	PN	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Frau	Frau	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	fühlt	fühlen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	sich	sich	_	PRF	acc|sg|3	4	OBJA	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	bereit	bereit	_	ADJD	pos	4	PRED	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	ein	ein	_	ART	acc|sg|neut	10	DET	_	_
+10	Kind	Kind	_	NN	acc|sg|neut	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Frau	Frau	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	einer	ein	_	ART	dat|sg|fem	9	DET	_	_
+7	schlechten	schlecht	_	ADJA	dat|sg|fem|pos	9	ATTR	_	_
+8	finanziellen	finanziell	_	ADJA	dat|sg|fem|pos	9	ATTR	_	_
+9	Situation	Situation	_	NN	dat|sg|fem	5	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Frau	Frau	_	NN	nom|sg|fem	4	SUBJ	_	_
+4	wurde	werden	_	VAFIN	sg|3|past|ind	0	S	_	_
+5	vergewaltigt	vergewaltigen	_	VVPP	_	4	AUX	_	_
+6	und	und	_	KON	_	4	KON	_	_
+7	ist	sein	_	VAFIN	sg|3|pres|ind	6	CJ	_	_
+8	dabei	dabei	_	PROAV	_	10	PP	_	_
+9	schwanger	schwanger	_	ADJD	pos	10	PRED	_	_
+10	geworden	werden	_	VVPP	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Gesundheit	Gesundheit	_	NN	nom|sg|fem	6	SUBJ	_	_
+4	der	der	_	ART	gen|sg|fem	5	DET	_	_
+5	Frau	Frau	_	NN	gen|sg|fem	3	GMOD	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	durch	durch	_	APPR	_	10	PP	_	_
+8	die	der	_	ART	acc|sg|fem	9	DET	_	_
+9	Schwangerschaft	Schwangerschaft	_	NN	acc|sg|fem	7	PN	_	_
+10	gefährdet	gefährden	_	VVPP	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	oft	oft	_	ADV	_	3	ADV	_	_
+3	fehlen	fehlen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	den	der	_	ART	acc|sg|masc	6	DET	_	_
+5	betroffenen	betroffen	_	ADJA	acc|sg|masc|pos	6	ATTR	_	_
+6	Frauen	Frau	_	NN	nom|pl|fem	3	OBJD	_	_
+7	Informationen	Information	_	NN	nom|pl|fem	3	SUBJ	_	_
+8	wie	wie	_	KOKOM	_	7	KOM	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Welcher	welcher	_	PWAT	nom|sg|masc	11	DET	_	_
+11	Arzt	Arzt	_	NN	nom|sg|masc	12	SUBJ	_	_
+12	macht	machen	_	VVFIN	sg|3|pres|ind	8	CJ	_	_
+13	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|pl|masc	12	OBJA	_	_
+14	?	--	_	$.	_	0	ROOT	_	_
+
+1	Welche	welcher	_	PWAT	nom|pl|fem	2	DET	_	_
+2	Arten	Art	_	NN	nom|pl|fem	5	OBJA	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Schwangerschafts-Abbrüchen	Schwangerschaftsabbruch	_	NN	dat|pl|fem	3	PN	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Fall	Fall	_	NN	nom|sg|masc	0	S	_	_
+3	Kristina	Kristina	_	NE	nom|sg|neut	2	APP	_	_
+4	Hänel	Hänel	_	NE	nom|sg|neut	3	APP	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Ärztin	Ärztin	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|neut	13	PP	_	_
+5	Jahr	Jahr	_	NN	dat|sg|neut	4	PN	_	_
+6	2017	2017	_	CARD	_	5	ZEIT	_	_
+7	auf	auf	_	APPR	_	13	PP	_	_
+8	ihrer	ihr	_	PPOSAT	dat|sg|fem	9	DET	_	_
+9	Internet-Seite	Internetseite	_	NN	dat|sg|fem	7	PN	_	_
+10	Informationen	Information	_	NN	acc|pl|fem	13	OBJA	_	_
+11	zu	zu	_	APPR	_	13	PP	_	_
+12	Schwangerschafts-Abbrüchen	Schwangerschaftsabbruch	_	NN	dat|pl|neut	11	PN	_	_
+13	veröffentlicht	veröffentlichen	_	VVPP	_	3	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dabei	dabei	_	PROAV	_	2	PP	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|sg|fem	4	DET	_	_
+4	Ärztin	Ärztin	_	NN	nom|sg|fem	2	SUBJ	_	_
+5	auch	auch	_	ADV	_	6	ADV	_	_
+6	erklärt	erklären	_	VVPP	_	2	AUX	_	_
+7	,	--	_	$,	_	0	ROOT	_	_
+8	dass	dass	_	KOUS	_	11	KONJ	_	_
+9	sie	sie	_	PPER	nom|sg|fem|3	11	SUBJ	_	_
+10	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|pl|masc	11	OBJA	_	_
+11	macht	machen	_	VVFIN	sg|3|pres|ind	6	OBJC	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|neut	2	DET	_	_
+2	Gericht	Gericht	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	die	der	_	ART	acc|sg|fem	5	DET	_	_
+5	Ärztin	Ärztin	_	NN	acc|sg|fem	7	OBJA	_	_
+6	dafür	dafür	_	PROAV	_	7	PP	_	_
+7	verurteilt	verurteilen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	jetzt	jetzt	_	ADV	_	9	ADV	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Geldstrafe	Geldstrafe	_	NN	acc|sg|fem	9	OBJA	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	6000	6000	_	CARD	_	8	ATTR	_	_
+8	Euro	Euro	_	NN	dat|sg|neut	6	PN	_	_
+9	zahlen	zahlen	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Ärztin	Ärztin	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Kristina	Kristina	_	NE	nom|sg|neut	3	PRED	_	_
+5	Hänel	Hänel	_	NE	nom|sg|neut	4	APP	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Zeitung	Zeitung	_	NN	nom|sg|fem	4	SUBJ	_	_
+3	taz	taz	_	NE	nom|sg|*	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	über	über	_	APPR	_	10	OBJP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Fall	Fall	_	NN	acc|sg|masc	5	PN	_	_
+8	Kristina	Kristina	_	NE	nom|sg|fem	7	APP	_	_
+9	Hänel	Hänel	_	NE	nom|sg|fem	8	APP	_	_
+10	berichtet	berichten	_	VVPP	sg|3|pres|ind	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	taz	taz	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	sogar	sogar	_	ADV	_	6	ADV	_	_
+5	eine	ein	_	ART	acc|sg|fem	6	DET	_	_
+6	Titelseite	Titelseite	_	NN	acc|sg|fem	8	OBJA	_	_
+7	dazu	dazu	_	PROAV	_	6	PP	_	_
+8	gemacht	machen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auf	auf	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Titelseite	Titelseite	_	NN	dat|sg|fem	1	PN	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	Fotos	Foto	_	NN	nom|pl|neut	4	SUBJ	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	vielen	vieler	_	PIAT	dat|pl|*	8	DET	_	_
+8	Ärztinnen	Ärztin	_	NN	dat|pl|*	6	PN	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	Ärzten	Arzt	_	NN	dat|pl|masc	9	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+2	alle	aller	_	PIS	nom|pl|*	1	APP	_	_
+3	stehen	stehen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	auf	auf	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Seite	Seite	_	NN	dat|sg|fem	4	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Kristina	Kristina	_	NE	dat|sg|neut	7	PN	_	_
+9	Hänel	Hänel	_	NE	dat|sg|neut	8	APP	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	möchten	möchten	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	ihre	ihr	_	PPOSAT	acc|sg|fem	4	DET	_	_
+4	Kollegin	Kollegin	_	NN	acc|sg|fem	5	OBJA	_	_
+5	unterstützen	unterstützen	_	VVINF	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Überschrift	Überschrift	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	lautet	lauten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Wir	wir	_	PPER	nom|pl|*|1	6	SUBJ	_	_
+6	machen	machen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+7	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|pl|masc	6	OBJA	_	_
+8	!	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	7	PP	_	_
+2	einem	ein	_	ART	dat|sg|masc	3	DET	_	_
+3	Artikel	Artikel	_	NN	dat|sg|masc	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	taz	taz	_	NE	dat|sg|fem	4	PN	_	_
+7	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+8	die	der	_	ART	nom|pl|fem	9	DET	_	_
+9	Ärztinnen	Ärztin	_	NN	nom|pl|fem	7	SUBJ	_	_
+10	und	und	_	KON	_	9	KON	_	_
+11	Ärzte	Arzt	_	NN	nom|pl|masc	10	CJ	_	_
+12	:	--	_	$.	_	0	ROOT	_	_
+13	Kristina	Kristina	_	NE	nom|sg|neut	15	SUBJ	_	_
+14	Hänel	Hänel	_	NE	nom|sg|neut	13	APP	_	_
+15	hat	haben	_	VAFIN	sg|3|pres|ind	7	S	_	_
+16	keinen	kein	_	PIAT	acc|sg|masc	17	DET	_	_
+17	Fehler	Fehler	_	NN	acc|sg|masc	18	OBJA	_	_
+18	gemacht	machen	_	VVPP	_	15	AUX	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	keine	kein	_	PIAT	acc|sg|fem	4	DET	_	_
+4	Werbung	Werbung	_	NN	acc|sg|fem	7	OBJA	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|pl|masc	5	PN	_	_
+7	gemacht	machen	_	VVPP	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	nur	nur	_	ADV	_	4	ADV	_	_
+4	Informationen	Information	_	NN	acc|pl|fem	6	OBJA	_	_
+5	darüber	darüber	_	PROAV	_	4	PP	_	_
+6	veröffentlicht	veröffentlichen	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|pl|fem	3	DET	_	_
+3	Informationen	Information	_	NN	nom|pl|fem	4	SUBJ	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	wichtig	wichtig	_	ADJD	pos	4	PRED	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	Frauen	Frau	_	NN	acc|pl|fem	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	*|*|*	2	DET	_	_
+2	paar	paar	_	PIAT	*|*|*	3	DET	_	_
+3	Ärztinnen	Ärztin	_	NN	acc|pl|fem	9	SUBJ	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	Ärzte	Arzt	_	NN	acc|pl|neut	4	CJ	_	_
+6	von	von	_	APPR	_	3	PP	_	_
+7	der	der	_	ART	dat|sg|fem	8	DET	_	_
+8	taz-Titelseite	taz-Titelseite	_	NN	dat|sg|fem	6	PN	_	_
+9	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+10	jetzt	jetzt	_	ADV	_	13	ADV	_	_
+11	eine	ein	_	ART	acc|sg|fem	12	DET	_	_
+12	Anzeige	Anzeige	_	NN	acc|sg|fem	13	OBJA	_	_
+13	bekommen	bekommen	_	VVPP	_	9	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	vielleicht	vielleicht	_	ADV	_	2	ADV	_	_
+4	vor	vor	_	APPR	_	2	PP	_	_
+5	Gericht	Gericht	_	NN	dat|sg|neut	4	PN	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	weil	weil	_	KOUS	_	11	KONJ	_	_
+8	sie	sie	_	PPER	nom|sg|fem|3	11	SUBJ	_	_
+9	öffentlich	öffentlich	_	ADJD	pos	10	ADV	_	_
+10	gesagt	sagen	_	VVPP	_	11	AUX	_	_
+11	haben	haben	_	VAFIN	_	2	NEB	_	_
+12	:	--	_	$.	_	0	ROOT	_	_
+13	Wir	wir	_	PPER	nom|pl|*|1	14	SUBJ	_	_
+14	machen	machen	_	VVFIN	pl|1|pres|ind	10	S	_	_
+15	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|sg|fem	14	OBJA	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	:	--	_	$.	_	0	ROOT	_	_
+3	Manche	mancher	_	PIS	nom|sg|fem	9	SUBJ	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	den	der	_	ART	dat|pl|fem	6	DET	_	_
+6	Ärztinnen	Ärztin	_	NN	dat|pl|fem	4	PN	_	_
+7	und	und	_	KON	_	6	KON	_	_
+8	Ärzten	Arzt	_	NN	dat|pl|masc	7	CJ	_	_
+9	haben	haben	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+10	schon	schon	_	ADV	_	11	ADV	_	_
+11	lange	lange	_	ADV	_	15	ADV	_	_
+12	keinen	kein	_	PIAT	acc|sg|masc	13	DET	_	_
+13	Schwangerschafts-Abbruch	Schwangerschaftsabbruch	_	NN	acc|sg|masc	15	OBJA	_	_
+14	mehr	mehr	_	ADV	_	13	ADV	_	_
+15	gemacht	machen	_	VVPP	_	9	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einige	einige	_	PIS	nom|pl|*	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sogar	sogar	_	ADV	_	2	ADV	_	_
+4	schon	schon	_	ADV	_	2	ADV	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	Rente	Rente	_	NN	acc|sg|fem	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Ärztinnen	Ärztin	_	NN	nom|pl|fem	5	SUBJ	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Ärzte	Arzt	_	NN	nom|pl|masc	3	CJ	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	keine	kein	_	PIAT	acc|sg|fem	7	DET	_	_
+7	Werbung	Werbung	_	NN	acc|sg|fem	10	OBJA	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Schwangerschafts-Abbrüche	Schwangerschaftsabbruch	_	NN	acc|pl|masc	8	PN	_	_
+10	gemacht	machen	_	VVPP	_	5	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Ärztinnen	Ärztin	_	NN	nom|pl|fem	5	SUBJ	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Ärzte	Arzt	_	NN	nom|pl|masc	3	CJ	_	_
+5	wurden	werden	_	VAFIN	pl|3|past|ind	0	S	_	_
+6	aus	aus	_	APPR	_	9	PP	_	_
+7	diesem	dieser	_	PDAT	dat|sg|neut	8	DET	_	_
+8	Grund	Grund	_	NN	dat|sg|neut	6	PN	_	_
+9	angezeigt	anzeigen	_	VVPP	_	5	AUX	_	_
+10	:	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	unterstützen	unterstützen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Kristina	Kristina	_	NE	acc|sg|neut	2	OBJA	_	_
+4	Hänel	Hänel	_	NE	acc|sg|neut	3	APP	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	acc|sg|neut	2	OBJA	_	_
+2	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	Bundestag	Bundestag	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	zum	zu	_	APPRART	dat|sg|masc	2	PP	_	_
+6	Paragrafen	Paragraf	_	NN	dat|sg|masc	5	PN	_	_
+7	219a	219a	_	XY	_	6	APP	_	_
+8	?	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Paragrafen	Paragraf	_	NN	acc|sg|masc	7	OBJA	_	_
+6	219a	219a	_	XY	_	5	APP	_	_
+7	abschaffen	abschaffen	_	VVINF	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	beschäftigt	beschäftigen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|sg|3	2	OBJA	_	_
+4	jetzt	jetzt	_	ADV	_	2	ADV	_	_
+5	auch	auch	_	ADV	_	7	ADV	_	_
+6	der	der	_	ART	nom|sg|masc	7	DET	_	_
+7	Bundestag	Bundestag	_	NN	nom|sg|masc	2	SUBJ	_	_
+8	mit	mit	_	APPR	_	2	OBJP	_	_
+9	dem	der	_	ART	dat|sg|masc	10	DET	_	_
+10	Paragrafen	Paragraf	_	NN	dat|sg|masc	8	PN	_	_
+11	219a	219a	_	XY	_	10	APP	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Was	was	_	PWS	acc|sg|neut	2	OBJA	_	_
+2	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|fem	4	DET	_	_
+4	Parteien	Partei	_	NN	nom|pl|fem	2	SUBJ	_	_
+5	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+6	Bundestag	Bundestag	_	NN	dat|sg|masc	5	PN	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|neut	2	DET	_	_
+2	Parteien	Partei	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Paragrafen	Paragraf	_	NN	acc|sg|masc	6	OBJA	_	_
+6	abschaffen	abschaffen	_	VVINF	_	3	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	Bündnis	Bündnis	_	NN	nom|sg|neut	0	S	_	_
+3	90	90	_	CARD	_	2	APP	_	_
+4	/	/		$(	_	0	ROOT	_	_
+5	Die	der		ART	acc|pl|fem	6	DET	_	_
+6	Grünen	grüne	_	NN	acc|pl|fem	2	APP	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	Die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Linke	linke	_	NN	nom|sg|fem	0	S	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	SPD	SPD	_	NE	nom|sg|fem	0	S	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	FDP	FDP	_	NE	nom|sg|fem	3	SUBJ	_	_
+3	will	wollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Paragrafen	Paragraf	_	NN	acc|sg|masc	6	OBJA	_	_
+6	ändern	ändern	_	VVINF	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|neut	2	DET	_	_
+2	Parteien	Partei	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	wollen	wollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Paragrafen	Paragraf	_	NN	acc|sg|masc	7	OBJA	_	_
+6	nicht	nicht	_	PTKNEG	_	7	ADV	_	_
+7	ändern	ändern	_	VVINF	_	3	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	CDU	CDU	_	NE	nom|sg|fem	0	S	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	CSU	CSU	_	NE	nom|sg|fem	0	S	_	_
+
+1	●	●	_	LI	_	0	ROOT	_	_
+2	AfD	AfD	_	NE	_	0	S	_	_

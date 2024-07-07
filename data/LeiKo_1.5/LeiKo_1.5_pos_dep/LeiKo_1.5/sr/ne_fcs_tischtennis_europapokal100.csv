@@ -1,0 +1,147 @@
+﻿1	FCS	FCS	_	NE	nom|sg|neut	3	PRED	_	_
+2	Tischtennis	Tischtennis	_	NN	nom|sg|neut	1	APP	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Europapokal	Europapokal	_	NE	dat|sg|neut	4	PN	_	_
+6	weiter	weiter	_	ADV	_	3	ADV	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	1.	1	_	CARD	_	3	ATTR	_	_
+3	FC	FC	_	NE	gen|sg|*	6	OBJA	_	_
+4	Saarbrücken	Saarbrücken	_	NE	dat|sg|neut	3	APP	_	_
+5	Tischtennis	Tischtennis	_	NN	dat|sg|neut	4	APP	_	_
+6	gehört	gehören	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	dieses	dieser	_	PDAT	acc|sg|neut	8	DET	_	_
+8	Jahr	Jahr	_	NN	acc|sg|neut	6	ZEIT	_	_
+9	zu	zu	_	APPR	_	6	OBJP	_	_
+10	den	der	_	ART	dat|pl|masc	11	DET	_	_
+11	vier	vier	_	CARD	_	9	PN	_	_
+12	besten	gut	_	ADJA	gen|pl|masc|sup	13	ATTR	_	_
+13	Teams	Team	_	NN	gen|sg|neut	11	GMOD	_	_
+14	im	in	_	APPRART	dat|sg|neut	13	PP	_	_
+15	ETTU-Cup	ETTU-Cup	_	NN	dat|sg|neut	14	PN	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	5	DET	_	_
+4	zweithöchste	zweithöchster	_	ADJA	nom|sg|masc|sup	5	ATTR	_	_
+5	Wettbewerb	Wettbewerb	_	NN	nom|sg|masc	2	PRED	_	_
+6	in	in	_	APPR	_	5	PP	_	_
+7	Europa	Europa	_	NE	dat|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Tischtennis·spieler	Tischtennis·spieler	_	NN	nom|pl|masc	15	OBJA	_	_
+3	vom	von	_	APPRART	dat|sg|neut	2	PP	_	_
+4	FCS	FCS	_	NE	dat|sg|neut	3	PN	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	2	2	_	CARD	_	7	ATTR	_	_
+7	Mal	Mal	_	NN	*|*|neut	15	ZEIT	_	_
+8	gegen	gegen	_	APPR	_	15	PP	_	_
+9	das	der	_	ART	acc|sg|neut	10	DET	_	_
+10	Team	Team	_	NN	acc|sg|neut	8	PN	_	_
+11	aus	aus	_	APPR	_	15	PP	_	_
+12	dem	der	_	ART	dat|sg|neut	14	DET	_	_
+13	französischen	französisch	_	ADJA	gen|sg|neut|pos	14	ATTR	_	_
+14	Chartres	Chartre	_	NN	gen|sg|neut	11	PN	_	_
+15	gewonnen	gewinnen	_	VVPP	_	5	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zuerst	zuerst	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	5	DET	_	_
+4	Saarbrücker	Saarbrücker	_	ADJA	nom|pl|masc	5	ATTR	_	_
+5	Tischtennis·spieler	Tischtennis·spieler	_	NN	nom|pl|masc	9	OBJA	_	_
+6	zuhause	zuhause	_	ADV	_	5	ADV	_	_
+7	gegen	gegen	_	APPR	_	5	PP	_	_
+8	Chartres	Chartres	_	NN	acc|sg|neut	7	PN	_	_
+9	gespielt	spielen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	FCS	FCS	_	NE	nom|sg|masc	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	mit	mit	_	APPR	_	6	PP	_	_
+5	03:01	03:01	_	CARD	_	4	PN	_	_
+6	gewonnen	gewinnen	_	VVPP	_	3	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zwei	zwei	_	CARD	_	2	ATTR	_	_
+2	Wochen	Woche	_	NN	acc|pl|fem	4	ZEIT	_	_
+3	später	spät	_	ADJD	comp	2	ADV	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|fem	6	DET	_	_
+6	Teams	Team	_	NN	nom|pl|fem	4	SUBJ	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	Chartres	Chartre	_	NE	dat|sg|neut	7	PN	_	_
+9	noch	noch	_	ADV	_	10	ADV	_	_
+10	einmal	einmal	_	ADV	_	12	ADV	_	_
+11	gegeneinander	gegeneinander	_	ADV	_	12	ADV	_	_
+12	gespielt	spielen	_	VVPP	_	4	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Chartres	Chartres	_	NN	nom|sg|neut	2	SUBJ	_	_
+2	liegt	liegen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Frankreich	Frankreich	_	NE	dat|sg|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	FCS	FCS	_	NE	nom|sg|masc	3	SUBJ	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	6	ADV	_	_
+5	dieses	dieser	_	PDAT	acc|sg|neut	6	DET	_	_
+6	Spiel	Spiel	_	NN	acc|sg|neut	9	OBJA	_	_
+7	mit	mit	_	APPR	_	9	PP	_	_
+8	03:01	03:01	_	CARD	_	7	PN	_	_
+9	gewonnen	gewinnen	_	VVPP	_	3	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	4	DET	_	_
+4	FCS	FCS	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+6	Halbfinale	Halbfinal	_	NN	dat|sg|masc	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	spielt	spielen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	im	in	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Halbfinale	Halbfinal	_	NN	dat|sg|masc	3	PN	_	_
+5	gegen	gegen	_	APPR	_	2	PP	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Team	Team	_	NN	acc|sg|neut	5	PN	_	_
+8	aus	aus	_	APPR	_	7	PP	_	_
+9	Dzialdowo	Dzialdowo	_	NE	dat|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dzialdowo	Dzialdowo	_	NE	nom|sg|*	2	OBJD	_	_
+2	liegt	liegen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Polen	Polen	_	NE	dat|sg|neut	3	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zuerst	zuerst	_	ADV	_	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	ein	ein	_	ART	acc|sg|neut	5	DET	_	_
+5	Spiel	Spiel	_	NN	acc|sg|neut	2	OBJA	_	_
+6	in	in	_	APPR	_	2	PP	_	_
+7	Polen	Polen	_	NE	dat|sg|neut	6	PN	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	dann	dann	_	ADV	_	2	ADV	_	_
+10	eines	ein	_	ART	gen|sg|masc	0	S	_	_
+11	in	in	_	APPR	_	2	PP	_	_
+12	Saarbrücken	Saarbrücken	_	NE	dat|sg|neut	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	3	DET	_	_
+2	bessere	gut	_	ADJA	nom|sg|neut|comp	3	ATTR	_	_
+3	Team	Team	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	ins	in	_	APPRART	acc|sg|neut	4	PP	_	_
+6	Finale	Finale	_	NN	acc|sg|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+

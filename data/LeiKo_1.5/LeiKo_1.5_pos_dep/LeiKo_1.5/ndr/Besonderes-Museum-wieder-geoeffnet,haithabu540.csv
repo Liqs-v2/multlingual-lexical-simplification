@@ -1,0 +1,277 @@
+1	Besonderes	besonderer	_	ADJA	nom|sg|neut|pos	2	ATTR	_	_
+2	Museum	Museum	_	NN	nom|sg|neut	4	SUBJ	_	_
+3	wieder	wieder	_	ADV	_	4	ADV	_	_
+4	geöffnet	öffnen	_	VVPP	_	0	S	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	1	PN	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	ein	ein	_	ART	nom|sg|neut	6	DET	_	_
+5	besonderes	besonderer	_	ADJA	nom|sg|neut|pos	6	ATTR	_	_
+6	Museum	Museum	_	NN	nom|sg|neut	3	SUBJ	_	_
+7	wieder	wieder	_	ADV	_	8	ADV	_	_
+8	geöffnet	öffnen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	einem	ein	_	ART	dat|sg|neut	3	DET	_	_
+3	Museum	Museum	_	NN	dat|sg|neut	1	PN	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+6	besondere	besonderer	_	ADJA	nom|pl|masc|pos	7	ATTR	_	_
+7	Dinge	Ding	_	NN	nom|pl|masc	8	OBJA	_	_
+8	sehen	sehen	_	VVINF	pl|3|pres|ind	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|neut	2	DET	_	_
+2	Dinge	Ding	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	oft	oft	_	ADV	_	3	ADV	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	alt	alt	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|pl|neut	3	DET	_	_
+3	Dinge	Ding	_	NN	nom|pl|neut	4	SUBJ	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	oft	oft	_	ADV	_	4	ADV	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	wertvoll	wertvoll	_	ADJD	pos	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|neut	2	DET	_	_
+2	Dinge	Ding	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	Bilder	Bild	_	NN	acc|pl|neut	3	PRED	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	berühmten	berühmt	_	ADJA	dat|pl|masc|pos	9	ATTR	_	_
+9	Malern	Maler	_	NN	dat|pl|masc	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Museum	Museum	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	Nähe	Nähe	_	NN	dat|sg|fem	4	PN	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	Schleswig	Schleswig	_	NE	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Museum	Museum	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Haithabu	Haithabu	_	NE	acc|sg|*	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Museum	Museum	_	NN	nom|sg|neut	4	SUBJ	_	_
+4	zeigt	zeigen	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	So	so	_	ADV	_	7	ADV	_	_
+7	haben	haben	_	VAFIN	pl|3|pres|ind	4	S	_	_
+8	die	der	_	ART	nom|pl|masc	9	DET	_	_
+9	Wikinger	Wikinger	_	NN	nom|pl|masc	7	SUBJ	_	_
+10	gelebt	leben	_	VVPP	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Wikinger	Wikinger	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	vor	vor	_	APPR	_	8	PP	_	_
+5	über	über	_	ADV	_	6	ADV	_	_
+6	1000	1000	_	CARD	_	7	ATTR	_	_
+7	Jahren	Jahr	_	NN	dat|pl|neut	4	PN	_	_
+8	gelebt	leben	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	3	DET	_	_
+2	meisten	meister	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Wikinger	Wikinger	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	in	in	_	APPR	_	7	PP	_	_
+6	Nord·europa	Nordeuropa	_	NE	dat|sg|neut	5	PN	_	_
+7	gelebt	leben	_	VVPP	_	4	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einige	einiger	_	PIS	nom|pl|*	5	SUBJ	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	den	der	_	ART	dat|pl|masc	4	DET	_	_
+4	Wikingern	Wikinger	_	NN	dat|pl|masc	2	PN	_	_
+5	waren	sein	_	VVFIN	pl|3|past|ind	0	S	_	_
+6	Seefahrer	Seefahrer	_	NN	nom|pl|masc	5	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	hatten	haben	_	VVFIN	pl|3|past|ind	0	S	_	_
+4	Angst	Angst	_	NN	acc|sg|fem	3	OBJA	_	_
+5	vor	vor	_	APPR	_	3	OBJP	_	_
+6	diesen	dieser	_	PDAT	dat|pl|masc	7	DET	_	_
+7	Seefahrern	Seefahrer	_	NN	dat|pl|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Seefahrer	Seefahrer	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	nämlich	nämlich	_	ADV	_	8	ADV	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	8	PP	_	_
+6	Beispiel	Beispiel	_	NN	dat|sg|neut	5	PN	_	_
+7	Dörfer	Dorf	_	NN	acc|pl|neut	8	OBJA	_	_
+8	überfallen	überfallen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	4	DET	_	_
+3	meisten	meister	_	PIAT	nom|pl|masc	4	DET	_	_
+4	Wikinger	Wikinger	_	NN	nom|pl|masc	5	SUBJ	_	_
+5	waren	sein	_	VVFIN	pl|3|past|ind	1	CJ	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	•	LI	_	$(	nom|pl|masc	0	ROOT	_	_
+8	Bauern	Bauer	_	NN	nom|pl|masc	5	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+10	•	LI	_	$(	_	0	ROOT	_	_
+11	Oder	Oder	_	KON	_	8	KON	_	_
+12	Hand·werker	Handwerker	_	NN	nom|sg|masc	11	CJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Museum	Museum	_	NN	nom|sg|neut	0	S	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Museum	Museum	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+4	lange	lange	_	ADV	_	5	ADV	_	_
+5	geschlossen	schließen	_	VVPP	_	3	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hand·werker	Handwerker	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Museum	Museum	_	NN	acc|sg|neut	6	OBJA	_	_
+5	nämlich	nämlich	_	ADV	_	6	ADV	_	_
+6	umgebaut	umbauen	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Handwerker	Handwerker	_	NN	nom|pl|masc	3	SUBJ	_	_
+6	fertig	fertig	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	das	der	_	ART	acc|sg|neut	6	DET	_	_
+6	Museum	Museum	_	NN	acc|sg|neut	8	OBJA	_	_
+7	wieder	wieder	_	ADV	_	8	ADV	_	_
+8	besuchen	besuchen	_	VVINF	_	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	dem	der	_	ART	dat|sg|masc	3	DET	_	_
+3	Museum	Museum	_	NN	dat|sg|masc	1	PN	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	viele	vieler	_	PIAT	nom|pl|neut	6	DET	_	_
+6	Dinge	Ding	_	NN	nom|pl|neut	4	SUBJ	_	_
+7	von	von	_	APPR	_	6	PP	_	_
+8	den	der	_	ART	dat|pl|masc	9	DET	_	_
+9	Wikingern	Wikinger	_	NN	dat|pl|masc	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|neut	2	DET	_	_
+2	Dinge	Ding	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	•	LI	_	$(	nom|sg|masc	0	ROOT	_	_
+8	Boote	Boot	_	NN	nom|sg|masc	3	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+10	•	LI	_	$(	_	0	ROOT	_	_
+11	Werkzeug	Werkzeug	_	NN	nom|sg|neut	8	KON	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+13	•	LI	_	$(	_	0	ROOT	_	_
+14	Oder	oder	_	KON	_	11	KON	_	_
+15	Schmuck	Schmuck	_	NN	acc|sg|masc	14	CJ	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Sprecher	Sprecher	_	NN	nom|sg|masc	6	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	dem	der	_	ART	dat|sg|neut	5	DET	_	_
+5	Museum	Museum	_	NN	dat|sg|neut	3	PN	_	_
+6	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+7	gesagt	sagen	_	VVPP	_	6	AUX	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+9	Archäologen	Archäologe	_	NN	nom|pl|fem	10	SUBJ	_	_
+10	haben	haben	_	VAFIN	pl|3|pres|ind	7	S	_	_
+11	im	in	_	APPRART	dat|sg|neut	15	PP	_	_
+12	vergangen	vergehen	_	ADJA	dat|sg|neut|pos	13	ATTR	_	_
+13	Jahr	Jahr	_	NN	dat|sg|neut	11	PN	_	_
+14	Gold·schmuck	Goldschmuck	_	NN	acc|sg|masc	15	OBJA	_	_
+15	gefunden	finden	_	VVPP	_	10	AUX	_	_
+16	.	--	_	$.	_	0	ROOT	_	_
+
+1	Archäologen	Archäologe	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Forscher	Forscher	_	NN	nom|pl|masc	2	PRED	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Archäologen	Archäologe	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	suchen	suchen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	4	ADV	_	_
+4	alte	alt	_	ADJA	acc|pl|masc|pos	5	ATTR	_	_
+5	Dinge	Ding	_	NN	acc|pl|masc	2	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	0	S	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	$(	_	0	ROOT	_	_
+2	Knochen	Knochen	_	NN	nom|pl|fem	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	$(	_	0	ROOT	_	_
+2	Schmuck	Schmuck	_	NN	acc|sg|masc	0	S	_	_
+3	.	--	_	$.	_	0	ROOT	_	_
+
+1	•	LI	_	$(	_	0	ROOT	_	_
+2	Und	und	_	KON	_	0	S	_	_
+3	Werkzeuge	Werkzeug	_	NN	nom|pl|neut	2	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Archäologen	Archäologe	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	untersuchen	untersuchen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	diese	dieser	_	PDAT	nom|pl|masc	6	DET	_	_
+5	alten	alt	_	ADJA	nom|pl|masc|pos	6	ATTR	_	_
+6	Dinge	Ding	_	NN	nom|pl|masc	3	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieser	dieser	_	PDAT	nom|sg|masc	2	DET	_	_
+2	Gold·schmuck	Goldschmuck	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	von	von	_	APPR	_	3	PRED	_	_
+5	Wikingern	Wikinger	_	NN	dat|pl|masc	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diesen	dieser	_	PDAT	acc|sg|masc	3	DET	_	_
+3	Gold·schmuck	Goldschmuck	_	NN	acc|sg|masc	10	OBJA	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Besucher	Besucher	_	NN	nom|pl|masc	4	SUBJ	_	_
+7	jetzt	jetzt	_	ADV	_	10	ADV	_	_
+8	im	in	_	APPRART	dat|sg|neut	10	PP	_	_
+9	Museum	Museum	_	NN	dat|sg|neut	8	PN	_	_
+10	sehen	sehen	_	VVINF	pl|3|pres|ind	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_

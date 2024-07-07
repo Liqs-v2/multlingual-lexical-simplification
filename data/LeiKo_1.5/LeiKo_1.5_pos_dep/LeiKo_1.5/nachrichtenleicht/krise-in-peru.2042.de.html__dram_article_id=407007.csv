@@ -1,0 +1,164 @@
+1	Krise	Krise	_	NN	nom|sg|fem	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Peru	Peru	_	NE	dat|sg|neut	2	PN	_	_
+
+1	In	in	_	APPR	_	5	PP	_	_
+2	dem	der	_	ART	dat|sg|neut	3	DET	_	_
+3	Land	Land	_	NN	dat|sg|neut	1	PN	_	_
+4	Peru	Peru	_	NE	dat|sg|neut	3	APP	_	_
+5	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	es	es	_	PPER	nom|sg|neut|3	5	SUBJ	_	_
+7	eine	ein	_	ART	acc|sg|fem	9	DET	_	_
+8	politische	politisch	_	ADJA	acc|sg|fem|pos	9	ATTR	_	_
+9	Krise	Krise	_	NN	acc|sg|fem	5	OBJA	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Präsident	Präsident	_	NN	nom|sg|masc	3	PRED	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Pedro	Pedro	_	NE	nom|sg|masc	3	PRED	_	_
+5	Pablo	Pablo	_	NE	nom|sg|masc	3	PRED	_	_
+6	Kuczynski	Kuczynski	_	NE	nom|sg|masc	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	einen	ein	_	ART	acc|sg|masc	5	DET	_	_
+4	früheren	früh	_	ADJA	acc|sg|masc|comp	5	ATTR	_	_
+5	Präsidenten	Präsident	_	NN	acc|sg|masc	9	ZEIT	_	_
+6	von	von	_	APPR	_	9	PP	_	_
+7	dem	der	_	ART	dat|sg|neut	8	DET	_	_
+8	Land	Land	_	NN	dat|sg|neut	6	PN	_	_
+9	begnadigt	begnadigen	_	VVPP	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	acc|sg|neut	2	OBJA	_	_
+2	finden	finden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	viele	vieler	_	PIAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	S	_	_
+5	in	in	_	APPR	_	4	PP	_	_
+6	Peru	Peru	_	NE	dat|sg|neut	5	PN	_	_
+7	falsch	falsch	_	ADJD	pos	4	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	frühere	früh	_	ADJA	nom|sg|masc|comp	3	ATTR	_	_
+3	Präsident	Präsident	_	NN	nom|sg|masc	4	PRED	_	_
+4	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	Alberto	Alberto	_	NE	nom|sg|masc	4	PRED	_	_
+6	Fujimori	Fujimori	_	NE	nom|sg|masc	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+3	von	von	_	APPR	_	2	PRED	_	_
+4	1990	1990	_	CARD	_	3	PN	_	_
+5	bis	bis	_	KON	_	2	KON	_	_
+6	2000	2000	_	CARD	_	7	ATTR	_	_
+7	Präsident	Präsident	_	NN	nom|sg|masc	5	CJ	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	Peru	Peru	_	NE	dat|sg|neut	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Später	spät	_	ADJD	comp	2	ADV	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	ein	ein	_	ART	nom|sg|neut	4	DET	_	_
+4	Gericht	Gericht	_	NN	nom|sg|neut	2	SUBJ	_	_
+5	ihn	ihn	_	PPER	acc|sg|masc|3	10	OBJA	_	_
+6	zu	zu	_	APPR	_	10	OBJP	_	_
+7	25	25	_	CARD	_	8	ATTR	_	_
+8	Jahren	Jahr	_	NN	dat|pl|neut	6	PN	_	_
+9	Gefängnis	Gefängnis	_	NN	nom|sg|neut	8	APP	_	_
+10	verurteilt	verurteilen	_	VVPP	_	2	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Richter	Richter	_	NN	nom|pl|masc	0	S	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	4	S	_	_
+4	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Fujimori	Fujimori	_	NE	nom|sg|neut	4	OBJD	_	_
+7	war	sein	_	VAFIN	sg|3|past|ind	0	S	_	_
+8	brutal	brutal	_	ADJD	pos	7	ADV	_	_
+9	und	und	_	KON	_	8	KON	_	_
+10	korrupt	korrupt	_	ADJD	pos	9	CJ	_	_
+11	,	--	_	$,	_	0	ROOT	_	_
+12	und	und	_	KON	_	7	KON	_	_
+13	er	er	_	PPER	nom|sg|masc|3	14	SUBJ	_	_
+14	hat	haben	_	VAFIN	sg|3|pres|ind	12	CJ	_	_
+15	gegen	gegen	_	APPR	_	18	OBJP	_	_
+16	die	der	_	ART	acc|sg|fem	17	DET	_	_
+17	Menschen-Rechte	Menschen-Recht	_	NN	acc|sg|fem	15	PN	_	_
+18	verstoßen	verstoßen	_	VVPP	_	14	AUX	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+
+1	Doch	doch	_	KON	_	0	S	_	_
+2	der	der	_	ART	nom|sg|masc	4	DET	_	_
+3	aktuelle	aktuell	_	ADJA	nom|sg|masc|pos	4	ATTR	_	_
+4	Präsident	Präsident	_	NN	nom|sg|masc	7	SUBJ	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	Peru	Peru	_	NE	nom|sg|masc	5	PN	_	_
+7	hat	haben	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+8	gesagt	sagen	_	VVPP	_	7	AUX	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Fujimori	Fujimori	_	NE	nom|sg|neut	11	PRED	_	_
+11	ist	sein	_	VAFIN	sg|3|pres|ind	8	S	_	_
+12	schwer	schwer	_	ADJD	pos	11	ADV	_	_
+13	krank	krank	_	ADJD	pos	11	ADV	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Darum	darum	_	PROAV	_	2	DET	_	_
+2	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+4	aus	aus	_	APPR	_	7	PP	_	_
+5	dem	der	_	ART	dat|sg|neut	6	DET	_	_
+6	Gefängnis	Gefängnis	_	NN	dat|sg|neut	4	PN	_	_
+7	kommen	kommen	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	acc|sg|fem	2	DET	_	_
+2	Entscheidung	Entscheidung	_	NN	acc|sg|fem	7	ETH	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	viele	vieler	_	PIAT	acc|pl|masc	5	DET	_	_
+5	Menschen	Mensch	_	NN	acc|pl|masc	7	OBJA	_	_
+6	wütend	wütend	_	ADJD	pos	7	ADV	_	_
+7	gemacht	machen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gab	geben	_	VVFIN	sg|3|past|ind	0	S	_	_
+3	viele	vieler	_	PIAT	acc|pl|masc	4	DET	_	_
+4	Proteste	Protest	_	NN	acc|pl|masc	2	OBJA	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	den	der	_	ART	acc|sg|masc	7	DET	_	_
+7	Straßen	Straße	_	NN	acc|sg|masc	5	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|*	2	DET	_	_
+2	Demonstranten	Demonstrant	_	NN	nom|pl|*	3	OBJA	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Fujimori	Fujimori	_	NE	nom|sg|neut	9	ETH	_	_
+6	darf	dürfen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+7	nicht	nicht	_	PTKNEG	_	9	ADV	_	_
+8	frei	frei	_	ADJD	pos	9	ADV	_	_
+9	sein	sein	_	VAINF	_	6	AUX	_	_
+10	,	--	_	$,	_	0	ROOT	_	_
+11	denn	denn	_	KON	_	6	KON	_	_
+12	er	er	_	PPER	nom|sg|masc|3	13	SUBJ	_	_
+13	war	sein	_	VAFIN	sg|3|past|ind	11	CJ	_	_
+14	ein	ein	_	ART	nom|sg|masc	16	DET	_	_
+15	schlimmer	schlimm	_	ADJA	comp	16	ATTR	_	_
+16	Verbrecher	Verbrecher	_	NN	nom|sg|masc	13	PRED	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Einige	einiger	_	PIAT	nom|pl|neut	2	DET	_	_
+2	Minister	Minister	_	NN	nom|pl|neut	6	SUBJ	_	_
+3	aus	aus	_	APPR	_	2	PP	_	_
+4	der	der	_	ART	dat|sg|fem	5	DET	_	_
+5	Regierung	Regierung	_	NN	dat|sg|fem	3	PN	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	sogar	sogar	_	ADV	_	8	ADV	_	_
+8	zurückgetreten	zurücktreten	_	VVPP	_	6	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+

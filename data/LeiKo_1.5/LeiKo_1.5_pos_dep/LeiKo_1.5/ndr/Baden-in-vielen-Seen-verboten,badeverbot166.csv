@@ -1,0 +1,267 @@
+1	Baden	baden	_	NN	nom|sg|masc	5	SUBJ	_	_
+2	in	in	_	APPR	_	5	PP	_	_
+3	vielen	vieler	_	PIAT	dat|pl|masc	4	DET	_	_
+4	Seen	See	_	NN	dat|pl|masc	2	PN	_	_
+5	verboten	verbieten	_	VVPP	_	0	S	_	_
+
+1	In	in	_	APPR	_	6	PP	_	_
+2	vielen	vieler	_	PIAT	dat|pl|fem	3	DET	_	_
+3	Seen	See	_	NN	dat|pl|fem	1	PN	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	4	PN	_	_
+6	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+7	das	der	_	ART	nom|sg|neut	8	DET	_	_
+8	Baden	Baden	_	NN	nom|sg|neut	6	SUBJ	_	_
+9	verboten	verbieten	_	VVPP	_	6	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	In	in	_	APPR	_	7	PP	_	_
+5	diesen	dieser	_	PDAT	dat|pl|fem	6	DET	_	_
+6	Seen	See	_	NN	dat|pl|fem	4	PN	_	_
+7	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	2	S	_	_
+8	keine	kein	_	PIAT	nom|pl|masc	9	DET	_	_
+9	Menschen	Mensch	_	NN	nom|pl|masc	7	SUBJ	_	_
+10	baden	baden	_	VVINF	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Seen	See	_	NN	dat|pl|fem	1	PN	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	4	ADV	_	_
+6	viele	vieler	_	PIAT	nom|pl|neut	7	DET	_	_
+7	Blau·algen	Blaualge	_	NN	nom|pl|neut	4	SUBJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Blau·algen	Blaualge	_	NN	nom|pl|fem	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Bakterien	Bakterie	_	NN	nom|pl|neut	2	PRED	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bakterien	Bakterie	_	NN	nom|pl|fem	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sehr	sehr	_	ADV	_	4	ADV	_	_
+4	kleine	klein	_	ADJA	acc|sg|neut|pos	5	ATTR	_	_
+5	Lebewesen	Lebewesen	_	NN	acc|sg|neut	2	PRED	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|fem	2	DET	_	_
+2	Bakterien	Bakterie	_	NN	nom|pl|fem	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|masc	3	PP	_	_
+5	Wasser	Wasser	_	NN	dat|sg|masc	4	PN	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|pl|fem	3	DET	_	_
+3	Bakterien	Bakterie	_	NN	nom|pl|fem	4	SUBJ	_	_
+4	sind	sein	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	für	für	_	APPR	_	4	PP	_	_
+6	Menschen	Mensch	_	NN	acc|pl|masc	5	PN	_	_
+7	gefährlich	gefährlich	_	ADJD	pos	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	acc|pl|neut	2	DET	_	_
+2	Bakterien	Bakterie	_	NN	acc|pl|neut	3	SUBJ	_	_
+3	machen	machen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Menschen	Mensch	_	NN	acc|pl|masc	3	OBJA	_	_
+5	nämlich	nämlich	_	ADV	_	3	ADV	_	_
+6	krank	krank	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|masc|pos	2	DET	_	_
+2	Seen	See	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	•	LI	_	$(	nom|sg|masc	0	ROOT	_	_
+8	Der	der	_	ART	nom|sg|masc	10	DET	_	_
+9	Seeburger	Seeburger	_	ADJA	*|*|*|pos	10	ATTR	_	_
+10	See	See	_	NN	nom|sg|masc	3	PRED	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+12	•	LI	_	$(	_	0	ROOT	_	_
+13	Der	der	_	ART	nom|sg|masc	14	DET	_	_
+14	Dümmer	Dümmer	_	NE	nom|sg|masc	10	KON	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+16	•	LI	_	$(	_	0	ROOT	_	_
+17	Und	und	_	KON	_	14	KON	_	_
+18	die	der	_	ART	nom|sg|fem	20	DET	_	_
+19	Thülsfelder	Thülsfeld	_	ADJA	*|*|*|pos	20	ATTR	_	_
+20	Tal·sperre	Talsperre	_	NN	nom|sg|fem	17	CJ	_	_
+21	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Blau·algen	Blaualge	_	NN	nom|pl|*	0	S	_	_
+3	durch	durch	_	APPR	_	0	S	_	_
+4	Hitze	Hitze	_	NN	acc|sg|fem	3	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Nord·deutschland	Norddeutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	heiß	heiß	_	ADJD	pos	3	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	in	in	_	APPR	_	4	PP	_	_
+3	Nord·deutschland	Norddeutschland	_	NE	dat|sg|neut	2	PN	_	_
+4	ist	sein	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+5	es	es	_	PPER	nom|sg|neut|3	4	SUBJ	_	_
+6	sehr	sehr	_	ADV	_	7	ADV	_	_
+7	trocken	trocken	_	ADJD	pos	4	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Nord·deutschland	Norddeutschland	_	NE	dat|sg|neut	1	PN	_	_
+3	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	acc|sg|neut|3	3	SUBJ	_	_
+5	nämlich	nämlich	_	ADV	_	7	ADV	_	_
+6	wenig	wenig	_	PIS	*|*|*	7	OBJA	_	_
+7	geregnet	regnen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Fachleute	Fachleute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Bei	bei	_	APPR	_	8	PP	_	_
+6	diesem	dieser	_	PDAT	dat|sg|masc	7	DET	_	_
+7	Wetter	Wetter	_	NN	dat|sg|masc	5	PN	_	_
+8	können	können	_	VMFIN	pl|3|pres|ind	3	S	_	_
+9	im	in	_	APPRART	dat|sg|masc	12	PP	_	_
+10	Wasser	Wasser	_	NN	dat|sg|masc	9	PN	_	_
+11	Blau·algen	Blaualge	_	NN	nom|pl|fem	8	SUBJ	_	_
+12	entstehen	entstehen	_	VVINF	pl|3|pres|ind	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Blau·algen	Blaualge	_	NN	nom|pl|fem	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	giftig	giftig	_	ADJD	pos	2	PRED	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	schlucken	schlucken	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	beim	bei	_	APPRART	dat|sg|masc	2	PP	_	_
+4	Baden	baden	_	NN	dat|sg|masc	3	PN	_	_
+5	Blau·algen	Blaualge	_	NN	nom|pl|fem	2	OBJA	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	diese	dieser	_	PDAT	nom|pl|masc	4	DET	_	_
+4	Menschen	Mensch	_	NN	nom|pl|masc	2	SUBJ	_	_
+5	krank	krank	_	ADJD	pos	6	PRED	_	_
+6	werden	werden	_	VVINF	pl|3|pres|ind	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	bekommen	bekommen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	3	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	•	LI	_	$(	nom|sg|masc	0	ROOT	_	_
+8	Durchfall	Durchfall	_	NN	nom|sg|masc	3	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+10	•	LI	_	$(	_	0	ROOT	_	_
+11	Oder	oder	_	KON	_	8	KON	_	_
+12	Erbrechen	erbrechen	_	NN	nom|sg|neut	11	CJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Besonders	besonders	_	ADV	_	2	ADV	_	_
+2	gefährlich	gefährlich	_	ADJD	pos	3	PRED	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	Blau·algen	Blaualge	_	NN	nom|pl|fem	3	SUBJ	_	_
+5	für	für	_	APPR	_	3	PP	_	_
+6	Kinder	Kind	_	NN	acc|pl|neut	5	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|neut	2	DET	_	_
+2	Bade·stellen	Badestelle	_	NN	nom|pl|neut	3	SUBJ	_	_
+3	gesperrt	sperren	_	VVPP	_	0	S	_	_
+
+1	Fach·leute	Fachleute	_	NN	nom|pl|*	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Seen	See	_	NN	nom|pl|fem	6	OBJA	_	_
+4	in	in	_	APPR	_	3	PP	_	_
+5	Niedersachsen	Niedersachsen	_	NE	dat|sg|neut	4	PN	_	_
+6	untersucht	untersuchen	_	VVPP	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|*	2	DET	_	_
+2	Fachleute	Fachleute	_	NN	nom|pl|*	3	SUBJ	_	_
+3	wollten	wollen	_	VMFIN	pl|3|past|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	6	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	wissen	wissen	_	VVINF	_	3	AUX	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+8	Ist	sein	_	VVFIN	sg|3|pres|ind	6	S	_	_
+9	das	der	_	ART	nom|sg|neut	10	DET	_	_
+10	Wasser	Wasser	_	NN	nom|sg|neut	8	SUBJ	_	_
+11	von	von	_	APPR	_	10	PP	_	_
+12	den	der	_	ART	dat|pl|fem	13	DET	_	_
+13	Seen	See	_	NN	dat|pl|fem	11	PN	_	_
+14	sauber	sauber	_	ADJD	_	8	PRED	_	_
+15	?	--	_	$.	_	0	ROOT	_	_
+
+1	Jetzt	jetzt	_	ADV	_	2	ADV	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|*	4	DET	_	_
+4	Fach·leute	Fachleute	_	NN	nom|pl|*	2	SUBJ	_	_
+5	gesagt	sagen	_	VVPP	_	2	AUX	_	_
+6	:	--	_	$.	_	0	ROOT	_	_
+7	Im	in	_	APPRART	dat|sg|neut	12	PP	_	_
+8	Wasser	Wasser	_	NN	dat|sg|neut	7	PN	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	vielen	vieler	_	PIAT	dat|pl|masc	11	DET	_	_
+11	Seen	See	_	NN	dat|pl|masc	9	PN	_	_
+12	sind	sein	_	VVFIN	pl|3|pres|ind	5	S	_	_
+13	Blau·algen	Blaualge	_	NN	dat|pl|masc	12	SUBJ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Baden	Baden	_	NN	nom|sg|neut	2	SUBJ	_	_
+5	in	in	_	APPR	_	8	PP	_	_
+6	diesen	dieser	_	PDAT	dat|pl|fem	7	DET	_	_
+7	Seen	See	_	NN	dat|pl|fem	5	PN	_	_
+8	verboten	verbieten	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Blau·algen	Blaualge	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	auch	auch	_	ADV	_	5	ADV	_	_
+5	für	für	_	APPR	_	3	PP	_	_
+6	Tiere	Tier	_	NN	acc|pl|neut	5	PN	_	_
+7	gefährlich	gefährlich	_	ADJD	pos	3	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	PP	_	_
+2	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	5	ADV	_	_
+4	keine	kein	_	PIAT	nom|pl|neut	5	DET	_	_
+5	Tiere	Tier	_	NN	nom|pl|neut	2	SUBJ	_	_
+6	in	in	_	APPR	_	9	PP	_	_
+7	den	der	_	ART	dat|pl|neut	8	DET	_	_
+8	Seen	See	_	NN	dat|pl|neut	6	PN	_	_
+9	baden	baden	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Im	in	_	APPRART	dat|sg|neut	4	PP	_	_
+2	letzten	letzter	_	ADJA	dat|sg|neut|pos	3	ATTR	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+5	nämlich	nämlich	_	ADV	_	10	ADV	_	_
+6	mehrere	mehrere	_	PIAT	nom|pl|neut	7	DET	_	_
+7	Hunde	Hund	_	NN	nom|pl|neut	4	SUBJ	_	_
+8	durch	durch	_	APPR	_	10	PP	_	_
+9	Blau·algen	Blaualge	_	NN	acc|pl|fem	8	PN	_	_
+10	gestorben	sterben	_	VVPP	_	4	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_

@@ -1,0 +1,167 @@
+1	Schlechte	schlecht	_	ADJA	nom|pl|neut|pos	2	ATTR	_	_
+2	Medizin-Produkte	Medizin-Produkt	_	NN	nom|pl|neut	0	S	_	_
+
+1	Die	der	_	ART	nom|pl|fem	2	DET	_	_
+2	Kontrollen	Kontrolle	_	NN	nom|pl|fem	5	SUBJ	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	Medizin-Produkte	Medizin-Produkt	_	NN	acc|sg|fem	3	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	oft	oft	_	ADV	_	5	ADV	_	_
+7	nicht	nicht	_	PTKNEG	_	8	ADV	_	_
+8	gut	gut	_	ADJD	pos	5	PRED	_	_
+9	genug	genug	_	ADV	_	8	ADV	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	acc|sg|neut	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	Journalisten	Journalist	_	NN	nom|pl|masc	4	OBJA	_	_
+4	herausgefunden	herausfinden	_	VVPP	_	2	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Medizin-Produkte	Medizin-Produkt	_	NN	nom|pl|neut	2	PRED	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	2	PRED	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Herz-Schritt-Macher	Herz-Schritt-Macher	_	NN	nom|sg|masc	2	PRED	_	_
+7	oder	oder	_	KON	_	6	KON	_	_
+8	künstliche	künstlich	_	ADJA	nom|sg|masc|pos	9	ATTR	_	_
+9	Hüft-Gelenke	Hüft-Gelenke	_	NN	nom|sg|masc	7	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Medizin-Produkte	Medizin-Produkt	_	NN	nom|pl|neut	2	SUBJ	_	_
+2	sollen	sollen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	kranken	krank	_	ADJA	nom|pl|neut|pos	4	ATTR	_	_
+4	Menschen	Mensch	_	NN	nom|pl|neut	5	OBJD	_	_
+5	helfen	helfen	_	VVINF	_	2	AUX	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Manche	mancher	_	PIS	nom|pl|*	5	SUBJ	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	diesen	dieser	_	PDAT	dat|pl|neut	4	DET	_	_
+4	Produkten	Produkt	_	NN	dat|pl|neut	2	PN	_	_
+5	werden	werden	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	bei	bei	_	APPR	_	12	PP	_	_
+7	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+8	Operation	Operation	_	NN	dat|sg|fem	6	PN	_	_
+9	in	in	_	APPR	_	12	PP	_	_
+10	den	der	_	ART	acc|sg|masc	11	DET	_	_
+11	Körper	Körper	_	NN	acc|sg|masc	9	PN	_	_
+12	eingebaut	einbauen	_	VVPP	_	5	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Man	man	_	PIS	nom|sg|*	2	OBJA2	_	_
+2	nennt	nennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	acc|*|*|3	2	OBJA	_	_
+4	"	--	_	$(	_	0	ROOT	_	_
+5	Implantate	Implantat	_	NN	acc|pl|masc	2	OBJA2	_	_
+6	"	--	_	$(	_	0	ROOT	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	acc|pl|masc	2	DET	_	_
+2	Journalisten	Journalist	_	NN	acc|pl|masc	4	OBJD	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	festgestellt	feststellen	_	VVPP	_	3	AUX	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Die	der	_	ART	nom|pl|masc	7	DET	_	_
+7	Kontrollen	Kontrolle	_	NN	nom|pl|masc	10	PRED	_	_
+8	für	für	_	APPR	_	7	PP	_	_
+9	Implantate	Implantat	_	NN	acc|pl|masc	8	PN	_	_
+10	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+11	in	in	_	APPR	_	14	PP	_	_
+12	Europa	Europa	_	NE	dat|sg|neut	11	PN	_	_
+13	nicht	nicht	_	PTKNEG	_	14	ADV	_	_
+14	gut	gut	_	ADJD	pos	10	AUX	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Hersteller	Hersteller	_	NN	nom|pl|masc	5	OBJA	_	_
+3	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	nicht	nicht	_	PTKNEG	_	5	ADV	_	_
+5	beweisen	beweisen	_	VVINF	_	3	AUX	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	dass	dass	_	KOUS	_	14	KONJ	_	_
+8	die	der	_	ART	nom|sg|fem	9	DET	_	_
+9	Implantate	Implantat	_	NN	nom|sg|fem	14	PRED	_	_
+10	gut	gut	_	ADJD	pos	11	ADV	_	_
+11	funktionieren	funktionieren	_	VVFIN	pl|3|pres|ind	9	OBJC	_	_
+12	und	und	_	KON	_	11	KON	_	_
+13	sicher	sicher	_	ADJD	pos	12	CJ	_	_
+14	sind	sein	_	VAFIN	pl|3|pres|ind	5	OBJC	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+4	passieren	passieren	_	VVINF	_	2	AUX	_	_
+5	,	--	_	$,	_	0	ROOT	_	_
+6	dass	dass	_	KOUS	_	12	KONJ	_	_
+7	die	der	_	ART	nom|sg|fem	8	DET	_	_
+8	Implantate	Implantat	_	NN	nom|sg|fem	12	ETH	_	_
+9	im	in	_	APPRART	dat|sg|masc	8	PP	_	_
+10	Körper	Körper	_	NN	dat|sg|masc	9	PN	_	_
+11	kaputt	kaputt	_	ADJD	pos	12	ADV	_	_
+12	gehen	gehen	_	VVINF	_	2	SUBJC	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	braucht	brauchen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	der	der	_	ART	nom|sg|masc	5	DET	_	_
+4	kranke	krank	_	ADJA	nom|sg|masc|pos	5	ATTR	_	_
+5	Mensch	Mensch	_	NN	nom|sg|masc	2	SUBJ	_	_
+6	noch	noch	_	ADV	_	2	ADV	_	_
+7	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+8	Operation	Operation	_	NN	acc|sg|fem	2	OBJA	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Manche	mancher	_	PIAT	nom|pl|masc	2	DET	_	_
+2	Politiker	Politiker	_	NN	nom|pl|masc	3	OBJD	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	jetzt	jetzt	_	ADV	_	3	ADV	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Es	es	_	PPER	nom|sg|neut|3	7	SUBJ	_	_
+7	muss	muss	_	VMFIN	sg|3|pres|ind	0	S	_	_
+8	strengere	streng	_	ADJA	nom|pl|fem|comp	9	ATTR	_	_
+9	Kontrollen	Kontrolle	_	NN	acc|pl|fem	10	OBJA	_	_
+10	geben	geben	_	VVINF	_	7	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dafür	dafür	_	PROAV	_	2	DET	_	_
+2	muss	muss	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	SUBJ	_	_
+4	in	in	_	APPR	_	8	PP	_	_
+5	Europa	Europa	_	NE	dat|sg|neut	4	PN	_	_
+6	die	der	_	ART	acc|sg|fem	7	DET	_	_
+7	Gesetze	Gesetz	_	NN	acc|sg|fem	8	OBJA	_	_
+8	ändern	ändern	_	VVINF	_	2	OBJI	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Andere	anderer	_	ADJA	nom|pl|neut|pos	2	ATTR	_	_
+2	Politiker	Politiker	_	NN	gen|pl|masc	3	S	_	_
+3	sagen	sagen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	aber	aber	_	ADV	_	3	ADV	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Die	der	_	ART	nom|pl|masc	7	DET	_	_
+7	Fehler	Fehler	_	NN	nom|pl|masc	8	SUBJ	_	_
+8	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+9	Ausnahmen	Ausnahme	_	NN	nom|pl|fem	8	PRED	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eigentlich	eigentlich	_	ADV	_	2	ADV	_	_
+2	funktionieren	funktionieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|fem	4	DET	_	_
+4	Kontrollen	Kontrolle	_	NN	nom|pl|fem	2	SUBJ	_	_
+5	gut	gut	_	ADJD	pos	2	ADV	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	strengere	streng	_	ADJA	nom|pl|fem|comp	3	ATTR	_	_
+3	Kontrollen	Kontrolle	_	NN	nom|pl|fem	4	PRED	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	zu	zu	_	PTKA	_	6	ADV	_	_
+6	kompliziert	kompliziert	_	ADJD	pos	4	PRED	_	_
+7	für	für	_	APPR	_	6	PP	_	_
+8	die	der	_	ART	acc|pl|neut	9	DET	_	_
+9	Hersteller	Hersteller	_	NN	acc|pl|neut	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+

@@ -1,0 +1,148 @@
+1	Hacker-Angriff	Hacker-Angriff	_	NN	nom|sg|masc	0	S	_	_
+2	auf	auf	_	APPR	_	1	PP	_	_
+3	Regierung	Regierung	_	NN	acc|sg|fem	2	PN	_	_
+
+1	Hacker	Hacker	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Computer-System	Computersystem	_	NN	acc|sg|neut	8	OBJA	_	_
+5	von	von	_	APPR	_	4	PP	_	_
+6	der	der	_	ART	dat|sg|fem	7	DET	_	_
+7	Bundes-Regierung	Bundesregierung	_	NN	dat|sg|fem	5	PN	_	_
+8	angegriffen	angreifen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hacker	Hacker	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	sind	sein	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	Computer-Experten	Computerexperte	_	NN	nom|pl|masc	2	PRED	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	das	der	_	ART	acc|sg|neut	4	DET	_	_
+4	Außen-Ministerium	Außenministerium	_	NN	acc|sg|neut	8	OBJA	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Verteidigungs-Ministerium	Verteidigungsministerium	_	NN	acc|sg|neut	5	CJ	_	_
+8	angegriffen	angreifen	_	VVPP	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	%% Bild nl_A8 %%
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	noch	noch	_	ADV	_	2	ADV	_	_
+4	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+5	bekannt	bekannt	_	ADJD	pos	2	PRED	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	wer	wer	_	PWS	nom|sg|masc	11	SUBJ	_	_
+8	hinter	hinter	_	APPR	_	11	PP	_	_
+9	den	der	_	ART	dat|pl|masc	10	DET	_	_
+10	Angriffen	Angriff	_	NN	dat|pl|masc	8	PN	_	_
+11	steckt	stecken	_	VVFIN	sg|3|pres|ind	2	SUBJC	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	Vermutungen	Vermutung	_	NN	acc|pl|fem	2	OBJA	_	_
+4	,	--	_	$,	_	0	ROOT	_	_
+5	dass	dass	_	KOUS	_	10	KONJ	_	_
+6	es	es	_	PPER	nom|sg|neut|3	10	SUBJ	_	_
+7	Hacker	Hacker	_	NN	acc|pl|masc	10	PRED	_	_
+8	aus	aus	_	APPR	_	7	PP	_	_
+9	Russland	Russland	_	NE	dat|sg|neut	8	PN	_	_
+10	waren	sein	_	VVFIN	pl|3|past|ind	3	OBJC	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Innen-Ministerium	Innenministerium	_	NN	nom|sg|neut	3	SUBJ	_	_
+3	sagt	sagen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Der	der	_	ART	nom|sg|masc	6	DET	_	_
+6	Angriff	Angriff	_	NN	nom|sg|masc	7	SUBJ	_	_
+7	ist	sein	_	VVFIN	sg|3|pres|ind	3	S	_	_
+8	unter	unter	_	APPR	_	7	PP	_	_
+9	Kontrolle	Kontrolle	_	NN	acc|sg|fem	8	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+2	versuchen	versuchen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Fall	Fall	_	NN	acc|sg|masc	6	OBJA	_	_
+6	aufzuklären	aufklären	_	VVIZU	_	2	OBJI	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	EXPL	_	_
+2	ist	sein	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	noch	noch	_	ADV	_	2	ADV	_	_
+4	nicht	nicht	_	PTKNEG	_	2	ADV	_	_
+5	klar	klar	_	ADJD	pos	2	PRED	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	ob	ob	_	KOUS	_	14	KONJ	_	_
+8	es	es	_	PPER	nom|sg|neut|3	14	SUBJ	_	_
+9	bei	bei	_	APPR	_	13	PP	_	_
+10	dem	der	_	ART	dat|sg|masc	11	DET	_	_
+11	Angriff	Angriff	_	NN	dat|sg|masc	9	PN	_	_
+12	Schäden	Schaden	_	NN	acc|pl|masc	13	OBJA	_	_
+13	gegeben	geben	_	VVPP	_	14	AUX	_	_
+14	hat	haben	_	VAFIN	sg|3|pres|ind	2	SUBJC	_	_
+15	und	und	_	KON	_	14	KON	_	_
+16	ob	ob	_	KOUS	_	20	KONJ	_	_
+17	geheime	geheim	_	ADJA	acc|pl|fem|pos	18	ATTR	_	_
+18	Informationen	Information	_	NN	acc|pl|fem	20	SUBJ	_	_
+19	gestohlen	stehlen	_	VVPP	_	20	AUX	_	_
+20	wurden	werden	_	VAFIN	pl|3|past|ind	15	CJ	_	_
+21	.	--	_	$.	_	0	ROOT	_	_
+
+1	Weltweit	weltweit	_	ADJD	pos	2	ADV	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+4	immer	immer	_	ADV	_	5	ADV	_	_
+5	mehr	mehr	_	PIAT	*|*|*	6	DET	_	_
+6	Angriffe	Angriff	_	NN	acc|pl|masc	2	OBJA	_	_
+7	auf	auf	_	APPR	_	6	PP	_	_
+8	Computer-Systeme	Computersystem	_	NN	acc|pl|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Es	es	_	PPER	nom|sg|neut|3	2	SUBJ	_	_
+2	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	auch	auch	_	ADV	_	4	ADV	_	_
+4	Angriffe	Angriff	_	NN	acc|pl|masc	2	OBJA	_	_
+5	auf	auf	_	APPR	_	4	PP	_	_
+6	die	der	_	ART	acc|pl|masc	7	DET	_	_
+7	Computer	Computer	_	NN	acc|pl|masc	5	PN	_	_
+8	von	von	_	APPR	_	7	PP	_	_
+9	Firmen	Firma	_	NN	dat|pl|fem	8	PN	_	_
+10	und	und	_	KON	_	9	KON	_	_
+11	einzelnen	einzeln	_	ADJA	dat|pl|masc|pos	12	ATTR	_	_
+12	Menschen	Mensch	_	NN	dat|pl|masc	10	CJ	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Mit	mit	_	APPR	_	4	PP	_	_
+2	gestohlenen	gestohlen	_	ADJA	dat|pl|neut|pos	3	ATTR	_	_
+3	Daten	Daten	_	NN	dat|pl|neut	1	PN	_	_
+4	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+5	Kriminelle	kriminelle	_	NN	nom|pl|neut	4	SUBJ	_	_
+6	großen	groß	_	ADJA	nom|pl|neut|pos	7	ATTR	_	_
+7	Schaden	Schaden	_	NN	acc|sg|masc	8	OBJA	_	_
+8	anrichten	anrichten	_	VVINF	pl|3|pres|ind	4	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	zum	zu	_	APPRART	dat|sg|neut	8	PP	_	_
+4	Beispiel	Beispiel	_	NN	dat|sg|neut	3	PN	_	_
+5	Geld	Geld	_	NN	nom|sg|neut	8	OBJA	_	_
+6	von	von	_	APPR	_	8	PP	_	_
+7	Bank-Konten	Bankkonto	_	NN	dat|pl|neut	6	PN	_	_
+8	stehlen	stehlen	_	VVINF	_	2	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	8	SUBJ	_	_
+3	geheime	geheim	_	ADJA	acc|pl|fem|pos	4	ATTR	_	_
+4	Sicherheits-Informationen	Sicherheitsinformation	_	NN	acc|pl|fem	8	OBJA	_	_
+5	über	über	_	APPR	_	4	PP	_	_
+6	ein	ein	_	ART	acc|sg|neut	7	DET	_	_
+7	Land	Land	_	NN	acc|sg|neut	5	PN	_	_
+8	stehlen	stehlen	_	VVINF	_	1	CJ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_

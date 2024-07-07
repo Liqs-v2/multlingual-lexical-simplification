@@ -1,0 +1,346 @@
+1	2	(2
+2	große	-
+3	Veranstaltungen	2)
+4	in	-
+5	Hamburg	(14)
+
+1	In	-
+2	Hamburg	(14)
+3	sind	-
+4	am	-
+5	Wochen·ende	-
+6	2	(2
+7	große	-
+8	Veranstaltungen	2)
+9	.	-
+
+1	Diese	(8|(3|(2
+2	2	-
+3	großen	-
+4	Veranstaltungen	8)|3)|2)
+5	sind	-
+6	:	-
+7	•	-
+8	Ein	(3
+9	Musik·fest	3)
+10	.	-
+11	•	-
+12	Und	-
+13	eine	(8
+14	Sport·veranstaltung	8)
+15	.	-
+
+1	Die	(2
+2	2	-
+3	großen	-
+4	Veranstaltungen	2)
+5	sind	-
+6	in	-
+7	St.	(5
+8	Pauli	5)
+9	.	-
+
+1	St.	(5
+2	Pauli	5)
+3	ist	-
+4	ein	-
+5	Stadt·teil	-
+6	von	-
+7	Hamburg	(14)
+8	.	-
+
+1	Und	-
+2	die	(2
+3	2	-
+4	großen	-
+5	Veranstaltungen	2)
+6	sind	-
+7	in	-
+8	der	-
+9	Nähe	-
+10	von	-
+11	St.	(5
+12	Pauli	5)
+13	.	-
+
+1	Die	(2
+2	2	-
+3	großen	-
+4	Veranstaltungen	2)
+5	sind	-
+6	an	-
+7	einem	-
+8	Wochen·ende	-
+9	.	-
+
+1	Deshalb	-
+2	sind	-
+3	die	(10
+4	Bewohner	-
+5	von	-
+6	St.	(5
+7	Pauli	10)|5)
+8	genervt	-
+9	.	-
+
+1	Die	(10
+2	Bewohner	-
+3	von	-
+4	St.	(5
+5	Pauli	10)|5)
+6	sagen	-
+7	:	-
+8	Zu	-
+9	diesen	(2
+10	2	-
+11	großen	-
+12	Veranstaltungen	2)
+13	kommen	-
+14	sehr	(4
+15	viele	-
+16	Menschen	4)
+17	.	-
+
+1	Diese	(4
+2	Menschen	4)
+3	machen	-
+4	viel	-
+5	Lärm	-
+6	.	-
+
+1	Und	-
+2	diese	(4
+3	Menschen	4)
+4	machen	-
+5	viel	-
+6	Müll	-
+7	.	-
+
+1	Deshalb	-
+2	stören	-
+3	diese	(4
+4	Menschen	4)
+5	uns	(10)
+6	.	-
+
+1	Das	(3
+2	Musik·fest	3)
+
+1	Das	(3
+2	Musik·fest	3)
+3	heißt	-
+4	Schlagermove	(3)
+5	.	-
+
+1	Der	(3
+2	Schlagermove	3)
+3	ist	-
+4	jedes	-
+5	Jahr	-
+6	in	-
+7	Hamburg	(14)
+8	.	-
+
+1	Beim	-
+2	Schlagermove	(3)
+3	fahren	-
+4	besondere	(1
+5	Last·wagen	1)
+6	auf	-
+7	den	-
+8	Straßen	-
+9	.	-
+
+1	Diese	(1
+2	Last·wagen	1)
+3	fahren	-
+4	sehr	-
+5	langsam	-
+6	.	-
+
+1	Hinter	-
+2	diesen	(1
+3	Last·wagen	1)
+4	sind	-
+5	Anhänger	(15)
+6	.	-
+
+1	Diese	(15
+2	Anhänger	15)
+3	sind	-
+4	bunt	-
+5	geschmückt	-
+6	.	-
+
+1	Auf	-
+2	diesen	(15
+3	Anhängern	15)
+4	sind	-
+5	Menschen	(6)
+6	.	-
+
+1	Die	(6
+2	Menschen	-
+3	auf	-
+4	den	(15
+5	Anhängern	6)|15)
+6	spielen	-
+7	Schlager	(12)
+8	.	-
+
+1	Schlager	(7)
+2	sind	-
+3	deutsche	-
+4	Lieder	-
+5	.	-
+
+1	Viele	-
+2	von	-
+3	den	(7
+4	Schlagern	7)
+5	sind	-
+6	schon	-
+7	alt	-
+8	.	-
+
+1	Deshalb	-
+2	kennen	-
+3	viele	-
+4	Menschen	-
+5	in	-
+6	Deutschland	-
+7	viele	-
+8	Schlager	(7)
+9	.	-
+
+1	Und	-
+2	die	(6
+3	Menschen	6)
+4	tanzen	-
+5	zu	-
+6	den	(12
+7	Schlagern	12)
+8	.	-
+
+1	Beim	-
+2	Schlagermove	(3)
+3	sind	-
+4	immer	-
+5	viele	-
+6	Besucher	-
+7	.	-
+
+1	Die	(11
+2	meisten	-
+3	Besucher	11)
+4	sind	-
+5	verkleidet	-
+6	.	-
+
+1	Die	(11
+2	Besucher	11)
+3	haben	-
+4	zum	-
+5	Beispiel	-
+6	bunte	-
+7	Kleidung	-
+8	.	-
+
+1	Und	-
+2	viele	-
+3	Besucher	-
+4	haben	-
+5	bunte	-
+6	Perücken	-
+7	auf	-
+8	dem	-
+9	Kopf	-
+10	.	-
+
+1	Perücken	-
+2	sind	-
+3	unechte	-
+4	Haare	-
+5	.	-
+
+1	Viele	-
+2	Besucher	-
+3	haben	-
+4	auch	-
+5	große	-
+6	Sonnen·brillen	-
+7	auf	-
+8	.	-
+
+1	Die	(8
+2	Sport·veranstaltung	8)
+
+1	Die	(8
+2	Sport·veranstaltung	8)
+3	ist	-
+4	ein	(16
+5	Triathlon	16)
+6	.	-
+
+1	Bei	-
+2	einem	(16
+3	Triathlon	16)
+4	müssen	-
+5	Sportler	(13)
+6	eine	-
+7	bestimmte	-
+8	Strecke	-
+9	zurücklegen	-
+10	.	-
+
+1	Die	(13
+2	Sportler	13)
+3	müssen	-
+4	:	-
+5	•	-
+6	Schwimmen	-
+7	.	-
+8	•	-
+9	Dann	-
+10	Rad	-
+11	fahren	-
+12	.	-
+13	•	-
+14	Und	-
+15	dann	-
+16	laufen	-
+17	.	-
+
+1	Der	(8
+2	Triathlon	8)
+3	ist	-
+4	jedes	-
+5	Jahr	-
+6	in	-
+7	Hamburg	(14)
+8	.	-
+
+1	Und	-
+2	der	(8
+3	Triathlon	-
+4	in	-
+5	Hamburg	8)|(14)
+6	ist	-
+7	der	(8
+8	größte	-
+9	Triathlon	-
+10	auf	-
+11	der	-
+12	Welt	8)
+13	.	-
+
+1	Im	-
+2	vergangenen	-
+3	Jahr	-
+4	waren	-
+5	mehr	-
+6	als	-
+7	10000	-
+8	Sportler	-
+9	dabei	-
+10	.	-

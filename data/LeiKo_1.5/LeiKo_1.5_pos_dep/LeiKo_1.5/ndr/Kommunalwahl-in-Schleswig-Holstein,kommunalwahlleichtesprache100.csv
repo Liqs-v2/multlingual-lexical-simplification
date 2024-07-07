@@ -1,0 +1,376 @@
+﻿1	Kommunal·wahl	Kommunal·wahl	_	NN	nom|sg|fem	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	2	PN	_	_
+
+1	In	in	_	APPR	_	3	PP	_	_
+2	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	1	PN	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	bald	bald	_	ADV	_	3	ADV	_	_
+5	eine	ein	_	ART	nom|sg|fem	7	DET	_	_
+6	wichtige	wichtig	_	ADJA	nom|sg|fem|pos	7	ATTR	_	_
+7	Wahl	Wahl	_	NN	nom|sg|fem	3	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|sg|fem	2	DET	_	_
+2	Wahl	Wahl	_	NN	nom|sg|fem	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	am	an	_	APPRART	dat|sg|masc	3	PRED	_	_
+5	6.	6.	_	ADJA	dat|sg|masc|pos	6	ATTR	_	_
+6	Mai	Mai	_	NN	dat|sg|masc	4	PN	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	diese	dieser	_	PDAT	nom|sg|fem	3	DET	_	_
+3	Wahl	Wahl	_	NN	nom|sg|fem	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+5	eine	ein	_	ART	nom|sg|fem	6	DET	_	_
+6	Kommunal·wahl	Kommunal·wahl	_	NN	nom|sg|fem	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Diese	dieser	_	PDAT	nom|sg|fem	5	DET	_	_
+5	Wahl	Wahl	_	NN	nom|sg|fem	6	PRED	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	2	S	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	den	der	_	ART	dat|pl|masc	9	DET	_	_
+9	Kommunen	Kommune	_	NN	dat|pl|masc	7	PN	_	_
+10	von	von	_	APPR	_	9	PP	_	_
+11	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	10	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Kommune	Kommune	_	NN	nom|sg|fem	3	ETH	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	zum	zu	_	APPRART	dat|sg|neut	7	PP	_	_
+5	Beispiel	Beispiel	_	NN	dat|sg|neut	4	PN	_	_
+6	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+7	Gemeinde	Gemeinde	_	NN	acc|sg|fem	3	PAR	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	eine	ein	_	ART	nom|sg|fem	3	DET	_	_
+3	Stadt	Stadt	_	NN	nom|sg|fem	1	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	ein	ein	_	ART	nom|sg|neut	3	DET	_	_
+3	Land·kreis	Land·kreis	_	NN	nom|sg|neut	1	CJ	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Kommunal·wahl	Kommunal·wahl	_	NN	dat|sg|fem	1	PN	_	_
+4	wählen	wählen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Menschen	Mensch	_	NN	nom|pl|masc	4	SUBJ	_	_
+7	Politiker	Politiker	_	NN	nom|pl|masc	6	APP	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Politiker	Politiker	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	kümmern	kümmern	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|pl|3	3	OBJA	_	_
+5	dann	dann	_	ADV	_	3	ADV	_	_
+6	um	um	_	APPR	_	3	PP	_	_
+7	ihre	ihr	_	PPOSAT	acc|sg|fem	8	DET	_	_
+8	Kommune	Kommune	_	NN	acc|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Diese	dieser	_	PDAT	nom|pl|masc	2	DET	_	_
+2	Politiker	Politiker	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	kümmern	kümmern	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	sich	sich	_	PRF	acc|pl|3	3	OBJA	_	_
+5	also	also	_	ADV	_	3	ADV	_	_
+6	nicht	nicht	_	PTKNEG	_	3	ADV	_	_
+7	um	um	_	APPR	_	3	PP	_	_
+8	ganz	ganz	_	ADJD	pos	9	ADV	_	_
+9	Deutschland	Deutschland	_	NE	acc|sg|neut	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Politiker	Politiker	_	NN	nom|pl|masc	2	SUBJ	_	_
+2	entscheiden	entscheiden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	über	über	_	APPR	_	2	PP	_	_
+4	wichtige	wichtig	_	ADJA	acc|pl|fem|pos	5	ATTR	_	_
+5	Fragen	Frage	_	NN	acc|pl|fem	3	PN	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Politiker	Politiker	_	NN	nom|pl|masc	3	SUBJ	_	_
+3	entscheiden	entscheiden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+4	über	über	_	APPR	_	3	PP	_	_
+5	viele	vieler	_	PIAT	acc|pl|fem	7	DET	_	_
+6	wichtige	wichtig	_	ADJA	acc|pl|fem|pos	7	ATTR	_	_
+7	Fragen	Frage	_	NN	acc|pl|fem	4	PN	_	_
+8	in	in	_	APPR	_	7	PP	_	_
+9	den	der	_	ART	dat|pl|neut	10	DET	_	_
+10	Kommunen	Kommune	_	NN	dat|pl|neut	8	PN	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+2	Beispiel	Beispiel	_	NN	dat|sg|neut	1	PN	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Brauchen	brauchen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+5	wir	wir	_	PPER	nom|pl|*|1	4	SUBJ	_	_
+6	eine	ein	_	ART	acc|sg|fem	8	DET	_	_
+7	neue	neu	_	ADJA	acc|sg|fem|pos	8	ATTR	_	_
+8	Straße	Straße	_	NN	acc|sg|fem	4	OBJA	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Brauchen	brauchen	_	VVFIN	pl|1|pres|ind	0	S	_	_
+2	wir	wir	_	PPER	nom|pl|*|1	1	SUBJ	_	_
+3	einen	ein	_	ART	acc|sg|masc	5	DET	_	_
+4	neuen	neu	_	ADJA	acc|sg|masc|pos	5	ATTR	_	_
+5	Kinder·garten	Kinder·gart	_	NN	acc|sg|masc	1	OBJA	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	brauchen	brauchen	_	VVFIN	pl|1|pres|ind	1	CJ	_	_
+3	wir	wir	_	PPER	nom|pl|*|1	2	SUBJ	_	_
+4	einen	ein	_	ART	acc|sg|masc	6	DET	_	_
+5	neuen	neu	_	ADJA	acc|sg|masc|pos	6	ATTR	_	_
+6	Sport·platz	Sport·platz	_	NN	acc|sg|masc	2	OBJA	_	_
+7	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	4	PP	_	_
+2	diesen	dieser	_	PDAT	dat|pl|fem	3	DET	_	_
+3	Entscheidungen	Entscheidung	_	NN	dat|pl|fem	1	PN	_	_
+4	vertreten	vertreten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|pl|masc	6	DET	_	_
+6	Politiker	Politiker	_	NN	nom|pl|masc	4	OBJA	_	_
+7	ihre	ihr	_	PPOSAT	acc|pl|masc	8	DET	_	_
+8	Wähler	Wähler	_	NN	acc|pl|masc	6	GMOD	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	acc|pl|masc	5	DET	_	_
+5	Politiker	Politiker	_	NN	acc|pl|masc	6	S	_	_
+6	sagen	sagen	_	VVFIN	pl|3|pres|ind	2	S	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Meinung	Meinung	_	NN	acc|sg|fem	6	OBJA	_	_
+9	von	von	_	APPR	_	8	PP	_	_
+10	ihren	ihr	_	PPOSAT	dat|pl|masc	11	DET	_	_
+11	Wählern	Wähler	_	NN	dat|pl|masc	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	meisten	meister	_	PIS	nom|pl|masc	6	SUBJ	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|masc	5	DET	_	_
+5	Politikern	Politiker	_	NN	dat|pl|masc	3	PN	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	in	in	_	APPR	_	6	PRED	_	_
+8	einer	ein	_	ART	dat|sg|fem	9	DET	_	_
+9	Partei	Partei	_	NN	dat|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Andere	anderer	_	PIS	nom|pl|*	5	SUBJ	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	den	der	_	ART	dat|pl|masc	4	DET	_	_
+4	Politikern	Politiker	_	NN	dat|pl|masc	2	PN	_	_
+5	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	in	in	_	APPR	_	5	PRED	_	_
+7	einer	ein	_	ART	dat|sg|fem	8	DET	_	_
+8	Wähler·gruppe	Wähler·gruppe	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	nom|sg|fem	2	DET	_	_
+2	Wähler·gruppe	Wähler·gruppe	_	NN	nom|sg|fem	3	PRED	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	so	so	_	ADV	_	5	ADV	_	_
+5	etwas	etwas	_	PIS	*|*|neut	3	PRED	_	_
+6	ähnliches	ähnlich	_	ADJA	nom|sg|neut	5	APP	_	_
+7	wie	wie	_	KOKOM	_	6	KOM	_	_
+8	eine	ein	_	ART	nom|sg|fem	9	DET	_	_
+9	Partei	Partei	_	NN	nom|sg|fem	7	CJ	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Eine	ein	_	ART	acc|sg|fem	2	DET	_	_
+2	Wähler·gruppe	Wähler·gruppe	_	NN	acc|sg|fem	3	OBJA	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	es	es	_	PPER	nom|sg|neut|3	3	SUBJ	_	_
+5	aber	aber	_	ADV	_	3	ADV	_	_
+6	oft	oft	_	ADV	_	3	ADV	_	_
+7	nur	nur	_	ADV	_	8	ADV	_	_
+8	in	in	_	APPR	_	3	PP	_	_
+9	einer	ein	_	ART	dat|sg|fem	11	DET	_	_
+10	bestimmten	bestimmt	_	ADJA	dat|sg|fem|pos	11	ATTR	_	_
+11	Kommune	Kommune	_	NN	dat|sg|fem	8	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	manche	mancher	_	PIS	nom|pl|*	6	PRED	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	dat|pl|masc	5	DET	_	_
+5	Politikern	Politiker	_	NN	dat|pl|masc	3	PN	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+7	Einzel·bewerber	Einzel·bewerber	_	NN	nom|pl|masc	6	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	OBJA2	_	_
+2	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Diese	dieser	_	PDAT	gen|pl|masc	5	DET	_	_
+5	Politiker	Politiker	_	NN	gen|pl|masc	6	PRED	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	2	S	_	_
+7	in	in	_	APPR	_	6	PRED	_	_
+8	keiner	kein	_	PIAT	dat|sg|fem	9	DET	_	_
+9	Partei	Partei	_	NN	dat|sg|fem	7	PN	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	in	in	_	APPR	_	1	CJ	_	_
+3	keiner	kein	_	PIAT	dat|sg|fem	4	DET	_	_
+4	Wähler·gruppe	Wähler·gruppe	_	NN	dat|sg|fem	2	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Ein	ein	_	ART	nom|sg|masc	2	DET	_	_
+2	Politiker	Politiker	_	NN	nom|sg|masc	3	OBJA	_	_
+3	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	viele	vieler	_	PIAT	acc|pl|fem	5	DET	_	_
+5	Stimmen	Stimme	_	NN	acc|pl|fem	3	OBJA	_	_
+6	von	von	_	APPR	_	5	PP	_	_
+7	den	der	_	ART	dat|pl|masc	8	DET	_	_
+8	Wählern	Wähler	_	NN	dat|pl|masc	6	PN	_	_
+9	?	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	dieser	dieser	_	PDAT	nom|sg|masc	4	DET	_	_
+4	Politiker	Politiker	_	NN	nom|sg|masc	2	SUBJ	_	_
+5	in	in	_	APPR	_	2	PP	_	_
+6	das	der	_	ART	acc|sg|neut	7	DET	_	_
+7	Parlament	Parlament	_	NN	acc|sg|neut	5	PN	_	_
+8	von	von	_	APPR	_	2	PP	_	_
+9	einer	ein	_	ART	dat|sg|fem	10	DET	_	_
+10	Kommune	Kommune	_	NN	dat|sg|fem	8	PN	_	_
+11	:	--	_	$.	_	0	ROOT	_	_
+12	Zum	zu	_	APPRART	dat|sg|neut	14	PP	_	_
+13	Beispiel	Beispiel	_	NN	dat|sg|neut	12	PN	_	_
+14	in	in	_	APPR	_	2	PP	_	_
+15	die	der	_	ART	acc|sg|fem	16	DET	_	_
+16	Gemeinde·vertretung	Gemeinde·vertretung	_	NN	acc|sg|fem	14	PN	_	_
+17	.	--	_	$.	_	0	ROOT	_	_
+
+1	Oder	oder	_	KON	_	0	S	_	_
+2	in	in	_	APPR	_	1	CJ	_	_
+3	die	der	_	ART	acc|sg|fem	4	DET	_	_
+4	Kreis·vertretung	Kreis·vertretung	_	NN	acc|sg|fem	2	PN	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wahl	Wahl	_	NN	nom|sg|fem	0	S	_	_
+2	von	von	_	APPR	_	1	PP	_	_
+3	8	8	_	CARD	_	2	PN	_	_
+4	bis	bis	_	APPR	_	3	PP	_	_
+5	18	18	_	CARD	_	6	ATTR	_	_
+6	Uhr	Uhr	_	NN	*|*|fem	4	PN	_	_
+
+1	Jeder	jeder	_	PIAT	nom|sg|masc	2	DET	_	_
+2	Wähler	Wähler	_	NN	nom|sg|masc	3	OBJA	_	_
+3	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	eine	ein	_	ART	acc|sg|fem	5	DET	_	_
+5	Wahl·benachrichtigung	Wahl·benachrichtigung	_	NN	acc|sg|fem	3	OBJA	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Wahl·benachrichtigung	Wahl·benachrichtigung	_	NN	dat|sg|fem	1	PN	_	_
+4	steht	stehen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	An	an	_	APPR	_	9	PP	_	_
+7	diesem	dieser	_	PDAT	dat|sg|masc	8	DET	_	_
+8	Ort	Ort	_	NN	dat|sg|masc	6	PN	_	_
+9	darf	dürfen	_	VMFIN	sg|1|pres|ind	0	S	_	_
+10	ich	ich	_	PPER	nom|sg|*|1	11	OBJA	_	_
+11	wählen	wählen	_	VVINF	_	9	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dieser	dieser	_	PDAT	nom|sg|masc	2	DET	_	_
+2	Ort	Ort	_	NN	nom|sg|masc	3	S	_	_
+3	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	Wahl·lokal	Wahl·lokal	_	NN	acc|sg|neut	3	PRED	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Wahl·benachrichtigung	Wahl·benachrichtigung	_	NN	nom|sg|fem	7	OBJA	_	_
+3	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+5	zur	zu	_	APPRART	dat|sg|fem	7	PP	_	_
+6	Wahl	Wahl	_	NN	dat|sg|fem	5	PN	_	_
+7	mitbringen	mitbringen	_	VVFIN	pl|3|pres|ind	3	SUBJC	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+3	müssen	müssen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+4	Ihren	ihr	_	PPOSAT	acc|sg|masc	5	DET	_	_
+5	Ausweis	Ausweis	_	NN	acc|sg|masc	8	OBJA	_	_
+6	zur	zu	_	APPRART	dat|sg|fem	8	PP	_	_
+7	Wahl	Wahl	_	NN	dat|sg|fem	6	PN	_	_
+8	mitbringen	mitbringen	_	VVINF	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	von	von	_	APPR	_	9	PP	_	_
+4	8	8	_	CARD	_	5	ATTR	_	_
+5	Uhr	Uhr	_	NN	dat|sg|fem	3	PN	_	_
+6	bis	bis	_	APPR	_	9	PP	_	_
+7	18	18	_	CARD	_	8	ATTR	_	_
+8	Uhr	Uhr	_	NN	*|*|fem	6	PN	_	_
+9	wählen	wählen	_	VVINF	_	2	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	mitbestimmen	mitbestimmen	_	VVINF	_	2	AUX	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Kommunal·wahl	Kommunal·wahl	_	NN	nom|sg|fem	5	PRED	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	3	PN	_	_
+5	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	alle	aller	_	PIAT	acc|pl|neut	8	DET	_	_
+7	5	5	_	CARD	_	8	ATTR	_	_
+8	Jahre	Jahr	_	NN	acc|pl|neut	5	PRED	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	In	in	_	APPR	_	4	PP	_	_
+2	diesem	dieser	_	PDAT	dat|sg|neut	3	DET	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	1	PN	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	die	der	_	ART	nom|sg|fem	6	DET	_	_
+6	Kommunal·wahl	Kommunal·wahl	_	NN	nom|sg|fem	4	SUBJ	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	Schleswig-Holstein	Schleswig-Holstein	_	NE	dat|sg|neut	7	PN	_	_
+9	am	an	_	APPRART	dat|sg|masc	6	PP	_	_
+10	6.	6.	_	ADJA	dat|sg|masc|pos	11	ATTR	_	_
+11	Mai	Mai	_	NN	dat|sg|masc	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	3	DET	_	_
+2	6.	6.	_	ADJA	nom|sg|masc|pos	3	ATTR	_	_
+3	Mai	Mai	_	NN	nom|sg|masc	4	PRED	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	ein	ein	_	ART	nom|sg|masc	6	DET	_	_
+6	Sonntag	Sonntag	_	NN	nom|sg|masc	4	PRED	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Gehen	gehen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+2	Sie	sie	_	PPER	nom|pl|*|3	1	SUBJ	_	_
+3	an	an	_	APPR	_	1	PP	_	_
+4	diesem	dieser	_	PDAT	dat|sg|masc	5	DET	_	_
+5	Tag	Tag	_	NN	dat|sg|masc	3	PN	_	_
+6	in	in	_	APPR	_	1	PP	_	_
+7	Ihr	ihr	_	PPOSAT	dat|sg|fem	8	DET	_	_
+8	Wahl·lokal	Wahl·lokal	_	NN	dat|sg|fem	6	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Dann	dann	_	ADV	_	2	ADV	_	_
+2	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Sie	sie	_	PPER	nom|pl|*|3	4	OBJA	_	_
+4	mitbestimmen	mitbestimmen	_	VVINF	_	2	AUX	_	_
+5	.	--	_	$.	_	0	ROOT	_	_
+

@@ -1,0 +1,157 @@
+1	Wahl	Wahl	_	NN	nom|sg|fem	0	S	_	_
+2	in	in	_	APPR	_	1	PP	_	_
+3	Hessen	Hessen	_	NE	dat|sg|neut	2	PN	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Bundes-Land	Bundes-Land	_	NN	nom|sg|neut	4	OBJA	_	_
+3	Hessen	Hessen	_	NE	nom|sg|neut	2	APP	_	_
+4	bekommt	bekommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+6	neue	neu	_	ADJA	acc|sg|fem|pos	7	ATTR	_	_
+7	Regierung	Regierung	_	NN	acc|sg|fem	4	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|masc	2	DET	_	_
+2	Menschen	Mensch	_	NN	nom|pl|masc	7	OBJA	_	_
+3	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+4	einen	ein	_	ART	acc|sg|masc	6	DET	_	_
+5	neuen	neu	_	ADJA	acc|sg|masc|pos	6	ATTR	_	_
+6	Land-Tag	Land-Tag	_	NN	acc|sg|masc	7	OBJA	_	_
+7	gewählt	wählen	_	VVPP	_	3	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Partei	Partei	_	NN	nom|sg|fem	4	SUBJ	_	_
+3	CDU	CDU	_	NE	nom|sg|fem	2	APP	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	zwar	zwar	_	ADV	_	9	ADV	_	_
+6	die	der	_	ART	acc|pl|masc	8	DET	_	_
+7	meisten	meister	_	PIAT	acc|pl|masc	8	DET	_	_
+8	Stimmen	Stimme	_	NN	acc|pl|fem	9	OBJG	_	_
+9	bekommen	bekommen	_	VVPP	_	4	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|sg|fem|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	aber	aber	_	ADV	_	11	ADV	_	_
+4	im	in	_	APPRART	dat|sg|masc	11	PP	_	_
+5	Vergleich	Vergleich	_	NN	dat|sg|masc	4	PN	_	_
+6	zur	zu	_	APPRART	dat|sg|fem	5	PP	_	_
+7	letzten	letzter	_	ADJA	dat|sg|fem|pos	8	ATTR	_	_
+8	Wahl	Wahl	_	NN	dat|sg|fem	6	PN	_	_
+9	viele	vieler	_	PIAT	acc|pl|fem	10	DET	_	_
+10	Stimmen	Stimme	_	NN	acc|pl|fem	11	OBJA	_	_
+11	verloren	verlieren	_	VVPP	_	2	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Partei	Partei	_	NN	nom|sg|fem	5	SUBJ	_	_
+4	SPD	SPD	_	NE	nom|sg|fem	3	APP	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	viele	vieler	_	PIAT	acc|pl|fem	7	ATTR	_	_
+7	Stimmen	Stimme	_	NN	acc|pl|fem	8	OBJA	_	_
+8	verloren	verlieren	_	VVPP	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Partei	Partei	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	Die	der	_	ART	acc|pl|fem	4	DET	_	_
+4	Grünen	grüne	_	NN	acc|pl|fem	2	GMOD	_	_
+5	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+6	viele	vieler	_	PIAT	acc|pl|fem	7	ATTR	_	_
+7	Stimmen	Stimme	_	NN	acc|pl|fem	8	OBJG	_	_
+8	gewonnen	gewinnen	_	VVPP	_	5	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Partei	Partei	_	NN	nom|sg|fem	4	SUBJ	_	_
+3	AfD	AfD	_	NE	nom|sg|fem	2	APP	_	_
+4	kommt	kommen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	zum	zu	_	APPRART	dat|sg|neut	4	PP	_	_
+6	ersten	erster	_	ADJA	dat|sg|neut|pos	7	ATTR	_	_
+7	Mal	Mal	_	NN	dat|sg|neut	5	PN	_	_
+8	in	in	_	APPR	_	4	PP	_	_
+9	den	der	_	ART	acc|sg|masc	10	DET	_	_
+10	Land-Tag	Land-Tag	_	NN	acc|sg|masc	8	PN	_	_
+11	in	in	_	APPR	_	4	PP	_	_
+12	Hessen	Hessen	_	NE	dat|sg|neut	11	PN	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	die	der	_	ART	nom|pl|fem	3	DET	_	_
+3	Parteien	Partei	_	NN	nom|pl|fem	8	SUBJ	_	_
+4	FDP	FDP	_	NE	nom|sg|fem	3	APP	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	Die	der	_	ART	nom|sg|fem	7	DET	_	_
+7	Linke	Linke	_	NN	nom|sg|fem	5	CJ	_	_
+8	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+9	im	in	_	APPRART	dat|sg|neut	8	PRED	_	_
+10	neuen	neu	_	ADJA	dat|sg|neut|pos	11	ATTR	_	_
+11	Land-Tag	Land-Tag	_	NN	dat|sg|neut	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Bisher	bisher	_	ADV	_	2	ADV	_	_
+2	regieren	regieren	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Hessen	Hessen	_	NE	dat|sg|neut	3	PN	_	_
+5	CDU	CDU	_	NE	nom|sg|fem	4	APP	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	Grüne	grüne	_	NE	nom|pl|*	6	CJ	_	_
+8	zusammen	zusammen	_	PTKVZ	_	2	AVZ	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Regierungs-Chef	Regierungs-Chef	_	NN	nom|sg|masc	5	S	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	Hessen	Hessen	_	NE	dat|sg|neut	3	PN	_	_
+5	heißt	heißen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	Volker	Volker	_	NE	nom|sg|masc	5	PRED	_	_
+7	Bouffier	Bouffier	_	NE	nom|sg|masc	5	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	Chef	Chef	_	NN	nom|sg|masc	2	PRED	_	_
+4	von	von	_	APPR	_	3	PP	_	_
+5	der	der	_	ART	dat|sg|fem	6	DET	_	_
+6	CDU	CDU	_	NE	dat|sg|fem	4	PN	_	_
+7	in	in	_	APPR	_	6	PP	_	_
+8	Hessen	Hessen	_	NE	dat|sg|neut	7	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Er	er	_	PPER	nom|sg|masc|3	2	SUBJ	_	_
+2	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	schon	schon	_	ADV	_	4	ADV	_	_
+4	mit	mit	_	APPR	_	13	PP	_	_
+5	Politikern	Politiker	_	NN	dat|pl|masc	4	PN	_	_
+6	von	von	_	APPR	_	13	PP	_	_
+7	den	der	_	ART	dat|pl|*	8	DET	_	_
+8	Grünen	grüne	_	NN	dat|pl|*	6	PN	_	_
+9	über	über	_	APPR	_	13	PP	_	_
+10	eine	ein	_	ART	acc|sg|fem	12	DET	_	_
+11	neue	neu	_	ADJA	acc|sg|fem|pos	12	ATTR	_	_
+12	Koalition	Koalition	_	NN	acc|sg|fem	9	PN	_	_
+13	gesprochen	sprechen	_	VVPP	_	2	AUX	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Nach	nach	_	APPR	_	4	PP	_	_
+2	der	der	_	ART	dat|sg|fem	3	DET	_	_
+3	Hessen-Wahl	Hessen-Wahl	_	NN	dat|sg|fem	1	PN	_	_
+4	hat	haben	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	Bundes-Kanzlerin	Bundes-Kanzlerin	_	NN	nom|sg|fem	8	ADV	_	_
+6	Angela	Angela	_	NE	nom|sg|fem	8	OBJD	_	_
+7	Merkel	Merkel	_	NE	nom|sg|fem	6	APP	_	_
+8	gesagt	sagen	_	VVPP	_	4	AUX	_	_
+9	:	--	_	$.	_	0	ROOT	_	_
+10	Ich	ich	_	PPER	nom|sg|*|1	11	SUBJ	_	_
+11	will	wollen	_	VMFIN	sg|1|pres|ind	0	S	_	_
+12	nicht	nicht	_	PTKNEG	_	18	ADV	_	_
+13	länger	lang	_	ADJD	comp	18	ADV	_	_
+14	Chefin	Chefin	_	NN	acc|sg|fem	18	PRED	_	_
+15	von	von	_	APPR	_	14	PP	_	_
+16	der	der	_	ART	dat|sg|fem	17	DET	_	_
+17	CDU	CDU	_	NE	dat|sg|fem	15	PN	_	_
+18	sein	sein	_	VAINF	_	11	AUX	_	_
+19	.	--	_	$.	_	0	ROOT	_	_
+

@@ -1,0 +1,452 @@
+1	Lasst	Lasst	_	VVFIN	sg|3|pres|ind	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Freibäder	Freibäder	_	NN	nom|sg|fem	1	OBJA	_	_
+4	offen	offen	_	ADJD	pos	1	ADV	_	_
+5	!	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|*	2	DET	_	_
+2	Gemeinden	Gemeinde	_	NN	nom|pl|*	0	S	_	_
+3	in	in	_	APPR	_	2	PP	_	_
+4	Deutschland	Deutschland	_	NE	dat|sg|neut	3	PN	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	wenig	wenig	_	PIAT	*|*|*	7	ATTR	_	_
+7	Geld	Geld	_	NN	acc|sg|neut	5	OBJA	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	2	DET	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	immer	immer	_	ADV	_	4	ADV	_	_
+4	mehr	mehr	_	PIAT	*|*|*	5	DET	_	_
+5	Freibäder	Freibäder	_	NN	acc|pl|masc	6	OBJA	_	_
+6	schließen	schließen	_	VVINF	_	2	AUX	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	darf	dürfen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	nicht	nicht	_	PTKNEG	_	4	ADV	_	_
+4	passieren	passieren	_	VVINF	_	2	AUX	_	_
+5	!	--	_	$.	_	0	ROOT	_	_
+
+1	Freibäder	Freibad	_	NN	nom|pl|neut	2	PRED	_	_
+2	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+3	wichtig	wichtig	_	ADJD	pos	2	ADV	_	_
+4	!	--	_	$.	_	0	ROOT	_	_
+
+1	Wie	Wie	_	NE	_	2	SUBJ	_	_
+2	toll	toll	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	so	so	_	ADV	_	4	ADV	_	_
+4	ein	ein	_	ART	nom|sg|masc	5	DET	_	_
+5	Freibad	Freibad	_	NN	nom|sg|masc	6	PRED	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	2	REL	_	_
+7	!	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Wasser	Wasser	_	NN	nom|sg|neut	5	SUBJ	_	_
+3	im	in	_	APPRART	dat|sg|neut	2	PP	_	_
+4	Becken	Becken	_	NN	dat|sg|neut	3	PN	_	_
+5	leuchtet	leuchten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+6	hellblau	hellblau	_	ADJD	pos	5	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Der	der	_	ART	nom|sg|masc	2	DET	_	_
+2	Rasen	Rasen	_	NN	nom|sg|masc	3	SUBJ	_	_
+3	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+4	schön	schön	_	ADJD	pos	8	ADV	_	_
+5	grün	grün	_	ADJD	pos	8	ADV	_	_
+6	und	und	_	KON	_	5	KON	_	_
+7	frisch	frisch	_	ADJD	pos	6	CJ	_	_
+8	gemäht	mähen	_	VVPP	_	3	AUX	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	es	es	_	PPER	nom|sg|neut|3	3	OBJA	_	_
+3	gibt	geben	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+4	viel	viel	_	PIS	*|*|*	3	SUBJ	_	_
+5	zu	zu	_	PTKZU	_	6	PART	_	_
+6	sehen	sehen	_	VVINF	_	3	OBJI	_	_
+7	:	--	_	$.	_	0	ROOT	_	_
+
+1	Überall	überall	_	ADV	_	2	ADV	_	_
+2	laufen	laufen	_	VVINF	_	8	DET	_	_
+3	,	--	_	$,	_	0	ROOT	_	_
+4	liegen	liegen	_	VVFIN	pl|3|pres|ind	2	PAR	_	_
+5	und	und	_	KON	_	8	DET	_	_
+6	schwimmen	schwimm	_	VVFIN	nom|pl|masc|pos	5	CJ	_	_
+7	Menschen	Mensch	_	NN	nom|pl|masc	5	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	springen	springen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	von	von	_	APPR	_	2	PP	_	_
+4	hohen	hoch	_	ADJA	dat|pl|masc|pos	5	ATTR	_	_
+5	Sprung-Brettern	Sprung-Bretter	_	NN	dat|pl|masc	3	PN	_	_
+6	ins	in	_	APPRART	acc|sg|neut	2	PP	_	_
+7	Wasser	Wasser	_	NN	acc|sg|neut	6	PN	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	ein	ein	_	ART	nom|sg|masc	3	DET	_	_
+3	Freibad	Freibad	_	NN	nom|sg|masc	4	PN	_	_
+4	begleitet	begleiten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+5	Menschen	Mensch	_	NN	acc|pl|masc	4	SUBJ	_	_
+6	das	der	_	ART	acc|sg|neut	8	DET	_	_
+7	ganze	ganz	_	ADJA	acc|sg|neut|pos	8	ATTR	_	_
+8	Leben	Leben	_	NN	acc|sg|neut	9	PN	_	_
+9	lang	lang	_	ADJD	pos	4	ADV	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	lernen	lernen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	4	OBJA	_	_
+4	schwimmen	schwimmen	_	VVINF	_	2	OBJI	_	_
+5	und	und	_	KON	_	4	KON	_	_
+6	treffen	treffen	_	VVINF	_	5	CJ	_	_
+7	Freunde	Freund	_	NN	acc|pl|masc	6	PRED	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Hier	hier	_	ADV	_	2	ADV	_	_
+2	finden	finden	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+4	Ruhe	Ruhe	_	NN	acc|sg|fem	2	OBJA	_	_
+5	nach	nach	_	APPR	_	4	PP	_	_
+6	einem	ein	_	ART	dat|sg|neut	8	DET	_	_
+7	stressigen	stressig	_	ADJA	dat|sg|neut|pos	8	ATTR	_	_
+8	Tag	Tag	_	NN	dat|sg|neut	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	im	in	_	APPRART	dat|sg|neut	5	PP	_	_
+3	Jahr	Jahr	_	NN	dat|sg|neut	2	PN	_	_
+4	2017	2017	_	CARD	_	3	ZEIT	_	_
+5	mussten	mussten	_	VVINF	_	1	CJ	_	_
+6	62	62	_	CARD	_	7	ATTR	_	_
+7	Freibäder	Freibäder	_	NN	acc|pl|masc	8	S	_	_
+8	schließen	schließen	_	VVINF	_	5	KON	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	acc|sg|neut	2	OBJA2	_	_
+2	nennt	nennen	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	man	man	_	PIS	nom|sg|*	2	OBJA2	_	_
+4	auch	auch	_	ADV	_	6	ADV	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Bäder-Sterben	Bär-Sterben	_	NN	nom|pl|fem	2	OBJA	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Wieso	wieso	_	PWAV	_	2	ADV	_	_
+2	schließen	schließen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Freibäder	Freibad	_	NN	nom|pl|masc	2	OBJA	_	_
+5	?	--	_	$.	_	0	ROOT	_	_
+
+1	Weil	weil	_	KOUS	_	5	KONJ	_	_
+2	sie	sie	_	PPER	nom|pl|*|3	5	SUBJ	_	_
+3	viel	viel	_	PIAT	*|*|*	4	ATTR	_	_
+4	Geld	Geld	_	NN	acc|sg|neut	5	OBJA2	_	_
+5	kosten	kosten	_	VVFIN	pl|3|pres|ind	0	NEB	_	_
+6	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Personal	Personal	_	NN	nom|sg|neut	0	S	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	der	der	_	ART	nom|sg|masc	5	DET	_	_
+5	Strom	Strom	_	NN	nom|sg|masc	6	OBJA2	_	_
+6	kosten	kosten	_	VVFIN	pl|3|pres|ind	3	CJ	_	_
+7	viel	viel	_	PIAT	*|*|*	8	ATTR	_	_
+8	Geld	Geld	_	NN	acc|sg|neut	6	OBJA2	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	viele	vieler	_	PIAT	nom|pl|masc	3	DET	_	_
+3	Freibäder	Freibad	_	NN	nom|pl|masc	4	PRED	_	_
+4	sind	sein	_	VAFIN	pl|3|pres|ind	1	CJ	_	_
+5	alt	alt	_	ADJD	pos	4	ADV	_	_
+6	und	und	_	KON	_	4	KON	_	_
+7	müssen	müssen	_	VMFIN	pl|3|pres|ind	6	CJ	_	_
+8	erneuert	erneuern	_	VVPP	_	9	AUX	_	_
+9	werden	werden	_	VAINF	_	7	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	Auch	auch	_	ADV	_	3	ADV	_	_
+2	diese	dieser	_	PDAT	nom|pl|fem	3	DET	_	_
+3	Bau-Arbeiten	Bau-Arbeit	_	NN	nom|pl|fem	4	OBJA2	_	_
+4	kosten	kosten	_	VVFIN	pl|3|pres|ind	0	S	_	_
+5	viel	viel	_	PIAT	*|*|*	6	ATTR	_	_
+6	Geld	Geld	_	NN	acc|sg|neut	4	OBJA2	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	all	all	_	PIAT	*|*|*	6	DET	_	_
+3	das	der	_	ART	nom|sg|neut	4	DET	_	_
+4	Geld	Geld	_	NN	nom|sg|neut	0	S	_	_
+5	muss	muss	_	NE	nom|sg|masc	4	APP	_	_
+6	jemand	jemand	_	PIS	nom|sg|masc	7	OBJA	_	_
+7	bezahlen	bezahlen	_	VVINF	_	1	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Freibäder	freibad	_	NN	nom|pl|masc	2	OBJA	_	_
+2	nehmen	nehmen	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zwar	zwar	_	ADV	_	2	ADV	_	_
+4	Eintritt	Eintritt	_	NN	acc|sg|masc	2	OBJA	_	_
+5	ein	ein	_	PTKVZ	_	2	AVZ	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	aber	aber	_	KON	_	2	KON	_	_
+8	diese	dieser	_	PDAT	acc|pl|fem	9	DET	_	_
+9	Einnahmen	Einnahme	_	NN	acc|pl|fem	10	SUBJ	_	_
+10	reichen	reichen	_	VVFIN	pl|3|pres|ind	7	CJ	_	_
+11	oft	oft	_	ADV	_	10	ADV	_	_
+12	nicht	nicht	_	PTKNEG	_	10	ADV	_	_
+13	aus	aus	_	PTKVZ	_	10	AVZ	_	_
+14	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|pl|*	2	DET	_	_
+2	Kosten	Kosten	_	NN	nom|pl|*	6	SUBJ	_	_
+3	für	für	_	APPR	_	2	PP	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Betrieb	Betrieb	_	NN	acc|sg|masc	3	PN	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	höher	hoch	_	ADJD	comp	6	ADV	_	_
+8	als	als	_	KOKOM	_	7	KOM	_	_
+9	die	der	_	ART	nom|pl|fem	10	DET	_	_
+10	Einnahmen	Einnahme	_	NN	nom|pl|fem	8	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Jeder	jeder	_	PIS	nom|sg|masc	2	SUBJ	_	_
+2	soll	sollen	_	VMFIN	sg|3|pres|ind	0	S	_	_
+3	sich	sich	_	PRF	acc|sg|3	6	OBJD	_	_
+4	den	der	_	ART	acc|sg|masc	5	DET	_	_
+5	Eintritt	Eintritt	_	NN	acc|sg|masc	6	OBJD	_	_
+6	leisten	leisten	_	VVINF	_	7	AUX	_	_
+7	können	können	_	VMFIN	_	2	KON	_	_
+
+1	Unser	unser	_	PPOSAT	nom|sg|masc	2	DET	_	_
+2	taz-Autor	taz-autor	_	NN	nom|sg|masc	3	OBJA	_	_
+3	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	:	--	_	$.	_	0	ROOT	_	_
+5	Klar	klar	_	ADJD	pos	3	AVZ	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	man	man	_	PIS	nom|sg|*	8	SUBJ	_	_
+8	könnte	können	_	VMFIN	sg|3|past|subj	3	KON	_	_
+9	jetzt	jetzt	_	ADV	_	12	ADV	_	_
+10	mehr	mehr	_	PIAT	*|*|*	11	DET	_	_
+11	Eintritt	Eintritt	_	NN	acc|sg|masc	12	OBJA	_	_
+12	nehmen	nehmen	_	VVINF	_	8	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	das	der	_	ART	nom|sg|neut	3	DET	_	_
+3	Tolle	Tolle	_	NN	nom|sg|neut	6	SUBJ	_	_
+4	am	an	_	APPRART	dat|sg|masc	3	PP	_	_
+5	Freibad	Freibad	_	NN	dat|sg|masc	4	PN	_	_
+6	ist	sein	_	VAFIN	sg|3|pres|ind	1	CJ	_	_
+7	ja	ja	_	ADV	_	6	ADV	_	_
+8	die	der	_	ART	nom|sg|fem	10	DET	_	_
+9	demokratische	demokratisch	_	ADJA	nom|sg|fem|pos	10	ATTR	_	_
+10	Idee	Idee	_	NN	nom|sg|fem	6	SUBJ	_	_
+11	dahinter	dahinter	_	PROAV	_	6	DET	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Jeder	jeder	_	PIS	nom|sg|masc	5	SUBJ	_	_
+5	kann	können	_	VMFIN	sg|3|pres|ind	0	S	_	_
+6	sich	sich	_	PRF	acc|sg|3	9	OBJD	_	_
+7	den	der	_	ART	acc|sg|masc	8	DET	_	_
+8	Eintritt	Eintritt	_	NN	acc|sg|masc	9	OBJD	_	_
+9	leisten	leisten	_	VVINF	_	5	AUX	_	_
+10	.	--	_	$.	_	0	ROOT	_	_
+
+1	So	so	_	ADV	_	2	ADV	_	_
+2	treffen	treffen	_	VVINF	_	0	S	_	_
+3	ganz	ganz	_	ADV	_	4	ADV	_	_
+4	unterschiedliche	unterschiedlich	_	ADJA	nom|pl|masc|pos	5	ATTR	_	_
+5	Menschen	Mensch	_	NN	nom|pl|masc	0	S	_	_
+6	aufeinander	aufeinander	_	PTKVZ	_	2	AVZ	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+2	alle	alle	_	PIS	nom|pl|*	1	APP	_	_
+3	können	können	_	VMFIN	pl|3|pres|ind	0	S	_	_
+4	im	in	_	APPRART	dat|sg|neut	11	PP	_	_
+5	Freibad	Freibad	_	NN	dat|sg|neut	4	PN	_	_
+6	ein	ein	_	ART	nom|sg|masc	7	DET	_	_
+7	Teil	Teil	_	NN	nom|sg|masc	0	S	_	_
+8	von	von	_	APPR	_	11	PRED	_	_
+9	der	der	_	ART	dat|sg|fem	10	DET	_	_
+10	Gesellschaft	Gesellschaft	_	NN	dat|sg|fem	8	PN	_	_
+11	sein	sein	_	VAINF	_	3	AUX	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Deshalb	deshalb	_	PROAV	_	3	DET	_	_
+2	dürfen	dürfen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Freibäder	Freibäder	_	NN	nom|pl|masc	5	OBJA	_	_
+4	nicht	nicht	_	PTKNEG	_	5	ADV	_	_
+5	schließen	schließen	_	VVINF	_	2	AUX	_	_
+6	!	--	_	$.	_	0	ROOT	_	_
+
+1	Freibäder	Freibäder	_	NN	nom|pl|neut	2	SUBJ	_	_
+2	gehören	gehören	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	zu	zu	_	APPR	_	2	OBJP	_	_
+4	den	der	_	ART	dat|pl|fem	5	DET	_	_
+5	Städten	Stadt	_	NN	dat|pl|fem	3	PN	_	_
+6	und	und	_	KON	_	3	KON	_	_
+7	Gemeinden	Gemeinde	_	NN	dat|pl|fem	6	CJ	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Städte	Stadt	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Gemeinden	Gemeinde	_	NN	nom|pl|fem	3	CJ	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	eine	ein	_	ART	acc|sg|fem	7	DET	_	_
+7	Pflicht	Pflicht	_	NN	acc|sg|fem	5	OBJA	_	_
+8	:	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Freibäder	Freibad	_	NN	nom|pl|masc	7	OBJA	_	_
+5	mit	mit	_	APPR	_	7	PP	_	_
+6	Geld	Geld	_	NN	dat|sg|neut	5	PN	_	_
+7	unterstützen	unterstützen	_	VVINF	_	2	AUX	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	müssen	müssen	_	VMFIN	pl|3|pres|ind	0	S	_	_
+3	Freibäder	Freibäder	_	NN	nom|pl|masc	5	OBJA	_	_
+4	genauso	genauso	_	ADV	_	5	ADV	_	_
+5	unterstützen	unterstützen	_	VVINF	_	2	AUX	_	_
+6	wie	wie	_	KOKOM	_	5	KOM	_	_
+7	Büchereien	Bücherei	_	NN	nom|pl|fem	6	CJ	_	_
+8	,	--	_	$,	_	0	ROOT	_	_
+9	Museen	Museum	_	NN	nom|pl|neut	7	KON	_	_
+10	und	und	_	KON	_	9	KON	_	_
+11	Theater	Theater	_	NN	nom|pl|neut	10	CJ	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Viele	vieler	_	PIAT	nom|pl|fem	2	DET	_	_
+2	Städte	Stadt	_	NN	nom|pl|fem	5	OBJD	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Gemeinden	Gemeinde	_	NN	nom|pl|fem	3	CJ	_	_
+5	tun	tun	_	VVFIN	pl|3|pres|ind	0	S	_	_
+6	das	der	_	PDS	acc|sg|neut	5	OBJA	_	_
+7	auch	auch	_	ADV	_	5	ADV	_	_
+8	.	--	_	$.	_	0	ROOT	_	_
+
+1	Sie	sie	_	PPER	nom|pl|*|3	2	SUBJ	_	_
+2	geben	geben	_	VVFIN	pl|3|pres|ind	0	S	_	_
+3	bei	bei	_	APPR	_	2	PP	_	_
+4	3	3	_	CARD	_	5	ATTR	_	_
+5	Euro	Euro	_	NN	*|*|masc	7	GRAD	_	_
+6	Eintritt	Eintritt	_	NN	acc|sg|masc	5	APP	_	_
+7	ungefähr	ungefähr	_	ADJD	pos	9	ADV	_	_
+8	6	6	_	CARD	_	9	ATTR	_	_
+9	Euro	Euro	_	NE	nom|sg|*	3	PN	_	_
+10	dazu	dazu	_	PROAV	_	2	DET	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+3	insgesamt	insgesamt	_	ADV	_	2	ADV	_	_
+4	viel	viel	_	PIAT	*|*|*	5	ATTR	_	_
+5	Geld	Geld	_	NN	acc|sg|neut	2	PRED	_	_
+6	für	für	_	APPR	_	5	PP	_	_
+7	die	der	_	ART	acc|sg|fem	8	DET	_	_
+8	Städte	Stadt	_	NN	acc|sg|fem	6	PN	_	_
+9	und	und	_	KON	_	2	KON	_	_
+10	Gemeinden	Gemeinde	_	NN	dat|pl|fem	9	CJ	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Die	der	_	ART	nom|sg|fem	2	DET	_	_
+2	Städte	Stadt	_	NN	nom|sg|fem	5	SUBJ	_	_
+3	und	und	_	KON	_	2	KON	_	_
+4	Gemeinden	Gemeinde	_	NN	nom|pl|fem	3	CJ	_	_
+5	haben	haben	_	VAFIN	pl|3|pres|ind	0	S	_	_
+6	immer	immer	_	ADV	_	7	ADV	_	_
+7	weniger	weniger	_	PIAT	*|*|*	8	DET	_	_
+8	Geld	Geld	_	NN	nom|sg|neut	5	OBJA	_	_
+
+1	Das	der	_	ART	nom|sg|neut	2	DET	_	_
+2	Problem	Problem	_	NN	nom|sg|neut	4	PRED	_	_
+3	dabei	dabei	_	PROAV	_	7	DET	_	_
+4	ist	sein	_	VAFIN	sg|3|pres|ind	0	S	_	_
+5	:	--	_	$.	_	0	ROOT	_	_
+6	Viele	vieler	_	PIAT	nom|pl|fem	7	DET	_	_
+7	Städte	Stadt	_	NN	nom|pl|fem	4	ETH	_	_
+8	und	und	_	KON	_	4	KON	_	_
+9	Gemeinden	Gemeinde	_	NN	nom|pl|fem	8	CJ	_	_
+10	müssen	müssen	_	VMFIN	pl|3|pres|ind	8	CJ	_	_
+11	Geld	Geld	_	NN	acc|sg|neut	12	OBJA	_	_
+12	sparen	sparen	_	VVINF	_	10	AUX	_	_
+13	.	--	_	$.	_	0	ROOT	_	_
+
+1	Und	und	_	KON	_	0	S	_	_
+2	wo	wo	_	PWAV	_	3	ADV	_	_
+3	sparen	sparen	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+4	sie	sie	_	PPER	nom|pl|*|3	3	SUBJ	_	_
+5	zuerst	zuerst	_	ADV	_	3	ADV	_	_
+6	?	--	_	$.	_	0	ROOT	_	_
+
+1	Bei	bei	_	APPR	_	0	S	_	_
+2	den	der	_	ART	dat|pl|masc	3	DET	_	_
+3	Freibädern	Freibäder	_	NN	dat|pl|masc	1	PN	_	_
+4	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|pl|masc	3	DET	_	_
+3	Freibäder	Freibäder	_	NN	nom|pl|masc	4	SUBJ	_	_
+4	gehören	gehören	_	VVFIN	pl|3|pres|ind	1	CJ	_	_
+5	zu	zu	_	APPR	_	4	OBJP	_	_
+6	den	der	_	ART	dat|pl|masc	8	DET	_	_
+7	freiwilligen	freiwillig	_	ADJA	dat|pl|masc|pos	8	ATTR	_	_
+8	Aufgaben	Aufgabe	_	NN	dat|pl|masc	5	PN	_	_
+9	.	--	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	nom|sg|neut	2	SUBJ	_	_
+2	bedeutet	bedeuten	_	VVFIN	sg|3|pres|ind	0	S	_	_
+3	:	--	_	$.	_	0	ROOT	_	_
+4	Die	der	_	ART	nom|pl|masc	5	DET	_	_
+5	Freibäder	Freibad	_	NN	nom|pl|masc	6	PRED	_	_
+6	sind	sein	_	VAFIN	pl|3|pres|ind	0	S	_	_
+7	ein	ein	_	ART	nom|sg|neut	8	DET	_	_
+8	Extra	Extra	_	NN	nom|sg|neut	6	PRED	_	_
+9	für	für	_	APPR	_	8	PP	_	_
+10	die	der	_	ART	acc|pl|masc	11	DET	_	_
+11	Bürger	Bürger	_	NN	acc|pl|masc	9	PN	_	_
+12	.	--	_	$.	_	0	ROOT	_	_
+
+1	Aber	aber	_	KON	_	0	S	_	_
+2	die	der	_	ART	nom|sg|fem	3	DET	_	_
+3	Städte	Stadt	_	NN	nom|sg|fem	6	AUX	_	_
+4	und	und	_	KON	_	3	KON	_	_
+5	Gemeinden	Gemeinde	_	NN	nom|pl|fem	4	CJ	_	_
+6	müssen	müssen	_	VMFIN	pl|3|pres|ind	1	CJ	_	_
+7	sie	sie	_	PPER	nom|pl|*|3	10	OBJA	_	_
+8	nicht	nicht	_	PTKNEG	_	10	ADV	_	_
+9	unbedingt	unbedingt	_	ADV	_	10	ADV	_	_
+10	betreiben	betreiben	_	VVINF	_	6	AUX	_	_
+11	.	--	_	$.	_	0	ROOT	_	_
+
+1	Unser	unser	_	PPOSAT	nom|sg|masc	2	DET	_	_
+2	taz-Autor	taz-autor	_	NN	nom|sg|masc	3	OBJA	_	_
+3	findet	finden	_	VVFIN	sg|3|pres|ind	0	S	_	_
+4	das	der	_	PDS	acc|sg|neut	3	OBJA	_	_
+5	sehr	sehr	_	ADV	_	6	ADV	_	_
+6	schade	schade	_	ADJD	pos	3	ADV	_	_
+7	.	--	_	$.	_	0	ROOT	_	_
+
+1	Denn	denn	_	KON	_	0	S	_	_
+2	wenn	wenn	_	KOUS	_	5	KONJ	_	_
+3	die	der	_	ART	nom|pl|masc	4	DET	_	_
+4	Freibäder	Freibad	_	NN	nom|pl|masc	5	SUBJ	_	_
+5	sterben	sterben	_	VVFIN	pl|3|pres|ind	8	NEB	_	_
+6	,	--	_	$,	_	0	ROOT	_	_
+7	dann	dann	_	ADV	_	8	ADV	_	_
+8	stirbt	sterben	_	VVFIN	sg|3|pres|ind	1	CJ	_	_
+9	auch	auch	_	ADV	_	11	ADV	_	_
+10	ein	ein	_	ART	nom|sg|neut	11	DET	_	_
+11	Ort	Ort	_	NN	nom|sg|neut	8	SUBJ	_	_
+12	für	für	_	APPR	_	11	PP	_	_
+13	die	der	_	ART	acc|sg|fem	14	DET	_	_
+14	Gemeinschaft	Gemeinschaft	_	NN	acc|sg|fem	12	PN	_	_
+15	.	--	_	$.	_	0	ROOT	_	_
