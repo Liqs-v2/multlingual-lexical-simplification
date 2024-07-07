@@ -5,7 +5,7 @@ from src.utils.data_provider import DataProvider
 
 
 class NNSevalDataProvider(DataProvider):
-    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/NNSeval/NNSeval short.txt'
+    _filename = '/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/NNSeval/NNSeval.txt'
 
     def process_line(self, line):
         """Process a line from the BenchLS dataset into a numpy array"""
