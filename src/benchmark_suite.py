@@ -90,9 +90,15 @@ class BenchmarkSuite:
                 benchmark_data = dataset.provide_data_as_numpy_array()
                 results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on(benchmark_data)
 
-        results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
+        if self.testee_model.model is not None:
+            results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
                        f'benchmark_results_{self.testee_model.__class__.__name__}_'
                        f'{self.testee_model.model.config.name_or_path.replace("/", "-")}.csv',
+                       index=True, index_label='run', header=True)
+        else:
+            results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
+                       f'benchmark_results_{self.testee_model.__class__.__name__}_'
+                       f'{self.testee_model.__class__.__name__}.csv',
                        index=True, index_label='run', header=True)
 
     def __benchmark_model_on(self, benchmark_data: np.ndarray) -> pd.Series:
