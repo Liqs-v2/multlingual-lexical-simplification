@@ -22,8 +22,9 @@ class GPT_Created_Data_Provider(DataProvider):
                 continue
 
             new_position = self.getPosition(sentence=sentence,complex_word=complex_word)
-
-            new_line = [complex_word, complex_word, new_position,substitutes]
+            new_substitutes = self.delete_matching_words(substitutes, complex_word=complex_word)
+            print(new_substitutes)
+            new_line = [complex_word, complex_word, new_position,new_substitutes]
             new_data.append(new_line)
 
         return np.array(new_data, dtype=object)
@@ -38,3 +39,26 @@ class GPT_Created_Data_Provider(DataProvider):
             index = next((i for i, s in enumerate(words) if word in s), None)
         return index
 
+    def delete_matching_words(self,dictionary, complex_word):
+        keys_to_delete = []
+        for key, word_list in dictionary.items():
+            for word in word_list[:]:  
+                if word == complex_word:
+                    word_list.remove(word)
+            if word_list == []:
+                keys_to_delete.append(key)
+
+        for key in keys_to_delete:
+            dictionary.pop(key)
+
+        # If there are empty entries, shift subsequent keys up by one
+        if keys_to_delete:
+            new_dictionary = {}
+            new_key = 1
+            for key in sorted(dictionary.keys()):
+                if key not in keys_to_delete:
+                    new_dictionary[new_key] = dictionary[key]
+                    new_key += 1
+            return new_dictionary
+        else:
+            return dictionary
