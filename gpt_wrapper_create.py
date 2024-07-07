@@ -8,7 +8,7 @@ openai.api_key = OPENAI_API_KEY
 content = None
 
 original_data = germaneval_data_provider.GermanEvalDataProvider().provide_data_as_numpy_array()
-dataset = original_data[93:113]
+dataset = original_data[113:123]
 
 
 messages = [

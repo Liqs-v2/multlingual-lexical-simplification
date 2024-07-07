@@ -14,7 +14,8 @@ from utils.lexmturk_data_provider import LexMTurkDataProvider
 from utils.nnseval_data_provider import NNSevalDataProvider
 from utils.tsar_en_data_provider import TsarENDataProvider
 from utils.alexsis_data_provider import AlexsisDataProvider
-from src.utils.porSimplesSent_data_provider import PorSimplesSentDataProvider
+from utils.gpt_created_data_provider import GPT_Created_Data_Provider
+from utils.porSimplesSent_data_provider import PorSimplesSentDataProvider
 
 class BenchmarkSuite:
     """
@@ -38,7 +39,7 @@ class BenchmarkSuite:
     # are constrained to lazily fetch the datasets via provide_data_as_numpy_array,
     # these objects are very lightweight.
     _AVAILABLE_DATASETS: Dict[Language, List[DataProvider]] = {
-        Language.DE: [GermanEvalDataProvider()],
+        Language.DE: [GermanEvalDataProvider(),GPT_Created_Data_Provider()],
         Language.EN: [BenchLSDataProvider(), LexMTurkDataProvider(), NNSevalDataProvider(), TsarENDataProvider()],
         Language.ES: [AlexsisDataProvider()],
         Language.PT: [PorSimplesSentDataProvider()]
