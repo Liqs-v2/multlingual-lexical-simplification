@@ -6,8 +6,7 @@ import numpy as np
 
 class CreateNewSet:
 
-    original_data = germaneval_data_provider.GermanEvalDataProvider().provide_data_as_numpy_array()
-    dataset = original_data[123:133]
+    _original_data = germaneval_data_provider.GermanEvalDataProvider().provide_data_as_numpy_array()
 
     _messages = [
             {"role": "user", "content": "kreiere ein neues Dataset mit 10 Sätzen für lexical simplification."},
@@ -18,7 +17,8 @@ class CreateNewSet:
     def __init__(self):
         openai.api_key = OPENAI_API_KEY
     
-    def create_new_set(self):
+    def create_new_set(self, interval_lower, interval_upper):
+        dataset = self._original_data[interval_lower:interval_upper]
         completion = openai.chat.completions.create(
             model="gpt-3.5-turbo-0125",
             messages= self._messages
