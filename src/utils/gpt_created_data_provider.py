@@ -23,7 +23,7 @@ class GPT_Created_Data_Provider(DataProvider):
             new_position = self.getPosition(sentence=sentence,complex_word=complex_word)
             new_substitutes = self.delete_matching_words(substitutes, complex_word=complex_word)
             print(new_substitutes)
-            new_line = [complex_word, complex_word, new_position,new_substitutes]
+            new_line = [sentence, complex_word, new_position,new_substitutes]
             new_data.append(new_line)
 
         return np.array(new_data, dtype=object)
