@@ -69,7 +69,7 @@ class BenchmarkSuite:
         """
         results = pd.DataFrame(columns=['potential', 'precision', 'recall', 'f1','potential_at_10', 'potential_at_5', 'potential_at_1',
                                         'map_at_10', 'map_at_5', 'map_at_1', 'accuracy_at_10_top_1', 'accuracy_at_5_top_1',
-                                        'accuracy_at_1_top_1'])
+                                        'accuracy_at_1_top_1', 'parsing_issues_abs', 'parsing_issues_rel'])
 
         for language in self.language_configurations.keys():
             print(f'Benchmarking model on {language.name} ...')
@@ -112,6 +112,8 @@ class BenchmarkSuite:
         accuracy_at_5_top_1 = 0
         accuracy_at_1_top_1 = 0
 
+        parsing_issues = 0
+
         for sample in tqdm(benchmark_data, desc='Benchmarking'):
             sentence = sample[0]
             complex_word = sample[1]
@@ -120,6 +122,8 @@ class BenchmarkSuite:
             # To easily capture implementations not supporting a specific number of substitutions,
             # we do not pass top_k here and simply use the default in those cases.
             predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
+            if not predicted_substitutions:
+              parsing_issues += 1
 
             (sample_potential, sample_precision, sample_recall, sample_f1, sample_map_at_1, sample_map_at_5, sample_map_at_10,
                 sample_potential_at_1, sample_potential_at_5, sample_potential_at_10, sample_accuracy_at_1_top_1, sample_accuracy_at_5_top_1, 
@@ -181,7 +185,9 @@ class BenchmarkSuite:
             'map_at_1': round(map_at_1, 4),
             'accuracy_at_10_top_1': round(accuracy_at_10_top_1, 4),
             'accuracy_at_5_top_1': round(accuracy_at_5_top_1, 4),
-            'accuracy_at_1_top_1': round(accuracy_at_1_top_1, 4)
+            'accuracy_at_1_top_1': round(accuracy_at_1_top_1, 4),
+            'parsing_issues_abs': parsing_issues,
+            'parsing_issues_rel': round(parsing_issues/len(benchmark_data), 4)
         })
 
 
