@@ -1,0 +1,2 @@
+run,potential,precision,recall,f1,potential_at_10,potential_at_5,potential_at_1,map_at_10,map_at_5,map_at_1,accuracy_at_10_top_1,accuracy_at_5_top_1,accuracy_at_1_top_1,parsing_issues_abs,parsing_issues_rel
+PT-PorSimplesSentDataProvider,0.6283,0.1744,0.1599,0.1487,0.6283,0.5856,0.1176,0.0876,0.111,0.1176,0.3449,0.2995,0.0428,2.0,0.0053

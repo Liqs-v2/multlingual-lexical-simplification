@@ -1,0 +1,2 @@
+run,potential,precision,recall,f1,potential_at_10,potential_at_5,potential_at_1,map_at_10,map_at_5,map_at_1,accuracy_at_10_top_1,accuracy_at_5_top_1,accuracy_at_1_top_1,parsing_issues_abs,parsing_issues_rel
+DE-GermanEvalDataProvider,0.2375,0.063,0.0682,0.0576,0.2375,0.2067,0.0144,0.0304,0.0331,0.0144,0.1144,0.0971,0.0058,88.0,0.0846

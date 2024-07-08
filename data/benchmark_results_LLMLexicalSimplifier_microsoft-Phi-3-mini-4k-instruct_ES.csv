@@ -1,0 +1,2 @@
+run,potential,precision,recall,f1,potential_at_10,potential_at_5,potential_at_1,map_at_10,map_at_5,map_at_1,accuracy_at_10_top_1,accuracy_at_5_top_1,accuracy_at_1_top_1,parsing_issues_abs,parsing_issues_rel
+ES-AlexsisDataProvider,0.7638,0.2401,0.1895,0.1934,0.7638,0.7402,0.5223,0.155,0.2343,0.5223,0.3963,0.3491,0.1102,4.0,0.0105
