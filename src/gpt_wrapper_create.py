@@ -23,6 +23,6 @@ class CreateNewSet:
             messages= messages
             )
         response = str(completion.choices[0].message.content)
-        with open('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/created_dataset/new_set' +datetime.datetime.now().strftime("%I:%M%p on %B %d, %Y") +'.txt', 'w') as file:
+        with open('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/created_dataset/new_set'+str(interval_lower) +"_"+str(interval_upper)+'.txt', 'w') as file:
             file.write(str(response))
 
