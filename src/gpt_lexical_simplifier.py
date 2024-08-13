@@ -1,9 +1,8 @@
 import ast
 from typing import List
-import openai
 
+import openai
 from config import OPENAI_API_KEY
-from transformers import pipeline
 
 from lexical_simplifier import LexicalSimplifier
 
@@ -52,18 +51,19 @@ class GPTLexicalSimplifier(LexicalSimplifier):
 
         openai.api_key = OPENAI_API_KEY
 
-    def generate_substitutions_for(self, complex_word: str, original_sentence: str):
+    def generate_substitutions_for(self, complex_word: str, original_sentence: str, topic: str = 'unknown'):
         """
         Generates substitutions for a complex word in a sentence using the GPT-3.5 Turbo model.
 
         Args:
             complex_word (str): The complex word for which substitutions need to be generated.
             original_sentence (str): The original sentence containing the complex word.
+            topic: The topic of the sentence. This can be used to guide the simplification process. Default: 'unknown'
 
         Returns:
             list: A list of generated substitutions for the complex word.
         """
-        content = self.apply_pattern_to(original_sentence, complex_word)
+        content = self.apply_pattern_to(original_sentence, complex_word, topic)
         message = self.exemplars + [{'role': 'user', 'content': content}]
 
         completion = openai.chat.completions.create(

@@ -60,7 +60,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
 
         self._generation_args = generation_args
 
-    def generate_substitutions_for(self, complex_word: str, original_sentence: str):
+    def generate_substitutions_for(self, complex_word: str, original_sentence: str, topic: str = 'unknown'):
         """
         Generates a list of substitutions via the model predictions for the given complex word in the context of the sentence.
 
@@ -74,6 +74,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
         Args:
             complex_word: The complex word to be simplified. This is given in our case, we do not tackle complex word identification.
             original_sentence: The sentence containing the complex word.
+            topic: The topic of the sentence. This can be used to guide the simplification process. Default: 'unknown'
 
         Returns:
             A list of possible substitutions for the complex word. None if the model does not adhere to the format
@@ -89,7 +90,7 @@ class LLMLexicalSimplifier(LexicalSimplifier):
             complex_word = complex_word.capitalize() if complex_word.capitalize() in original_sentence else complex_word
         sentence_with_complex_word_masked = original_sentence.replace(complex_word, self.mask_token)
 
-        input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked)
+        input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked, topic)
 
         output = self._pipe(self.exemplars + [{'role': 'user', 'content': input_text}], **self._generation_args)
         substitutions = output[0]['generated_text']

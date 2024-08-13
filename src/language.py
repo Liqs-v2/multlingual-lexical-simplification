@@ -1,5 +1,7 @@
 from enum import Enum
 
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
+
 
 class Language(Enum):
     DE = 1

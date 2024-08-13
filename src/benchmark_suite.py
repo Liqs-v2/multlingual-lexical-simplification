@@ -2,20 +2,24 @@ from typing import List, Dict
 
 import numpy as np
 import pandas as pd
+from bertopic import BERTopic
 from tqdm import tqdm
 
 from evaluator import Evaluator
 from language import Language
 from lexical_simplifier import LexicalSimplifier
+from utils.alexsis_data_provider import AlexsisDataProvider
 from utils.bench_ls_data_provider import BenchLSDataProvider
 from utils.data_provider import DataProvider
 from utils.germaneval_data_provider import GermanEvalDataProvider
+from utils.gpt_created_data_provider import GPT_Created_Data_Provider
 from utils.lexmturk_data_provider import LexMTurkDataProvider
 from utils.nnseval_data_provider import NNSevalDataProvider
-from utils.tsar_en_data_provider import TsarENDataProvider
-from utils.alexsis_data_provider import AlexsisDataProvider
-from utils.gpt_created_data_provider import GPT_Created_Data_Provider
 from utils.porSimplesSent_data_provider import PorSimplesSentDataProvider
+from utils.tsar_en_data_provider import TsarENDataProvider
+
+
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
 
 class BenchmarkSuite:
     """
@@ -47,7 +51,8 @@ class BenchmarkSuite:
     }
     _enabled_datasets: Dict[Language, List[DataProvider]] = {}
 
-    def __init__(self, testee_model: LexicalSimplifier, language_configurations: Dict[Language, Dict]):
+    def __init__(self, testee_model: LexicalSimplifier, language_configurations: Dict[Language, Dict],
+                 should_pass_topic: bool = False):
         """
         Creates a BenchmarkSuite instance for a specific LexicalSimplifier model. The model is going to be benchmarked
         on the languages configured in this class.
@@ -55,13 +60,19 @@ class BenchmarkSuite:
         Args:
             testee_model (LexicalSimplifier): The lexical simplification model to benchmark.
             language_configurations: (Dict[Language, Dict]): A dictionary where the keys are the languages for
-            which testee_model will be benchmarked and the values are dictionaties containing the 'pattern' and
+            which testee_model will be benchmarked and the values are dictionaries containing the 'pattern' and
             'exemplars' for the benchmarking of the model.
+            should_pass_topic (bool): Whether the topic should be passed to the model for simplification. Currently
         """
         self.testee_model = testee_model
         self.language_configurations = language_configurations
+        self.should_pass_topic = should_pass_topic
 
         self.__enable_datasets_by_languages()
+        if self.should_pass_topic:
+            self._topic_model = BERTopic.load("MaartenGr/BERTopic_Wikipedia")
+            self._compact_topics = self._topic_model.generate_topic_labels(nr_words=3, word_length=15, topic_prefix=False)
+            self._topics_indices = None
 
     def run(self):
         """
@@ -88,7 +99,16 @@ class BenchmarkSuite:
             for dataset in self._enabled_datasets[language]:
                 print(f'Benchmarking model on {dataset.__class__.__name__}...')
                 benchmark_data = dataset.provide_data_as_numpy_array()
-                results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on(benchmark_data)
+
+                if self.should_pass_topic and language.name == 'EN':
+                    original_sentences = [sample[0] for sample in benchmark_data]
+                    self._topics_indices = self._topic_model.transform(original_sentences)[0]
+                    self._topics_indices = [topic_idx+1 for topic_idx in self._topics_indices]
+
+                results.loc[f'{language.name}-{dataset.__class__.__name__}'] = self.__benchmark_model_on(
+                    benchmark_data,
+                    language
+                )
 
         if self.testee_model.model is not None:
             results.to_csv('/content/drive/MyDrive/nlp_ss24/multilingual-lexical-simplification/data/'
@@ -101,7 +121,7 @@ class BenchmarkSuite:
                        f'{self.testee_model.__class__.__name__}.csv',
                        index=True, index_label='run', header=True)
 
-    def __benchmark_model_on(self, benchmark_data: np.ndarray) -> pd.Series:
+    def __benchmark_model_on(self, benchmark_data: np.ndarray, language: Language) -> pd.Series:
         potential = 0
         precision = 0
         recall = 0
@@ -119,6 +139,8 @@ class BenchmarkSuite:
         accuracy_at_5_top_1 = 0
         accuracy_at_1_top_1 = 0
 
+        i = 0
+
         parsing_issues = 0
 
         for sample in tqdm(benchmark_data, desc='Benchmarking'):
@@ -126,9 +148,15 @@ class BenchmarkSuite:
             complex_word = sample[1]
             ground_truth_substitutions = sample[3]
 
+            if self.should_pass_topic and language.name == 'EN':
+                topic = self._compact_topics[self._topics_indices[i]]
+                i += 1
+            else:
+                topic = 'unknown'
+
             # To easily capture implementations not supporting a specific number of substitutions,
             # we do not pass top_k here and simply use the default in those cases.
-            predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence)
+            predicted_substitutions = self.testee_model.generate_substitutions_for(complex_word, sentence, topic)
             if not predicted_substitutions:
               parsing_issues += 1
 

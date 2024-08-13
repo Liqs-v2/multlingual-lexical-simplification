@@ -6,6 +6,9 @@ from language import Language
 from src.llm_lexical_simplifier import LLMLexicalSimplifier
 
 
+# DISCLAIMER: This file was authored in an IDE with Github Copilot enabled.
+
+
 def main():
     torch.random.manual_seed(0)
 
@@ -53,8 +56,6 @@ def main():
                                           'sentence_with_complex_word_masked} Ten results as ordered, AST parsable '
                                           'Python list:',
                                   exemplars=messages, mask_token='[MASK]', generation_args=generation_args)
-
-    llm_output = llm_ls.generate_substitutions_for('heikel', 'Die politische Lage in Syrien ist heikel.')
 
     suite = BenchmarkSuite(llm_ls, {
         Language.DE: {'pattern': '{original_sentence}. Die vereinfachte Version des vorigen Satzes ist: '

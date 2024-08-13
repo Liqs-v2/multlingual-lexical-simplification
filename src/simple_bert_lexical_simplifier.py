@@ -30,7 +30,7 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
     def __init__(self, model, tokenizer, mask_token, pattern=None, exemplars=None):
         super().__init__(model.to(self.device), tokenizer, mask_token, pattern, exemplars)
 
-    def generate_substitutions_for(self, complex_word: str, original_sentence: str, top_k: int = 10):
+    def generate_substitutions_for(self, complex_word: str, original_sentence: str, topic: str = 'unknown', top_k: int = 10):
         """
         Generates a list of substitutions via the model predictions for the given complex word in the context of the sentence.
 
@@ -44,6 +44,7 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
         Args:
             complex_word: The complex word to be simplified. This is given in our case, we do not tackle complex word identification.
             original_sentence: The sentence containing the complex word.
+            topic: The topic of the sentence. This can be used to guide the simplification process.
             top_k: The number of top predictions to return.
 
         Returns:
@@ -56,7 +57,7 @@ class SimpleBertLexicalSimplifier(LexicalSimplifier):
             # This covers the edge case of the complex word being the first word in the sentence
             complex_word = complex_word.capitalize() if complex_word.capitalize() in original_sentence else complex_word
         sentence_with_complex_word_masked = original_sentence.replace(complex_word, self.mask_token)
-        input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked)
+        input_text = self.apply_pattern_to(original_sentence, sentence_with_complex_word_masked, topic)
 
         # Tokenize input text
         inputs = self.tokenizer(input_text, return_tensors="pt", padding=True, truncation=True).to(self.model.device)
