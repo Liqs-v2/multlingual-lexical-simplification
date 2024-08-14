@@ -34,15 +34,21 @@ With our benchmarking suite in place, we investigate whether we can improve lexi
 - **Enhancing** the prompt with the topics or domain of the sentence to provide additional context.
 - **Evaluate** the performance of GPT-4o, BERT-based models and Phi-3 on the lexical simplification task.
 
-## How to use the system
-We recommend running the code in Google Colab or using a GPU to speed up inference. In particular the notebooks are designed to
-be run in Google Colab. The stability of the notebooks is not guaranteed on local machines.
+## Directory Structure
+You can find the results of our experiments and the datasets in the ``data`` directory. 
+In the `notes` directory you can find our weekly meeting notes. The midterm presentation and the poster for the poster session are located in the `presentation` directory.
+All source code is located in the `src` directory. The report, including the final presentation, is located in the `report` directory.
 
-### Setup Environment
-We use Anaconda as a dependency manager and provide our `environment.yml`. You can setup the local environment by running:
-- `conda env create -n multilingual-lexical-simplification-benchmarking -f environment.yml`
-- `conda activate multilingual-lexical-simplification-benchmarking`
-- To verify the installation, run ``conda env list``
+## How to use the system
+We designed our system to run in Google Colab, to enable the use of a GPU to speed up inference. If you wish to test our system, we provide a ``main.py`` script that demonstrates how to use the ``BenchmarkSuite`` class to evaluate
+a text-generation LLM using ``LLMLexicalSimplifier`` wrapper. To run our system locally, change the paths to the datasets in the respective dataset classes to the local paths of the datasets.
+
+### Setting the project up in Colab
+Open the following Notebook in Colab, and follow its instructions to clone the project to your Google Drive:
+<a target="_blank" href="https://colab.research.google.com/github/Liqs-v2/multlingual-lexical-simplification/blob/main/colab_setup/clone_repo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ### System Architecture
 Our system consists of three core components:
